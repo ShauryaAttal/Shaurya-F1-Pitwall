@@ -1,0 +1,48 @@
+name: Refresh F1 Data
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: "Force a commit even if content is unchanged"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Refresh content from Jolpica API
+        run: python -u scripts/update_f1_content.py
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet && [ "${{ github.event.inputs.force_refresh }}" != "true" ]; then
+            echo "No updates to commit"
+            exit 0
+          fi
+          if [ "${{ github.event.inputs.force_refresh }}" = "true" ]; then
+            python -c "from datetime import datetime, timezone; from pathlib import Path; import json; p=Path('data/content.json'); d=json.loads(p.read_text(encoding='utf-8')); d.setdefault('meta', {}); d['meta']['lastUpdatedUtc']=datetime.now(timezone.utc).isoformat(timespec='seconds').replace('+00:00','Z'); d['meta']['source']='jolpica'; p.write_text(json.dumps(d, indent=2) + '\n', encoding='utf-8')"
+          fi
+          git add data/content.json
+          git commit -m "chore: refresh F1 content"
+          git push
