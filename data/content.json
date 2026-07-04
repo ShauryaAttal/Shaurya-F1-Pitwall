@@ -20,12 +20,20 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Hamilton takes pole for Silverstone sprint race",
-      "body": "Ferrari's Lewis Hamilton pips Mercedes' Kimi Antonelli to a stunning pole position for the sprint race at the British Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5yzw13683no?at_medium=RSS&at_campaign=rss"
+      "headline": "How to follow British Grand Prix on the BBC",
+      "body": "All the key BBC coverage details for the British Grand Prix, which takes place from 3-5 July.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy8dp72k9exo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Wolff: \"Emotional\" Vasseur misunderstood comments on Ferrari",
+      "body": "Toto Wolff reckons the \u201cvery emotional\u201d Fred Vasseur failed to interpret his comments about Ferrari and its upgrades in the 2026 Formula 1 campaign in the manner that they were int...",
+      "url": "https://www.autosport.com/f1/news/wolff-emotional-vasseur-misunderstood-comments-on-ferrari/10836333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 British GP: Antonelli takes pole position, Russell down in fourth",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/f1-british-gp-antonelli-takes-pole-position-russell-down-in-fourth/10836277/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 drivers criticise \u2018dangerous\u2019 yo-yo racing in British GP sprint race",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-drivers-criticise-dangerous-yo-yo-racing-in-british-gp-sprint-race/10836223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Russell and Hamilton contract renewals reveal the Verstappen-McLaren rumours to be nonsense",
-      "body": "Two of the most coveted seats on the Formula 1 driver market have already been filled, but there will be no official announcements, no press releases accompanied by grip-and-grin p...",
-      "url": "https://www.autosport.com/f1/news/george-russell-and-lewis-hamilton-contract-renewals-reveal-the-max-verstappen-mclaren-rumours-to-be/10836173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 British GP: Kimi Antonelli beats Charles Leclerc to pole position",
-      "body": "Mercedes driver Kimi Antonelli has snared his fifth pole of the 2026 Formula 1 campaign at the British Grand Prix, defeating Ferrari's Charles Leclerc at a sunny Silverstone as Geo...",
-      "url": "https://www.motorsport.com/f1/news/f1-british-gp-kimi-antonelli-beats-charles-leclerc-to-pole-position/10836273/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Toto Wolff: \"Emotional\" Fred Vasseur misunderstood comments on Ferrari",
+      "body": "Toto Wolff reckons the \u201cvery emotional\u201d Fred Vasseur failed to interpret his comments about Ferrari and its upgrades in the 2026 Formula 1 campaign in the manner that they were int...",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-emotional-fred-vasseur-misunderstood-ferrari-comments/10836327/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Martin Brundle explains why Lewis Hamilton is finally thriving at Ferrari",
-      "body": "Former Formula 1 driver and Sky Sports analyst Martin Brundle has argued that Lewis Hamilton's spectacular return to form in 2026 is down to the seven-time champion finally buildin...",
-      "url": "https://www.motorsport.com/f1/news/martin-brundle-explains-why-lewis-hamilton-is-finally-thriving-at-ferrari/10836258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Jenson Button names key figure behind Kimi Antonelli's stunning Mercedes form",
+      "body": "2009 Formula 1 champion Jenson Button has heaped praise on Mercedes race engineer Peter Bonnington for his \"calming\" influence on Kimi Antonelli after the Italian teenager secured ...",
+      "url": "https://www.motorsport.com/f1/news/jenson-button-names-key-figure-behind-kimi-antonellis-stunning-mercedes-form/10836315/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-04T16:33:42Z",
+    "lastUpdatedUtc": "2026-07-04T18:07:23Z",
     "source": "jolpica"
   },
   "nextRace": {
