@@ -15,10 +15,19 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.request import Request, urlopen
 
+import re
+import xml.etree.ElementTree as ET
+from html import unescape
+
 ROOT = Path(__file__).resolve().parents[1]
 CONTENT_FILE = ROOT / "data" / "content.json"
 API_BASE = "https://api.jolpi.ca/ergast/f1/current"
 
+RSS_FEEDS = [
+    ("BBC F1", "https://feeds.bbci.co.uk/sport/formula1/rss.xml?edition=int"),
+    ("Autosport", "https://www.autosport.com/rss/f1/news/"),
+    ("Motorsport.com", "https://www.motorsport.com/rss/f1/news/"),
+]
 
 def fetch_json(url: str) -> dict:
     request = Request(
@@ -67,6 +76,63 @@ def next_race() -> dict | None:
 def full_name(driver: dict) -> str:
     return f"{driver.get('givenName', '')} {driver.get('familyName', '')}".strip()
 
+def clean_html(text: str) -> str:
+    text = unescape(text or "")
+    text = re.sub(r"<[^>]+>", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def fetch_rss_feed(source: str, url: str, limit: int = 3) -> list[dict]:
+    request = Request(
+        url,
+        headers={
+            "User-Agent": "pitwall-rss/1.0 (+https://github.com)",
+            "Accept": "application/rss+xml, application/xml, text/xml",
+        },
+    )
+
+    with urlopen(request, timeout=20) as response:
+        xml_text = response.read().decode("utf-8", errors="ignore")
+
+    root = ET.fromstring(xml_text)
+    items = []
+
+    for item in root.findall(".//item")[:limit]:
+        title = clean_html(item.findtext("title", ""))
+        link = clean_html(item.findtext("link", ""))
+        description = clean_html(item.findtext("description", ""))
+
+        if not title:
+            continue
+
+        items.append(
+            {
+                "number": "00",
+                "variant": "neutral",
+                "kicker": source,
+                "headline": title,
+                "body": description[:180] + ("..." if len(description) > 180 else ""),
+                "url": link,
+            }
+        )
+
+    return items
+
+
+def build_rss_news(limit: int = 8) -> list[dict]:
+    news = []
+
+    for source, url in RSS_FEEDS:
+        try:
+            news.extend(fetch_rss_feed(source, url, limit=3))
+        except Exception as e:
+            print(f"RSS failed for {source}: {e}")
+
+    for idx, item in enumerate(news[:limit], start=1):
+        item["number"] = str(idx).zfill(2)
+
+    return news[:limit]
 
 def build_updates() -> dict:
     drivers = driver_standings()
@@ -242,10 +308,17 @@ def main() -> None:
     content["constructors"] = updates["constructors"]
     content["podium"] = updates["podium"]
 
-    news = content.get("news", [])
-    if news:
-        news[0] = updates["leadStory"]
-        content["news"] = news
+    rss_news = build_rss_news()
+
+    if rss_news:
+        content["news"] = rss_news
+    else:
+        news = content.get("news", [])
+        if news:
+            news[0] = updates["leadStory"]
+            content["news"] = news
+        else:
+            content["news"] = [updates["leadStory"]]
 
     content["meta"] = {
         "lastUpdatedUtc": datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z"),

@@ -868,6 +868,15 @@ body {
 .news-num { font-family: 'JetBrains Mono', monospace; font-size: 9px; color: var(--ink-3); font-weight: 500; }
 .news-headline { font-family: 'Playfair Display', serif; font-size: 15px; font-weight: 500; line-height: 1.35; color: var(--ink); letter-spacing: -0.01em; margin-bottom: 7px; }
 .news-item.lead .news-headline { font-size: 17px; font-weight: 700; }
+.news-headline a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.news-headline a:hover {
+  color: var(--racing);
+}
 .news-body { font-size: 12px; line-height: 1.6; color: var(--ink-2); }
 
 .stats-ribbon { max-width: 1440px; margin: 0 auto; padding: 48px 36px 0; }
@@ -1071,7 +1080,7 @@ body {
         <div class="col-sub">Last Race · Top Stories</div>
       </div>
 
-      <div class="podium-block" id="podiumBlock"></div>
+      <!-- <div class="podium-block" id="podiumBlock"></div> -->
 
       <div class="news-block" id="newsBlock">
         <article class="news-item lead">
@@ -1213,7 +1222,7 @@ body {
   const driversRoot = document.getElementById('driversGrid');
   const constructorsRoot = document.getElementById('constructorsGrid');
   const podiumRoot = document.getElementById('podiumBlock');
-  if (!newsRoot || !statsRoot || !driversRoot || !constructorsRoot || !podiumRoot) return;
+  if (!newsRoot || !statsRoot || !driversRoot || !constructorsRoot) return;
 
   function renderNews(items) {
     if (!Array.isArray(items) || items.length === 0) return;
@@ -1240,7 +1249,17 @@ body {
 
       const headline = document.createElement('h3');
       headline.className = 'news-headline';
+
+      if (item.url) {
+      const link = document.createElement('a');
+      link.href = item.url;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.textContent = item.headline || '';
+      headline.appendChild(link);
+      } else {
       headline.textContent = item.headline || '';
+      }
 
       const body = document.createElement('p');
       body.className = 'news-body';
@@ -1360,6 +1379,8 @@ body {
   }
 
   function renderPodium(data) {
+    if (!podiumRoot) return;
+
     if (!data || !Array.isArray(data.rows) || data.rows.length === 0) {
       podiumRoot.innerHTML = '<div class="podium-head">Latest Result</div><div class="podium-list"><div class="pod-row p1"><div class="pod-badge">--</div><div><div class="pod-driver-name">Podium syncing</div><div class="pod-driver-team">Run Refresh F1 Data workflow</div></div><div class="pod-time">--</div></div></div>';
       return;
