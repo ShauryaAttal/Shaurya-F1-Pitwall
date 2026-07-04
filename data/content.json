@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Antonelli beats Leclerc & Hamilton to Silverstone pole",
+      "body": "Mercedes' Kimi Antonelli takes pole position for the British Grand Prix, beating the Ferraris and team-mate George Russell.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cj3g73x2ggeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Antonelli passes Hamilton to win Silverstone sprint",
       "body": "Mercedes' Kimi Antonelli overtakes Lewis Hamilton to win an action-packed sprint race at the British Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cvglegml3llo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Hamilton takes pole for Silverstone sprint race",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c5yzw13683no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "How to follow British Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the British Grand Prix, which takes place from 3-5 July.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy8dp72k9exo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 British GP: Antonelli takes pole position, Russell down in fourth",
+      "body": "Mercedes driver Kimi Antonelli has snared his fifth pole of the 2026 Formula 1 campaign at the British Grand Prix, defeating Ferrari's Charles Leclerc at a sunny Silverstone as Geo...",
+      "url": "https://www.autosport.com/f1/news/f1-british-gp-antonelli-takes-pole-position-russell-down-in-fourth/10836277/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 drivers criticise \u2018dangerous\u2019 yo-yo racing in British GP sprint race",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/f1-drivers-criticise-dangerous-yo-yo-racing-in-british-gp-sprint-race/10836223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Russell and Hamilton contract renewals reveal the Verstappen-McLaren rumours to be nonsense",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/george-russell-and-lewis-hamilton-contract-renewals-reveal-the-max-verstappen-mclaren-rumours-to-be/10836173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 British GP: Antonelli overtakes Hamilton to win Silverstone sprint race",
-      "body": "Formula 1 championship leader Kimi Antonelli beat Lewis Hamilton to win a frantic British Grand Prix sprint race at Silverstone for his first Saturday victory of the 2026 campaign....",
-      "url": "https://www.autosport.com/f1/news/f1-british-gp-antonelli-beats-hamilton-for-win/10836148/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Martin Brundle explains why Lewis Hamilton is finally thriving at Ferrari",
-      "body": "Former Formula 1 driver and Sky Sports analyst Martin Brundle has argued that Lewis Hamilton's spectacular return to form in 2026 is down to the seven-time champion finally buildin...",
-      "url": "https://www.motorsport.com/f1/news/martin-brundle-explains-why-lewis-hamilton-is-finally-thriving-at-ferrari/10836258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 British GP: Kimi Antonelli beats Charles Leclerc to pole position",
+      "body": "Mercedes driver Kimi Antonelli has snared his fifth pole of the 2026 Formula 1 campaign at the British Grand Prix, defeating Ferrari's Charles Leclerc at a sunny Silverstone as Geo...",
+      "url": "https://www.motorsport.com/f1/news/f1-british-gp-kimi-antonelli-beats-charles-leclerc-to-pole-position/10836273/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lando Norris arrives at British GP in stunning classic Jaguar",
-      "body": "McLaren's Lando Norris caught the attention of fans by arriving ahead of Friday's practice and sprint qualifying for the Formula 1 British Grand Prix weekend in a classic Jaguar E-...",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-arrives-at-british-gp-in-stunning-classic-jaguar/10836246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Martin Brundle explains why Lewis Hamilton is finally thriving at Ferrari",
+      "body": "Former Formula 1 driver and Sky Sports analyst Martin Brundle has argued that Lewis Hamilton's spectacular return to form in 2026 is down to the seven-time champion finally buildin...",
+      "url": "https://www.motorsport.com/f1/news/martin-brundle-explains-why-lewis-hamilton-is-finally-thriving-at-ferrari/10836258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-04T15:55:14Z",
+    "lastUpdatedUtc": "2026-07-04T16:33:42Z",
     "source": "jolpica"
   },
   "nextRace": {
