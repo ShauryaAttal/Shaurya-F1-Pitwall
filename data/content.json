@@ -2,31 +2,67 @@
   "news": [
     {
       "number": "01",
-      "variant": "lead",
-      "kicker": "Race Recap",
-      "headline": "George Russell takes Austrian Grand Prix as title battle tightens",
-      "body": "George Russell won at Red Bull Ring. Current championship leader is Andrea Kimi Antonelli with 179 points, 43 clear of George Russell."
+      "variant": "neutral",
+      "kicker": "BBC F1",
+      "headline": "Antonelli passes Hamilton to win Silverstone sprint",
+      "body": "Mercedes' Kimi Antonelli overtakes Lewis Hamilton to win an action-packed sprint race at the British Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvglegml3llo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "02",
       "variant": "neutral",
-      "kicker": "Engine Wars",
-      "headline": "Red Bull's new PU is down 15hp to Mercedes, paddock sources say",
-      "body": "Despite the full Ford works programme, Red Bull's 2026 power unit appears weakest on the grid. Verstappen's P5 in Japan came from chassis, not pace."
+      "kicker": "BBC F1",
+      "headline": "Hamilton takes pole for Silverstone sprint race",
+      "body": "Ferrari's Lewis Hamilton pips Mercedes' Kimi Antonelli to a stunning pole position for the sprint race at the British Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5yzw13683no?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
-      "kicker": "Debut",
-      "headline": "Cadillac goal is simple: finish races, learn fast, build for 2029",
-      "body": "GM's eleventh team runs Ferrari PUs until its in-house unit is ready. Herta confirmed for four FP1 outings this year."
+      "kicker": "BBC F1",
+      "headline": "How to follow British Grand Prix on the BBC",
+      "body": "All the key BBC coverage details for the British Grand Prix, which takes place from 3-5 July.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy8dp72k9exo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
-      "variant": "",
-      "kicker": "Calendar",
-      "headline": "FIA confirms Bahrain and Saudi cancellations, no replacements",
-      "body": "Iran war fallout leaves the season at 23 rounds, Australia to Abu Dhabi. Feeder series affected too."
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "F1 drivers criticise \u2018dangerous\u2019 yo-yo racing in British GP sprint race",
+      "body": "\u201cLap one was just chaos with the energy usage,\u201d said McLaren\u2019s Oscar Piastri after finishing seventh in Saturday\u2019s sprint race at Silverstone.\u201cPretty dangerous at some points, to b...",
+      "url": "https://www.autosport.com/f1/news/f1-drivers-criticise-dangerous-yo-yo-racing-in-british-gp-sprint-race/10836223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Russell and Hamilton contract renewals reveal the Verstappen-McLaren rumours to be nonsense",
+      "body": "Two of the most coveted seats on the Formula 1 driver market have already been filled, but there will be no official announcements, no press releases accompanied by grip-and-grin p...",
+      "url": "https://www.autosport.com/f1/news/george-russell-and-lewis-hamilton-contract-renewals-reveal-the-max-verstappen-mclaren-rumours-to-be/10836173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "F1 British GP: Antonelli overtakes Hamilton to win Silverstone sprint race",
+      "body": "Formula 1 championship leader Kimi Antonelli beat Lewis Hamilton to win a frantic British Grand Prix sprint race at Silverstone for his first Saturday victory of the 2026 campaign....",
+      "url": "https://www.autosport.com/f1/news/f1-british-gp-antonelli-beats-hamilton-for-win/10836148/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "07",
+      "variant": "neutral",
+      "kicker": "Motorsport.com",
+      "headline": "Martin Brundle explains why Lewis Hamilton is finally thriving at Ferrari",
+      "body": "Former Formula 1 driver and Sky Sports analyst Martin Brundle has argued that Lewis Hamilton's spectacular return to form in 2026 is down to the seven-time champion finally buildin...",
+      "url": "https://www.motorsport.com/f1/news/martin-brundle-explains-why-lewis-hamilton-is-finally-thriving-at-ferrari/10836258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+    },
+    {
+      "number": "08",
+      "variant": "neutral",
+      "kicker": "Motorsport.com",
+      "headline": "Lando Norris arrives at British GP in stunning classic Jaguar",
+      "body": "McLaren's Lando Norris caught the attention of fans by arriving ahead of Friday's practice and sprint qualifying for the Formula 1 British Grand Prix weekend in a classic Jaguar E-...",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-arrives-at-british-gp-in-stunning-classic-jaguar/10836246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -87,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-04T15:13:03Z",
+    "lastUpdatedUtc": "2026-07-04T15:47:32Z",
     "source": "jolpica"
   },
   "nextRace": {
