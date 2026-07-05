@@ -4,7 +4,7 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Safety car plays decisive role again in confusing end to chaotic race",
+      "headline": "Safety car decisive again in confusing end to chaotic race",
       "body": "The safety car staying out might have been an unsatisfactory way to end the British Grand Prix but this time the rules were followed, writes Andrew Benson.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cd6eejgnpg8o?at_medium=RSS&at_campaign=rss"
     },
@@ -12,17 +12,17 @@
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Leclerc wins dramatic race from Russell and Hamilton",
-      "body": "Charles Leclerc wins an incident-packed British Grand Prix from George Russell in which both Kimi Antonelli and Max Verstappen failed to score points.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/crr8pxxe20zo?at_medium=RSS&at_campaign=rss"
+      "headline": "Red Bull wing failure 'super-dangerous' - Verstappen",
+      "body": "Max Verstappen says the rear wing failure on his Red Bull that caused him to crash at two consecutive grands prix was \"super-dangerous\".",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5yzzr404zgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Red Bull wing failure 'super-dangerous' - Verstappen",
-      "body": "Max Verstappen says the rear wing failure on his Red Bull that caused him to crash at two consecutive grands prix was \"super-dangerous\".",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5yzzr404zgo?at_medium=RSS&at_campaign=rss"
+      "headline": "Strong weekend for Lindblad and Leclerc composed - driver ratings",
+      "body": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the British Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c17yyq5enklo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
@@ -52,17 +52,17 @@
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Winners and losers from F1 British GP",
-      "body": "We're at that frantic point of the 2026 Formula 1 season where races are coming thick and fast.And top performing teams can either inflict a lot of damage on their rivals, or catch...",
-      "url": "https://www.motorsport.com/f1/news/winners-and-loser-from-f1s-british-grand-prix/10836777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Juan Pablo Montoya calls for F1 rule change after Kimi Antonelli penalty",
+      "body": "Former Formula 1 driver Juan Pablo Montoya has called for a track limits rule rethink after Mercedes' Kimi Antonelli was penalised during the British Grand Prix.The Italian driver ...",
+      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-calls-for-f1-rule-change-after-kimi-antonelli-penalty/10836799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Carlos Sainz handed unprecedented penalty after F1 British GP",
-      "body": "Carlos Sainz was hit with a rare penalty following the 2026 British Grand Prix after the Williams Formula 1 driver incorrectly unlapped himself under a late safety car.A lap 46 cra...",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-handed-unprecedented-penalty-after-f1-british-gp/10836775/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Winners and losers from F1 British GP",
+      "body": "We're at that frantic point of the 2026 Formula 1 season where races are coming thick and fast.And top performing teams can either inflict a lot of damage on their rivals, or catch...",
+      "url": "https://www.motorsport.com/f1/news/winners-and-loser-from-f1s-british-grand-prix/10836777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-05T21:34:47Z",
+    "lastUpdatedUtc": "2026-07-05T23:07:57Z",
     "source": "jolpica"
   },
   "nextRace": {
