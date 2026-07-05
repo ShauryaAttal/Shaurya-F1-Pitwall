@@ -12,20 +12,28 @@
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Record crowd hoping for home win - but will Antonelli 'disappear into distance'?",
-      "body": "Close to 180,000 people are expected to attend Sunday's British Grand Prix but auguries for a home win are not that good, writes Andrew Benson.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy8d21kz0xjo?at_medium=RSS&at_campaign=rss"
+      "headline": "Red Bull wing failure 'super-dangerous' - Verstappen",
+      "body": "Max Verstappen says the rear wing failure on his Red Bull that caused him to crash at two consecutive grands prix was \"super-dangerous\".",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5yzzr404zgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "British Grand Prix breaks F1 attendance record",
-      "body": "A record-breaking 564,000 fans attend across the four-day race event.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vy6v20543o?at_medium=RSS&at_campaign=rss"
+      "headline": "Strong weekend for Lindblad and Leclerc composed - driver ratings",
+      "body": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the British Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c17yyq5enklo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Why Verstappen is 'right to be angry' after another \"super dangerous\" wing failure",
+      "body": "Max Verstappen had a litany of complaints after the British Grand Prix, where his Red Bull spun off into the gravel at Stowe corner with six laps to run.Verstappen had been in cont...",
+      "url": "https://www.autosport.com/f1/news/why-verstappen-is-right-to-be-angry-after-another-super-dangerous-wing-failure/10836765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Mercedes won't contest Antonelli's British GP track limits penalty",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/mercedes-wont-contest-kimi-antonellis-british-gp-track-limits-penalty/10836732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Hamilton keeps British GP podium after escaping yellow-flag sanction",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/lewis-hamilton-keeps-british-gp-podium-after-escaping-yellow-flag-sanction/10836714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Verstappen \"fed up\" with Red Bull issues as he reveals cause of British GP crash",
-      "body": "The British Grand Prix turned into a particularly strange race for Red Bull Formula 1 driver Max Verstappen.The four-time world champion said he was still struggling with both powe...",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-fed-up-with-red-bull-issues-as-he-reveals-cause-of-british-gp-crash/10836707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Mercedes won't contest Kimi Antonelli's British GP track limits penalty",
-      "body": "The Mercedes Formula 1 team will not contest Kimi Antonelli's five-second penalty in the British GP as the championship leader finished outside the points.At Silverstone, Antonelli...",
-      "url": "https://www.motorsport.com/f1/news/mercedes-wont-contest-kimi-antonellis-british-gp-track-limits-penalty/10836727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "John Elkann releases statement after Ferrari F1 British GP milestone",
+      "body": "Ferrari president John Elkann has reacted to Charles Leclerc's victory at the 2026 British Grand Prix, which marked the Maranello outfit's 250th grand prix victory.After starting f...",
+      "url": "https://www.motorsport.com/f1/news/john-elkann-releases-statement-after-ferrari-f1-british-gp-milestone/10836762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell: Performances must improve to become 2026 F1 champion",
-      "body": "George Russell has called upon himself to improve his performances to become the 2026 Formula 1 world champion after early domination from Kimi Antonelli.Russell was the pre-season...",
-      "url": "https://www.motorsport.com/f1/news/george-russell-performances-must-improve-to-become-2026-f1-champion/10836701/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lance Stroll got three penalties in nine laps at Silverstone",
+      "body": "In an otherwise anonymous race, Lance Stroll managed to get noticed at Silverstone by collecting three penalties in the space of just nine laps, each one for exceeding track limits...",
+      "url": "https://www.motorsport.com/f1/news/lance-stroll-got-three-penalties-in-nine-laps-at-silverstone/10836767/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-05T18:39:07Z",
+    "lastUpdatedUtc": "2026-07-05T20:19:06Z",
     "source": "jolpica"
   },
   "nextRace": {
