@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Wolff: I wish Abu Dhabi 2021 had been handled like the F1 British GP",
+      "body": "The British Grand Prix ended behind the safety car, much to the disappointment of many fans at Silverstone. Boos echoed around the grandstands, although part of that reaction was p...",
+      "url": "https://www.autosport.com/f1/news/toto-wolff-i-wish-abu-dhabi-2021-had-been-handled-like-the-f1-british-gp/10836909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Sainz handed unprecedented penalty after F1 British GP",
       "body": "Carlos Sainz was hit with a rare penalty following the 2026 British Grand Prix after the Williams Formula 1 driver incorrectly unlapped himself under a late safety car.A lap 46 cra...",
       "url": "https://www.autosport.com/f1/news/carlos-sainz-handed-unprecedented-penalty-after-f1-british-gp/10836835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Verstappen is 'right to be angry' after another \"super dangerous\" wing failure",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-verstappen-is-right-to-be-angry-after-another-super-dangerous-wing-failure/10836765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why Mercedes won't contest Antonelli's British GP track limits penalty",
-      "body": "Mercedes will not contest Kimi Antonelli's five-second penalty in the British Grand Prix as the Formula 1 championship leader finished outside the points.At Silverstone, Antonelli ...",
-      "url": "https://www.autosport.com/f1/news/mercedes-wont-contest-kimi-antonellis-british-gp-track-limits-penalty/10836732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Who slept worst after the F1 British GP: Max Verstappen",
-      "body": "First things first: I can\u2019t picture Max Verstappen actually having sleepless nights. Not with four world championships under his belt, a loving family at home, and plenty of entici...",
-      "url": "https://www.motorsport.com/f1/news/who-slept-worst-after-the-f1-british-gp-max-verstappen/10836781/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "The statistics behind Ferrari's 250th F1 win",
+      "body": "Ferrari has been chasing a world title since 2008 in the constructors' championship and 2007 in the drivers' championship, but remains the most successful team in Formula 1. Winner...",
+      "url": "https://www.motorsport.com/f1/news/ferrari-passes-the-250-win-mark-in-f1/10836918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Who slept best after the F1 British GP: Charles Leclerc",
-      "body": "It must not be easy to be a top athlete these days. Perhaps not so much when you're winning - because praise comes from all angles, and it's great to feel loved and appreciated. Bu...",
-      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-charles-leclerc/10836801/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Toto Wolff: I wish Abu Dhabi 2021 had been handled like the F1 British GP",
+      "body": "The British Grand Prix ended behind the safety car, much to the disappointment of many fans at Silverstone. Boos echoed around the grandstands, although part of that reaction was p...",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-i-wish-abu-dhabi-2021-had-been-handled-like-the-f1-british-gp/10836904/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-06T06:04:40Z",
+    "lastUpdatedUtc": "2026-07-06T11:13:39Z",
     "source": "jolpica"
   },
   "nextRace": {
