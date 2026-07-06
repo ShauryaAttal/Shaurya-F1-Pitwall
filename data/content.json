@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Formula 1 and my autistic son - navigating noise, crowds and chaos",
+      "body": "My autistic son loves Formula 1 - and Silverstone have made it viable for him to go and watch it live.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g7glkj614o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Safety car decisive again in confusing end to chaotic race",
       "body": "The safety car staying out might have been an unsatisfactory way to end the British Grand Prix but this time the rules were followed, writes Andrew Benson.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cd6eejgnpg8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Red Bull wing failure 'super-dangerous' - Verstappen",
@@ -17,15 +25,23 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c5yzzr404zgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Strong weekend for Lindblad and Leclerc composed - driver ratings",
-      "body": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the British Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c17yyq5enklo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 could move away from customer power units in 2031",
+      "body": "The FIA, F1's governing body, is considering offering a third-party supply of engines to customer teams from 2031 as the series looks set to move to cheaper V8 power units.FIA pres...",
+      "url": "https://www.autosport.com/f1/news/f1-could-move-away-from-customer-power-units-in-2031/10837045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "The clever electrical trick that gives Mercedes an edge in qualifying",
+      "body": "During qualifying for both races over the British Grand Prix weekend, one curious detail caught the eye: both Mercedes drivers completely lifted off the accelerator just a few metr...",
+      "url": "https://www.autosport.com/f1/news/the-clever-electrical-trick-that-gives-mercedes-an-edge-in-qualifying/10837016/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Wolff: I wish Abu Dhabi 2021 had been handled like the F1 British GP",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/toto-wolff-i-wish-abu-dhabi-2021-had-been-handled-like-the-f1-british-gp/10836909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Sainz handed unprecedented penalty after F1 British GP",
-      "body": "Carlos Sainz was hit with a rare penalty following the 2026 British Grand Prix after the Williams Formula 1 driver incorrectly unlapped himself under a late safety car.A lap 46 cra...",
-      "url": "https://www.autosport.com/f1/news/carlos-sainz-handed-unprecedented-penalty-after-f1-british-gp/10836835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why Verstappen is 'right to be angry' after another \"super dangerous\" wing failure",
-      "body": "Max Verstappen had a litany of complaints after the British Grand Prix, where his Red Bull spun off into the gravel at Stowe corner with six laps to run.Verstappen had been in cont...",
-      "url": "https://www.autosport.com/f1/news/why-verstappen-is-right-to-be-angry-after-another-super-dangerous-wing-failure/10836765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton 'wouldn't have pitted' under safety car if he knew British GP second was at risk",
-      "body": "Lewis Hamilton has conceded he wouldn't have pitted for a second time under the late safety car at the British Grand Prix had he known he would have lost second place to George Rus...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-wouldnt-have-pitted-under-safety-car-if-he-knew-british-gp-second-was-at-risk/10836943/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 could move away from customer power units 2031",
+      "body": "The FIA, F1's governing body, is considering offering a third-party supply of engines to customer teams from 2031 as the series looks set to move to cheaper V8 power units.FIA pres...",
+      "url": "https://www.motorsport.com/f1/news/f1-customer-power-units-2031/10837031/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "David Coulthard points to George Russell concern after British GP P2: \"Knows that was fortunate\"",
-      "body": "David Coulthard believes that George Russell will leave the British Grand Prix feeling like he \"got away with it\", as his Mercedes team-mate Kimi Antonelli continues to extract a l...",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-points-to-george-russell-concern-after-british-gp-p2-knows-that-was-fortunate/10836975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Kimi Antonelli praised for championship mentality after British GP fight",
+      "body": "Naomi Schiff has praised Kimi Antonelli for demonstrating the fighting mentality required to win a Formula 1 championship during his frustrating British Grand Prix.The Mercedes dri...",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-praised-for-championship-mentality-after-british-gp-fight/10836967/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-06T14:43:26Z",
+    "lastUpdatedUtc": "2026-07-06T17:48:29Z",
     "source": "jolpica"
   },
   "nextRace": {
