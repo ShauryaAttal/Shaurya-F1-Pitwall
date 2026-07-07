@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "The pre-race tweak that hampered Hamilton's British GP",
+      "body": "Ferrari didn\u2019t start its British Grand Prix weekend in the most optimistic of ways, as its engineers estimated a possible six tenths deficit to Formula 1\u2019s dominant outfit Mercedes...",
+      "url": "https://www.autosport.com/f1/news/the-pre-race-tweak-that-hampered-lewis-hamiltons-british-gp/10837237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Should the British GP ending cause a change in F1 safety car rules?",
       "body": "The 2026 Formula 1 British Grand Prix endured a very anticlimactic end as drivers crossed the finish line under safety car conditions, which prompted boos from the SIlverstone crow...",
       "url": "https://www.autosport.com/f1/news/should-the-british-gp-ending-cause-a-change-in-f1-safety-car-rules/10837212/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Vasseur doesn't want to talk about a Ferrari title fight",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/fred-vasseur-dismisses-ferrari-f1-title-talk-lets-focus-on-spa/10837169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Red Bull investigates Verstappen\u2019s rear wing failure, \u201call options open\u201d for Spa",
-      "body": "For the second consecutive race weekend, Max Verstappen crashed due to an issue with Red Bull's rear wing, although the four-time world champion immediately stressed that the two f...",
-      "url": "https://www.autosport.com/f1/news/red-bull-investigates-max-verstappens-rear-wing-failure-all-options-open-for-spa/10837118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Should the British GP ending cause a change in F1 safety car rules?",
-      "body": "The 2026 Formula 1 British Grand Prix endured a very anticlimactic end as drivers crossed the finish line under safety car conditions, which prompted boos from the SIlverstone crow...",
-      "url": "https://www.motorsport.com/f1/news/should-the-british-gp-ending-cause-a-change-in-f1-safety-car-rules/10837206/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "The pre-race tweak that hampered Lewis Hamilton's British GP",
+      "body": "Ferrari didn\u2019t start its British Grand Prix weekend in the most optimistic of ways, as its engineers estimated a possible six tenths deficit to Formula 1\u2019s dominant outfit Mercedes...",
+      "url": "https://www.motorsport.com/f1/news/the-tweak-that-hampered-lewis-hamiltons-british-gp/10837225/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Fred Vasseur dismisses Ferrari F1 title talk: \"Let's focus on Spa\"",
-      "body": "Ferrari Formula 1 team principal Fred Vasseur says he doesn't want to hear about the Scuderia's championship chances yet given the team's fluctuating performances.A large upgrade p...",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-dismisses-ferrari-f1-title-talk-lets-focus-on-spa/10837166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Should the British GP ending cause a change in F1 safety car rules?",
+      "body": "The 2026 Formula 1 British Grand Prix endured a very anticlimactic end as drivers crossed the finish line under safety car conditions, which prompted boos from the SIlverstone crow...",
+      "url": "https://www.motorsport.com/f1/news/should-the-british-gp-ending-cause-a-change-in-f1-safety-car-rules/10837206/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-07T15:45:50Z",
+    "lastUpdatedUtc": "2026-07-07T18:06:33Z",
     "source": "jolpica"
   },
   "nextRace": {
