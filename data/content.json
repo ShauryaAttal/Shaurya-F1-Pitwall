@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "FIA looking into Red Bull and Ferrari's rotating F1 wings after Verstappen crashes",
+      "body": "After Red Bull launched its own investigation into Max Verstappen's Silverstone crash, with team principal Laurent Mekies insisting the squad would leave \"no stone unturned\", the F...",
+      "url": "https://www.autosport.com/f1/news/fia-looking-into-red-bull-and-ferraris-rotating-f1-wings-after-max-verstappens-crashes/10837335/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "The pre-race tweak that hampered Hamilton's British GP",
       "body": "Ferrari didn\u2019t start its British Grand Prix weekend in the most optimistic of ways, as its engineers estimated a possible six tenths deficit to Formula 1\u2019s dominant outfit Mercedes...",
       "url": "https://www.autosport.com/f1/news/the-pre-race-tweak-that-hampered-lewis-hamiltons-british-gp/10837237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Should the British GP ending cause a change in F1 safety car rules?",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/should-the-british-gp-ending-cause-a-change-in-f1-safety-car-rules/10837212/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why Vasseur doesn't want to talk about a Ferrari title fight",
-      "body": "Ferrari F1 team principal Fred Vasseur says he doesn't want to hear about the Scuderia's championship chances yet given the team's fluctuating performances.A large upgrade package ...",
-      "url": "https://www.autosport.com/f1/news/fred-vasseur-dismisses-ferrari-f1-title-talk-lets-focus-on-spa/10837169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Martin Brundle proposes three fixes to avoid F1 safety car finishes after British GP",
-      "body": "Former Formula 1 driver and Sky Sports analyst Martin Brundle has urged the FIA to overhaul its safety car regulations, proposing three fixes following the anticlimactic end to the...",
-      "url": "https://www.motorsport.com/f1/news/martin-brundle-proposes-three-fixes-to-avoid-f1-safety-car-finishes-after-british-gp/10837265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "FIA looking into Red Bull and Ferrari's rotating F1 wings after Max Verstappen's crashes",
+      "body": "After Red Bull launched its own investigation into Max Verstappen's Silverstone crash, with team principal Laurent Mekies insisting the squad would leave \"no stone unturned\", the F...",
+      "url": "https://www.motorsport.com/f1/news/fia-looking-into-red-bull-and-ferraris-rotating-f1-wings-after-max-verstappens-crashes/10837274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Martin Brundle points to Kimi Antonelli lesson after \"heartbreaking\" British GP",
-      "body": "Mercedes' championship leader Kimi Antonelli suffered a harsh but necessary learning experience during the British Grand Prix, with former Formula 1 driver and Sky Sports analyst M...",
-      "url": "https://www.motorsport.com/f1/news/martin-brundle-points-to-kimi-antonelli-lesson-after-heartbreaking-british-gp/10837261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "George Russell reflects on emotional British GP podium in full circle moment",
+      "body": "Mercedes Formula 1 driver George Russell has reflected on his podium finish at the British Grand Prix as he shared his long-term connection to the iconic Silverstone circuit.For th...",
+      "url": "https://www.motorsport.com/f1/news/george-russell-reflects-on-emotional-british-gp-podium-in-full-circle-moment/10837276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-08T07:34:41Z",
+    "lastUpdatedUtc": "2026-07-08T10:26:16Z",
     "source": "jolpica"
   },
   "nextRace": {
