@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Whether the bad luck between Russell and Antonelli has evened out in F1 title fight",
+      "body": "George Russell feels the 25-point gap to Kimi Antonelli in the Formula 1 drivers\u2019 standings after the British Grand Prix \u201cis probably correct\u201d based on performance, but was unsure ...",
+      "url": "https://www.autosport.com/f1/news/bad-luck-in-f1-title-fight-between-russell-and-antonelli/10837999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Alonso has \"no idea\" what he\u2019ll do when he eventually retires from F1",
       "body": "Fernando Alonso has \u201cno idea\u201d what he will decide to do once he eventually calls time on his Formula 1 career, as intrigue over his future continues.The two-time F1 world champion ...",
       "url": "https://www.autosport.com/f1/news/fernando-alonso-has-no-idea-what-hell-do-when-he-eventually-retires-from-f1/10837872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 drivers and cars at the 2026 Goodwood Festival of Speed",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/goodwood-festival-of-speed/news/f1-drivers-and-cars-at-the-2026-goodwood-festival-of-speed/10837782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Audi calls for F1 ADUO rethink amid exploit fears",
-      "body": "Audi Formula 1 boss Mattia Binotto is calling on the FIA to \"rethink\" the ADUO upgrade scheme after Mercedes was one of the manufacturers afforded room for additional power unit up...",
-      "url": "https://www.autosport.com/f1/news/audi-calls-for-f1-aduo-rethink-amid-exploit-fears/10837716/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Red Bull faces fresh driver headache as Isack Hadjar shines, says former F1 TV presenter",
-      "body": "Will Buxton believes Isack Hadjar is the most competitive Formula 1 team-mate Max Verstappen has faced since Daniel Ricciardo.During the latest episode of the Up To Speed podcast a...",
-      "url": "https://www.motorsport.com/f1/news/red-bull-faces-fresh-driver-headache-as-isack-hadjar-shines-says-former-f1-tv-presenter/10837947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Has the back luck for George Russell and Kimi Antonelli evened out in the F1 title fight?",
+      "body": "George Russell feels the 25-point gap to Kimi Antonelli in the Formula 1 drivers\u2019 standings after the British Grand Prix \u201cis probably correct\u201d based on performance, but was unsure ...",
+      "url": "https://www.motorsport.com/f1/news/has-the-back-luck-for-george-russell-and-kimi-antonelli-evened-out-in-the-f1-title-fight/10837847/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "David Coulthard urges F1 to change safety car rules after \"dull\" British GP",
-      "body": "Following the anticlimactic safety car finish at the British Grand Prix, former Formula 1 driver David Coulthard has heavily criticised the championship's current procedures. Durin...",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-urges-f1-to-change-safety-car-rules-after-dull-british-gp/10837934/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Red Bull faces fresh driver headache as Isack Hadjar shines, says former F1 TV presenter",
+      "body": "Will Buxton believes Isack Hadjar is the most competitive Formula 1 team-mate Max Verstappen has faced since Daniel Ricciardo.During the latest episode of the Up To Speed podcast a...",
+      "url": "https://www.motorsport.com/f1/news/red-bull-faces-fresh-driver-headache-as-isack-hadjar-shines-says-former-f1-tv-presenter/10837947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-11T08:21:43Z",
+    "lastUpdatedUtc": "2026-07-11T10:01:13Z",
     "source": "jolpica"
   },
   "nextRace": {
