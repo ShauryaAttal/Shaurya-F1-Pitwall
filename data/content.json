@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Bortoleto: F1 hasn't lost its 'magic'; drivers need to \"turn the page\" on 2026 complaints",
+      "body": "Audi\u2019s Gabriel Bortoleto has suggested that drivers should \u201cturn the page\u201d on their grievances over the 2026 regulations, and is adamant that Formula 1 hasn\u2019t lost its magic.The sw...",
+      "url": "https://www.autosport.com/f1/news/bortoleto-f1-hasnt-lost-its-magic-drivers-need-to-turn-the-page-on-2026-complaints/10838933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Pirelli's battle with F1 wheel rim development",
       "body": "Formula 1 is currently going through a phase of transformation that touches every area of the car, and to truly understand it, it\u2019s essential to tell the story through the words of...",
       "url": "https://www.autosport.com/f1/news/pirelli-f1-wheel-rim-battle/10838836/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Win the dream ticket to attend every F1 race next season",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/win-the-dream-ticket-to-attend-every-f1-race-next-season/10838793/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Are loud engines really something F1 should return to?",
-      "body": "FIA president Mohammed Ben Sulayem and his Formula 1 counterpart Stefano Domenicali are keen on F1 cars returning to naturally aspirated V8s from 2031 or even 2030.The majority of ...",
-      "url": "https://www.autosport.com/f1/news/are-loud-engines-something-f1-needs/10838779/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Pierre Gasly tests new A110 Future prototype with Duke of Richmond at Goodwood Festival of Speed",
-      "body": "Pierre Gasly had the opportunity to get behind the wheel of Alpine's all-electric A110 Future prototype at the Goodwood Festival of Speed.After arriving at the Goodwood estate just...",
-      "url": "https://www.motorsport.com/f1/news/pierre-gasly-tests-new-a110-future-prototype-with-duke-of-richmond-at-goodwood-festival-of-speed/10838675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Gabriel Bortoleto: F1 hasn't lost its 'magic'; drivers need to \"turn the page\" on 2026 complaints",
+      "body": "Audi\u2019s Gabriel Bortoleto has suggested that drivers should \u201cturn the page\u201d on their grievances over the 2026 regulations, and is adamant that Formula 1 hasn\u2019t lost its magic. The s...",
+      "url": "https://www.motorsport.com/f1/news/gabriel-bortoleto-f1-hasnt-lost-its-magic-drivers-need-to-turn-the-page-on-2026-complaints/10838745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Ollie Bearman hailed as \"class act\" after emotional Ayrton Senna Lotus drive",
-      "body": "British Formula 1 driver Ollie Bearman has been praised by fans and branded an all-round \"class act\" after an emotional run in Ayrton Senna's legendary 1985 Lotus. The 21-year-old ...",
-      "url": "https://www.motorsport.com/f1/news/ollie-bearman-hailed-as-class-act-after-emotional-ayrton-senna-lotus-drive/10838625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Pierre Gasly tests new A110 Future prototype with Duke of Richmond at Goodwood Festival of Speed",
+      "body": "Pierre Gasly had the opportunity to get behind the wheel of Alpine's all-electric A110 Future prototype at the Goodwood Festival of Speed.After arriving at the Goodwood estate just...",
+      "url": "https://www.motorsport.com/f1/news/pierre-gasly-tests-new-a110-future-prototype-with-duke-of-richmond-at-goodwood-festival-of-speed/10838675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-15T08:26:06Z",
+    "lastUpdatedUtc": "2026-07-15T10:23:08Z",
     "source": "jolpica"
   },
   "nextRace": {
