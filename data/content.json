@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Red Bull parks 'Macarena' rear wing for Belgian GP after Verstappen crashes",
+      "body": "Red Bull is switching back to its original 2026 Formula 1 rear wing after a brace of worrying offs for Max Verstappen with its upside-down concept.Rival team Ferrari was the first ...",
+      "url": "https://www.autosport.com/f1/news/red-bull-parks-macarena-rear-wing-for-belgian-gp-after-verstappen-crashes/10839179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Norris given Belgium GP grid penalty as McLaren takes new Mercedes power unit parts",
       "body": "McLaren driver Lando Norris is facing a 10-place grid drop at this weekend's Belgian Grand Prix at Spa-Francorchamps as his team is fitting new Mercedes Formula 1 power unit compon...",
       "url": "https://www.autosport.com/f1/news/norris-given-belgium-gp-grid-penalty-as-mclaren-takes-new-mercedes-power-unit-parts/10839126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Aston Martin \"flat out\" on Hungary updates but has concerns over spare parts being ready",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/aston-martin-flat-out-on-amr26-hungary-updates-spares-in-short-supply/10839109/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Is this the luckiest F1 fan on the planet?",
-      "body": "You\u2019re a lucky man\u2026\u201cYou can say that again! It's been pretty incredible so far this year.\u201dWhat made you want to attend every single race of the season? \u201cIt\u2019s been on my bucket list...",
-      "url": "https://www.autosport.com/f1/news/is-this-the-luckiest-f1-fan-on-the-planet/10839100/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Former F1 presenter identifies Aston Martin \"red flag\" amid performance struggles",
-      "body": "Will Buxton has pointed to a major \"red flag\" at Aston Martin after Adrian Newey admitted that the team may not have spent enough time consulting its drivers during the car's devel...",
-      "url": "https://www.motorsport.com/f1/news/former-f1-presenter-identifies-aston-martin-red-flag-amid-performance-struggles/10839152/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Charles Leclerc: Merging \"aggressive\" style with F1 2026 cars is this year's biggest challenge",
+      "body": "Charles Leclerc believes that the main challenge of 2026 has emerged in attempting to marry his \"aggressive\" driving style with the demands of the current Formula 1 machinery.The M...",
+      "url": "https://www.motorsport.com/f1/news/leclerc-merging-aggressive-style-with-f1-2026-cars-has-been-this-years-biggest-challenge/10839207/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "David Coulthard warns FIA intervention could stifle F1 innovation",
-      "body": "Former Formula 1 driver David Coulthard has cautioned the FIA against regulating technical innovation out of the championship, warning that banning unique engineering developments ...",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-warns-fia-intervention-could-stifle-f1-innovation/10839127/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "David Coulthard recalls violent Spa crash that left him with broken leg",
+      "body": "Former Formula 1 driver David Coulthard has reflected on the unforgiving nature of the Spa-Francorchamps circuit, recalling his terrifying junior formula crash that resulted in a b...",
+      "url": "https://www.motorsport.com/f1/news/david-coulthard-recalls-violent-spa-crash-that-left-him-with-broken-leg/10839177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-16T13:03:14Z",
+    "lastUpdatedUtc": "2026-07-16T15:18:03Z",
     "source": "jolpica"
   },
   "nextRace": {
