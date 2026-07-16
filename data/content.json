@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Norris given Belgium GP grid penalty as McLaren takes new Mercedes power unit parts",
+      "body": "McLaren driver Lando Norris is facing a 10-place grid drop at this weekend's Belgian Grand Prix at Spa-Francorchamps as his team is fitting new Mercedes Formula 1 power unit compon...",
+      "url": "https://www.autosport.com/f1/news/norris-given-belgium-gp-grid-penalty-as-mclaren-takes-new-mercedes-power-unit-parts/10839126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Aston Martin \"flat out\" on Hungary updates but has concerns over spare parts being ready",
       "body": "Aston Martin's planned Formula 1 upgrade package for Hungary has been a \"big undertaking\" for the team, according to chief trackside officer Mike Krack, who hopes to have both cars...",
       "url": "https://www.autosport.com/f1/news/aston-martin-flat-out-on-amr26-hungary-updates-spares-in-short-supply/10839109/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Is this the luckiest F1 fan on the planet?",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/is-this-the-luckiest-f1-fan-on-the-planet/10839100/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Verstappen signs McLaren junior driver van Langendonck",
-      "body": "Max Verstappen has signed McLaren junior driver Dries van Langendonck to his racing team, marking the first move by the four-time Formula 1 world champion into driver development.T...",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-signs-mclaren-junior-driver-dries-van-langendonck/10839091/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "James Hinchcliffe names Ferrari's best hope of beating Mercedes",
-      "body": "Former Formula 1 driver Jolyon Palmer and IndyCar Series race winner James Hinchcliffe believe Ferrari must make the difficult decision to favour Lewis Hamilton over Charles Lecler...",
-      "url": "https://www.motorsport.com/f1/news/james-hinchcliffe-names-ferraris-best-hope-of-beating-mercedes/10839113/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Former F1 presenter identifies Aston Martin \"red flag\" amid performance struggles",
+      "body": "Will Buxton has pointed to a major \"red flag\" at Aston Martin after Adrian Newey admitted that the team may not have spent enough time consulting its drivers during the car's devel...",
+      "url": "https://www.motorsport.com/f1/news/former-f1-presenter-identifies-aston-martin-red-flag-amid-performance-struggles/10839152/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Aston Martin \"flat out\" on AMR26 Hungary updates, spares in short supply",
-      "body": "Aston Martin's planned Formula 1 upgrade package for Hungary has been a \"big undertaking\" for the team, according to chief trackside officer Mike Krack, who hopes to have both cars...",
-      "url": "https://www.motorsport.com/f1/news/aston-martin-flat-out-on-amr26-hungary-updates-spares-in-short-supply/10839104/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "David Coulthard warns FIA intervention could stifle F1 innovation",
+      "body": "Former Formula 1 driver David Coulthard has cautioned the FIA against regulating technical innovation out of the championship, warning that banning unique engineering developments ...",
+      "url": "https://www.motorsport.com/f1/news/david-coulthard-warns-fia-intervention-could-stifle-f1-innovation/10839127/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-16T11:05:43Z",
+    "lastUpdatedUtc": "2026-07-16T13:03:14Z",
     "source": "jolpica"
   },
   "nextRace": {
