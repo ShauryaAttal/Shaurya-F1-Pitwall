@@ -20,12 +20,20 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Could it work if Verstappen wanted to go to McLaren? F1 Q&A",
-      "body": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Belgian Grand Prix at Spa-Francorchamps.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c872v408y2xo?at_medium=RSS&at_campaign=rss"
+      "headline": "How to follow Belgian Grand Prix on the BBC",
+      "body": "All the key BBC coverage details for the Belgian Grand Prix at Spa-Francorchamps, from 17-19 July.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr47gkqerdpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "What Verstappen did \u2013 and didn't \u2013 say about his F1 future and McLaren at Spa",
+      "body": "When Max Verstappen took his seat on the red sofa for Thursday afternoon's official FIA press conference, it was immediately clear what the next half hour would largely revolve aro...",
+      "url": "https://www.autosport.com/f1/news/what-verstappen-did-and-didnt-say-about-his-f1-future-and-mclaren-at-spa/10839243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Red Bull parks 'Macarena' rear wing for Belgian GP after Verstappen crashes",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/red-bull-parks-macarena-rear-wing-for-belgian-gp-after-verstappen-crashes/10839179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Norris given Belgium GP grid penalty as McLaren takes new Mercedes power unit parts",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/norris-given-belgium-gp-grid-penalty-as-mclaren-takes-new-mercedes-power-unit-parts/10839126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Aston Martin \"flat out\" on Hungary updates but has concerns over spare parts being ready",
-      "body": "Aston Martin's planned Formula 1 upgrade package for Hungary has been a \"big undertaking\" for the team, according to chief trackside officer Mike Krack, who hopes to have both cars...",
-      "url": "https://www.autosport.com/f1/news/aston-martin-flat-out-on-amr26-hungary-updates-spares-in-short-supply/10839109/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Charles Leclerc: Merging \"aggressive\" style with F1 2026 cars is this year's biggest challenge",
-      "body": "Charles Leclerc believes that the main challenge of 2026 has emerged in attempting to marry his \"aggressive\" driving style with the demands of the current Formula 1 machinery.The M...",
-      "url": "https://www.motorsport.com/f1/news/leclerc-merging-aggressive-style-with-f1-2026-cars-has-been-this-years-biggest-challenge/10839207/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "What Max Verstappen did \u2013 and didn't \u2013 say about his F1 future and McLaren at Spa",
+      "body": "When Max Verstappen took his seat on the red sofa for Thursday afternoon's official FIA press conference, it was immediately clear what the next half hour would largely revolve aro...",
+      "url": "https://www.motorsport.com/f1/news/what-max-verstappen-did-and-didnt-say-about-his-f1-future-and-mclaren-at-spa/10839233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "David Coulthard recalls violent Spa crash that left him with broken leg",
-      "body": "Former Formula 1 driver David Coulthard has reflected on the unforgiving nature of the Spa-Francorchamps circuit, recalling his terrifying junior formula crash that resulted in a b...",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-recalls-violent-spa-crash-that-left-him-with-broken-leg/10839177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lewis Hamilton still avoiding Ferrari\u2019s F1 sim: \u2018It\u2019s helped me massively\u2019",
+      "body": "Lewis Hamilton has maintained his approach of not using Ferrari\u2019s Formula 1 simulator \u2013 and that\u2019s for the better, according to him.Ahead of the Canadian Grand Prix in May, Hamilto...",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-still-avoiding-ferraris-f1-sim-its-helped-me-massively/10839221/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-16T15:18:03Z",
+    "lastUpdatedUtc": "2026-07-16T16:50:13Z",
     "source": "jolpica"
   },
   "nextRace": {
