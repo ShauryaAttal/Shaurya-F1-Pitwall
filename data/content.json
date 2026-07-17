@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Why Verstappen has signed a McLaren F1 junior",
+      "body": "While Max Verstappen himself has been heavily linked with McLaren in recent weeks, on Thursday morning he made an intriguing announcement that connects the two parties in a very di...",
+      "url": "https://www.autosport.com/f1/news/why-verstappen-has-signed-a-mclaren-f1-junior/10839352/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "\u2018Like being asked to draw the Mona Lisa\u2019 \u2013 Russell explains how he is struggling to match Antonelli",
       "body": "Arguably not everyone can paint \u2013 and even if you happen to be a talented painter, could you imagine reproducing the most famous work of art in the world to the most meticulous lev...",
       "url": "https://www.autosport.com/f1/news/like-being-asked-to-draw-the-mona-lisa-russell-explains-how-he-is-struggling-to-match-antonelli/10839312/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "What Verstappen did \u2013 and didn't \u2013 say about his F1 future and McLaren at Spa",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/what-verstappen-did-and-didnt-say-about-his-f1-future-and-mclaren-at-spa/10839243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Red Bull parks 'Macarena' rear wing for Belgian GP after Verstappen crashes",
-      "body": "Red Bull is switching back to its original 2026 Formula 1 rear wing after a brace of worrying offs for Max Verstappen with its upside-down concept.Rival team Ferrari was the first ...",
-      "url": "https://www.autosport.com/f1/news/red-bull-parks-macarena-rear-wing-for-belgian-gp-after-verstappen-crashes/10839179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\u2018Like being asked to draw the Mona Lisa\u2019 \u2013 How George Russell is struggling to match Kimi Antonelli",
-      "body": "Arguably not everyone can paint \u2013 and even if you happen to be a talented painter, could you imagine reproducing the most famous work of art in the world to the most meticulous lev...",
-      "url": "https://www.motorsport.com/f1/news/how-george-russell-struggling-match-kimi-antonelli/10839274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Has Haas actually been outdeveloped by its F1 rivals?",
+      "body": "Formula 1\u2019s new era got off to a great start for the Haas team as Oliver Bearman shone early on, but things have become trickier of late.After the first two grands prix of the seas...",
+      "url": "https://www.motorsport.com/f1/news/has-haas-actually-been-outdeveloped-by-its-f1-rivals/10839340/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Williams under fire as Carlos Sainz is \"getting nowhere\" in bid to turn team around",
-      "body": "Former Formula 1 driver Jolyon Palmer believes Carlos Sainz is \"getting nowhere\" in his determined attempts to lead Williams out of its current performance slump.Palmer addressed r...",
-      "url": "https://www.motorsport.com/f1/news/williams-under-fire-as-carlos-sainz-is-getting-nowhere-in-bid-to-turn-team-around/10839297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "The story behind Max Verstappen signing a Belgian McLaren F1 junior",
+      "body": "While Max Verstappen himself has been heavily linked with McLaren in recent weeks, on Thursday morning he made an intriguing announcement that connects the two parties in a very di...",
+      "url": "https://www.motorsport.com/f1/news/the-story-behind-max-verstappen-signing-a-belgian-mclaren-f1-junior/10839343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-17T08:36:41Z",
+    "lastUpdatedUtc": "2026-07-17T10:52:58Z",
     "source": "jolpica"
   },
   "nextRace": {
