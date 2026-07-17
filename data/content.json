@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Verstappen on top as Hadjar takes grid penalty",
+      "body": "Red Bull's Max Verstappen heads Ferrari's Lewis Hamilton at the top of the times in first practice at the Belgian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Norris to have 10-place grid penalty in Belgium",
       "body": "Lando Norris will have a 10-place grid penalty at the Belgian Grand Prix as a result of exceeding the permitted number of engine parts.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cj038y0levyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Red Bull to change wing after Verstappen crashes",
@@ -17,15 +25,23 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cr7kr0lx081o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "How to follow Belgian Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the Belgian Grand Prix at Spa-Francorchamps, from 17-19 July.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr47gkqerdpo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Hadjar set for Belgian GP grid penalty after F1 engine change",
+      "body": "Red Bull driver Isack Hadjar is set to start this weekend's Formula 1 Belgian Grand Prix from the back of the grid after taking a his fifth power unit of 2026.Hadjar has been given...",
+      "url": "https://www.autosport.com/f1/news/hadjar-set-for-belgian-gp-grid-penalty-after-f1-engine-change/10839441/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "F1 Belgian GP: Verstappen quickest in FP1 over Hamilton",
+      "body": "Max Verstappen headlined the opening Formula 1 practice session at the Belgian Grand Prix, just over a tenth clear of Ferrari's Lewis Hamilton as Red Bull demonstrated strong early...",
+      "url": "https://www.autosport.com/f1/news/f1-belgian-gp-verstappen-quickest-in-fp1-over-hamilton/10839409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Verstappen has signed a McLaren F1 junior",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-verstappen-has-signed-a-mclaren-f1-junior/10839352/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "\u2018Like being asked to draw the Mona Lisa\u2019 \u2013 Russell explains how he is struggling to match Antonelli",
-      "body": "Arguably not everyone can paint \u2013 and even if you happen to be a talented painter, could you imagine reproducing the most famous work of art in the world to the most meticulous lev...",
-      "url": "https://www.autosport.com/f1/news/like-being-asked-to-draw-the-mona-lisa-russell-explains-how-he-is-struggling-to-match-antonelli/10839312/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "What Verstappen did \u2013 and didn't \u2013 say about his F1 future and McLaren at Spa",
-      "body": "When Max Verstappen took his seat on the red sofa for Thursday afternoon's official FIA press conference, it was immediately clear what the next half hour would largely revolve aro...",
-      "url": "https://www.autosport.com/f1/news/what-verstappen-did-and-didnt-say-about-his-f1-future-and-mclaren-at-spa/10839243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Has Haas actually been outdeveloped by its F1 rivals?",
-      "body": "Formula 1\u2019s new era got off to a great start for the Haas team as Oliver Bearman shone early on, but things have become trickier of late.After the first two grands prix of the seas...",
-      "url": "https://www.motorsport.com/f1/news/has-haas-actually-been-outdeveloped-by-its-f1-rivals/10839340/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Juan Pablo Montoya says Kimi Antonelli is his own biggest F1 title threat",
+      "body": "Former Formula 1 driver Juan Pablo Montoya believes current championship leader Kimi Antonelli's biggest obstacle in the title race is his own mindset, urging the Mercedes garage t...",
+      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-says-kimi-antonelli-is-his-own-biggest-f1-title-rival/10839437/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "The story behind Max Verstappen signing a Belgian McLaren F1 junior",
-      "body": "While Max Verstappen himself has been heavily linked with McLaren in recent weeks, on Thursday morning he made an intriguing announcement that connects the two parties in a very di...",
-      "url": "https://www.motorsport.com/f1/news/the-story-behind-max-verstappen-signing-a-belgian-mclaren-f1-junior/10839343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Isack Hadjar set for Belgian GP grid penalty after F1 engine change",
+      "body": "Red Bull driver Isack Hadjar is set to start this weekend's Formula 1 Belgian Grand Prix from the back of the grid after taking a his fifth power unit of 2026.Hadjar has been given...",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-set-for-belgian-gp-grid-penalty-after-f1-engine-change/10839427/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-17T12:15:01Z",
+    "lastUpdatedUtc": "2026-07-17T14:13:26Z",
     "source": "jolpica"
   },
   "nextRace": {
