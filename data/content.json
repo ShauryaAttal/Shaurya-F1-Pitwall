@@ -12,20 +12,28 @@
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Antonelli tops FP2 as Gasly crashes heavily at Spa",
-      "body": "Alpine's Pierre causes a red flag with a heavy crash in Friday practice at the Belgian Grand Prix as Mercedes' Kimi Antonelli set out his stall for the weekend with fastest time.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "number": "03",
-      "variant": "neutral",
-      "kicker": "BBC F1",
       "headline": "How to follow Belgian Grand Prix on the BBC",
       "body": "All the key BBC coverage details for the Belgian Grand Prix at Spa-Francorchamps, from 17-19 July.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cr47gkqerdpo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "number": "03",
+      "variant": "neutral",
+      "kicker": "BBC F1",
+      "headline": "F1: Chequered Flag",
+      "body": "Harry and Sam look back at qualifying from Spa",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nzlg3r?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Explained: The yellow flag error that caught Leclerc out in Belgian GP qualifying",
+      "body": "Ferrari Formula 1 driver Charles Leclerc was incorrectly shown a yellow flag at the end of Belgian Grand Prix qualifying, which cost him a place on the grid.In the dying seconds of...",
+      "url": "https://www.autosport.com/f1/news/explained-how-yellow-flag-error-cost-charles-leclerc-in-belgian-f1-qualifying/10839926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Verstappen: I wouldn't be on Belgian GP front row without Hadjar tow",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/max-verstappen-i-wouldnt-be-on-belgian-gp-front-row-without-isack-hadjars-help/10839883/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Belgian GP: Antonelli defeats Verstappen to take pole",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-belgian-gp-antonelli-defeats-verstappen-to-take-pole/10839836/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Belgian GP: Antonelli fastest as Hamilton crashes at end of FP3",
-      "body": "Kimi Antonelli concluded the final Formula 1 practice session at the Belgian Grand Prix on top, as Lewis Hamilton crashed at the end of the session.Antonelli had set a 1m45.990s wi...",
-      "url": "https://www.autosport.com/f1/news/f1-belgian-gp-antonelli-fastest-as-hamilton-crashes-at-end-of-fp3/10839748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen: I wouldn't be on Belgian GP front row without Isack Hadjar's help",
-      "body": "Max Verstappen praised Red Bull team-mate Isack Hadjar for delivering him \"a tow and a half\" in Formula 1 qualifying at the Belgian Grand Prix, which he credited with helping him t...",
-      "url": "https://www.motorsport.com/f1/news/verstappen-i-wouldnt-have-been-on-belgian-gp-front-row-without-hadjar-help/10839874/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"F3 car with F1 downforce\" \u2014 Why Max Verstappen and McLaren say Spa is so different in 2026",
+      "body": "Ahead of the Spa-Francorchamps Formula 1 race weekend, the Ardennes circuit was already expected to be one of the most demanding tracks in terms of energy management. According to ...",
+      "url": "https://www.motorsport.com/f1/news/f3-car-with-f1-downforce-why-max-verstappen-and-mclaren-say-spa-is-so-different-in-2026/10839934/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "This is the starting grid for the 2026 F1 Belgian GP",
-      "body": "While Kimi Antonelli sailed to pole position at the Formula 1 Belgian Grand Prix, there is a raft of changes to the order behind the Mercedes driver. Engine changes up and down the...",
-      "url": "https://www.motorsport.com/f1/news/the-starting-grid-for-the-2026-f1-belgian-grand-prix/10839851/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Explained: How yellow flag error cost Charles Leclerc in Belgian F1 qualifying",
+      "body": "Ferrari Formula 1 driver Charles Leclerc was incorrectly shown a yellow flag at the end of Belgian Grand Prix qualifying, which cost him a place on the grid.In the dying seconds of...",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-explains-bizarre-yellow-flag-confusion-belgian-f1-qualifying/10839901/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-18T16:28:16Z",
+    "lastUpdatedUtc": "2026-07-18T17:35:33Z",
     "source": "jolpica"
   },
   "nextRace": {
