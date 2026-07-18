@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Antonelli takes Belgium pole from Verstappen",
+      "body": "Mercedes' Kimi Antonelli takes pole position at the Belgian Grand Prix, leaving team-mate George Russell trailing in fourth.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cp8xep2w0epo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Antonelli tops FP2 as Gasly crashes heavily at Spa",
       "body": "Alpine's Pierre causes a red flag with a heavy crash in Friday practice at the Belgian Grand Prix as Mercedes' Kimi Antonelli set out his stall for the weekend with fastest time.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "How to follow Belgian Grand Prix on the BBC",
@@ -17,15 +25,23 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cr47gkqerdpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Norris to have 10-place grid penalty in Belgium",
-      "body": "Lando Norris will have a 10-place grid penalty at the Belgian Grand Prix as a result of exceeding the permitted number of engine parts.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cj038y0levyo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Verstappen: I wouldn't be on Belgian GP front row without Hadjar tow",
+      "body": "Max Verstappen praised Red Bull team-mate Isack Hadjar for delivering him \"a tow and a half\" in Formula 1 qualifying at the Belgian Grand Prix, which he credited with helping him t...",
+      "url": "https://www.autosport.com/f1/news/max-verstappen-i-wouldnt-be-on-belgian-gp-front-row-without-isack-hadjars-help/10839883/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "F1 Belgian GP: Antonelli defeats Verstappen to take pole",
+      "body": "Kimi Antonelli clinched his sixth Formula 1 pole position of the year with the fastest lap in Belgian Grand Prix qualifying, beating Max Verstappen by 0.317s.The Italian continued ...",
+      "url": "https://www.autosport.com/f1/news/f1-belgian-gp-antonelli-defeats-verstappen-to-take-pole/10839836/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Belgian GP: Antonelli fastest as Hamilton crashes at end of FP3",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-belgian-gp-antonelli-fastest-as-hamilton-crashes-at-end-of-fp3/10839748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why Hamilton sees Mercedes as \u2018still the team to beat\u2019 at Belgian GP",
-      "body": "Lewis Hamilton has tipped Mercedes and McLaren to impress at Formula 1\u2019s Belgian Grand Prix, after Ferrari seemingly struggled in Friday practice at Spa-Francorchamps.Mercedes\u2019 Kim...",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-mercedes-still-the-team-to-beat-at-belgian-gp-alongside-mclaren/10839664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "\"Not getting ahead of ourselves\" - Why Norris was downbeat in Belgium despite F1 practice pace",
-      "body": "Practice pace on Friday at Spa-Francorchamps presented a more muddled picture than you would normally expect at what has traditionally been a \u2018power' circuit. Nearly a full second ...",
-      "url": "https://www.autosport.com/f1/news/were-not-getting-ahead-of-ourselves-why-lando-norris-was-downbeat-despite-belgium-f1-practice-pace/10839605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lando Norris reveals 'violating' 40-minute paparazzi pursuit in London",
-      "body": "Lando Norris has spoken out against the intrusive nature of the paparazzi, detailing a recent incident in London where he was followed for 40 minutes, an experience the 2025 Formul...",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-violating-40-minute-paparazzi-pursuit-in-london/10839827/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen: I wouldn't be on Belgian GP front row without Isack Hadjar's help",
+      "body": "Max Verstappen praised Red Bull team-mate Isack Hadjar for delivering him \"a tow and a half\" in Formula 1 qualifying at the Belgian Grand Prix, which he credited with helping him t...",
+      "url": "https://www.motorsport.com/f1/news/verstappen-i-wouldnt-have-been-on-belgian-gp-front-row-without-hadjar-help/10839874/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Guenther Steiner delivers brutal verdict on Aston Martin's upcoming F1 upgrades",
-      "body": "Former Haas team principal Guenther Steiner believes that Aston Martin will need an absolute \"miracle\" for its impending upgrades to move it towards the front of the grid.Steiner s...",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-delivers-brutal-verdict-on-aston-martins-f1-upgrades/10839772/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "This is the starting grid for the 2026 F1 Belgian GP",
+      "body": "While Kimi Antonelli sailed to pole position at the Formula 1 Belgian Grand Prix, there is a raft of changes to the order behind the Mercedes driver. Engine changes up and down the...",
+      "url": "https://www.motorsport.com/f1/news/the-starting-grid-for-the-2026-f1-belgian-grand-prix/10839851/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-18T15:01:21Z",
+    "lastUpdatedUtc": "2026-07-18T16:28:16Z",
     "source": "jolpica"
   },
   "nextRace": {
