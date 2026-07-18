@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Mercedes working to resolve \u201cserious issue\u201d behind Russell\u2019s deficit to Antonelli",
+      "body": "Well, at least Mercedes Formula 1 driver George Russell no longer needs to engage the services of a professional art forger.On Thursday at Spa, he described having to emulate his t...",
+      "url": "https://www.autosport.com/f1/news/serious-issue-at-play-why-george-russell-changed-his-mind-about-deficit-to-kimi-antonelli/10839951/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Explained: The yellow flag error that caught Leclerc out in Belgian GP qualifying",
       "body": "Ferrari Formula 1 driver Charles Leclerc was incorrectly shown a yellow flag at the end of Belgian Grand Prix qualifying, which cost him a place on the grid.In the dying seconds of...",
       "url": "https://www.autosport.com/f1/news/explained-how-yellow-flag-error-cost-charles-leclerc-in-belgian-f1-qualifying/10839926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Verstappen: I wouldn't be on Belgian GP front row without Hadjar tow",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/max-verstappen-i-wouldnt-be-on-belgian-gp-front-row-without-isack-hadjars-help/10839883/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Belgian GP: Antonelli defeats Verstappen to take pole",
-      "body": "Kimi Antonelli clinched his sixth Formula 1 pole position of the year with the fastest lap in Belgian Grand Prix qualifying, beating Max Verstappen by 0.317s.The Italian continued ...",
-      "url": "https://www.autosport.com/f1/news/f1-belgian-gp-antonelli-defeats-verstappen-to-take-pole/10839836/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\"F3 car with F1 downforce\" \u2014 Why Max Verstappen and McLaren say Spa is so different in 2026",
-      "body": "Ahead of the Spa-Francorchamps Formula 1 race weekend, the Ardennes circuit was already expected to be one of the most demanding tracks in terms of energy management. According to ...",
-      "url": "https://www.motorsport.com/f1/news/f3-car-with-f1-downforce-why-max-verstappen-and-mclaren-say-spa-is-so-different-in-2026/10839934/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "McLaren on Max Verstappen: \u2018We\u2019d need a third car for him\u2019",
+      "body": "There may be no concrete evidence that Max Verstappen is seriously considering joining McLaren for the 2027 Formula 1 season, but team principal Andrea Stella failed to unequivocal...",
+      "url": "https://www.motorsport.com/f1/news/mclaren-on-max-verstappen-wed-need-a-third-car-for-him/10839973/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Explained: How yellow flag error cost Charles Leclerc in Belgian F1 qualifying",
-      "body": "Ferrari Formula 1 driver Charles Leclerc was incorrectly shown a yellow flag at the end of Belgian Grand Prix qualifying, which cost him a place on the grid.In the dying seconds of...",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-explains-bizarre-yellow-flag-confusion-belgian-f1-qualifying/10839901/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\u2018Only Oliver Bearman\u2019s car works as it should\u2019 - Esteban Ocon explains another Q1 knockout",
+      "body": "For the fifth time in the last six Formula 1 grands prix, Esteban Ocon failed to make it through Q1 in qualifying, setting the 18th-fastest time \u2013 penalties will see him start from...",
+      "url": "https://www.motorsport.com/f1/news/eliminated-in-q1-again-ocon-resigned-the-car-thats-performing-normally-is-ollies/10839961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-18T17:35:33Z",
+    "lastUpdatedUtc": "2026-07-18T19:13:18Z",
     "source": "jolpica"
   },
   "nextRace": {
