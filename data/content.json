@@ -12,20 +12,28 @@
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Mercedes driver scout Lagrue joining Red Bull",
-      "body": "The Mercedes driver scout involved in discovering Kimi Antonelli is leaving the team to join rivals Red Bull.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o?at_medium=RSS&at_campaign=rss"
+      "headline": "Antonelli near-perfect but too much drama for Hamilton - driver ratings",
+      "body": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Belgian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/czxede3x2d7o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Russell 'infuriated' by straight-line issue that leaves him 'powerless'",
-      "body": "George Russell says a \"serious issue\" with the straight-line performance of his Mercedes is making his title fight with Kimi Antonelli \"impossible\".",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/clyq6q12dkko?at_medium=RSS&at_campaign=rss"
+      "headline": "Mercedes driver scout Lagrue joining Red Bull",
+      "body": "The Mercedes driver scout involved in discovering Kimi Antonelli is leaving the team to join rivals Red Bull.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Ferrari criticises \"mega harsh\" penalty for Hamilton in F1 Belgian GP",
+      "body": "Both Lewis Hamilton and his Ferrari team boss, Frederic Vasseur, profoundly disagree with the five-second penalty he received for a collision with George Russell\u2019s Mercedes on the ...",
+      "url": "https://www.autosport.com/f1/news/ferrari-criticises-mega-harsh-lewis-hamilton-penalty-in-f1-belgian-gp/10840302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Leclerc wasn\u2019t penalised for clash with Piastri in Belgian GP",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/why-charles-leclerc-wasnt-penalised-for-clash-with-oscar-piastri-in-belgian-gp/10840237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Ferrari summoned for Hamilton's Belgian GP unsafe release after hitting mechanic",
@@ -41,98 +49,90 @@
       "url": "https://www.autosport.com/f1/news/ferrari-summoned-for-lewis-hamiltons-belgian-gp-unsafe-release-after-hitting-mechanic/10840229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Belgian GP: Antonelli reels in Leclerc to win, Russell out after Hamilton clash",
-      "body": "Kimi Antonelli put a pass on Charles Leclerc to secure victory at the Belgian Grand Prix, as his Mercedes Formula 1 team-mate George Russell retired on the opening lap after contac...",
-      "url": "https://www.autosport.com/f1/news/f1-belgian-gp-race-report-10840199/10840199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Why Charles Leclerc wasn\u2019t penalised for clash with Oscar Piastri in Belgian GP",
-      "body": "Charles Leclerc avoided a penalty for a clash with Oscar Piastri during the Formula 1 Belgian Grand Prix after the stewards judged the Ferrari driver didn\u2019t deliberately instigate ...",
-      "url": "https://www.motorsport.com/f1/news/why-charles-leclerc-wasnt-penalised-for-clash-with-oscar-piastri-in-belgian-gp/10840226/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Ferrari criticises \"mega harsh\" Lewis Hamilton penalty in F1 Belgian GP",
+      "body": "Both Lewis Hamilton and his Ferrari team boss, Frederic Vasseur, profoundly disagree with the five-second penalty he received for a collision with George Russell\u2019s Mercedes on the ...",
+      "url": "https://www.motorsport.com/f1/news/ferrari-criticises-mega-harsh-lewis-hamilton-penalty-in-f1-belgian-gp/10840294/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Ferrari summoned for Lewis Hamilton's Belgian GP unsafe release after hitting mechanic",
-      "body": "Ferrari has been summoned to visit the Formula 1 stewards' office following Lewis Hamilton's apparent unsafe release during the Belgian Grand Prix, in which he knocked down a mecha...",
-      "url": "https://www.motorsport.com/f1/news/ferrari-summoned-for-hamiltons-belgian-gp-unsafe-release-after-hitting-mechanic/10840224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Bernie Collins explains key factor behind Kimi Antonelli's F1 Belgian GP win",
+      "body": "Mercedes driver Kimi Antonelli has been lauded for his maturity following a hard-fought victory at the Belgian Grand Prix, with former Formula 1 strategist and Sky Sports analyst B...",
+      "url": "https://www.motorsport.com/f1/news/bernie-collins-explains-key-factor-behind-kimi-antonellis-f1-belgian-gp-win/10840272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
     {
       "label": "Championship Lead",
-      "valuePrefix": "+25",
+      "valuePrefix": "+45",
       "valueEm": "",
       "valueSuffix": " pts",
-      "sub": "Andrea Kimi Antonelli over George Russell"
+      "sub": "Andrea Kimi Antonelli over Lewis Hamilton"
     },
     {
       "label": "Current Leader",
       "valuePrefix": "Andrea Kimi Antonelli",
       "valueEm": "",
       "valueSuffix": "",
-      "sub": "179 points after British Grand Prix"
+      "sub": "204 points after Belgian Grand Prix"
     },
     {
       "label": "Constructors Lead",
       "valuePrefix": "Mercedes",
       "valueEm": "",
       "valueSuffix": "",
-      "sub": "333 points"
+      "sub": "358 points"
     },
     {
       "label": "Next Race",
-      "valuePrefix": "Belgian Grand Prix",
+      "valuePrefix": "Hungarian Grand Prix",
       "valueEm": "",
       "valueSuffix": "",
-      "sub": "2026-07-19"
+      "sub": "2026-07-26"
     }
   ],
   "ticker": [
     {
       "sym": "LEADER",
       "val": "ANDREA KIMI ANTONELLI",
-      "pts": "179 PTS"
+      "pts": "204 PTS"
     },
     {
       "sym": "P2",
-      "val": "GEORGE RUSSELL",
-      "pts": "154 PTS"
+      "val": "LEWIS HAMILTON",
+      "pts": "159 PTS"
     },
     {
       "sym": "CON",
       "val": "MERCEDES",
-      "pts": "333 PTS"
+      "pts": "358 PTS"
     },
     {
       "sym": "LAST WIN",
-      "val": "CHARLES LECLERC",
-      "pts": "BRITISH GRAND PRIX"
+      "val": "ANDREA KIMI ANTONELLI",
+      "pts": "BELGIAN GRAND PRIX"
     },
     {
       "sym": "NEXT",
-      "val": "BELGIAN GRAND PRIX",
-      "pts": "2026-07-19"
+      "val": "HUNGARIAN GRAND PRIX",
+      "pts": "2026-07-26"
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-19T15:32:09Z",
+    "lastUpdatedUtc": "2026-07-19T17:05:50Z",
     "source": "jolpica"
   },
   "nextRace": {
-    "name": "Belgian Grand Prix",
-    "date": "2026-07-19",
+    "name": "Hungarian Grand Prix",
+    "date": "2026-07-26",
     "timeUtc": "13:00:00Z",
-    "circuit": "Circuit de Spa-Francorchamps",
-    "country": "Belgium",
-    "round": "10"
+    "circuit": "Hungaroring",
+    "country": "Hungary",
+    "round": "11"
   },
   "drivers": [
     {
@@ -141,26 +141,26 @@
       "code": "ANT",
       "constructor": "Mercedes",
       "nationality": "ITA",
-      "points": 179,
+      "points": 204,
       "gapToLeader": 0
     },
     {
       "position": "2",
+      "name": "Lewis Hamilton",
+      "code": "HAM",
+      "constructor": "Ferrari",
+      "nationality": "BRI",
+      "points": 159,
+      "gapToLeader": 45
+    },
+    {
+      "position": "3",
       "name": "George Russell",
       "code": "RUS",
       "constructor": "Mercedes",
       "nationality": "BRI",
       "points": 154,
-      "gapToLeader": 25
-    },
-    {
-      "position": "3",
-      "name": "Lewis Hamilton",
-      "code": "HAM",
-      "constructor": "Ferrari",
-      "nationality": "BRI",
-      "points": 147,
-      "gapToLeader": 32
+      "gapToLeader": 50
     },
     {
       "position": "4",
@@ -168,8 +168,8 @@
       "code": "LEC",
       "constructor": "Ferrari",
       "nationality": "MON",
-      "points": 108,
-      "gapToLeader": 71
+      "points": 126,
+      "gapToLeader": 78
     },
     {
       "position": "5",
@@ -177,8 +177,8 @@
       "code": "NOR",
       "constructor": "McLaren",
       "nationality": "BRI",
-      "points": 97,
-      "gapToLeader": 82
+      "points": 103,
+      "gapToLeader": 101
     },
     {
       "position": "6",
@@ -186,8 +186,8 @@
       "code": "PIA",
       "constructor": "McLaren",
       "nationality": "AUS",
-      "points": 82,
-      "gapToLeader": 97
+      "points": 92,
+      "gapToLeader": 112
     },
     {
       "position": "7",
@@ -195,8 +195,8 @@
       "code": "VER",
       "constructor": "Red Bull",
       "nationality": "DUT",
-      "points": 76,
-      "gapToLeader": 103
+      "points": 91,
+      "gapToLeader": 113
     },
     {
       "position": "8",
@@ -204,8 +204,8 @@
       "code": "HAD",
       "constructor": "Red Bull",
       "nationality": "FRE",
-      "points": 52,
-      "gapToLeader": 127
+      "points": 60,
+      "gapToLeader": 144
     },
     {
       "position": "9",
@@ -214,7 +214,7 @@
       "constructor": "Alpine F1 Team",
       "nationality": "FRE",
       "points": 42,
-      "gapToLeader": 137
+      "gapToLeader": 162
     },
     {
       "position": "10",
@@ -223,7 +223,7 @@
       "constructor": "RB F1 Team",
       "nationality": "NEW",
       "points": 39,
-      "gapToLeader": 140
+      "gapToLeader": 165
     }
   ],
   "constructors": [
@@ -231,43 +231,43 @@
       "position": "1",
       "name": "Mercedes",
       "nationality": "GER",
-      "points": 333,
+      "points": 358,
       "barPercent": 100
     },
     {
       "position": "2",
       "name": "Ferrari",
       "nationality": "ITA",
-      "points": 255,
-      "barPercent": 77
+      "points": 285,
+      "barPercent": 80
     },
     {
       "position": "3",
       "name": "McLaren",
       "nationality": "BRI",
-      "points": 179,
+      "points": 195,
       "barPercent": 54
     },
     {
       "position": "4",
       "name": "Red Bull",
       "nationality": "AUS",
-      "points": 128,
-      "barPercent": 38
+      "points": 151,
+      "barPercent": 42
     },
     {
       "position": "5",
       "name": "Alpine F1 Team",
       "nationality": "FRE",
-      "points": 60,
-      "barPercent": 18
+      "points": 61,
+      "barPercent": 17
     },
     {
       "position": "6",
       "name": "RB F1 Team",
       "nationality": "ITA",
-      "points": 59,
-      "barPercent": 18
+      "points": 61,
+      "barPercent": 17
     },
     {
       "position": "7",
@@ -287,8 +287,8 @@
       "position": "9",
       "name": "Audi",
       "nationality": "GER",
-      "points": 6,
-      "barPercent": 2
+      "points": 10,
+      "barPercent": 3
     },
     {
       "position": "10",
@@ -306,25 +306,25 @@
     }
   ],
   "podium": {
-    "headline": "British Grand Prix \u00b7 Silverstone Circuit",
+    "headline": "Belgian Grand Prix \u00b7 Circuit de Spa-Francorchamps",
     "rows": [
       {
         "position": "P1",
-        "name": "Charles Leclerc",
-        "team": "Ferrari",
-        "time": "1:27:11.335"
+        "name": "Andrea Kimi Antonelli",
+        "team": "Mercedes",
+        "time": "1:24:42.479"
       },
       {
         "position": "P2",
-        "name": "George Russell",
-        "team": "Mercedes",
-        "time": "+0.427"
+        "name": "Charles Leclerc",
+        "team": "Ferrari",
+        "time": "+1.952"
       },
       {
         "position": "P3",
-        "name": "Lewis Hamilton",
-        "team": "Ferrari",
-        "time": "+0.772"
+        "name": "Max Verstappen",
+        "team": "Red Bull",
+        "time": "+11.586"
       }
     ]
   }
