@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Hamilton: Ferrari F1 car \"didn't feel the same\" after Belgian GP practice crash",
+      "body": "After smashing up his car in Saturday's third free practice at the exit of Fagnes, Lewis Hamilton qualifying just 0.002s behind Ferrari team-mate Charles Leclerc could be seen as a...",
+      "url": "https://www.autosport.com/f1/news/hamilton-ferrari-f1-car-didnt-feel-the-same-after-belgian-gp-practice-crash/10840037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Mercedes working to resolve \u201cserious issue\u201d behind Russell\u2019s deficit to Antonelli",
       "body": "Well, at least Mercedes Formula 1 driver George Russell no longer needs to engage the services of a professional art forger.On Thursday at Spa, he described having to emulate his t...",
       "url": "https://www.autosport.com/f1/news/serious-issue-at-play-why-george-russell-changed-his-mind-about-deficit-to-kimi-antonelli/10839951/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Explained: The yellow flag error that caught Leclerc out in Belgian GP qualifying",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/explained-how-yellow-flag-error-cost-charles-leclerc-in-belgian-f1-qualifying/10839926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Verstappen: I wouldn't be on Belgian GP front row without Hadjar tow",
-      "body": "Max Verstappen praised Red Bull team-mate Isack Hadjar for delivering him \"a tow and a half\" in Formula 1 qualifying at the Belgian Grand Prix, which he credited with helping him t...",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-i-wouldnt-be-on-belgian-gp-front-row-without-isack-hadjars-help/10839883/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Oscar Piastri has been \u201ctoo clean\u201d for 2026 F1 cars \u2013 Andrea Stella",
-      "body": "McLaren team principal Andrea Stella has attributed Oscar Piastri\u2019s current struggles to a driving style that\u2019s incompatible with Formula 1\u2019s new-for-2026 machinery.It may seem rem...",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-has-been-too-clean-for-2026-f1-cars-andrea-stella/10839989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lewis Hamilton's Ferrari \"didn't feel the same\" after Belgian GP practice crash",
+      "body": "After smashing up his car in Saturday's third free practice at the exit of Fagnes, Lewis Hamilton qualifying just 0.002s behind Ferrari team-mate Charles Leclerc could be seen as a...",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-ferrari-didnt-feel-the-same-after-belgian-gp-practice-crash/10839975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton hailed as a \"legend\" after emotional fan interaction at F1 Belgian GP",
-      "body": "Seven-time Formula 1 champion Lewis Hamilton has once again drawn widespread praise from fans after footage of a wholesome interaction with one of his avid supporters during the Be...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-hailed-as-a-legend-after-emotional-fan-interaction-at-f1-belgian-gp/10839846/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Oscar Piastri has been \u201ctoo clean\u201d for 2026 F1 cars \u2013 Andrea Stella",
+      "body": "McLaren team principal Andrea Stella has attributed Oscar Piastri\u2019s current struggles to a driving style that\u2019s incompatible with Formula 1\u2019s new-for-2026 machinery.It may seem rem...",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-has-been-too-clean-for-2026-f1-cars-andrea-stella/10839989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-19T06:36:29Z",
+    "lastUpdatedUtc": "2026-07-19T09:08:48Z",
     "source": "jolpica"
   },
   "nextRace": {
