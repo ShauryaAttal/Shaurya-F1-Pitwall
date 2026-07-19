@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Red Bull set to sign Mercedes F1 junior boss Lagrue",
+      "body": "Mercedes\u2019 junior driver programme boss Gwen Lagrue is set to join the Red Bull Formula 1 team in a similar role, Autosport understands.There is a side of F1 that rarely makes the h...",
+      "url": "https://www.autosport.com/f1/news/red-bull-hires-mercedes-f1-junior-boss-gwen-lagrue/10840156/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Why F1 drivers are being beaten by their own power units",
       "body": "McLaren suspects Oscar Piastri's deficit to team-mate Lando Norris has \"nothing to do with his driving\", and everything with its Formula 1 power unit algorithms.Piastri qualified t...",
       "url": "https://www.autosport.com/f1/news/why-f1-drivers-are-being-beaten-by-their-own-power-units/10840087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Hamilton: Ferrari F1 car \"didn't feel the same\" after Belgian GP practice crash",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/hamilton-ferrari-f1-car-didnt-feel-the-same-after-belgian-gp-practice-crash/10840037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Mercedes working to resolve \u201cserious issue\u201d behind Russell\u2019s deficit to Antonelli",
-      "body": "Well, at least Mercedes Formula 1 driver George Russell no longer needs to engage the services of a professional art forger.On Thursday at Spa, he described having to emulate his t...",
-      "url": "https://www.autosport.com/f1/news/serious-issue-at-play-why-george-russell-changed-his-mind-about-deficit-to-kimi-antonelli/10839951/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Carlos Sainz hit with grid penalty for F1 Belgian Grand Prix",
-      "body": "Having outqualified Williams team-mate Alex Albon at Spa-Francorchamps, Carlos Sainz has been shuffled backwards by a 10-place grid penalty for taking on additional Formula 1 power...",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-hit-with-grid-penalty-for-f1-belgian-grand-prix/10840111/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Red Bull names successor to Max Verstappen's race engineer Gianpiero Lambiase",
+      "body": "As expected, Red Bull will fill Gianpiero Lambiase's impending departure from within. Max Verstappen revealed a few weeks ago that he already had someone in mind within the team to...",
+      "url": "https://www.motorsport.com/f1/news/red-bull-names-successor-to-max-verstappens-race-engineer-lambiase/10840174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "This is the starting grid for the 2026 F1 Belgian GP",
-      "body": "While Kimi Antonelli sailed to pole position at the Formula 1 Belgian Grand Prix ahead of Red Bull's Max Verstappen, there are several changes further down the order as engine pena...",
-      "url": "https://www.motorsport.com/f1/news/the-starting-grid-for-the-2026-f1-belgian-grand-prix/10839851/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "George Russell out of F1 Belgian GP after Lewis Hamilton contact",
+      "body": "Mercedes' George Russell suffered his latest blow in the 2026 Formula 1 championship after opening lap contact with Ferrari's Lewis Hamilton punted him out of the Belgian Grand Pri...",
+      "url": "https://www.motorsport.com/f1/news/george-russell-out-of-f1-belgian-gp-after-lewis-hamilton-contact/10840165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-19T12:02:27Z",
+    "lastUpdatedUtc": "2026-07-19T14:03:50Z",
     "source": "jolpica"
   },
   "nextRace": {
