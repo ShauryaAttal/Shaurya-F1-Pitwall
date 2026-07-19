@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Why F1 drivers are being beaten by their own power units",
+      "body": "McLaren suspects Oscar Piastri's deficit to team-mate Lando Norris has \"nothing to do with his driving\", and everything with its Formula 1 power unit algorithms.Piastri qualified t...",
+      "url": "https://www.autosport.com/f1/news/why-f1-drivers-are-being-beaten-by-their-own-power-units/10840087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Hamilton: Ferrari F1 car \"didn't feel the same\" after Belgian GP practice crash",
       "body": "After smashing up his car in Saturday's third free practice at the exit of Fagnes, Lewis Hamilton qualifying just 0.002s behind Ferrari team-mate Charles Leclerc could be seen as a...",
       "url": "https://www.autosport.com/f1/news/hamilton-ferrari-f1-car-didnt-feel-the-same-after-belgian-gp-practice-crash/10840037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Mercedes working to resolve \u201cserious issue\u201d behind Russell\u2019s deficit to Antonelli",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/serious-issue-at-play-why-george-russell-changed-his-mind-about-deficit-to-kimi-antonelli/10839951/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Explained: The yellow flag error that caught Leclerc out in Belgian GP qualifying",
-      "body": "Ferrari Formula 1 driver Charles Leclerc was incorrectly shown a yellow flag at the end of Belgian Grand Prix qualifying, which cost him a place on the grid.In the dying seconds of...",
-      "url": "https://www.autosport.com/f1/news/explained-how-yellow-flag-error-cost-charles-leclerc-in-belgian-f1-qualifying/10839926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton's Ferrari \"didn't feel the same\" after Belgian GP practice crash",
-      "body": "After smashing up his car in Saturday's third free practice at the exit of Fagnes, Lewis Hamilton qualifying just 0.002s behind Ferrari team-mate Charles Leclerc could be seen as a...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-ferrari-didnt-feel-the-same-after-belgian-gp-practice-crash/10839975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why F1 drivers are being beaten by their own power units",
+      "body": "McLaren suspects Oscar Piastri's deficit to team-mate Lando Norris has \"nothing to do with his driving\", and everything with its Formula 1 power unit algorithms.Piastri qualified t...",
+      "url": "https://www.motorsport.com/f1/news/why-f1-drivers-are-being-beaten-by-their-own-power-units/10840083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Oscar Piastri has been \u201ctoo clean\u201d for 2026 F1 cars \u2013 Andrea Stella",
-      "body": "McLaren team principal Andrea Stella has attributed Oscar Piastri\u2019s current struggles to a driving style that\u2019s incompatible with Formula 1\u2019s new-for-2026 machinery.It may seem rem...",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-has-been-too-clean-for-2026-f1-cars-andrea-stella/10839989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Carlos Sainz praises Kimi Antonelli for apology after \u201cidiot\u201d comment",
+      "body": "Carlos Sainz has praised Kimi Antonelli for spontaneously apologising after the Italian called the Spaniard an \u201cidiot\u201d over team radio at Formula 1\u2019s Belgian Grand Prix.In the open...",
+      "url": "https://www.motorsport.com/f1/news/carlos-sainz-praises-kimi-antonelli-for-apology-after-idiot-comment/10840068/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-19T09:08:48Z",
+    "lastUpdatedUtc": "2026-07-19T10:54:36Z",
     "source": "jolpica"
   },
   "nextRace": {
