@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Antonelli wins to extend lead after Russell crashes out",
+      "body": "Mercedes' Kimi Antonelli re-establishes a comfortable championship lead with victory in the Belgian Grand Prix while team-mate George Russell crashes out.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cevmymn2kd8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Mercedes driver scout Lagrue joining Red Bull",
       "body": "The Mercedes driver scout involved in discovering Kimi Antonelli is leaving the team to join rivals Red Bull.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Russell 'infuriated' by straight-line issue that leaves him 'powerless'",
@@ -17,52 +25,44 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/clyq6q12dkko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
-      "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Antonelli takes Belgium pole from Verstappen",
-      "body": "Mercedes' Kimi Antonelli takes pole position at the Belgian Grand Prix, leaving team-mate George Russell trailing in fourth.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cp8xep2w0epo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Red Bull set to sign Mercedes F1 junior boss Lagrue",
-      "body": "Mercedes\u2019 junior driver programme boss Gwen Lagrue is set to join the Red Bull Formula 1 team in a similar role, Autosport understands.There is a side of F1 that rarely makes the h...",
-      "url": "https://www.autosport.com/f1/news/red-bull-hires-mercedes-f1-junior-boss-gwen-lagrue/10840156/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Why Leclerc wasn\u2019t penalised for clash with Piastri in Belgian GP",
+      "body": "Charles Leclerc avoided a penalty for a clash with Oscar Piastri during the Formula 1 Belgian Grand Prix after the stewards judged the Ferrari driver didn\u2019t deliberately instigate ...",
+      "url": "https://www.autosport.com/f1/news/why-charles-leclerc-wasnt-penalised-for-clash-with-oscar-piastri-in-belgian-gp/10840237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Why F1 drivers are being beaten by their own power units",
-      "body": "McLaren suspects Oscar Piastri's deficit to team-mate Lando Norris has \"nothing to do with his driving\", and everything with its Formula 1 power unit algorithms.Piastri qualified t...",
-      "url": "https://www.autosport.com/f1/news/why-f1-drivers-are-being-beaten-by-their-own-power-units/10840087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Ferrari summoned for Hamilton's Belgian GP unsafe release after hitting mechanic",
+      "body": "Ferrari has been summoned to visit the Formula 1 stewards' office following Lewis Hamilton's apparent unsafe release during the Belgian Grand Prix, in which he knocked down a mecha...",
+      "url": "https://www.autosport.com/f1/news/ferrari-summoned-for-lewis-hamiltons-belgian-gp-unsafe-release-after-hitting-mechanic/10840229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Hamilton: Ferrari F1 car \"didn't feel the same\" after Belgian GP practice crash",
-      "body": "After smashing up his car in Saturday's third free practice at the exit of Fagnes, Lewis Hamilton qualifying just 0.002s behind Ferrari team-mate Charles Leclerc could be seen as a...",
-      "url": "https://www.autosport.com/f1/news/hamilton-ferrari-f1-car-didnt-feel-the-same-after-belgian-gp-practice-crash/10840037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "F1 Belgian GP: Antonelli reels in Leclerc to win, Russell out after Hamilton clash",
+      "body": "Kimi Antonelli put a pass on Charles Leclerc to secure victory at the Belgian Grand Prix, as his Mercedes Formula 1 team-mate George Russell retired on the opening lap after contac...",
+      "url": "https://www.autosport.com/f1/news/f1-belgian-gp-race-report-10840199/10840199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Red Bull names successor to Max Verstappen's race engineer Gianpiero Lambiase",
-      "body": "As expected, Red Bull will fill Gianpiero Lambiase's impending departure from within. Max Verstappen revealed a few weeks ago that he already had someone in mind within the team to...",
-      "url": "https://www.motorsport.com/f1/news/red-bull-names-successor-to-max-verstappens-race-engineer-lambiase/10840174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why Charles Leclerc wasn\u2019t penalised for clash with Oscar Piastri in Belgian GP",
+      "body": "Charles Leclerc avoided a penalty for a clash with Oscar Piastri during the Formula 1 Belgian Grand Prix after the stewards judged the Ferrari driver didn\u2019t deliberately instigate ...",
+      "url": "https://www.motorsport.com/f1/news/why-charles-leclerc-wasnt-penalised-for-clash-with-oscar-piastri-in-belgian-gp/10840226/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell out of F1 Belgian GP after Lewis Hamilton contact",
-      "body": "Mercedes' George Russell suffered his latest blow in the 2026 Formula 1 championship after opening lap contact with Ferrari's Lewis Hamilton punted him out of the Belgian Grand Pri...",
-      "url": "https://www.motorsport.com/f1/news/george-russell-out-of-f1-belgian-gp-after-lewis-hamilton-contact/10840165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Ferrari summoned for Lewis Hamilton's Belgian GP unsafe release after hitting mechanic",
+      "body": "Ferrari has been summoned to visit the Formula 1 stewards' office following Lewis Hamilton's apparent unsafe release during the Belgian Grand Prix, in which he knocked down a mecha...",
+      "url": "https://www.motorsport.com/f1/news/ferrari-summoned-for-hamiltons-belgian-gp-unsafe-release-after-hitting-mechanic/10840224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-19T14:03:50Z",
+    "lastUpdatedUtc": "2026-07-19T15:32:09Z",
     "source": "jolpica"
   },
   "nextRace": {
