@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Hamilton keeps F1 Belgian GP fourth-place finish as mechanic escapes unhurt",
+      "body": "The mechanic hit by Lewis Hamilton during Formula 1\u2019s Belgian Grand Prix pitstop escaped without injury, Ferrari confirmed, with the team fined 30,000 euro for an unsafe release.Ha...",
+      "url": "https://www.autosport.com/f1/news/lewis-hamilton-keeps-fourth-in-f1-belgian-gp-as-mechanic-escapes-unhurt/10840317/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Ferrari criticises \"mega harsh\" penalty for Hamilton in F1 Belgian GP",
       "body": "Both Lewis Hamilton and his Ferrari team boss, Frederic Vasseur, profoundly disagree with the five-second penalty he received for a collision with George Russell\u2019s Mercedes on the ...",
       "url": "https://www.autosport.com/f1/news/ferrari-criticises-mega-harsh-lewis-hamilton-penalty-in-f1-belgian-gp/10840302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Leclerc wasn\u2019t penalised for clash with Piastri in Belgian GP",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-charles-leclerc-wasnt-penalised-for-clash-with-oscar-piastri-in-belgian-gp/10840237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Ferrari summoned for Hamilton's Belgian GP unsafe release after hitting mechanic",
-      "body": "Ferrari has been summoned to visit the Formula 1 stewards' office following Lewis Hamilton's apparent unsafe release during the Belgian Grand Prix, in which he knocked down a mecha...",
-      "url": "https://www.autosport.com/f1/news/ferrari-summoned-for-lewis-hamiltons-belgian-gp-unsafe-release-after-hitting-mechanic/10840229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Ferrari criticises \"mega harsh\" Lewis Hamilton penalty in F1 Belgian GP",
-      "body": "Both Lewis Hamilton and his Ferrari team boss, Frederic Vasseur, profoundly disagree with the five-second penalty he received for a collision with George Russell\u2019s Mercedes on the ...",
-      "url": "https://www.motorsport.com/f1/news/ferrari-criticises-mega-harsh-lewis-hamilton-penalty-in-f1-belgian-gp/10840294/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"Kimi can buy me dinner.\" Valtteri Bottas jokes about his part in Antonelli\u2019s Belgian GP win",
+      "body": "Negotiating traffic is a fact of life in Formula 1 racing, all the more so given the current pace differential between the front and back of the grid in a new regulatory era.It was...",
+      "url": "https://www.motorsport.com/f1/news/kimi-can-buy-me-dinner-valtteri-bottas-jokes-about-his-part-in-antonellis-belgian-gp-win/10840347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Bernie Collins explains key factor behind Kimi Antonelli's F1 Belgian GP win",
-      "body": "Mercedes driver Kimi Antonelli has been lauded for his maturity following a hard-fought victory at the Belgian Grand Prix, with former Formula 1 strategist and Sky Sports analyst B...",
-      "url": "https://www.motorsport.com/f1/news/bernie-collins-explains-key-factor-behind-kimi-antonellis-f1-belgian-gp-win/10840272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "All Mercedes cars struggled with power issue at Belgian GP start, reveals Toto Wolff",
+      "body": "Mercedes Formula 1 chief Toto Wolff revealed all Mercedes powered cars suffered with a lack of energy deployment at the Belgian Grand Prix start, with George Russell the biggest vi...",
+      "url": "https://www.motorsport.com/f1/news/all-mercedes-cars-struggled-with-power-issue-at-belgian-gp-start-reveals-toto-wolff/10840329/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-19T17:05:50Z",
+    "lastUpdatedUtc": "2026-07-19T18:30:09Z",
     "source": "jolpica"
   },
   "nextRace": {
