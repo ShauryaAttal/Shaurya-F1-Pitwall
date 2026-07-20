@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "The new strengths Antonelli has shown in F1, 12 months on from 'reaching the bottom'",
+      "body": "What a difference a year makes. Twelve months ago at Spa-Francorchamps, a teary-eyed Kimi Antonelli struggled to maintain his composure in the media pen, amid an ordeal of a sprint...",
+      "url": "https://www.autosport.com/f1/news/what-makes-kimi-antonelli-such-a-good-f1-driver-now-as-per-toto-wolff/10840493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "What we can learn from Mercedes' floor after Russell's Belgian GP retirement",
       "body": "The last thing that a Formula 1 aerodynamicist wants is to see their car dangling precariously from a crane - beyond the implication of their driver being rendered unable to take f...",
       "url": "https://www.autosport.com/f1/news/what-we-can-learn-from-mercedes-floor-after-george-russells-belgian-gp-retirement/10840511/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Wolff admits Mercedes has most powerful F1 engine \u2013 and Red Bull agrees \u2013 as ADUO returns to spotlight",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/toto-wolff-admits-mercedes-has-most-powerful-f1-engine-and-red-bull-agrees-as-aduo-returns-to-spotl/10840476/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Hamilton keeps F1 Belgian GP fourth-place finish as mechanic escapes unhurt",
-      "body": "The mechanic hit by Lewis Hamilton during Formula 1\u2019s Belgian Grand Prix pitstop escaped without injury, Ferrari confirmed, with the team fined 30,000 euro for an unsafe release.Ha...",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-keeps-fourth-in-f1-belgian-gp-as-mechanic-escapes-unhurt/10840317/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\"It sucks\" \u2013 Oscar Piastri feels F1 grids are decided by \"computers behaving or misbehaving\"",
-      "body": "From the very beginning, it was clear that the Formula 1 weekend at Spa-Francorchamps would present a major challenge in terms of energy management. The \"energy-starved\" circuit in...",
-      "url": "https://www.motorsport.com/f1/news/it-sucks-oscar-piastri-feels-f1-grids-are-decided-by-computers-behaving-or-misbehaving/10840500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "What makes Kimi Antonelli such a good F1 driver now, as per Toto Wolff",
+      "body": "What a difference a year makes. Twelve months ago at Spa-Francorchamps, a teary-eyed Kimi Antonelli struggled to maintain his composure in the media pen, amid an ordeal of a sprint...",
+      "url": "https://www.motorsport.com/f1/news/what-makes-kimi-antonelli-such-a-good-f1-driver-now-as-per-toto-wolff/10840482/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Toto Wolff admits Mercedes has most powerful F1 engine \u2013 and Red Bull agrees \u2013 as ADUO returns to spotlight",
-      "body": "Toto Wolff admitted that Mercedes has the strongest Formula 1 power unit, which has sparked interest from Red Bull, as the ADUO monitoring comes into the spotlight again.One of the...",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-admits-mercedes-has-most-powerful-f1-engine-and-red-bull-agrees-as-aduo-returns-to-spotl/10840464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Ferrari should have signed Gianpiero Lambiase for Lewis Hamilton, says F1 broadcaster",
+      "body": "Formula 1 broadcaster and host of the official press conferences Tom Clarkson believes Ferrari missed a trick by not signing Gianpiero Lambiase to work alongside seven-time champio...",
+      "url": "https://www.motorsport.com/f1/news/ferrari-should-have-signed-gianpiero-lambiase-for-lewis-hamilton-says-f1-broadcaster/10840555/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-20T12:33:48Z",
+    "lastUpdatedUtc": "2026-07-20T15:16:19Z",
     "source": "jolpica"
   },
   "nextRace": {
