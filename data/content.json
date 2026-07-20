@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "What we can learn from Mercedes' floor after Russell's Belgian GP retirement",
+      "body": "The last thing that a Formula 1 aerodynamicist wants is to see their car dangling precariously from a crane - beyond the implication of their driver being rendered unable to take f...",
+      "url": "https://www.autosport.com/f1/news/what-we-can-learn-from-mercedes-floor-after-george-russells-belgian-gp-retirement/10840511/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Wolff admits Mercedes has most powerful F1 engine \u2013 and Red Bull agrees \u2013 as ADUO returns to spotlight",
       "body": "Toto Wolff admitted that Mercedes has the strongest Formula 1 power unit, which has sparked interest from Red Bull, as the ADUO monitoring comes into the spotlight again.One of the...",
       "url": "https://www.autosport.com/f1/news/toto-wolff-admits-mercedes-has-most-powerful-f1-engine-and-red-bull-agrees-as-aduo-returns-to-spotl/10840476/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Hamilton keeps F1 Belgian GP fourth-place finish as mechanic escapes unhurt",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/lewis-hamilton-keeps-fourth-in-f1-belgian-gp-as-mechanic-escapes-unhurt/10840317/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Ferrari criticises \"mega harsh\" penalty for Hamilton in F1 Belgian GP",
-      "body": "Both Lewis Hamilton and his Ferrari team boss, Frederic Vasseur, profoundly disagree with the five-second penalty he received for a collision with George Russell\u2019s Mercedes on the ...",
-      "url": "https://www.autosport.com/f1/news/ferrari-criticises-mega-harsh-lewis-hamilton-penalty-in-f1-belgian-gp/10840302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Two pitstops in two laps \u2013 The odd strategy that made Isack Hadjar\u2019s recovery",
-      "body": "You don\u2019t typically expect a Formula 1 driver to pit twice at the start of a race and end up sixth under the chequered flag, but that\u2019s exactly what Red Bull\u2019s Isack Hadjar did at ...",
-      "url": "https://www.motorsport.com/f1/news/two-pitstops-in-two-laps-the-odd-strategy-that-made-isack-hadjars-recovery/10840355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"It sucks\" \u2013 Oscar Piastri feels F1 grids are decided by \"computers behaving or misbehaving\"",
+      "body": "From the very beginning, it was clear that the Formula 1 weekend at Spa-Francorchamps would present a major challenge in terms of energy management. The \"energy-starved\" circuit in...",
+      "url": "https://www.motorsport.com/f1/news/it-sucks-oscar-piastri-feels-f1-grids-are-decided-by-computers-behaving-or-misbehaving/10840500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Who slept worst last night: Jolyon Palmer",
-      "body": "It will be 1 August when I return to full-time duty as a Formula 1 journalist. That means I currently have plenty of time to listen to podcasts while hiking through the Austrian mo...",
-      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-jolyon-palmer/10840402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Toto Wolff admits Mercedes has most powerful F1 engine \u2013 and Red Bull agrees \u2013 as ADUO returns to spotlight",
+      "body": "Toto Wolff admitted that Mercedes has the strongest Formula 1 power unit, which has sparked interest from Red Bull, as the ADUO monitoring comes into the spotlight again.One of the...",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-admits-mercedes-has-most-powerful-f1-engine-and-red-bull-agrees-as-aduo-returns-to-spotl/10840464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-20T10:17:57Z",
+    "lastUpdatedUtc": "2026-07-20T12:33:48Z",
     "source": "jolpica"
   },
   "nextRace": {
