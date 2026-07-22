@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "What Alonso needs from Aston Martin and F1 as career decision looms",
+      "body": "As Fernando Alonso turns 45 on 29 July, one wonders what motivates a two-time Formula 1 champion to keep going amid Aston Martin's unprecedented slump. It's clearly not just succes...",
+      "url": "https://www.autosport.com/f1/news/what-alonso-needs-from-aston-martin-and-f1-as-career-decision-looms/10840948/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "F1 drivers raise concerns over 'self-learning' power units \u2013 what's going on?",
       "body": "When the assembled media gathered in the McLaren hospitality on Saturday for Andrea Stella's session, the team boss shared one of the most revealing quotes of this Formula 1 season...",
       "url": "https://www.autosport.com/f1/news/f1-drivers-raise-concerns-over-self-learning-power-units/10840887/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why the 2026 F1 cars suit Antonelli's driving style more than Russell",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-2026-cars-antonelli-driving-style-versus-russell/10840859/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Hamilton takes \"full responsibility\" for disappointing Belgian GP",
-      "body": "Lewis Hamilton took \"full responsibility\" for his inability to challenge for the podium at the Belgian Grand Prix, which he reckoned was traceable to his Formula 1 practice crash i...",
-      "url": "https://www.autosport.com/f1/news/hamilton-takes-full-responsibility-for-disappointing-belgian-gp/10840845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Why Aston Martin\u2019s updated F1 car holds the key to the 2027 driver market",
-      "body": "In just a few days, Aston Martin will debut the B-spec version of the AMR26, a car that has been well below expectations in the first half of the Formula 1 season.Some describe the...",
-      "url": "https://www.motorsport.com/f1/news/f1-the-new-aston-martin-is-the-key-to-the-2027-driver-market/10840875/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\u2018It\u2019s been a while since we were truly racing\u2019 - Aston Martin pins F1 hopes on Hungarian GP upgrades",
+      "body": "The Belgian Grand Prix brought yet another disappointment for Aston Martin in a season that has already been miserable for the Formula 1 team. Lance Stroll failed to see the cheque...",
+      "url": "https://www.motorsport.com/f1/news/its-been-a-while-since-we-were-truly-racing-aston-martin-hopes-upgrades-will-turn-around-its-f1-sea/10840917/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Explained: Are drivers really being beaten by AI elements in F1's 2026 power units?",
-      "body": "When the assembled media gathered in the McLaren hospitality on Saturday for Andrea Stella's media session, the Italian team boss shared one of the most revealing quotes of this Fo...",
-      "url": "https://www.motorsport.com/f1/news/explained-are-drivers-really-being-beaten-by-ai-elements-in-f1s-2026-power-units/10840877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Five things to look out for at the F1 Hungarian GP",
+      "body": "Formula 1 is set for its final race before the annual summer break with this weekend\u2019s Hungarian Grand Prix, which comes just a week after Belgium.It will be the 11th round of the ...",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-hungarian-gp/10840924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-22T14:35:50Z",
+    "lastUpdatedUtc": "2026-07-22T16:25:24Z",
     "source": "jolpica"
   },
   "nextRace": {
