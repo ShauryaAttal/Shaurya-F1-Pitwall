@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Hamilton takes \"full responsibility\" for disappointing Belgian GP",
+      "body": "Lewis Hamilton took \"full responsibility\" for his inability to challenge for the podium at the Belgian Grand Prix, which he reckoned was traceable to his Formula 1 practice crash i...",
+      "url": "https://www.autosport.com/f1/news/hamilton-takes-full-responsibility-for-disappointing-belgian-gp/10840845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "McLaren to finally trial 'Macarena-style' rear wing in Hungarian GP practice",
       "body": "The McLaren Formula 1 team will finally trial its upside-down rear wing at this weekend's Hungarian Grand Prix, where it unleashes a significant upgrade package to improve its comp...",
       "url": "https://www.autosport.com/f1/news/mclaren-to-trial-new-rear-wing-at-hungarian-gp/10840779/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 juniors shine in F2 2026 title fight",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/formula2/news/f1-juniors-shine-in-f2-title-fight/10840745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "The key factor as Alonso weighs up F1 future",
-      "body": "Fernando Alonso insists his Formula 1 future will not depend upon Aston Martin\u2019s performance over the remainder of 2026, but whether he can enjoy driving the current hybrid cars.Th...",
-      "url": "https://www.autosport.com/f1/news/the-key-factor-as-alonso-weighs-up-f1-future/10840716/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "McLaren brings long-awaited Hungary F1 upgrade, trials 'Macarena' rear wing",
-      "body": "The McLaren Formula 1 team will finally trial its upside-down rear wing at this weekend's Hungarian Grand Prix, where it unleashes a significant upgrade package to improve its comp...",
-      "url": "https://www.motorsport.com/f1/news/mclaren-brings-long-awaited-hungary-f1-upgrade-trials-macarena-rear-wing/10840774/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "The Next Generation: Nikola Tsolov",
+      "body": "Read Also:FIA F2F2 title race takes shape as F1 juniors shine at SpaHow my motorsport journey started\u201cIt started back in 2016, in Bulgaria, with a category called Mini Bulgaria, ac...",
+      "url": "https://www.motorsport.com/fia-f2/news/the-next-generation-nikola-tsolov/10839728/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Oscar Piastri among drivers skipping FP1 as rookies join F1 Hungary weekend",
-      "body": "McLaren junior Leonardo Fornaroli will get his second opportunity of 2026 to take part in a grand prix weekend, deputising for Oscar Piastri in FP1 at the Hungaroring.The highly-ra...",
-      "url": "https://www.motorsport.com/f1/news/piastri-colapinto-bearman-to-skip-fp1-as-rookie-drivers-join-f1-hungary-weekend/10840763/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lewis Hamilton takes \"full responsibility\" for disappointing Belgian GP result",
+      "body": "Lewis Hamilton took \"full responsibility\" for his inability to challenge for the podium at the Belgian Grand Prix, which he reckoned was traceable to his Formula 1 practice crash i...",
+      "url": "https://www.motorsport.com/f1/news/hamilton-takes-full-responsibility-for-not-delivering-on-ferrari-pace-at-belgian-gp/10840771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-22T07:14:46Z",
+    "lastUpdatedUtc": "2026-07-22T10:02:17Z",
     "source": "jolpica"
   },
   "nextRace": {
