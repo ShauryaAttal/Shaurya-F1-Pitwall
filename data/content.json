@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Aston Martin's Hungarian GP upgrade is big \u2013 but not as big as F1 insiders expected it to be",
+      "body": "\"One rumour I heard, the only thing that's the same as the current car is the front suspension. Everything else is new. So let's see.\"So Valtteri Bottas said on the eve of the Hung...",
+      "url": "https://www.autosport.com/f1/news/aston-martins-hungarian-gp-upgrade-is-big-but-not-as-big-as-f1-insiders-expected-it-to-be/10841087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "What Alonso needs from Aston Martin and F1 as career decision looms",
       "body": "As Fernando Alonso turns 45 on 29 July, one wonders what motivates a two-time Formula 1 champion to keep going amid Aston Martin's unprecedented slump. It's clearly not just succes...",
       "url": "https://www.autosport.com/f1/news/what-alonso-needs-from-aston-martin-and-f1-as-career-decision-looms/10840948/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 drivers raise concerns over 'self-learning' power units \u2013 what's going on?",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-drivers-raise-concerns-over-self-learning-power-units/10840887/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why the 2026 F1 cars suit Antonelli's driving style more than Russell",
-      "body": "Six wins, six pole positions and the Formula 1 championship lead. While one year ago Kimi Antonelli had faced one of his toughest weekends in F1, he has now taken a sweet revenge, ...",
-      "url": "https://www.autosport.com/f1/news/f1-2026-cars-antonelli-driving-style-versus-russell/10840859/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Karun Chandhok warns Mercedes issues could trigger \"irrational paranoia\" in George Russell",
-      "body": "Former Formula 1 driver and Sky Sports analyst Karun Chandhok has warned that ongoing power unit anomalies at Mercedes risk sending George Russell into a mental spiral of \"irration...",
-      "url": "https://www.motorsport.com/f1/news/karun-chandhok-warns-mercedes-issues-could-trigger-irrational-paranoia-in-george-russell/10841053/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "McLaren told to shift focus to 2027 after falling behind in 2026 F1 development race",
+      "body": "Former Formula 1 driver Karun Chandhok believes McLaren has failed to keep pace in the 2026 development race, arguing that the reigning constructors' champion must now shift its fo...",
+      "url": "https://www.motorsport.com/f1/news/mclaren-told-to-shift-focus-to-2027-after-falling-behind-in-2026-f1-development-race/10841079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "David Croft: 2026 F1 power units denied fans racing they deserved at Spa-Francorchamps",
-      "body": "Sky Sports Formula 1 lead commentator David Croft believes the 2026 power units 'denied fans the racing they deserved' at classic circuits such as Spa-Francorchamps and Silverstone...",
-      "url": "https://www.motorsport.com/f1/news/david-croft-2026-f1-power-units-denied-fans-racing-they-deserved-at-classic-circuits/10841045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Cadillac's Sergio Perez fears Aston Martin's Hungary B-spec will \"close the gap\"",
+      "body": "Cadillac Formula 1 driver Sergio Perez believes Aston Martin's significant car update at this weekend's Hungarian GP will close the gap with his team.Aston Martin has struggled mas...",
+      "url": "https://www.motorsport.com/f1/news/cadillac-sergio-perez-fears-aston-martins-hungary-close-the-gap/10841066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-23T11:27:35Z",
+    "lastUpdatedUtc": "2026-07-23T13:07:09Z",
     "source": "jolpica"
   },
   "nextRace": {
