@@ -4,8 +4,8 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Stroll has suspension failure on new Aston Martin",
-      "body": "Lance Stroll spins out with a rear suspension failure on the new Aston Martin as Charles Leclerc sets the pace in Hungarian Grand Prix practice.",
+      "headline": "Promising results from new Aston Martin, says Newey",
+      "body": "Adrian Newey says the new Aston Martin had showed \"promising results\" in its first on-track session at the Hungarian Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c3v0wp9yvdgo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Why fans don't get true picture of driver performance with 2026 F1 rules - but it is fixable, according to Haas boss",
+      "body": "Technical changes implemented ahead of this year's Miami Grand Prix mollified some of the complaints about Formula 1's new format, but these have resurfaced after two successive ev...",
+      "url": "https://www.autosport.com/f1/news/why-fans-dont-get-true-picture-of-driver-performance-with-2026-f1-rules-but-it-is-fixable-according/10841393/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "F1 Hungarian GP: Leclerc tops FP1, Stroll suffers suspected suspension failure with upgraded Aston Martin",
       "body": "Ferrari driver Charles Leclerc topped opening practice at Formula 1's Hungarian Grand Prix, his early benchmark proving over four tenths quicker than Red Bull's Max Verstappen and ...",
       "url": "https://www.autosport.com/f1/news/f1-hungarian-gp-fp1-report-/10841359/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Malaysia weighs up F1 2026 round as rescheduled Bahrain GP plan fades",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/malaysia-weighs-up-f1-2026-round-as-rescheduled-bahrain-gp-plan-fades/10841345/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "\u2018If you're not ready to adapt, you're not good enough\u2019 - Norris addresses changing driving styles in F1 2026",
-      "body": "Drivers have been vocal about how the complex energy deployment needs of the 2026 generation of Formula 1 cars have impacted how they have to be driven, with the reliance on energy...",
-      "url": "https://www.autosport.com/f1/news/you-have-to-do-it-lando-norris-admits-f1-drivers-are-paid-millions-to-adapt-to-2026-f1-cars/10841286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Aston Martin success under Adrian Newey is only a matter of time, says former F1 driver",
-      "body": "Former Formula 1 driver Juan Pablo Montoya has backed Adrian Newey to turn Aston Martin's season around, arguing that it is only a matter of time before the Silverstone outfit find...",
-      "url": "https://www.motorsport.com/f1/news/aston-martin-success-under-adrian-newey-is-only-a-matter-of-time-says-former-f1-driver/10841379/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Hungaroring officially names every corner with F1 legends honoured on 40th anniversary",
+      "body": "To mark four decades of Formula 1 grand prix racing in Hungary, track officials have named every corner of the Hungaroring.Half of the corners are named after F1 legends, including...",
+      "url": "https://www.motorsport.com/f1/news/hungaroring-officially-names-every-corner-with-f1-legends-honoured-on-40th-anniversary/10841422/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 Hungarian GP: Charles Leclerc tops FP1 as Lance Stroll brings out red flags",
-      "body": "Ferrari driver Charles Leclerc topped opening practice at Formula 1's Hungarian Grand Prix, his early benchmark proving over four tenths quicker than Red Bull's Max Verstappen and ...",
-      "url": "https://www.motorsport.com/f1/news/f1-hungarian-gp-fp1-report-/10841357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Fans don't get a true picture of driver performance with 2026 F1 rules \u2013 but it's fixable, says Haas boss",
+      "body": "Technical changes implemented ahead of this year's Miami Grand Prix mollified some of the complaints about Formula 1's new format, but these have resurfaced after two successive ev...",
+      "url": "https://www.motorsport.com/f1/news/fans-dont-get-a-true-picture-of-driver-performance-with-2026-f1-rules-but-its-fixable-says-haas-boss/10841374/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-24T13:02:27Z",
+    "lastUpdatedUtc": "2026-07-24T15:13:50Z",
     "source": "jolpica"
   },
   "nextRace": {
