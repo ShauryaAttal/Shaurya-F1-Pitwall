@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Stroll has suspension failure on new Aston Martin",
+      "body": "Lance Stroll spins out with a rear suspension failure on the new Aston Martin as Charles Leclerc sets the pace in Hungarian Grand Prix practice.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c3v0wp9yvdgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Russell proud of resilience after string of problems",
       "body": "George Russell says he has had to be \"the most resilient I've ever been\" to cope with the string of problems that have affected his title challenge.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cgew7p77v41o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Alonso optimistic about Aston Martin upgrade - will it decide his future?",
@@ -17,15 +25,23 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g4zjmmgj4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "How to follow Hungarian Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the Hungarian Grand Prix at the Hunugaroring, from 24-26 July.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cq56233yy4po?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 Hungarian GP: Leclerc tops FP1, Stroll suffers suspected suspension failure with upgraded Aston Martin",
+      "body": "Ferrari driver Charles Leclerc topped opening practice at Formula 1's Hungarian Grand Prix, his early benchmark proving over four tenths quicker than Red Bull's Max Verstappen and ...",
+      "url": "https://www.autosport.com/f1/news/f1-hungarian-gp-fp1-report-/10841359/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Malaysia weighs up F1 2026 round as rescheduled Bahrain GP plan fades",
+      "body": "The Malaysian government is conducting a feasibility study into organising a last-minute Formula 1 grand prix as the Middle Eastern conflict continues to throw plans into disarray....",
+      "url": "https://www.autosport.com/f1/news/malaysia-weighs-up-f1-2026-round-as-rescheduled-bahrain-gp-plan-fades/10841345/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "\u2018If you're not ready to adapt, you're not good enough\u2019 - Norris addresses changing driving styles in F1 2026",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/you-have-to-do-it-lando-norris-admits-f1-drivers-are-paid-millions-to-adapt-to-2026-f1-cars/10841286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "\"You're not allowed to make a difference\" \u2013 Verstappen says the fastest F1 drivers are penalised",
-      "body": "Following the race weekend at Spa-Francorchamps, and particularly Oscar Piastri's strong comments, one topic dominates media day in Budapest: energy management, more specifically t...",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-at-first-they-said-i-was-complaining-now-more-people-see-what-f1-2026-is-like/10841206/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Russell: Data shows software calibration behind recent F1 struggles, not driving style",
-      "body": "George Russell believes that he and Mercedes have found the root cause for his recent Formula 1 struggles, and that he no longer needs to focus on adapting his driving to get the m...",
-      "url": "https://www.autosport.com/f1/news/russell-data-shows-software-calibration-behind-recent-f1-struggles-not-driving-style/10841172/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Racing Bulls grows wings: VCARB 03 adds two fins to airbox in Hungary update",
-      "body": "After debuting a slew of Formula 1 updates on one car at the Belgian Grand Prix last week, Racing Bulls has brought the new parts to its second car in Hungary \u2013 along with further ...",
-      "url": "https://www.motorsport.com/f1/news/f1-racing-bulls-also-sprouts-wings-two-fins-have-appeared-on-the-new-airbox/10841317/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Aston Martin success under Adrian Newey is only a matter of time, says former F1 driver",
+      "body": "Former Formula 1 driver Juan Pablo Montoya has backed Adrian Newey to turn Aston Martin's season around, arguing that it is only a matter of time before the Silverstone outfit find...",
+      "url": "https://www.motorsport.com/f1/news/aston-martin-success-under-adrian-newey-is-only-a-matter-of-time-says-former-f1-driver/10841379/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Esteban Ocon and Oliver Bearman contact \"cannot happen again, full stop\"",
-      "body": "The 2026 Belgian Grand Prix saw Haas record its fourth consecutive race without scoring a single Formula 1 point, following a start to the season that had shown some promise. Howev...",
-      "url": "https://www.motorsport.com/f1/news/ocon-bearman-contact-this-must-never-happen-again-full-stop/10841307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 Hungarian GP: Charles Leclerc tops FP1 as Lance Stroll brings out red flags",
+      "body": "Ferrari driver Charles Leclerc topped opening practice at Formula 1's Hungarian Grand Prix, his early benchmark proving over four tenths quicker than Red Bull's Max Verstappen and ...",
+      "url": "https://www.motorsport.com/f1/news/f1-hungarian-gp-fp1-report-/10841357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-24T11:19:04Z",
+    "lastUpdatedUtc": "2026-07-24T13:02:27Z",
     "source": "jolpica"
   },
   "nextRace": {
