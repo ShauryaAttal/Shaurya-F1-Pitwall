@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "\u2018If you're not ready to adapt, you're not good enough\u2019 - Norris addresses changing driving styles in F1 2026",
+      "body": "Drivers have been vocal about how the complex energy deployment needs of the 2026 generation of Formula 1 cars have impacted how they have to be driven, with the reliance on energy...",
+      "url": "https://www.autosport.com/f1/news/you-have-to-do-it-lando-norris-admits-f1-drivers-are-paid-millions-to-adapt-to-2026-f1-cars/10841286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "\"You're not allowed to make a difference\" \u2013 Verstappen says the fastest F1 drivers are penalised",
       "body": "Following the race weekend at Spa-Francorchamps, and particularly Oscar Piastri's strong comments, one topic dominates media day in Budapest: energy management, more specifically t...",
       "url": "https://www.autosport.com/f1/news/max-verstappen-at-first-they-said-i-was-complaining-now-more-people-see-what-f1-2026-is-like/10841206/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Russell: Data shows software calibration behind recent F1 struggles, not driving style",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/russell-data-shows-software-calibration-behind-recent-f1-struggles-not-driving-style/10841172/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Mercedes identifies Russell's F1 power unit software issue",
-      "body": "George Russell will have to wait until the Italian Grand Prix to find out whether Mercedes has truly identified the cause of the anomalies that hampered him between Silverstone and...",
-      "url": "https://www.autosport.com/f1/news/mercedes-identifies-george-russells-f1-power-unit-software-issue/10841141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Guenther Steiner: Ferrari focus is limiting Kimi Antonelli's Italian support",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner feels Italian fans are yet to fully embrace Kimi Antonelli, suggesting the nation's traditional focus on Ferrari is currently ...",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-ferrari-focus-is-limiting-kimi-antonellis-italian-support/10841222/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\u201cYou have to do it\u201d - Lando Norris admits F1 drivers are \u201cpaid millions\u201d to adapt to 2026 F1 cars",
+      "body": "Drivers have been vocal about how the complex energy deployment needs of the 2026 generation of Formula 1 cars have impacted how they have to be driven, with the reliance on energy...",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-on-adapting-to-2026-f1-cars-its-what-were-paid-millions-for/10841282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen: \"At first they said I was complaining \u2013 now more people see what F1 2026 is like\"",
-      "body": "Following the race weekend at Spa-Francorchamps, and particularly Oscar Piastri's strong comments, one topic dominates media day in Budapest: energy management, more specifically t...",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-at-first-they-said-i-was-complaining-now-more-people-see-what-f1-2026-is-like/10841197/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Guenther Steiner delivers blunt verdict on Esteban Ocon's future at Haas",
+      "body": "Former Haas Formula 1 team principal Guenther Steiner believes Esteban Ocon is likely in his final year with the American outfit, predicting a Ferrari junior will be drafted in to ...",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-delivers-blunt-verdict-on-esteban-ocons-future-at-haas/10841226/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-24T06:32:43Z",
+    "lastUpdatedUtc": "2026-07-24T09:25:42Z",
     "source": "jolpica"
   },
   "nextRace": {
