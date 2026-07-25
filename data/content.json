@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Malaysia set to host F1 race in October",
+      "headline": "Norris beats Hamilton to Hungary pole",
+      "body": "McLaren's Lando Norris takes his first grand prix pole position of 2026, beating Lewis Hamilton with the final lap of the session.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4gv02vyzv4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
+      "headline": "Malaysia set to host postponed Bahrain GP",
       "body": "Malaysia is set to hold a grand prix in October as a replacement for the Bahrain race that was called off earlier this season.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c3w01yvp218o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Hamilton fastest as new Aston Martin makes encouraging debut",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c3v0wp9yvdgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "How to follow Hungarian Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the Hungarian Grand Prix at the Hunugaroring, from 24-26 July.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cq56233yy4po?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 Hungarian GP: Norris trumps Hamilton to pole by 0.012s, Verstappen spins",
+      "body": "Reigning Formula 1 world champion Lando Norris claimed his first pole of the 2026 season at the Hungarian Grand Prix, beating Lewis Hamilton by 0.012s, as Mercedes suffered its fir...",
+      "url": "https://www.autosport.com/f1/news/f1-hungarian-gp-norris-trumps-hamilton-to-pole-by-0012s-verstappen-spins/10841754/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Hungarian GP: Norris beats Hamilton to top final practice",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/f1-hungarian-gp-fp3-report-/10841681/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Hungarian Grand Prix track repaired overnight following driver complaints",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-hungarian-grand-prix-hungaroring-track-repaired-overnight-after-driver-complaints/10841627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Alonso delivers first verdict on Aston Martin F1 car upgrades",
-      "body": "Aston Martin seems to be happy with the performance of the upgraded AMR26, which the team brought to Hungary. Although Lance Stroll endured another difficult day, with a suspension...",
-      "url": "https://www.autosport.com/f1/news/fernando-alonso-delivers-first-verdict-on-aston-martin-f1-car-upgrades/10841508/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Martin Brundle predicts strong George Russell comeback amid Kimi Antonelli threat",
-      "body": "Sky Sports F1 commentator and former driver Martin Brundle has firmly backed George Russell to bounce back from his recent run of misfortune, even as he faces intense pressure from...",
-      "url": "https://www.motorsport.com/f1/news/martin-brundle-predicts-strong-george-russell-comeback-amid-kimi-antonelli-threat/10841728/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 Hungarian GP: Lando Norris pips Lewis Hamilton to nail biting pole position",
+      "body": "Reigning world champion Lando Norris claimed his first pole of the 2026 season at the Hungarian Grand Prix, beating Lewis Hamilton as Mercedes suffered its first Formula 1 grand pr...",
+      "url": "https://www.motorsport.com/f1/news/f1-hungarian-gp-qualifying-results/10841752/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Former F1 driver warns Kimi Antonelli's rivals: \"Within his comfort zone\"",
-      "body": "Former Formula 1 driver Juan Pablo Montoya believes championship leader Kimi Antonelli is operating entirely within his \"comfort zone\", questioning who can realistically challenge ...",
-      "url": "https://www.motorsport.com/f1/news/former-f1-driver-warns-kimi-antonellis-rivals-within-his-comfort-zone/10841245/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Martin Brundle predicts strong George Russell comeback amid Kimi Antonelli threat",
+      "body": "Sky Sports F1 commentator and former driver Martin Brundle has firmly backed George Russell to bounce back from his recent run of misfortune, even as he faces intense pressure from...",
+      "url": "https://www.motorsport.com/f1/news/martin-brundle-predicts-strong-george-russell-comeback-amid-kimi-antonelli-threat/10841728/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-25T14:11:28Z",
+    "lastUpdatedUtc": "2026-07-25T15:42:45Z",
     "source": "jolpica"
   },
   "nextRace": {
