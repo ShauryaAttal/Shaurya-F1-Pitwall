@@ -20,7 +20,7 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Malaysia set to host postponed Bahrain GP",
+      "headline": "Malaysia to host postponed Bahrain GP",
       "body": "Malaysia is set to hold a grand prix in October as a replacement for the Bahrain race that was called off earlier this season.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c3w01yvp218o?at_medium=RSS&at_campaign=rss"
     },
@@ -28,9 +28,9 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "How much time has Aston Martin gained with its F1 Hungarian GP update?",
-      "body": "Aston Martin has been a mainstay of the Q1 elimination zone across the 2026 Formula 1 season, never once progressing to Q2 during the first 10 grand prix qualifying sessions of the...",
-      "url": "https://www.autosport.com/f1/news/how-much-time-has-aston-martin-gained-with-its-f1-hungarian-gp-update/10841905/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Malaysia will officially host F1's 2026 Bahrain GP",
+      "body": "Sepang will host the Bahrain Grand Prix from 2-4 October, as Formula 1 returns to Malaysia for the first time since 2017.Initially featuring four rounds in the Middle East, the 202...",
+      "url": "https://www.autosport.com/f1/news/malaysia-will-officially-host-f1s-2026-bahrain-gp/10842022/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "05",
@@ -52,17 +52,17 @@
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "The data behind McLaren's analysis: Does Ferrari have the best chassis in F1?",
-      "body": "Lewis Hamilton was already parked next to the P1 board on Saturday afternoon when FIA officials had to do a \"Vettel\" by swapping the position boards. McLaren was the last team out ...",
-      "url": "https://www.motorsport.com/f1/news/the-data-behind-mclarens-analysis-does-ferrari-have-the-best-chassis-in-f1/10841982/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why Lewis Hamilton has to start behind Max Verstappen on the Hungarian GP grid",
+      "body": "Following the qualifying session for the 2026 Formula 1 Hungarian Grand Prix, two top drivers were under investigation. It quickly became clear from the footage that Lewis Hamilton...",
+      "url": "https://www.motorsport.com/f1/news/why-lewis-hamilton-has-to-start-behind-max-verstappen-on-the-hungarian-gp-grid/10842018/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Haas \u201cshouldn\u2019t be fighting with\u201d Aston Martin \u2013 Oliver Bearman",
-      "body": "Oliver Bearman has said Haas \u201cshouldn\u2019t be fighting with\u201d Aston Martin and explained his Q1 exit at Formula 1\u2019s Hungarian Grand Prix.As the American team rues its car\u2019s inconsisten...",
-      "url": "https://www.motorsport.com/f1/news/haas-shouldnt-be-fighting-with-aston-martin-oliver-bearman/10841969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Malaysia will officially host F1's 2026 Bahrain GP",
+      "body": "Sepang will host the Bahrain Grand Prix from 2-4 October, as Formula 1 returns to Malaysia for the first time since 2017.Initially featuring four rounds in the Middle East, the 202...",
+      "url": "https://www.motorsport.com/f1/news/f1-will-race-malaysia-again-two-months-from-now/10841999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-26T09:19:21Z",
+    "lastUpdatedUtc": "2026-07-26T11:04:19Z",
     "source": "jolpica"
   },
   "nextRace": {
