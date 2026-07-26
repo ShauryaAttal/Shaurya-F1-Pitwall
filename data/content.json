@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Norris wins his first grand prix of year in Hungary",
+      "body": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Norris cautious despite pole as it 'falls apart' for Hamilton",
       "body": "Lando Norris has an opportunity to win his first grand prix of the year in Hungary, but Lewis Hamilton says his positivity is being tested after another penalty.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Malaysia to host postponed Bahrain GP",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c3w01yvp218o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Norris on pole as Hamilton and Antonelli penalised",
-      "body": "McLaren's Lando Norris takes his first grand prix pole position of 2026 in Hungary, as Lewis Hamilton and Kimi Antonelli are both given grid penalties.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4gv02vyzv4o?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 Hungarian GP: Norris wins from Verstappen and Antonelli, Piastri retires with gearbox failure",
+      "body": "Lando Norris has won his first grand prix of 2026 at Formula 1's Hungarian Grand Prix as early leader Oscar Piastri lost the lead due to lapped traffic, and then retired with a gea...",
+      "url": "https://www.autosport.com/f1/news/f1-hungarian-gp-norris-wins-from-verstappen-and-antonelli-piastri-retires-with-gearbox-failure/10842087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Malaysia will officially host F1's 2026 Bahrain GP",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/malaysia-will-officially-host-f1s-2026-bahrain-gp/10842022/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Antonelli hit with grid drop for yellow flag infringement in F1 Hungarian GP qualifying",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/kimi-antonelli-handed-grid-drop-for-yellow-flag-infringement-in-f1-hungarian-gp-qualifying/10841906/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Hamilton slapped with grid drop for impeding Piastri in F1 Hungarian GP qualifying",
-      "body": "Ferrari's Lewis Hamilton has been handed a three-place grid drop for impeding McLaren driver Oscar Piastri in Formula 1 Hungarian Grand Prix qualifying.Towards the end of the final...",
-      "url": "https://www.autosport.com/f1/news/hamilton-slapped-with-grid-drop-for-impeding-piastri-in-f1-hungarian-gp-qualifying/10841865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton issues apology following Hungarian GP qualifying \"attitude\"",
-      "body": "Ferrari's Lewis Hamilton has issued an apology for his attitude following a frustrating qualifying session for the Hungarian Grand Prix.Speaking during the drivers' parade ahead of...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-issues-apology-following-hungarian-gp-qualifying-attitude/10842070/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why Carlos Sainz only got a five-second penalty for Hungary clash with Oscar Piastri",
+      "body": "Hungarian GP stewards explained why they were more lenient with Carlos Sainz, issuing only a five-second penalty for his collision with Oscar Piastri.Piastri, who was leading the F...",
+      "url": "https://www.motorsport.com/f1/news/why-sainz-only-got-a-five-second-penalty-for-clash-with-piastri/10842124/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Martin Brundle praises F1's \"lateral thinking\" over Malaysia return",
-      "body": "Sky Sports Formula 1 commentator and former driver Martin Brundle has praised F1 bosses for their \"lateral thinking\" after it was confirmed that the championship will return to Mal...",
-      "url": "https://www.motorsport.com/f1/news/martin-brundle-praises-f1s-lateral-thinking-over-malaysia-return/10842053/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 Hungarian GP: Lando Norris takes first 2026 win as frustrated Oscar Piastri retires",
+      "body": "Reigning world champion Lando Norris brought home McLaren's first win of 2026 at the Hungarian GP from Max Verstappen and Kimi Antonelli, while a frustrated Oscar Piastri retired.P...",
+      "url": "https://www.motorsport.com/f1/news/f1-hungarian-gp-lando-norris-mclarens-wins-piastri-dnf/10842085/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-26T14:41:03Z",
+    "lastUpdatedUtc": "2026-07-26T16:07:40Z",
     "source": "jolpica"
   },
   "nextRace": {
