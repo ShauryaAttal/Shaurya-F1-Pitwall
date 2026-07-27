@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Norris: I was better than Piastri in every sense in battle for Hungarian GP victory",
+      "body": "Lando Norris claims he was \u201cjust better in every sense\u201d relative to McLaren team-mate Oscar Piastri on his way to a resounding victory in Formula 1\u2019s Hungarian Grand Prix.After sna...",
+      "url": "https://www.autosport.com/f1/news/lando-norris-i-was-better-than-piastri-in-every-sense-in-battle-for-victory/10842380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "How Ferrari's Hungarian GP meltdown cost a shot at the F1 podium",
       "body": "Rivals claim Ferrari has the most agile chassis in Formula 1, if not the best engine or aerodynamics, so its SF-26 is generally expected to shine at circuits where straightline spe...",
       "url": "https://www.autosport.com/f1/news/ferrari-meltdown-how-the-best-chassis-in-f1-flunked-a-podium-finish-in-hungary/10842342/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "What McLaren thought of Piastri's explosive F1 Hungarian GP radio outburst",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/explained-mclarens-view-of-oscar-piastris-explosive-f1-hungarian-gp-radio-outburst/10842264/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "New Honda F1 engine to debut in Aston Martin filming day ahead of Dutch GP",
-      "body": "Honda has announced it will debut its new Formula 1 power unit at an Aston Martin filming day this Wednesday at the Hungaroring.Fresh from a confidence-boosting Hungarian Grand Pri...",
-      "url": "https://www.autosport.com/f1/news/new-honda-f1-engine-to-debut-in-aston-martin-filming-day/10842222/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Ferrari meltdown: How the best chassis in F1 flunked a podium finish in Hungary",
-      "body": "Rivals claim Ferrari has the most agile chassis in Formula 1, if not the best engine or aerodynamics, so its SF-26 is generally expected to shine at circuits where straightline spe...",
-      "url": "https://www.motorsport.com/f1/news/ferrari-meltdown-how-the-best-chassis-in-f1-flunked-a-podium-finish-in-hungary/10842338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lewis Hamilton penalty sparks fan debate after F1 Hungarian GP",
+      "body": "Formula 1 fans have debated seven-time champion Lewis Hamilton's Hungarian Grand Prix penalty.Hamilton was handed a five-second penalty for exceeding the pitlane speed limit. Makin...",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-penalty-sparks-fan-debate-after-f1-hungarian-gp/10842410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Who slept best last night: Andrea Stella",
-      "body": "Andrea Stella doesn\u2019t approve of chaos - or, frankly, any other form of imperfection.It\u2019s already a well-known tradition even outside the paddock. The Italian\u2019s media sessions are ...",
-      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-andrea-stella-10842276/10842276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Martin Brundle \"intrigued\" by Max Verstappen after Hungarian Grand Prix podium",
+      "body": "Former Formula 1 driver and Sky Sports analyst Martin Brundle was \"intrigued\" by Max Verstappen following the Dutchman's second-place finish at the Hungarian Grand Prix.Although th...",
+      "url": "https://www.motorsport.com/f1/news/martin-brundle-intrigued-by-max-verstappen-after-hungarian-grand-prix-podium/10842400/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-27T07:39:28Z",
+    "lastUpdatedUtc": "2026-07-27T11:32:22Z",
     "source": "jolpica"
   },
   "nextRace": {
