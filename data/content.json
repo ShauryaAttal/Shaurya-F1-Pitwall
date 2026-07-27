@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Mercedes driver scout Lagrue to join Red Bull",
+      "body": "The Mercedes driver scout involved in discovering Kimi Antonelli is leaving the team to join rivals Red Bull.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Norris and McLaren almost perfect as Ferrari flounder",
       "body": "Lando Norris' first grand prix win of 2026 was a long time coming as the mistakes piled up for Ferrari in Hungary, writes Andrew Benson.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Complete weekend for Norris but poor result for Sainz - driver ratings",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c74yr33vvy1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Norris wins his first grand prix of year in Hungary",
-      "body": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Red Bull appoints Lagrue as junior driver chief after Mercedes F1 exit",
+      "body": "Mercedes has announced the departure of young driver guru Gwen Lagrue, with the Frenchman officially joining Red Bull as its Formula 1 junior programme director.As previously repor...",
+      "url": "https://www.autosport.com/f1/news/mercedes-announces-exit-of-young-driver-chief-ahead-of-red-bull-f1-move/10842438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Norris: I was better than Piastri in every sense in battle for Hungarian GP victory",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/lando-norris-i-was-better-than-piastri-in-every-sense-in-battle-for-victory/10842380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "How Ferrari's Hungarian GP meltdown cost a shot at the F1 podium",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/ferrari-meltdown-how-the-best-chassis-in-f1-flunked-a-podium-finish-in-hungary/10842342/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "What McLaren thought of Piastri's explosive F1 Hungarian GP radio outburst",
-      "body": "McLaren team principal Andrea Stella has explained the Formula 1 squad's thinking behind its second pitstop sequence in the Hungarian Grand Prix amid frustration from Oscar Piastri...",
-      "url": "https://www.autosport.com/f1/news/explained-mclarens-view-of-oscar-piastris-explosive-f1-hungarian-gp-radio-outburst/10842264/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton penalty sparks fan debate after F1 Hungarian GP",
-      "body": "Formula 1 fans have debated seven-time champion Lewis Hamilton's Hungarian Grand Prix penalty.Hamilton was handed a five-second penalty for exceeding the pitlane speed limit. Makin...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-penalty-sparks-fan-debate-after-f1-hungarian-gp/10842410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Toto Wolff refuses to call Kimi Antonelli F1 title favourite",
+      "body": "Mercedes boss Toto Wolff refused to call Kimi Antonelli the Formula 1 world championship favourite despite increasing his points lead at the Hungarian Grand Prix.Antonelli fought b...",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-refuses-to-call-kimi-antonelli-f1-title-favourite-/10842429/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Martin Brundle \"intrigued\" by Max Verstappen after Hungarian Grand Prix podium",
-      "body": "Former Formula 1 driver and Sky Sports analyst Martin Brundle was \"intrigued\" by Max Verstappen following the Dutchman's second-place finish at the Hungarian Grand Prix.Although th...",
-      "url": "https://www.motorsport.com/f1/news/martin-brundle-intrigued-by-max-verstappen-after-hungarian-grand-prix-podium/10842400/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Carlos Sainz hit with Community Note on X after Oscar Piastri Hungarian GP collision",
+      "body": "Williams driver Carlos Sainz has been subjected to a humbling 'Community Note' on social media platform X after explaining his collision with Oscar Piastri during the Hungarian Gra...",
+      "url": "https://www.motorsport.com/f1/news/carlos-sainz-hit-with-community-note-on-x-after-oscar-piastri-hungarian-gp-collision/10842483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-27T11:32:22Z",
+    "lastUpdatedUtc": "2026-07-27T14:51:21Z",
     "source": "jolpica"
   },
   "nextRace": {
