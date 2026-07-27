@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "The data behind Russell\u2019s engine software issue that caused his Hungarian GP slow start",
+      "body": "George Russell suffered a Mercedes Formula 1 engine software issue that put the revs out of control while on the Hungarian Grand Prix grid and triggered his slow start.On Saturday,...",
+      "url": "https://www.autosport.com/f1/news/the-data-behind-russells-engine-software-issue-that-caused-his-hungarian-gp-slow-start/10842499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Red Bull appoints Lagrue as junior driver chief after Mercedes F1 exit",
       "body": "Mercedes has announced the departure of young driver guru Gwen Lagrue, with the Frenchman officially joining Red Bull as its Formula 1 junior programme director.As previously repor...",
       "url": "https://www.autosport.com/f1/news/mercedes-announces-exit-of-young-driver-chief-ahead-of-red-bull-f1-move/10842438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Norris: I was better than Piastri in every sense in battle for Hungarian GP victory",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/lando-norris-i-was-better-than-piastri-in-every-sense-in-battle-for-victory/10842380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "How Ferrari's Hungarian GP meltdown cost a shot at the F1 podium",
-      "body": "Rivals claim Ferrari has the most agile chassis in Formula 1, if not the best engine or aerodynamics, so its SF-26 is generally expected to shine at circuits where straightline spe...",
-      "url": "https://www.autosport.com/f1/news/ferrari-meltdown-how-the-best-chassis-in-f1-flunked-a-podium-finish-in-hungary/10842342/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Toto Wolff refuses to call Kimi Antonelli F1 title favourite",
-      "body": "Mercedes boss Toto Wolff refused to call Kimi Antonelli the Formula 1 world championship favourite despite increasing his points lead at the Hungarian Grand Prix.Antonelli fought b...",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-refuses-to-call-kimi-antonelli-f1-title-favourite-/10842429/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "George Russell sends defiant message after challenging F1 season start",
+      "body": "George Russell insists he will focus on the positives as he reflects on the first half of the 2026 Formula 1 season, following a seventh-place finish at the Hungarian Grand Prix. A...",
+      "url": "https://www.motorsport.com/f1/news/george-russell-sends-defiant-message-after-challenging-f1-season-start/10842522/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Carlos Sainz hit with Community Note on X after Oscar Piastri Hungarian GP collision",
-      "body": "Williams driver Carlos Sainz has been subjected to a humbling 'Community Note' on social media platform X after explaining his collision with Oscar Piastri during the Hungarian Gra...",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-hit-with-community-note-on-x-after-oscar-piastri-hungarian-gp-collision/10842483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"Monumental\" Red Bull Ford Powertrains project has exceeded expectations, says Calum Nicholas",
+      "body": "Former Red Bull mechanic Calum Nicholas says the Milton Keynes outfit's Red Bull Ford Powertrains project has surpassed internal expectations.Ahead of the introduction of Formula 1...",
+      "url": "https://www.motorsport.com/f1/news/monumental-red-bull-ford-powertrains-project-has-exceeded-expectations-says-team-insider/10842517/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-27T14:51:21Z",
+    "lastUpdatedUtc": "2026-07-27T17:03:31Z",
     "source": "jolpica"
   },
   "nextRace": {
