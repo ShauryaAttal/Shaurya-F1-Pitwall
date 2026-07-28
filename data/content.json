@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Why is Hamilton getting so many penalties? - F1 Q&A",
+      "body": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Hungarian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cp9e188m751o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Mercedes driver scout Lagrue to join Red Bull",
       "body": "The Mercedes driver scout involved in discovering Kimi Antonelli is leaving the team to join rivals Red Bull.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Norris and McLaren almost perfect as Ferrari flounder",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Complete weekend for Norris but poor result for Sainz - driver ratings",
-      "body": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Hungarian Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c74yr33vvy1o?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Is McLaren now a legitimate threat to Mercedes and Ferrari in F1 2026?",
+      "body": "With Mercedes' uncontested early season dominance now in the rearview mirror, Formula 1 2026 has finally turned into the development war it was always promising to be.The ebb and f...",
+      "url": "https://www.autosport.com/f1/news/is-mclaren-a-threat-to-mercedes-and-ferrari-in-f1-2026/10842588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The data behind Russell\u2019s engine software issue that caused his Hungarian GP slow start",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/the-data-behind-russells-engine-software-issue-that-caused-his-hungarian-gp-slow-start/10842499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Red Bull appoints Lagrue as junior driver chief after Mercedes F1 exit",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/mercedes-announces-exit-of-young-driver-chief-ahead-of-red-bull-f1-move/10842438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Norris: I was better than Piastri in every sense in battle for Hungarian GP victory",
-      "body": "Lando Norris claims he was \u201cjust better in every sense\u201d relative to McLaren team-mate Oscar Piastri on his way to a resounding victory in Formula 1\u2019s Hungarian Grand Prix.After sna...",
-      "url": "https://www.autosport.com/f1/news/lando-norris-i-was-better-than-piastri-in-every-sense-in-battle-for-victory/10842380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell sends defiant message after challenging F1 season start",
-      "body": "George Russell insists he will focus on the positives as he reflects on the first half of the 2026 Formula 1 season, following a seventh-place finish at the Hungarian Grand Prix. A...",
-      "url": "https://www.motorsport.com/f1/news/george-russell-sends-defiant-message-after-challenging-f1-season-start/10842522/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Is McLaren now a legitimate F1 2026 contender?",
+      "body": "With Mercedes' uncontested early season dominance now in the rearview mirror, Formula 1 2026 has finally turned into the development war it was always promising to be.The ebb and f...",
+      "url": "https://www.motorsport.com/f1/news/is-mclaren-now-a-legitimate-f1-2026-contender/10842583/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\"Monumental\" Red Bull Ford Powertrains project has exceeded expectations, says Calum Nicholas",
-      "body": "Former Red Bull mechanic Calum Nicholas says the Milton Keynes outfit's Red Bull Ford Powertrains project has surpassed internal expectations.Ahead of the introduction of Formula 1...",
-      "url": "https://www.motorsport.com/f1/news/monumental-red-bull-ford-powertrains-project-has-exceeded-expectations-says-team-insider/10842517/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "George Russell sends defiant message after challenging F1 season start",
+      "body": "George Russell insists he will focus on the positives as he reflects on the first half of the 2026 Formula 1 season, following a seventh-place finish at the Hungarian Grand Prix. A...",
+      "url": "https://www.motorsport.com/f1/news/george-russell-sends-defiant-message-after-challenging-f1-season-start/10842522/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-28T06:09:46Z",
+    "lastUpdatedUtc": "2026-07-28T09:19:03Z",
     "source": "jolpica"
   },
   "nextRace": {
