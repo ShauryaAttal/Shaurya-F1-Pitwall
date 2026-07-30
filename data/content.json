@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "McLaren leaves Mercedes impressed after dominant Hungary win",
+      "body": "Mercedes was impressed by Lando Norris' victory aboard the upgraded McLaren at last weekend's Hungarian Grand Prix, while detailing its own efforts to improve both reliability and ...",
+      "url": "https://www.autosport.com/f1/news/mclaren-leaves-mercedes-impressed-after-hungary-win/10843075/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Stand out moments from the Malaysian GP",
       "body": "Malaysia will end its nine-year absence from the Formula 1 calendar by making a long-awaited return in 2026, replacing Bahrain due to the ongoing Middle Eastern conflict.This news ...",
       "url": "https://www.autosport.com/f1/news/f1-malaysian-gp-stand-out-moments/10843036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "No more battery info on F1 TV graphics? \u2018Fans don\u2019t care about that\u2019, F1 boss responds",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/no-more-battery-info-on-f1-tv-graphics-fans-dont-care-about-that-f1-boss-responds/10842992/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "\"We don't want to put tape on anyone's mouth\" \u2013 F1 boss reacts to driver criticism of 2026 rules",
-      "body": "Halfway through the 2026 Formula 1 season, the new technical regulations \u2013 with a much greater emphasis on electric power and energy management \u2013 continue to divide opinion among f...",
-      "url": "https://www.autosport.com/f1/news/we-dont-want-to-put-tape-on-anyones-mouth-f1-boss-reacts-to-driver-criticism-of-2026-rules/10842819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Aston Martin completes filming day with upgraded Honda engine",
-      "body": "While Alpine's Franco Colapinto and Audi Formula 1 driver Gabriel Bortoleto completed a second day of Pirelli testing to finalise the 2027 tyre line-up, Aston Martin moved on from ...",
-      "url": "https://www.motorsport.com/f1/news/f1-aston-martin-nel-filming-day-di-budapest-ha-fatto-il-debutto-il-motore-honda-con-laduo/10843034/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Mercedes impressed by \"sizeable\" McLaren upgrade after Hungarian GP defeat",
+      "body": "Mercedes was impressed by Lando Norris' victory aboard the upgraded McLaren at last weekend's Hungarian Grand Prix, while detailing its own efforts to improve both reliability and ...",
+      "url": "https://www.motorsport.com/f1/news/mercedes-impressed-by-sizeable-mclaren-upgrade-after-hungarian-gp-defeat/10843070/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "James Vowles reveals how Michael Schumacher \"changed the game\" in F1",
-      "body": "Williams Formula 1 team principal James Vowles has claimed that Michael Schumacher \"changed the game\" for car development, explaining that the seven-time champion was a major influ...",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-reveals-how-michael-schumacher-changed-the-game-in-f1/10843044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Former F1 team boss sets James Vowles deadline to turn Williams around: \"Going backwards\"",
+      "body": "The pressure on James Vowles could be mounting at Williams, according to former Haas Formula 1 team principal Guenther Steiner, who has offered a blunt assessment of the Grove outf...",
+      "url": "https://www.motorsport.com/f1/news/former-f1-team-boss-sets-james-vowles-deadline-to-turn-williams-around-going-backwards/10843067/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-30T11:14:37Z",
+    "lastUpdatedUtc": "2026-07-30T13:08:38Z",
     "source": "jolpica"
   },
   "nextRace": {
