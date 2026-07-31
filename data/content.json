@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "How Pirelli will deal with F1\u2019s unexpected return to Sepang",
+      "body": "Formula 1 supplier Pirelli has given some insight into what the upcoming Bahrain Grand Prix, taking place at Sepang, will entail on the tyre front.Unable to run the event in its in...",
+      "url": "https://www.autosport.com/f1/news/how-pirelli-will-deal-with-f1s-unexpected-return-to-sepang/10843289/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "The one aspect Stella thinks will decide the rest of F1 2026",
       "body": "The 2026 Formula 1 season is shaping up how it was expected to be, with the development race deciding the pecking order as the campaign progresses. Although Mercedes started this r...",
       "url": "https://www.autosport.com/f1/news/what-stella-thinks-will-decide-the-rest-of-f1-2026/10843153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "McLaren leaves Mercedes impressed after dominant Hungary win",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/mclaren-leaves-mercedes-impressed-after-hungary-win/10843075/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Stand out moments from the Malaysian GP",
-      "body": "Malaysia will end its nine-year absence from the Formula 1 calendar by making a long-awaited return in 2026, replacing Bahrain due to the ongoing Middle Eastern conflict.This news ...",
-      "url": "https://www.autosport.com/f1/news/f1-malaysian-gp-stand-out-moments/10843036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Mercedes could opt for Kimi Antonelli to take F1 engine penalty at Italian GP",
-      "body": "Mercedes is weighing up if it needs to take Formula 1 grid penalties for engine changes over the second half of the season, which could see Kimi Antonelli hit with a drop for his h...",
-      "url": "https://www.motorsport.com/f1/news/mercedes-could-opt-for-kimi-antonelli-to-take-f1-engine-penalty-at-italian-gp/10842910/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lando Norris reveals how fierce Oscar Piastri rivalry has driven his F1 development",
+      "body": "McLaren's Lando Norris has admitted that team-mate Oscar Piastri has pushed him \"too much for my liking\", crediting their fierce intra-team rivalry as a key factor in his ongoing d...",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-fierce-oscar-piastri-rivalry-has-driven-his-f1-development/10843323/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\"A race of upgrades\" - How development will decide the 2026 F1 title",
-      "body": "The 2026 Formula 1 season is shaping up how it was expected to be, with the development race deciding the pecking order as the campaign progresses. Although Mercedes started this r...",
-      "url": "https://www.motorsport.com/f1/news/f1-teams-need-up-to-half-a-second-to-be-fighting-for-wins-come-2026-finale-andrea-stella/10842813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "David Croft calls out Lewis Hamilton over \"careless mistakes\" and costly F1 penalties",
+      "body": "Sky Sports Formula 1 lead commentator David Croft has called out Lewis Hamilton for making \"careless mistakes\" in recent races.Following a difficult debut campaign for Ferrari in 2...",
+      "url": "https://www.motorsport.com/f1/news/david-croft-calls-out-lewis-hamilton-over-careless-mistakes-and-costly-f1-penalties/10843314/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-31T10:07:54Z",
+    "lastUpdatedUtc": "2026-07-31T12:29:35Z",
     "source": "jolpica"
   },
   "nextRace": {
