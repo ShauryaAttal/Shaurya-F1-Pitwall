@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "The one aspect Stella thinks will decide the rest of F1 2026",
+      "body": "The 2026 Formula 1 season is shaping up how it was expected to be, with the development race deciding the pecking order as the campaign progresses. Although Mercedes started this r...",
+      "url": "https://www.autosport.com/f1/news/what-stella-thinks-will-decide-the-rest-of-f1-2026/10843153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "McLaren leaves Mercedes impressed after dominant Hungary win",
       "body": "Mercedes was impressed by Lando Norris' victory aboard the upgraded McLaren at last weekend's Hungarian Grand Prix, while detailing its own efforts to improve both reliability and ...",
       "url": "https://www.autosport.com/f1/news/mclaren-leaves-mercedes-impressed-after-hungary-win/10843075/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Stand out moments from the Malaysian GP",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-malaysian-gp-stand-out-moments/10843036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "No more battery info on F1 TV graphics? \u2018Fans don\u2019t care about that\u2019, F1 boss responds",
-      "body": "Do Formula 1 fans care about battery status when watching wheel-to-wheel action? Not according to Stefano Domenicali, the championship\u2019s president and CEO.This year, F1 introduced ...",
-      "url": "https://www.autosport.com/f1/news/no-more-battery-info-on-f1-tv-graphics-fans-dont-care-about-that-f1-boss-responds/10842992/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell linked to potential 2028 Audi F1 switch",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner believes George Russell is already exploring options outside of Mercedes, suggesting the British driver could be evaluating a ...",
-      "url": "https://www.motorsport.com/f1/news/george-russell-linked-to-potential-2028-audi-f1-switch/10843198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Mercedes could opt for Kimi Antonelli to take F1 engine penalty at Italian GP",
+      "body": "Mercedes is weighing up if it needs to take Formula 1 grid penalties for engine changes over the second half of the season, which could see Kimi Antonelli hit with a drop for his h...",
+      "url": "https://www.motorsport.com/f1/news/mercedes-could-opt-for-kimi-antonelli-to-take-f1-engine-penalty-at-italian-gp/10842910/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen and Toto Wolff holiday photos fuel fresh Mercedes speculation",
-      "body": "Max Verstappen and Mercedes Formula 1 team principal Toto Wolff have been photographed together on holiday during the first week of the summer break, sparking fresh paddock specula...",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-and-toto-wolff-holiday-photos-fuel-fresh-mercedes-speculation/10843161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"A race of upgrades\" - How development will decide the 2026 F1 title",
+      "body": "The 2026 Formula 1 season is shaping up how it was expected to be, with the development race deciding the pecking order as the campaign progresses. Although Mercedes started this r...",
+      "url": "https://www.motorsport.com/f1/news/f1-teams-need-up-to-half-a-second-to-be-fighting-for-wins-come-2026-finale-andrea-stella/10842813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-31T07:24:19Z",
+    "lastUpdatedUtc": "2026-07-31T10:07:54Z",
     "source": "jolpica"
   },
   "nextRace": {
