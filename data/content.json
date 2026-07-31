@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "The challenge Haas faces in trying to meet F1 budget cap: \"Fighting with both hands tied\"",
+      "body": "Haas team principal Ayao Komatsu says the American outfit has been \u201cfighting with both hands tied\u201d relative to wealthier Formula 1 outfits.Komatsu opened up about needing to find m...",
+      "url": "https://www.autosport.com/f1/news/the-challenge-haas-faces-in-trying-to-meet-f1-budget-cap/10843381/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "How Pirelli will deal with F1\u2019s unexpected return to Sepang",
       "body": "Formula 1 supplier Pirelli has given some insight into what the upcoming Bahrain Grand Prix, taking place at Sepang, will entail on the tyre front.Unable to run the event in its in...",
       "url": "https://www.autosport.com/f1/news/how-pirelli-will-deal-with-f1s-unexpected-return-to-sepang/10843289/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The one aspect Stella thinks will decide the rest of F1 2026",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/what-stella-thinks-will-decide-the-rest-of-f1-2026/10843153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "McLaren leaves Mercedes impressed after dominant Hungary win",
-      "body": "Mercedes was impressed by Lando Norris' victory aboard the upgraded McLaren at last weekend's Hungarian Grand Prix, while detailing its own efforts to improve both reliability and ...",
-      "url": "https://www.autosport.com/f1/news/mclaren-leaves-mercedes-impressed-after-hungary-win/10843075/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lando Norris reveals how fierce Oscar Piastri rivalry has driven his F1 development",
-      "body": "McLaren's Lando Norris has admitted that team-mate Oscar Piastri has pushed him \"too much for my liking\", crediting their fierce intra-team rivalry as a key factor in his ongoing d...",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-fierce-oscar-piastri-rivalry-has-driven-his-f1-development/10843323/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Haas \u201cfighting with both hands tied\u201d as it fails to match budget cap",
+      "body": "Haas team principal Ayao Komatsu says the American outfit has been \u201cfighting with both hands tied\u201d relative to wealthier Formula 1 outfits.Komatsu opened up about needing to find m...",
+      "url": "https://www.motorsport.com/f1/news/haas-fighting-with-both-hands-tied-as-it-fails-to-match-budget-cap/10842889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "David Croft calls out Lewis Hamilton over \"careless mistakes\" and costly F1 penalties",
-      "body": "Sky Sports Formula 1 lead commentator David Croft has called out Lewis Hamilton for making \"careless mistakes\" in recent races.Following a difficult debut campaign for Ferrari in 2...",
-      "url": "https://www.motorsport.com/f1/news/david-croft-calls-out-lewis-hamilton-over-careless-mistakes-and-costly-f1-penalties/10843314/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Rachel Brookes opens up on emotional Lewis Hamilton farewell after Sky Sports F1 exit",
+      "body": "Former Sky Sports Formula 1 presenter Rachel Brookes has opened up about her exit from the broadcaster, revealing the emotional and supportive reactions she received from Lewis Ham...",
+      "url": "https://www.motorsport.com/f1/news/rachel-brookes-opens-up-on-emotional-lewis-hamilton-farewell-after-sky-sports-f1-exit/10843373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-07-31T12:29:35Z",
+    "lastUpdatedUtc": "2026-07-31T15:05:07Z",
     "source": "jolpica"
   },
   "nextRace": {
