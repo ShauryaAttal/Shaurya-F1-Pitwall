@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Audi won\u2019t upgrade F1 power unit again until 2027",
+      "body": "Audi won\u2019t add to its first Formula 1 power unit update by the end of the 2026 season, racing director Allan McNish has revealed.Having taken over the Sauber squad this year and in...",
+      "url": "https://www.autosport.com/f1/news/audi-wont-upgrade-f1-power-unit-again-until-2027/10843491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "The challenge Haas faces in trying to meet F1 budget cap: \"Fighting with both hands tied\"",
       "body": "Haas team principal Ayao Komatsu says the American outfit has been \u201cfighting with both hands tied\u201d relative to wealthier Formula 1 outfits.Komatsu opened up about needing to find m...",
       "url": "https://www.autosport.com/f1/news/the-challenge-haas-faces-in-trying-to-meet-f1-budget-cap/10843381/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "How Pirelli will deal with F1\u2019s unexpected return to Sepang",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/how-pirelli-will-deal-with-f1s-unexpected-return-to-sepang/10843289/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "The one aspect Stella thinks will decide the rest of F1 2026",
-      "body": "The 2026 Formula 1 season is shaping up how it was expected to be, with the development race deciding the pecking order as the campaign progresses. Although Mercedes started this r...",
-      "url": "https://www.autosport.com/f1/news/what-stella-thinks-will-decide-the-rest-of-f1-2026/10843153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton welcomes new puppy Halo during F1 summer break",
-      "body": "Lewis Hamilton has welcomed a new golden retriever puppy, Halo.The seven-time champion acquired the puppy from US-based breeder Goldiva Goldens. Halo is Hamilton's first dog since ...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-welcomes-new-puppy-halo-during-f1-summer-break/10843395/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Audi won\u2019t upgrade F1 power unit again until 2027",
+      "body": "Audi won\u2019t add to its first Formula 1 power unit update by the end of the 2026 season, racing director Allan McNish has revealed.Having taken over the Sauber squad this year and in...",
+      "url": "https://www.motorsport.com/f1/news/audi-wont-upgrade-f1-power-unit-again-until-2027/10843122/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Haas \u201cfighting with both hands tied\u201d as it fails to match budget cap",
-      "body": "Haas team principal Ayao Komatsu says the American outfit has been \u201cfighting with both hands tied\u201d relative to wealthier Formula 1 outfits.Komatsu opened up about needing to find m...",
-      "url": "https://www.motorsport.com/f1/news/haas-fighting-with-both-hands-tied-as-it-fails-to-match-budget-cap/10842889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen's Red Bull radio complaints prompt McLaren move question from David Croft",
+      "body": "Following a Hungarian Grand Prix filled with radio complaints, Sky Sports Formula 1 lead commentator David Croft has questioned whether Max Verstappen's camp is deliberately laying...",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-red-bull-radio-complaints-prompt-mclaren-move-question-from-david-croft/10843399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-01T07:33:30Z",
+    "lastUpdatedUtc": "2026-08-01T10:05:37Z",
     "source": "jolpica"
   },
   "nextRace": {
