@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Verstappen's mindset going into the F1 summer break: \"Of course I can easily stop, but I love racing\"",
+      "body": "Max Verstappen says he is \"feeling good\" about his place in Formula 1 as he detailed his mindset about Red Bull and the regulations heading into the summer break.Verstappen and Red...",
+      "url": "https://www.autosport.com/f1/news/sun-max-verstappen-gives-future-update-going-into-f1-summer-break-of-course-i-can-easily-stop-but-i/10843534/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Audi won\u2019t upgrade F1 power unit again until 2027",
       "body": "Audi won\u2019t add to its first Formula 1 power unit update by the end of the 2026 season, racing director Allan McNish has revealed.Having taken over the Sauber squad this year and in...",
       "url": "https://www.autosport.com/f1/news/audi-wont-upgrade-f1-power-unit-again-until-2027/10843491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The challenge Haas faces in trying to meet F1 budget cap: \"Fighting with both hands tied\"",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/the-challenge-haas-faces-in-trying-to-meet-f1-budget-cap/10843381/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "How Pirelli will deal with F1\u2019s unexpected return to Sepang",
-      "body": "Formula 1 supplier Pirelli has given some insight into what the upcoming Bahrain Grand Prix, taking place at Sepang, will entail on the tyre front.Unable to run the event in its in...",
-      "url": "https://www.autosport.com/f1/news/how-pirelli-will-deal-with-f1s-unexpected-return-to-sepang/10843289/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Aston Martin backed to transform F1 fortunes over next two years by former driver",
-      "body": "Former Formula 1 driver David Coulthard believes Aston Martin will become the championship's most improved team over the next two years.He predicted that the Silverstone-based outf...",
-      "url": "https://www.motorsport.com/f1/news/aston-martin-backed-to-transform-f1-fortunes-over-next-two-years-by-former-driver/10843454/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen gives future update going into F1 summer break: \"Of course I can easily stop, but I love racing\"",
+      "body": "Max Verstappen says he is \"feeling good\" about his place in Formula 1 as he detailed his mindset about Red Bull and the regulations heading into the summer break.Verstappen and Red...",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-gives-future-update-going-into-the-f1-summer-break-of-course-i-can-easily-stop-but-i/10843532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Racing Bulls boss\u2019 advice to his F1 drivers: Learn from Max Verstappen\u2019s radio",
-      "body": "Racing Bulls Formula 1 team principal Alan Permane has advised his drivers Liam Lawson and Arvid Lindblad to listen to Max Verstappen\u2019s radio communications.Lawson and Lindblad for...",
-      "url": "https://www.motorsport.com/f1/news/racing-bulls-boss-advice-to-his-drivers-learn-from-max-verstappens-radio/10843339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Aston Martin backed to transform F1 fortunes over next two years by former driver",
+      "body": "Former Formula 1 driver David Coulthard believes Aston Martin will become the championship's most improved team over the next two years.He predicted that the Silverstone-based outf...",
+      "url": "https://www.motorsport.com/f1/news/aston-martin-backed-to-transform-f1-fortunes-over-next-two-years-by-former-driver/10843454/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-02T07:08:50Z",
+    "lastUpdatedUtc": "2026-08-02T09:34:33Z",
     "source": "jolpica"
   },
   "nextRace": {
