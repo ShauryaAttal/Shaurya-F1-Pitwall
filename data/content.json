@@ -12,17 +12,17 @@
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Andrew Benson Q&A: Send us your questions",
-      "body": "Our F1 correspondent Andrew Benson is doing a weekly Q&A this season, so get your questions in now.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss"
+      "headline": "The Chequered Flag Podcast",
+      "body": "Harry Benjamin and Nicola Hume dive into the biggest transfer rumours in Formula 1",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m00305z5?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Five things we've learned from first half of F1 season",
-      "body": "BBC F1 correspondent Andrew Benson analyses the five key things we've learned from the 2026 season so far.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/clyj898j2p0o?at_medium=RSS&at_campaign=rss"
+      "headline": "Andrew Benson Q&A: Send us your questions",
+      "body": "Our F1 correspondent Andrew Benson is doing a weekly Q&A this season, so get your questions in now.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-03T04:08:30Z",
+    "lastUpdatedUtc": "2026-08-03T07:59:12Z",
     "source": "jolpica"
   },
   "nextRace": {
