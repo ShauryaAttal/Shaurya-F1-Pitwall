@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Why the FIA couldn't intervene sooner over F1's 2026 rules",
+      "body": "With the first Formula 1 season under the new technical regulations approaching its halfway point, the summer break provides a good opportunity to take stock. The 2026 rules, with ...",
+      "url": "https://www.autosport.com/f1/news/why-the-fia-couldnt-intervene-sooner-over-f1s-2026-rules/10843814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Verstappen's mindset going into the F1 summer break: \"Of course I can easily stop, but I love racing\"",
       "body": "Max Verstappen says he is \"feeling good\" about his place in Formula 1 as he detailed his mindset about Red Bull and the regulations heading into the summer break.Verstappen and Red...",
       "url": "https://www.autosport.com/f1/news/sun-max-verstappen-gives-future-update-going-into-f1-summer-break-of-course-i-can-easily-stop-but-i/10843534/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Audi won\u2019t upgrade F1 power unit again until 2027",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/audi-wont-upgrade-f1-power-unit-again-until-2027/10843491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "The challenge Haas faces in trying to meet F1 budget cap: \"Fighting with both hands tied\"",
-      "body": "Haas team principal Ayao Komatsu says the American outfit has been \u201cfighting with both hands tied\u201d relative to wealthier Formula 1 outfits.Komatsu opened up about needing to find m...",
-      "url": "https://www.autosport.com/f1/news/the-challenge-haas-faces-in-trying-to-meet-f1-budget-cap/10843381/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Oliver Bearman responds to Aston Martin rumours with clear Ferrari message",
-      "body": "Haas Formula 1 driver Oliver Bearman has reaffirmed his commitment to the Ferrari driver programme, dismissing the prospect of a switch to Aston Martin in the near future. Speaking...",
-      "url": "https://www.motorsport.com/f1/news/oliver-bearman-responds-to-aston-martin-rumours-with-clear-ferrari-message/10843713/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Guenther Steiner praises Red Bull after major Mercedes F1 hire",
+      "body": "Former Haas Formula 1 team principal Guenther Steiner has praised Red Bull's recent appointment of Gwen Lagrue to head up its junior driver programme, suggesting the move is a big ...",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-praises-red-bull-after-major-mercedes-f1-hire/10843840/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\u201cI went back to the car and cried\u201d \u2013 Esteban Ocon opens up about his unexpected year on F1 sidelines",
-      "body": "Esteban Ocon has opened up about the 2019 Formula 1 season, which he spent as a Mercedes reserve driver following an unfavourable chain of events.Back in July 2018, Ocon was riding...",
-      "url": "https://www.motorsport.com/f1/news/i-went-back-to-the-car-and-cried-esteban-ocon-opens-up-about-his-unexpected-year-on-f1-sidelines/10842997/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Arvid Lindblad exclusive: \"I never had a plan B, I didn't want to settle for a normal life\"",
+      "body": "Some conversations stay with you. They remind you that, even in today's Formula 1, it is still possible to be yourself - to speak openly, without filters, carefully rehearsed answe...",
+      "url": "https://www.motorsport.com/f1/news/arvid-lindblad-exclusive-i-never-had-a-plan-b-i-didnt-want-to-settle-for-a-normal-life/10843515/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-03T07:59:12Z",
+    "lastUpdatedUtc": "2026-08-03T11:38:04Z",
     "source": "jolpica"
   },
   "nextRace": {
