@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Why Honda only realised the scale of its F1 problems in January",
+      "body": "Heading into Formula 1's major technical overhaul, expectations at Aston Martin were high. With a state-of-the-art factory in Silverstone, legendary designer Adrian Newey and a wor...",
+      "url": "https://www.autosport.com/f1/news/why-honda-only-realised-scale-of-f1-problems-in-january/10844237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Why McLaren has been coy about introducing its rotating F1 rear wing",
       "body": "McLaren will race its version of the so-called 'Macarena' rear-wing concept \u2013 but not until an unspecified point in the future, according to team principal Andrea Stella.It's under...",
       "url": "https://www.autosport.com/f1/news/why-mclaren-has-been-coy-about-introducing-its-rotating-f1-rear-wing/10844006/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why the FIA couldn't intervene sooner over F1's 2026 rules",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-the-fia-couldnt-intervene-sooner-over-f1s-2026-rules/10843814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Verstappen's mindset going into the F1 summer break: \"Of course I can easily stop, but I love racing\"",
-      "body": "Max Verstappen says he is \"feeling good\" about his place in Formula 1 as he detailed his mindset about Red Bull and the regulations heading into the summer break.Verstappen and Red...",
-      "url": "https://www.autosport.com/f1/news/sun-max-verstappen-gives-future-update-going-into-f1-summer-break-of-course-i-can-easily-stop-but-i/10843534/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell's 2026 F1 bad luck is beyond a \"Rocky\" story, says David Coulthard",
-      "body": "Former Formula 1 driver David Coulthard says George Russell's bruising 2026 campaign has become a \"character-building\" exercise, claiming the Mercedes driver's current run of bad l...",
-      "url": "https://www.motorsport.com/f1/news/george-russells-2026-f1-bad-luck-is-beyond-a-rocky-story-says-david-coulthard/10843187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Honda admits it only realised the scale of its F1 problems in January",
+      "body": "Heading into Formula 1's major technical overhaul, expectations at Aston Martin were high. With a state-of-the-art factory in Silverstone, legendary designer Adrian Newey and a wor...",
+      "url": "https://www.motorsport.com/f1/news/honda-admits-it-only-realised-the-scale-of-its-f1-problems-in-january/10844233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Fernando Alonso Spotted Driving His $5.9 Million Lamborghini Hypercar Through Monaco",
-      "body": "A short clip doing the rounds on social media shows a dark blue Lamborghini Sian FKP 37 rolling through the streets of Monaco with Aston Martin driver Fernando Alonso behind the wh...",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-spotted-driving-his-59-million-lamborghini-hypercar-through-monaco/10844030/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "George Russell's 2026 F1 bad luck is beyond a \"Rocky\" story, says David Coulthard",
+      "body": "Former Formula 1 driver David Coulthard says George Russell's bruising 2026 campaign has become a \"character-building\" exercise, claiming the Mercedes driver's current run of bad l...",
+      "url": "https://www.motorsport.com/f1/news/george-russells-2026-f1-bad-luck-is-beyond-a-rocky-story-says-david-coulthard/10843187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-05T06:07:43Z",
+    "lastUpdatedUtc": "2026-08-05T09:20:04Z",
     "source": "jolpica"
   },
   "nextRace": {
