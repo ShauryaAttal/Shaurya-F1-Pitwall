@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Should the algorithms in F1 power units be banned? FIA explains why it won\u2019t work",
+      "body": "While Formula 1 insists - based on its own Formula 1 Fan Voice programme - that fans are enjoying the racing, drivers have been far more critical of the 2026 regulations so far.One...",
+      "url": "https://www.autosport.com/f1/news/why-fia-will-not-ban-the-f1-power-unit-algorithms/10844414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Mercedes \"closely monitoring\" upgrades for the rest of F1 2026",
       "body": "Toto Wolff revealed that Mercedes is set to bring more upgrades in the second half of the 2026 Formula 1 season - but is \"closely monitoring\" when to introduce them.The start of th...",
       "url": "https://www.autosport.com/f1/news/mercedes-closely-monitoring-upgrades-for-the-rest-of-f1-2026/10844347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Honda only realised the scale of its F1 problems in January",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-honda-only-realised-scale-of-f1-problems-in-january/10844237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why McLaren has been coy about introducing its rotating F1 rear wing",
-      "body": "McLaren will race its version of the so-called 'Macarena' rear-wing concept \u2013 but not until an unspecified point in the future, according to team principal Andrea Stella.It's under...",
-      "url": "https://www.autosport.com/f1/news/why-mclaren-has-been-coy-about-introducing-its-rotating-f1-rear-wing/10844006/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Mercedes \"closely monitoring\" when to bring upgrades for the rest of F1 2026",
-      "body": "Toto Wolff revealed that Mercedes is set to bring more upgrades in the second half of the 2026 Formula 1 season - but is \"closely monitoring\" when to introduce them.The start of th...",
-      "url": "https://www.motorsport.com/f1/news/mercedes-closely-monitoring-when-to-bring-upgrades-for-rest-of-f1-2026/10844337/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Should F1 ban power unit algorithms? Here's why the FIA says no",
+      "body": "While Formula 1 insists - based on its own Formula 1 Fan Voice programme - that fans are enjoying the racing, drivers have been far more critical of the 2026 regulations so far.One...",
+      "url": "https://www.motorsport.com/f1/news/should-f1-ban-power-unit-algorithms-heres-why-the-fia-says-no/10844411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Baku upgrade will not fix Williams' 2026 F1 struggles - Alex Albon",
-      "body": "Alex Albon conceded that Williams will endure a tough end to the 2026 Formula 1 campaign with priority now shifting to building a fast car for 2027.The Grove outfit has failed to k...",
-      "url": "https://www.motorsport.com/f1/news/baku-upgrade-to-not-fix-williams-struggles-in-f1-2026-alex-albon/10844033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Mercedes \"closely monitoring\" when to bring upgrades for the rest of F1 2026",
+      "body": "Toto Wolff revealed that Mercedes is set to bring more upgrades in the second half of the 2026 Formula 1 season - but is \"closely monitoring\" when to introduce them.The start of th...",
+      "url": "https://www.motorsport.com/f1/news/mercedes-closely-monitoring-when-to-bring-upgrades-for-rest-of-f1-2026/10844337/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-06T07:18:35Z",
+    "lastUpdatedUtc": "2026-08-06T10:11:38Z",
     "source": "jolpica"
   },
   "nextRace": {
