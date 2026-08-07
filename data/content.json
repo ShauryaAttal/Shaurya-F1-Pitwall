@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Clark, Senna, Antonelli \u2013 How the grand chelem age record evolved",
+      "body": "Juan Manuel Fangio \u2013 38y, 10m, 27d1950 Monaco GPThe first-ever grand chelem \u2013 leading the whole race from pole position and setting the fastest lap on your way to victory \u2013 occurre...",
+      "url": "https://www.autosport.com/f1/news/clark-senna-antonelli-grand-chelem-youngest-record-evolution/10844336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "What is it like being a Williams F1 simulator driver?",
       "body": "Autosport: Let\u2019s talk about your current role at Williams. Can you explain what impact you have on the car?Victor Martins: \u201cI can have an impact on the car, but is it direct? Not n...",
       "url": "https://www.autosport.com/f1/news/what-is-it-like-being-a-williams-f1-simulator-driver/10844546/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Should the algorithms in F1 power units be banned? FIA explains why it won\u2019t work",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-fia-will-not-ban-the-f1-power-unit-algorithms/10844414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Mercedes \"closely monitoring\" upgrades for the rest of F1 2026",
-      "body": "Toto Wolff revealed that Mercedes is set to bring more upgrades in the second half of the 2026 Formula 1 season - but is \"closely monitoring\" when to introduce them.The start of th...",
-      "url": "https://www.autosport.com/f1/news/mercedes-closely-monitoring-upgrades-for-the-rest-of-f1-2026/10844347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton backed for Ferrari F1 championship push by Emerson Fittipaldi",
-      "body": "Two-time Formula 1 champion Emerson Fittipaldi says he is thrilled by Lewis Hamilton's resurgence at Ferrari, sharing that he hopes the British driver can mount a serious champions...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-backed-for-ferrari-f1-championship-push-by-emerson-fittipaldi/10844491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 2026 mid-season grades: Aston Martin seeks redemption after shocking start",
+      "body": "When Lawrence Stroll started assembling his superteam in his brand-new state-of-the-art headquarters, led by design guru Adrian Newey, Aston Martin was expected to use the 2026 rul...",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-aston-martin-seeks-redemption-after-shocking-start/10844630/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "What is the F1 summer break and why does it happen every year?",
-      "body": "Formula 1 is now in its summer recess with the series on hold between the last race in Hungary and the next grand prix in the Netherlands. But, why does the championship take a two...",
-      "url": "https://www.motorsport.com/f1/news/what-is-the-f1-summer-break-why-does-it-happen-how-long/10346924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lewis Hamilton backed for Ferrari F1 championship push by Emerson Fittipaldi",
+      "body": "Two-time Formula 1 champion Emerson Fittipaldi says he is thrilled by Lewis Hamilton's resurgence at Ferrari, sharing that he hopes the British driver can mount a serious champions...",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-backed-for-ferrari-f1-championship-push-by-emerson-fittipaldi/10844491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-07T07:26:36Z",
+    "lastUpdatedUtc": "2026-08-07T08:35:27Z",
     "source": "jolpica"
   },
   "nextRace": {
