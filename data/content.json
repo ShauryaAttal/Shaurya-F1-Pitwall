@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "FIA wants F1 cars to lose another 80kg under next rules overhaul",
+      "body": "When the 2026 Formula 1 rules were introduced, the FIA frequently spoke about the so-called \"nimble car concept\".The machinery was supposed to become smaller and lighter, although ...",
+      "url": "https://www.autosport.com/f1/news/fia-wants-f1-cars-to-lose-another-80-kilos/10844769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Clark, Senna, Antonelli \u2013 How the grand chelem age record has evolved",
       "body": "Juan Manuel Fangio \u2013 38y, 10m, 27d1950 Monaco GPThe first-ever grand chelem \u2013 leading the whole race from pole position and setting the fastest lap on your way to victory \u2013 occurre...",
       "url": "https://www.autosport.com/f1/news/clark-senna-antonelli-grand-chelem-youngest-record-evolution/10844336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "What is it like being a Williams F1 simulator driver?",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/what-is-it-like-being-a-williams-f1-simulator-driver/10844546/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Should the algorithms in F1 power units be banned? FIA explains why it won\u2019t work",
-      "body": "While Formula 1 insists - based on its own Formula 1 Fan Voice programme - that fans are enjoying the racing, drivers have been far more critical of the 2026 regulations so far.One...",
-      "url": "https://www.autosport.com/f1/news/why-fia-will-not-ban-the-f1-power-unit-algorithms/10844414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 helmet signed by 20 drivers raises record six-figure sum for charity",
-      "body": "A unique Formula 1 helmet, produced in collaboration with Disney and signed by 20 drivers from the 2026 grid, has shattered auction records after raising \u00a3151,000 for Make-A-Wish I...",
-      "url": "https://www.motorsport.com/f1/news/f1-helmet-signed-by-20-drivers-raises-record-six-figure-sum-for-charity/10844751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "FIA reveals ambitious target to make F1 cars another 80kg lighter",
+      "body": "When the 2026 Formula 1 rules were introduced, the FIA frequently spoke about the so-called \"nimble car concept\".The machinery was supposed to become smaller and lighter, although ...",
+      "url": "https://www.motorsport.com/f1/news/fia-reveals-ambitious-target-to-make-f1-cars-another-80kg-lighter/10844708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Guenther Steiner questions Valtteri Bottas's motivation at Cadillac",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner has questioned Valtteri Bottas's motivation and future at Cadillac, suggesting the Finnish driver has \"given up a little bit\" ...",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-questions-valtteri-bottass-motivation-at-cadillac/10844738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Oscar Piastri's new merchandise collection earns positive fan reaction",
+      "body": "McLaren Formula 1 driver Oscar Piastri has launched a new line of personal merchandise, titled the 'World Circuit' collection. The Australian driver's official website unveiled the...",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastris-new-merchandise-collection-earns-positive-fan-reaction/10844770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-07T13:51:07Z",
+    "lastUpdatedUtc": "2026-08-07T14:59:32Z",
     "source": "jolpica"
   },
   "nextRace": {
