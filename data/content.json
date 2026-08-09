@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "The standout tech innovations of F1 2026 so far",
+      "body": "Although Formula 1 models itself as the pinnacle of technology in motorsport, the governing body polices the guardrails carefully to prevent car performance from getting out of han...",
+      "url": "https://www.autosport.com/f1/news/standout-tech-innovations-f1-2026-so-far/10845183/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "FIA wants F1 cars to lose another 80kg under next rules overhaul",
       "body": "When the 2026 Formula 1 rules were introduced, the FIA frequently spoke about the so-called \"nimble car concept\".The machinery was supposed to become smaller and lighter, although ...",
       "url": "https://www.autosport.com/f1/news/fia-wants-f1-cars-to-lose-another-80-kilos/10844769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Clark, Senna, Antonelli \u2013 How the grand chelem age record has evolved",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/clark-senna-antonelli-grand-chelem-youngest-record-evolution/10844336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "What is it like being a Williams F1 simulator driver?",
-      "body": "Autosport: Let\u2019s talk about your current role at Williams. Can you explain what impact you have on the car?Victor Martins: \u201cI can have an impact on the car, but is it direct? Not n...",
-      "url": "https://www.autosport.com/f1/news/what-is-it-like-being-a-williams-f1-simulator-driver/10844546/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Gabriel Bortoleto refutes idea of F1 2026 cars clashing with driving styles",
-      "body": "Gabriel Bortoleto has strongly argued that Formula 1 drivers \u201cshould be able to adapt\u201d to any machinery, refuting the idea that the 2026 cars are clashing with driving styles.This ...",
-      "url": "https://www.motorsport.com/f1/news/gabriel-bortoleto-refutes-idea-of-f1-2026-cars-clashing-with-driving-styles/10844776/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Oliver Bearman reveals new business venture away from F1",
+      "body": "Haas Formula 1 driver Oliver Bearman has revealed he has opened a bike shop and cafe above Monaco alongside a group of friends.During an appearance on the F1 Beyond The Grid podcas...",
+      "url": "https://www.motorsport.com/f1/news/oliver-bearman-reveals-new-business-venture-away-from-f1/10845198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton shares first photos with new puppy Halo",
-      "body": "Seven-time Formula 1 champion Lewis Hamilton has shared his first photos with the newest member of his family, a golden retriever puppy named Halo.After a demanding first half of t...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-shares-first-photos-with-new-puppy-halo/10845015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Gabriel Bortoleto refutes idea of F1 2026 cars clashing with driving styles",
+      "body": "Gabriel Bortoleto has strongly argued that Formula 1 drivers \u201cshould be able to adapt\u201d to any machinery, refuting the idea that the 2026 cars are clashing with driving styles.This ...",
+      "url": "https://www.motorsport.com/f1/news/gabriel-bortoleto-refutes-idea-of-f1-2026-cars-clashing-with-driving-styles/10844776/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-09T09:47:58Z",
+    "lastUpdatedUtc": "2026-08-09T10:41:09Z",
     "source": "jolpica"
   },
   "nextRace": {
