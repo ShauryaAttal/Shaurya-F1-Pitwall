@@ -12,20 +12,28 @@
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Season to end in Europe if war continues - F1 boss",
-      "body": "Formula 1 president Stefano Domenicali says the 2026 championship will end in Europe if the conflict in the Middle East makes it impossible to hold the season-closing races in Qata...",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cx2r0ne2ky1o?at_medium=RSS&at_campaign=rss"
+      "headline": "F1: Chequered Flag",
+      "body": "Harry Benjamin & the team reflect on the first half of the season, parents evening style!",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p2y85t?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "The Chequered Flag Podcast",
-      "body": "Harry Benjamin and Nicola Hume dive into the biggest transfer rumours in Formula 1",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m00305z5?at_medium=RSS&at_campaign=rss"
+      "headline": "Season to end in Europe if war continues - F1 boss",
+      "body": "Formula 1 president Stefano Domenicali says the 2026 championship will end in Europe if the conflict in the Middle East makes it impossible to hold the season-closing races in Qata...",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cx2r0ne2ky1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Why McLaren won't switch full focus to its 2027 car anytime soon",
+      "body": "Having started the 2026 season on the back foot, McLaren is showing signs of what made this iteration of the storied team so successful in the first place over the past two years.T...",
+      "url": "https://www.autosport.com/f1/news/why-mclaren-wont-switch-full-focus-to-its-2027-car-anytime-soon/10845415/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "FIA wants F1 cars to lose another 80kg under next rules overhaul",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/fia-wants-f1-cars-to-lose-another-80-kilos/10844769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Clark, Senna, Antonelli \u2013 How the grand chelem age record has evolved",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/clark-senna-antonelli-grand-chelem-youngest-record-evolution/10844336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "What is it like being a Williams F1 simulator driver?",
-      "body": "Autosport: Let\u2019s talk about your current role at Williams. Can you explain what impact you have on the car?Victor Martins: \u201cI can have an impact on the car, but is it direct? Not n...",
-      "url": "https://www.autosport.com/f1/news/what-is-it-like-being-a-williams-f1-simulator-driver/10844546/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Former F1 driver reveals he offered London pub to Jeremy Clarkson in unusual deal",
-      "body": "Former Formula 1 driver David Coulthard has revealed he once offered his struggling south-west London pub to former Top Gear host Jeremy Clarkson free of charge in an attempt to sa...",
-      "url": "https://www.motorsport.com/f1/news/former-f1-driver-reveals-he-offered-london-pub-to-jeremy-clarkson-in-unusual-deal/10845369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "McLaren \"disappointed\" not to pick up rotating rear wing as quickly as Ferrari",
+      "body": "McLaren Formula 1 tech director Neil Houldey admits the squad was \"disappointed\" not to pick up on the upside down rear wing concept as quickly as pioneering Ferrari, as the team c...",
+      "url": "https://www.motorsport.com/f1/news/mclaren-disappointed-not-to-pick-up-rotating-rear-wing-as-quickly-as-ferrari/10845447/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell announces engagement to long-term partner Carmen Montero Mundt",
-      "body": "Mercedes Formula 1 driver George Russell has announced his engagement to his long-term partner Carmen Montero Mundt.Revealing the news in a sweet social media post, with a simple c...",
-      "url": "https://www.motorsport.com/f1/news/george-russell-announces-engagement-to-long-term-partner-carmen-montero-mundt/10845327/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why McLaren won't turn off its 2026 F1 car development just yet",
+      "body": "Having started the 2026 season on the back foot, McLaren is showing signs of what made this iteration of the storied team so successful in the first place over the past two years.T...",
+      "url": "https://www.motorsport.com/f1/news/why-mclaren-wont-turn-off-its-2026-car-development-just-yet/10845412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-10T07:57:51Z",
+    "lastUpdatedUtc": "2026-08-10T09:42:36Z",
     "source": "jolpica"
   },
   "nextRace": {
