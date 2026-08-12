@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Budkowski replaces Lowdon as Cadillac F1 boss",
+      "body": "The Cadillac Formula 1 outfit has hired a new team principal, appointing Marcin Budkowski to the position instead of Graeme Lowdon.Budkowski, 49, has held a myriad of roles in the ...",
+      "url": "https://www.autosport.com/f1/news/budkowski-replaces-lowdon-as-cadillac-f1-boss/10845943/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "How driver talent still makes a big difference under F1 2026 rules",
       "body": "The complaints have been rumbling since before the start of the Formula 1 season. Periodically they intensify, especially at so-called \u2018energy-starved\u2019 circuits where the ratio of ...",
       "url": "https://www.autosport.com/f1/news/how-driver-talent-is-still-a-big-difference-maker-in-f1-2026/10845918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "FIA admits F1's ADUO system has \"weaknesses\" \u2013 but defends its measurements",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/fia-admits-f1-aduo-weaknesses/10845871/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "What to expect from Honda's long-awaited F1 power unit upgrade",
-      "body": "While Aston Martin introduced its first major upgrade package for the AMR26 in Hungary, Honda will bring its first update of the 2026 Formula 1 season to Zandvoort.With Adrian Newe...",
-      "url": "https://www.autosport.com/f1/news/what-to-expect-from-hondas-long-awaited-f1-power-unit-upgrade-at-zandvoort/10845648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Why McLaren feels the best drivers can still make a difference under F1 2026 rules",
-      "body": "The complaints have been rumbling since before the start of the Formula 1 season. Periodically they intensify, especially at so-called \u2018energy-starved\u2019 circuits where the ratio of ...",
-      "url": "https://www.motorsport.com/f1/news/why-mclaren-feels-the-best-drivers-can-still-make-a-difference-under-f1-2026-rules/10845727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Cadillac hires new F1 team boss, Graeme Lowdon leaves",
+      "body": "The Cadillac Formula 1 outfit has hired a new team principal, appointing Marcin Budkowski to the position instead of Graeme Lowdon.Budkowski, 49, has held a myriad of roles in the ...",
+      "url": "https://www.motorsport.com/f1/news/cadillac-appoints-new-f1-team-boss-as-graeme-lowdon-leaves/10845933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 2026 mid-season grades: Racing Bulls stuns midfield pack",
-      "body": "Racing Bulls equalled its best-ever result of sixth place in 2025, but started the new campaign with plenty of question marks. As one of F1's smaller teams, the huge regulation cha...",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-racing-bulls-stuns-midfield-pack-/10845309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why McLaren feels the best drivers can still make a difference under F1 2026 rules",
+      "body": "The complaints have been rumbling since before the start of the Formula 1 season. Periodically they intensify, especially at so-called \u2018energy-starved\u2019 circuits where the ratio of ...",
+      "url": "https://www.motorsport.com/f1/news/why-mclaren-feels-the-best-drivers-can-still-make-a-difference-under-f1-2026-rules/10845727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-12T13:59:41Z",
+    "lastUpdatedUtc": "2026-08-12T15:08:42Z",
     "source": "jolpica"
   },
   "nextRace": {
