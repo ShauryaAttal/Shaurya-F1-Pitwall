@@ -20,12 +20,20 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "What is the F1 summer shutdown?",
-      "body": "BBC Sport's Ask Me Anything team look at the summer shutdown in Formula 1.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cly4r51l84ko?at_medium=RSS&at_campaign=rss"
+      "headline": "The Chequered Flag Podcast",
+      "body": "How did former F1 driver Kimi Raikkonen catch out Becky Evans in front of 50,000 people?",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0030f0p?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Mercedes explains \"out of phase\" developments compared with other F1 teams",
+      "body": "Mercedes technical director James Allison says the team's decision to keep developing its 2026 Formula 1 car late has put it \"out of phase\" with the other teams around it, causing ...",
+      "url": "https://www.autosport.com/f1/news/why-mercedes-finds-other-f1-teams-upgrades-scary-with-its-out-of-phase-plan/10846296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "FIA lifts sanctions on Russian, Belarusian drivers",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/general/news/fia-lifts-sanctions-on-russian-belarusian-drivers/10846260/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "McNish outlines the lessons he learned from Senna and brought to Audi",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/interview-the-life-and-racing-lessons-allan-mcnish-learned-from-ayrton-senna-and-audi/10846255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why Cadillac has decided to act now and replace Lowdon with Budkowski",
-      "body": "More than a week before the Dutch Grand Prix at Zandvoort, the Formula 1 world was abruptly awakened from its summer break.At 3pm UK time, Cadillac decided the time was right to ma...",
-      "url": "https://www.autosport.com/f1/news/why-cadillac-has-decided-to-act-now-and-replace-lowdon-with-budkowski/10846037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen unveils special helmet for final F1 Dutch Grand Prix",
-      "body": "Four-time Formula 1 champion Max Verstappen has unveiled a special-edition helmet design ahead of what will be his final home race at the 2026 Dutch Grand Prix.The Dutchman's home ...",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix/10846299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why Mercedes finds other F1 teams' upgrades \"scary\" with its out-of-phase plan",
+      "body": "Mercedes technical director James Allison says the team's decision to keep developing its 2026 Formula 1 car late has put it \"out of phase\" with the other teams around it, causing ...",
+      "url": "https://www.motorsport.com/f1/news/mercedes-explains-out-of-phase-developments-with-other-f1-teams/10846275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "What exactly was behind Franco Colapinto's Miami breakthrough at Alpine?",
-      "body": "According to Pierre Gasly and Franco Colapinto, Alpine was overtaken by Racing Bulls in the final weeks before Formula 1's summer break.Both drivers say it is simply a matter of ca...",
-      "url": "https://www.motorsport.com/f1/news/what-exactly-was-behind-franco-colapintos-miami-breakthrough-at-alpine/10846004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "How F1 drivers were \"drooling over\" Formula E's Gen4 car",
+      "body": "Formula E boss Jeff Dodds beamed with pride when several Formula 1 drivers attended the Monaco E-Prix, labelling their comments about Gen4 as his highlight of the 2025-26 season.Re...",
+      "url": "https://www.motorsport.com/formula-e/news/f1-drivers-drooling-over-gen4/10846265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-14T12:11:09Z",
+    "lastUpdatedUtc": "2026-08-14T13:55:28Z",
     "source": "jolpica"
   },
   "nextRace": {
