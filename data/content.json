@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "The best drives of F1 2026 so far, according to our writers",
+      "body": "Formula 1\u2019s competitive order was shaken up in 2026 with the roll out of sweeping new regulations across the chassis, aerodynamics and power units. Mercedes came out on top, with i...",
+      "url": "https://www.autosport.com/f1/news/the-best-drives-of-the-2026-f1-season-so-far-according-to-our-writers/10846635/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Verstappen highlights \"big priority\" for Red Bull in second half of F1 2026",
       "body": "During Formula 1's summer break, Max Verstappen finds himself no fewer than 110 points behind championship leader Kimi Antonelli.Last season, the four-time world champion launched ...",
       "url": "https://www.autosport.com/f1/news/max-verstappen-pinpoints-red-bulls-big-priority-for-second-half-of-f1-2026/10846451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Mercedes explains \"out of phase\" developments compared with other F1 teams",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-mercedes-finds-other-f1-teams-upgrades-scary-with-its-out-of-phase-plan/10846296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "FIA lifts sanctions on Russian, Belarusian drivers",
-      "body": "The FIA has revised its emergency measures to lift restrictions on Russian and Belarusian drivers and no longer binds them to a commitment of 'neutrality', walking back on the meas...",
-      "url": "https://www.autosport.com/general/news/fia-lifts-sanctions-on-russian-belarusian-drivers/10846260/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 2026 mid-season grades: Innovative Ferrari impresses with strong start",
-      "body": "Was Fred Vasseur playing with fire when he decided Ferrari should switch focus to 2026 as early as April last year? Perhaps so, but with the Scuderia unable to catch McLaren, the F...",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start/10846497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "The best drives of the 2026 F1 season so far, according to our writers",
+      "body": "Formula 1\u2019s competitive order was shaken up in 2026 with the roll out of sweeping new regulations across the chassis, aerodynamics and power units. Mercedes came out on top, with i...",
+      "url": "https://www.motorsport.com/f1/news/sun-the-best-drives-of-the-2026-f1-season-so-far-according-to-our-writers/10846338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Gabriel Bortoleto expects long-term stay at Audi's F1 team",
-      "body": "Gabriel Bortoleto expects to remain at Audi for the long-term, stating that he has a deal with the Swiss-German Formula 1 outfit to cover the next few seasons.The Brazilian joined ...",
-      "url": "https://www.motorsport.com/f1/news/bortoleto-expects-long-term-stay-at-audis-f1-team/10846331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 2026 mid-season grades: Innovative Ferrari impresses with strong start",
+      "body": "Was Fred Vasseur playing with fire when he decided Ferrari should switch focus to 2026 as early as April last year? Perhaps so, but with the Scuderia unable to catch McLaren, the F...",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start/10846497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-16T07:36:08Z",
+    "lastUpdatedUtc": "2026-08-16T08:36:56Z",
     "source": "jolpica"
   },
   "nextRace": {
