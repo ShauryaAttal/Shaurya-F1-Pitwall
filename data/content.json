@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Why Honda's F1 project looks completely different from its Red Bull years",
+      "body": "When Adrian Newey appeared at the FIA team principals' press conference during the Formula 1 season opener in Melbourne, the legendary designer attracted attention for several reas...",
+      "url": "https://www.autosport.com/f1/news/why-hondas-f1-project-looks-completely-different-from-its-red-bull-years/10846818/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "The best drives of F1 2026 so far, according to our writers",
       "body": "Formula 1\u2019s competitive order was shaken up in 2026 with the roll out of sweeping new regulations across the chassis, aerodynamics and power units. Mercedes came out on top, with i...",
       "url": "https://www.autosport.com/f1/news/the-best-drives-of-the-2026-f1-season-so-far-according-to-our-writers/10846635/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Verstappen highlights \"big priority\" for Red Bull in second half of F1 2026",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/max-verstappen-pinpoints-red-bulls-big-priority-for-second-half-of-f1-2026/10846451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Mercedes explains \"out of phase\" developments compared with other F1 teams",
-      "body": "Mercedes technical director James Allison says the team's decision to keep developing its 2026 Formula 1 car late has put it \"out of phase\" with the other teams around it, causing ...",
-      "url": "https://www.autosport.com/f1/news/why-mercedes-finds-other-f1-teams-upgrades-scary-with-its-out-of-phase-plan/10846296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Otmar Szafnauer opens door to F1 comeback but hints at different role",
-      "body": "Former Force India, Aston Martin and Alpine boss Otmar Szafnauer has revealed he remains open to a Formula 1 comeback, though he says any potential return to the paddock might not ...",
-      "url": "https://www.motorsport.com/f1/news/otmar-szafnauer-opens-door-to-f1-comeback-but-hints-at-different-role/10846815/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Rob Smedley reveals why he turned down F1 team principal roles",
+      "body": "Former Ferrari and Williams race engineer Rob Smedley has revealed that he has recently been approached for Formula 1 team principal roles, but he turned them down.Speaking on the ...",
+      "url": "https://www.motorsport.com/f1/news/rob-smedley-reveals-why-he-turned-down-f1-team-principal-roles/10846821/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Arvid Lindblad opens up on Liam Lawson relationship at Racing Bulls",
-      "body": "Racing Bulls Formula 1 rookie Arvid Lindblad has shed light on his partnership with team-mate Liam Lawson.The 19-year-old Briton has impressed during the first half of his debut ca...",
-      "url": "https://www.motorsport.com/f1/news/arvid-lindblad-opens-up-on-liam-lawson-relationship-at-racing-bulls/10846808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "What makes Honda's F1 project completely different from its Red Bull years",
+      "body": "When Adrian Newey appeared at the FIA team principals' press conference during the Formula 1 season opener in Melbourne, the legendary designer attracted attention for several reas...",
+      "url": "https://www.motorsport.com/f1/news/honda-f1-project-different-red-bull-years/10846813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-17T09:50:02Z",
+    "lastUpdatedUtc": "2026-08-17T10:38:06Z",
     "source": "jolpica"
   },
   "nextRace": {
