@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Ukraine appeals to FIA to overturn Russia inclusion",
+      "body": "Ukraine's government appeals against FIA's decision to welcome back Russian and Belarussian drivers.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5y6jz0xx7do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "What's going on at Cadillac and Haas? F1 Q&A",
       "body": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the season resumes with the Dutch Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Dutch GP in pictures as F1 prepares for Zandvoort farewell",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c0l58802270o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "How to follow Dutch Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the Dutch Grand Prix at Zandvoort, from 21-23 August.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/clyeq93y903o?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Albon commits to Williams F1 team for 2027",
+      "body": "Alex Albon will stay at Williams for a sixth consecutive Formula 1 season in 2027 after agreeing a short-term contract extension.Albon joined Williams ahead of the 2022 season and ...",
+      "url": "https://www.autosport.com/f1/news/alex-albon-commits-to-williams-f1-team-for-2027/10847126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "FIA: F1's Macarena wings to stay, but Red Bull had to do \"more work\"",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/fia-happy-for-f1s-macarena-wings-to-stay-red-bull-had-to-do-more-work/10847016/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Honda's F1 project looks completely different from its Red Bull years",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-hondas-f1-project-looks-completely-different-from-its-red-bull-years/10846818/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "The best drives of F1 2026 so far, according to our writers",
-      "body": "Formula 1\u2019s competitive order was shaken up in 2026 with the roll out of sweeping new regulations across the chassis, aerodynamics and power units. Mercedes came out on top, with i...",
-      "url": "https://www.autosport.com/f1/news/the-best-drives-of-the-2026-f1-season-so-far-according-to-our-writers/10846635/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\"We need to put a limit on it\" \u2013 Franco Colapinto opens up about online abuse in F1",
-      "body": "Formula 1 has grown significantly in recent years, not least on social media. While that is essentially a positive development, one downside has been the considerable increase in o...",
-      "url": "https://www.motorsport.com/f1/news/we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1/10847055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Alex Albon commits to Williams F1 team for 2027",
+      "body": "Alex Albon will stay at Williams for a sixth consecutive Formula 1 season in 2027 after agreeing a short-term contract extension.Albon joined Williams ahead of the 2022 season and ...",
+      "url": "https://www.motorsport.com/f1/news/alex-albon-commits-to-williams-f1-team-for-2027/10847116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Guenther Steiner opens up on breakdown of relationship with Gene Haas",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner has shed new light on his relationship with team owner Gene Haas following his exit from the team, confirming that he currentl...",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-opens-up-on-breakdown-of-relationship-with-gene-haas/10846914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lewis Hamilton vs Michael Schumacher: You decide F1's greatest driver",
+      "body": "Our Top 25 Formula 1 drivers ranking produced the one result nobody could ignore: a dead heat at number one.After 10 journalists from Motorsport, Autosport and Yahoo Sports submitt...",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-vs-michael-schumacher-you-decide-f1s-greatest-driver/10846978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-18T12:57:40Z",
+    "lastUpdatedUtc": "2026-08-18T13:50:09Z",
     "source": "jolpica"
   },
   "nextRace": {
