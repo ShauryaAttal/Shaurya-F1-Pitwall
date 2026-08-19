@@ -4,8 +4,8 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Hadjar to miss Dutch Grand Prix with hand injury",
-      "body": "Red Bull's Isack Hadjar will miss this weekend's Dutch Grand Prix after injuring his hand during the summer break.",
+      "headline": "Hadjar to miss Dutch Grand Prix with wrist injury",
+      "body": "Red Bull's Isack Hadjar will miss this weekend's Dutch Grand Prix after injuring his wrist during the summer break.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/crrvyzz0w0vo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "FIA to hear McLaren and Red Bull's Monaco GP appeal next week",
+      "body": "Next week, the FIA will hear the appeals from McLaren and Red Bull against the decision to reinstate Pierre Gasly\u2019s podium at the Monaco Grand Prix.The Alpine driver crossed the li...",
+      "url": "https://www.autosport.com/f1/news/fia-to-hear-mclaren-red-bull-monaco-gp-appeal-next-week/10847321/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Lawson to replace Hadjar at Red Bull for Dutch GP",
       "body": "Red Bull has officially confirmed that Liam Lawson will replace the injured Isack Hadjar at this weekend\u2019s Formula 1 Dutch Grand Prix.News emerged on Wednesday morning that Hadjar ...",
       "url": "https://www.autosport.com/f1/news/lawson-to-replace-hadjar-at-dutch-gp/10847307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Pre-start procedure set to remain for F1 2027",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/pre-start-procedure-set-to-remain-for-f1-2027/10847275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Hadjar could miss F1 Dutch GP with Red Bull replacement plan already in place",
-      "body": "Max Verstappen could have a different team-mate alongside him for his final home race on the Formula 1 calendar. Isack Hadjar is dealing with a wrist injury sustained during a gym ...",
-      "url": "https://www.autosport.com/f1/news/hadjar-could-miss-f1-dutch-gp/10847250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Isack Hadjar to miss F1 Dutch GP, Red Bull replacement confirmed",
-      "body": "Red Bull has officially confirmed that Liam Lawson will replace the injured Isack Hadjar at this weekend\u2019s Formula 1 Dutch Grand Prix.News emerged on Wednesday morning that Hadjar ...",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-miss-f1-dutch-gp-red-bulls-replacement-confirmed/10847292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Guenther Steiner \"wouldn't discount\" F1-MotoGP double-header within five years",
+      "body": "Former Haas Formula 1 team principal Guenther Steiner believes a joint race weekend featuring both F1 and MotoGP could become a reality within the next five years, identifying venu...",
+      "url": "https://www.motorsport.com/f1/news/f1-and-motogp-double-header-could-happen-within-five-years-says-guenther-steiner/10847334/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "How F1 drivers spent the 2026 summer beak",
-      "body": "Formula 1's mandatory summer shutdown has given the paddock a much-needed chance to recharge ahead of the Dutch Grand Prix. With the drivers now returning to work in the lead-up to...",
-      "url": "https://www.motorsport.com/f1/news/how-f1-drivers-spent-the-2026-summer-beak/10847288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "David Coulthard predicts Zandvoort will never return to F1 calendar",
+      "body": "Former Formula 1 driver David Coulthard believes the championship will never return to Zandvoort, citing severe physical and commercial constraints ahead of the venue's final Dutch...",
+      "url": "https://www.motorsport.com/f1/news/david-coulthard-predicts-zandvoort-will-never-return-to-f1-calendar/10847326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-19T11:31:08Z",
+    "lastUpdatedUtc": "2026-08-19T12:59:01Z",
     "source": "jolpica"
   },
   "nextRace": {
