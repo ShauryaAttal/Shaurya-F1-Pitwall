@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Williams confirms F1 2027 line-up with Sainz extension",
+      "body": "Williams has confirmed its driver line-up for the 2027 Formula 1 season after announcing the commitment of Carlos Sainz on a multi-year deal.The Spaniard\u2019s news comes a day after t...",
+      "url": "https://www.autosport.com/f1/news/carlos-sainz-extends-williams-contract/10847353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "FIA to hear McLaren and Red Bull's Monaco GP appeal next week",
       "body": "Next week, the FIA will hear the appeals from McLaren and Red Bull against the decision to reinstate Pierre Gasly\u2019s podium at the Monaco Grand Prix.The Alpine driver crossed the li...",
       "url": "https://www.autosport.com/f1/news/fia-to-hear-mclaren-red-bull-monaco-gp-appeal-next-week/10847321/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Lawson to replace Hadjar at Red Bull for Dutch GP",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/lawson-to-replace-hadjar-at-dutch-gp/10847307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Pre-start procedure set to remain for F1 2027",
-      "body": "After the practice starts during winter testing in Bahrain proved rather problematic for several Formula 1 outfits, the issue quickly sparked a political debate in the paddock.Many...",
-      "url": "https://www.autosport.com/f1/news/pre-start-procedure-set-to-remain-for-f1-2027/10847275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Guenther Steiner \"wouldn't discount\" F1-MotoGP double-header within five years",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner believes a joint race weekend featuring both F1 and MotoGP could become a reality within the next five years, identifying venu...",
-      "url": "https://www.motorsport.com/f1/news/f1-and-motogp-double-header-could-happen-within-five-years-says-guenther-steiner/10847334/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Carlos Sainz to remain at Williams for F1 2027",
+      "body": "Williams has confirmed its driver line-up for the 2027 Formula 1 season after announcing the commitment of Carlos Sainz on a multi-year deal.The Spaniard\u2019s news comes a day after t...",
+      "url": "https://www.motorsport.com/f1/news/carlos-sainz-to-remain-at-williams-for-f1-2027/10847351/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "David Coulthard predicts Zandvoort will never return to F1 calendar",
-      "body": "Former Formula 1 driver David Coulthard believes the championship will never return to Zandvoort, citing severe physical and commercial constraints ahead of the venue's final Dutch...",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-predicts-zandvoort-will-never-return-to-f1-calendar/10847326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Guenther Steiner \"wouldn't discount\" F1-MotoGP double-header within five years",
+      "body": "Former Haas Formula 1 team principal Guenther Steiner believes a joint race weekend featuring both F1 and MotoGP could become a reality within the next five years, identifying venu...",
+      "url": "https://www.motorsport.com/f1/news/f1-and-motogp-double-header-could-happen-within-five-years-says-guenther-steiner/10847334/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-19T12:59:01Z",
+    "lastUpdatedUtc": "2026-08-19T13:52:02Z",
     "source": "jolpica"
   },
   "nextRace": {
