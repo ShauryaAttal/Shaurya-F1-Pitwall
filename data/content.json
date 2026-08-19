@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Lawson to replace Hadjar at Red Bull for Dutch GP",
+      "body": "Red Bull has officially confirmed that Liam Lawson will replace the injured Isack Hadjar at this weekend\u2019s Formula 1 Dutch Grand Prix.News emerged on Wednesday morning that Hadjar ...",
+      "url": "https://www.autosport.com/f1/news/lawson-to-replace-hadjar-at-dutch-gp/10847307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Pre-start procedure set to remain for F1 2027",
       "body": "After the practice starts during winter testing in Bahrain proved rather problematic for several Formula 1 outfits, the issue quickly sparked a political debate in the paddock.Many...",
       "url": "https://www.autosport.com/f1/news/pre-start-procedure-set-to-remain-for-f1-2027/10847275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Hadjar could miss F1 Dutch GP with Red Bull replacement plan already in place",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/hadjar-could-miss-f1-dutch-gp/10847250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "\"No nine to five cruise\" - The challenge of assembling Cadillac's trackside F1 team from scratch",
-      "body": "When brand-new entrant Cadillac started its search for a race team manager, still a full year removed from joining the 2026 Formula 1 grid, it didn't have to look very long, or far...",
-      "url": "https://www.autosport.com/f1/news/no-nine-to-five-cruise-the-rewarding-challenge-of-assembling-cadillacs-trackside-team-from-scratch/10847076/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "How F1 drivers spent the 2026 summer beak",
-      "body": "Formula 1's mandatory summer shutdown has given the paddock a much-needed chance to recharge ahead of the Dutch Grand Prix. With the drivers now returning to work in the lead-up to...",
-      "url": "https://www.motorsport.com/f1/news/how-f1-drivers-spent-the-2026-summer-beak/10847288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Isack Hadjar to miss F1 Dutch GP, Red Bull replacement confirmed",
+      "body": "Red Bull has officially confirmed that Liam Lawson will replace the injured Isack Hadjar at this weekend\u2019s Formula 1 Dutch Grand Prix.News emerged on Wednesday morning that Hadjar ...",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-miss-f1-dutch-gp-red-bulls-replacement-confirmed/10847292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 pre-start procedure to stay despite FIA saying it is no longer a safety issue",
-      "body": "After the practice starts during winter testing in Bahrain proved rather problematic for several Formula 1 outfits, the issue quickly sparked a political debate in the paddock.Many...",
-      "url": "https://www.motorsport.com/f1/news/f1-pre-start-procedure-to-stay-despite-fia-saying-it-is-no-longer-a-safety-issue/10847147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "How F1 drivers spent the 2026 summer beak",
+      "body": "Formula 1's mandatory summer shutdown has given the paddock a much-needed chance to recharge ahead of the Dutch Grand Prix. With the drivers now returning to work in the lead-up to...",
+      "url": "https://www.motorsport.com/f1/news/how-f1-drivers-spent-the-2026-summer-beak/10847288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-19T10:35:07Z",
+    "lastUpdatedUtc": "2026-08-19T11:31:08Z",
     "source": "jolpica"
   },
   "nextRace": {
