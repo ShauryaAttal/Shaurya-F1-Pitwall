@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "How the 2027 F1 grid is shaping up after Verstappen's Red Bull new deal",
+      "body": "On the face of it, the emergence of three 2027 driver announcements in the same week might suggest that Formula 1's silly season had truly kicked off in style as the season emerged...",
+      "url": "https://www.autosport.com/f1/news/how-the-2027-f1-grid-is-shaping-up-after-max-verstappens-red-bull-renewal/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Verstappen commits to Red Bull until end of F1 2030",
       "body": "Max Verstappen had quashed any speculation about his future in Formula 1 by signing a new contract with Red Bull until the end of 2030.While Verstappen\u2019s current deal already exten...",
       "url": "https://www.autosport.com/f1/news/verstappen-commits-to-red-bull-until-end-of-f1-2030/10847484/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The full circle moment given to Lawson at the 2026 Dutch GP",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/full-circle-moment-for-lawson-at-dutch-gp/10847409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Williams confirms F1 2027 line-up with Sainz extension",
-      "body": "Williams has confirmed its driver line-up for the 2027 Formula 1 season after announcing the commitment of Carlos Sainz on a multi-year deal.The Spaniard\u2019s news comes a day after t...",
-      "url": "https://www.autosport.com/f1/news/carlos-sainz-extends-williams-contract/10847353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "It is time to change the narrative around Kimi Antonelli, says Sky F1 pundit",
-      "body": "People must stop treating Kimi Antonelli as a teenage novelty and recognise him as an established top-tier racer, according to former W Series driver and Sky Sports Formula 1 analy...",
-      "url": "https://www.motorsport.com/f1/news/it-is-time-to-change-the-narrative-around-kimi-antonelli-says-sky-f1-pundit/10847555/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Arvid Lindblad donates Belgian GP helmet raising \u00a360,000 for Will MacIntyre's iMRI campaign",
+      "body": "Racing Bulls Formula 1 driver Arvid Lindblad has raised \u00a360,000 for Will MacIntyre's campaign to fund a state-of-the-art intra-operative MRI (iMRI) scanner at Addenbrooke's Hospita...",
+      "url": "https://www.motorsport.com/f1/news/arvid-lindblad-donates-belgian-gp-helmet-raising-60000-for-will-macintyres-imri-campaign/10847614/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 fans declare silly season over after Max Verstappen Red Bull contract announcement",
-      "body": "Formula 1 fans have joked that 'silly season' is over after four-time champion Max Verstappen signed a contract extension with Red Bull.Verstappen had been linked to Mercedes and M...",
-      "url": "https://www.motorsport.com/f1/news/f1-fans-declare-silly-season-over-after-max-verstappen-red-bull-contract-announcement/10847541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "How the 2027 F1 grid is shaping up after Max Verstappen's Red Bull renewal",
+      "body": "On the face of it, the emergence of three 2027 driver announcements in the same week might suggest that Formula 1's silly season had truly kicked off in style as the season emerged...",
+      "url": "https://www.motorsport.com/f1/news/how-f1-2027s-grid-is-shaping-up-after-verstappens-red-bull-renewal/10847586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-20T11:35:55Z",
+    "lastUpdatedUtc": "2026-08-20T13:01:21Z",
     "source": "jolpica"
   },
   "nextRace": {
