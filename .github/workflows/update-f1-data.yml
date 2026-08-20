@@ -34,8 +34,8 @@ jobs:
 
       - name: Commit and push if data changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "ShauryaAttal"
+          git config user.email "shaurya.attal@gmail.com"
           if git diff --quiet && [ "${{ github.event.inputs.force_refresh }}" != "true" ]; then
             echo "No updates to commit"
             exit 0
