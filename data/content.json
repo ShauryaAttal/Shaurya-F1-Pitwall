@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "TWG denies sale of Cadillac F1 team",
+      "body": "Mark Walter might be unfamiliar in Formula 1, but for the Cadillac team, he holds fundamental relevance. The billionaire is the CEO of TWG, the company responsible for operating Ge...",
+      "url": "https://www.autosport.com/f1/news/twg-denies-sale-of-cadillac-f1-team/10847649/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "How the 2027 F1 grid is shaping up after Verstappen's Red Bull new deal",
       "body": "On the face of it, the emergence of three 2027 driver announcements in the same week might suggest that Formula 1's silly season had truly kicked off in style as the season emerged...",
       "url": "https://www.autosport.com/f1/news/how-the-2027-f1-grid-is-shaping-up-after-max-verstappens-red-bull-renewal/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Verstappen commits to Red Bull until end of F1 2030",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/verstappen-commits-to-red-bull-until-end-of-f1-2030/10847484/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "The full circle moment given to Lawson at the 2026 Dutch GP",
-      "body": "Call it cosmic karma or poetic justice, but on the scene of Liam Lawson's Formula 1 debut, deputising for Daniel Ricciardo in 2023, the New Zealander is again replacing a driver in...",
-      "url": "https://www.autosport.com/f1/news/full-circle-moment-for-lawson-at-dutch-gp/10847409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Yuki Tsunoda reveals beach phone call that led to surprise F1 return",
-      "body": "Yuki Tsunoda received an unexpected call-up to return to F1 after Isack Hadjar injured his wrist during the summer break.With Liam Lawson being drafted in from Racing Bulls to repl...",
-      "url": "https://www.motorsport.com/f1/news/tsunoda-reveals-beach-phone-call-that-led-to-surprise-f1-return/10847590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "TWG denies sale of Cadillac F1 team following investigation into Mark Walter",
+      "body": "Mark Walter might be unfamiliar in Formula 1, but for the Cadillac team, he holds fundamental relevance. The billionaire is the CEO of TWG, the company responsible for operating Ge...",
+      "url": "https://www.motorsport.com/f1/news/twg-denies-sale-of-cadillac-f1-team-following-investigation-into-mark-walter/10847645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Arvid Lindblad donates Belgian GP helmet raising \u00a360,000 for Will MacIntyre's iMRI campaign",
-      "body": "Racing Bulls Formula 1 driver Arvid Lindblad has raised \u00a360,000 for Will MacIntyre's campaign to fund a state-of-the-art intra-operative MRI (iMRI) scanner at Addenbrooke's Hospita...",
-      "url": "https://www.motorsport.com/f1/news/arvid-lindblad-donates-belgian-gp-helmet-raising-60000-for-will-macintyres-imri-campaign/10847614/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Yuki Tsunoda reveals beach phone call that led to surprise F1 return",
+      "body": "Yuki Tsunoda received an unexpected call-up to return to F1 after Isack Hadjar injured his wrist during the summer break.With Liam Lawson being drafted in from Racing Bulls to repl...",
+      "url": "https://www.motorsport.com/f1/news/tsunoda-reveals-beach-phone-call-that-led-to-surprise-f1-return/10847590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-20T14:09:32Z",
+    "lastUpdatedUtc": "2026-08-20T15:06:28Z",
     "source": "jolpica"
   },
   "nextRace": {
