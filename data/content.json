@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Farewell Zandvoort: Our writers' personal highlights from the F1 Dutch GP",
+      "body": "For one final time, Formula 1 cars will race around the sand dunes of Zandvoort this weekend as the seaside circuit prepares to host its final Dutch Grand Prix. After its re-entry ...",
+      "url": "https://www.autosport.com/f1/news/zandvoort-memories-our-writers-pick-their-personal-highlights-from-the-dutch-gp/10847792/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "US billionaire Robert Wood Johnson acquires minor Aston Martin F1 stake",
       "body": "Aston Martin has sold a minority stake in its Formula 1 team to US billionaire Robert Wood Johnson, who joins the board of directors as vice chairman.Johnson, an heir of the Johnso...",
       "url": "https://www.autosport.com/f1/news/us-billionaire-robert-wood-johnson-acquires-minor-aston-martin-f1-stake/10847685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "TWG denies sale of Cadillac F1 team",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/twg-denies-sale-of-cadillac-f1-team/10847649/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "How the 2027 F1 grid is shaping up after Verstappen's Red Bull new deal",
-      "body": "On the face of it, the emergence of three 2027 driver announcements in the same week might suggest that Formula 1's silly season had truly kicked off in style as the season emerged...",
-      "url": "https://www.autosport.com/f1/news/how-the-2027-f1-grid-is-shaping-up-after-max-verstappens-red-bull-renewal/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Yuki Tsunoda's Zandvoort goals: Have fun and widen 2027 options",
-      "body": "Yuki Tsunoda is making a comeback to F1 this weekend after Isack Hadjar's wrist injury offered him an opportunity to take the Racing Bulls seat. While he understands the circumstan...",
-      "url": "https://www.motorsport.com/f1/news/tsunodas-zandvoort-goals-have-fun-and-widen-2027-options/10847611/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why 'grateful' Liam Lawson is expecting a 'tough' F1 return at Red Bull",
+      "body": "The first day back at the office after a holiday can often be a shock to the system. And that\u2019s how it was for Liam Lawson when he landed in the UK on Monday expecting the usual pr...",
+      "url": "https://www.motorsport.com/f1/news/why-grateful-liam-lawson-is-expecting-a-tough-f1-return-at-red-bull/10847806/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen is yet to reach his peak, says former F1 team boss",
-      "body": "Former Formula 1 team principal Otmar Szafnauer believes Max Verstappen is continuing to improve and has still not reached his peak performance.During an episode of the High Perfor...",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-is-yet-to-reach-his-peak-says-former-f1-team-boss/10847757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Goodbye Zandvoort: Our writers' highlights from F1's Dutch Grand Prix",
+      "body": "For one final time, Formula 1 cars will race around the sand dunes of Zandvoort this weekend as the seaside circuit prepares to host its final Dutch Grand Prix. After its re-entry ...",
+      "url": "https://www.motorsport.com/f1/news/zandvoort-memories-our-writers-pick-their-personal-highlights-from-the-dutch-gp/10847699/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-21T08:07:21Z",
+    "lastUpdatedUtc": "2026-08-21T09:09:27Z",
     "source": "jolpica"
   },
   "nextRace": {
