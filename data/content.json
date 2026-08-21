@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Russell on pole position for Dutch GP sprint race",
+      "body": "Mercedes' George Russell secures pole position for the Dutch Grand Prix sprint race, ahead of Lando Norris and Charles Leclerc.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8xn09wkw79o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Antonelli leads Norris in Dutch GP first practice",
       "body": "Mercedes' Kimi Antonelli heads McLaren's Lando Norris in practice at the Dutch Grand Prix at Zandvoort.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cx2l701nxnxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Closer to retiring than changing teams - why Verstappen stayed at Red Bull",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c0qvkj40zk4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Verstappen extends Red Bull deal to 2030",
-      "body": "Four-time world champion Max Verstappen signs a contract extension with Red Bull, keeping him with the Formula One team until 2030.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 Dutch GP: Russell takes pole in tight sprint qualifying with Antonelli fifth",
+      "body": "George Russell has taken pole position for the Dutch Grand Prix sprint race with Formula 1 championship leader Kimi Antonelli down in fifth.The Mercedes driver pipped reigning worl...",
+      "url": "https://www.autosport.com/f1/news/f1-dutch-gp-russell-takes-pole-in-tight-sprint-qualifying-with-antonelli-fifth/10847948/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Dutch GP: Antonelli pips Norris in practice amid poor showing for Red Bull",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/f1-dutch-gp-antonelli-pips-norris-in-practice-in-poor-showing-for-red-bull/10847862/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Farewell Zandvoort: Our writers' personal highlights from the F1 Dutch GP",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/zandvoort-memories-our-writers-pick-their-personal-highlights-from-the-dutch-gp/10847792/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "US billionaire Robert Wood Johnson acquires minor Aston Martin F1 stake",
-      "body": "Aston Martin has sold a minority stake in its Formula 1 team to US billionaire Robert Wood Johnson, who joins the board of directors as vice chairman.Johnson, an heir of the Johnso...",
-      "url": "https://www.autosport.com/f1/news/us-billionaire-robert-wood-johnson-acquires-minor-aston-martin-f1-stake/10847685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Williams was \"concerned about losing both\" Carlos Sainz and Alex Albon before contract extensions",
-      "body": "Williams boss James Vowles admits the team's disastrous 2026 campaign made him worry about losing both Carlos Sainz and Alex Albon, before the pair re-signed for next year.Williams...",
-      "url": "https://www.motorsport.com/f1/news/williams-was-concerned-about-losing-both-carlos-sainz-and-alex-albon-before-contract-extensions/10847868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "This is the starting grid for the 2026 F1 Dutch Grand Prix sprint",
+      "body": "1 George Russell(Mercedes) 2 Lando Norris(McLaren)3 Charles Leclerc(Ferrari) 4 Oscar ...Keep reading",
+      "url": "https://www.motorsport.com/f1/news/2026-f1-dutch-grand-prix-sprint-starting-grid/10847969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Regressing Haas \"10th best\" in F1 after Aston Martin upgrades - Oliver Bearman",
-      "body": "A downbeat Oliver Bearman has accepted that Haas is now the \u201c10th best team\u201d in Formula 1 after being overtaken by Aston Martin at the Hungarian Grand Prix.The American outfit star...",
-      "url": "https://www.motorsport.com/f1/news/regressing-haas-10th-best-in-f1-after-aston-martin-upgrades-oliver-bearman/10847825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "The advice MotoGP champion Marc Marquez gave Isack Hadjar over his wrist injury",
+      "body": "Isack Hadjar misses this weekend's Dutch Grand Prix after sustaining a wrist injury during a gym session last week. According to Racing Bulls CEO Peter Bayer, Red Bull\u2019s sister tea...",
+      "url": "https://www.motorsport.com/f1/news/the-advice-motogp-champion-marc-marquez-gave-isack-hadjar-over-his-wrist-injury/10847961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-21T15:04:44Z",
+    "lastUpdatedUtc": "2026-08-21T15:59:31Z",
     "source": "jolpica"
   },
   "nextRace": {
