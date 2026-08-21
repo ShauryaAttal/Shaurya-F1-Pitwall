@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Why Honda's new F1 engine comes with fresh but expected driveability issues",
+      "body": "Aston Martin Formula 1 driver Fernando Alonso says more work is needed to optimise Honda's more powerful engine after struggling to keep his car on the track in sprint qualifying a...",
+      "url": "https://www.autosport.com/f1/news/difficult-to-stop-the-car-hondas-new-engine-comes-with-fresh-but-expected-driveability-issues/10848015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "The advice Marquez gave Hadjar over his wrist injury",
       "body": "Isack Hadjar misses this weekend's Dutch Grand Prix after sustaining a wrist injury during a gym session last week. According to Racing Bulls CEO Peter Bayer, Red Bull\u2019s sister tea...",
       "url": "https://www.autosport.com/f1/news/the-advice-motogp-champion-marc-marquez-gave-isack-hadjar-over-his-wrist-injury/10847971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Dutch GP: Russell takes pole in tight sprint qualifying with Antonelli fifth",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-dutch-gp-russell-takes-pole-in-tight-sprint-qualifying-with-antonelli-fifth/10847948/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Dutch GP: Antonelli pips Norris in practice amid poor showing for Red Bull",
-      "body": "Kimi Antonelli was fastest in practice for the Dutch Grand Prix as the championship leader picked up where he left off upon Formula 1\u2019s return from its summer break.The Mercedes st...",
-      "url": "https://www.autosport.com/f1/news/f1-dutch-gp-antonelli-pips-norris-in-practice-in-poor-showing-for-red-bull/10847862/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Kimi Antonelli: F1 Dutch GP sprint qualifying off cost \"25 points of downforce\"",
-      "body": "Kimi Antonelli has revealed that his Turn 13 off during the Dutch Grand Prix's sprint qualifying session had cost approximately \"25 points of downforce\", after qualifying fifth for...",
-      "url": "https://www.motorsport.com/f1/news/antonelli-f1-dutch-gp-sprint-qualifying-off-cost-25-points-of-downforce/10847998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen: Red Bull still lacking grip and balance after F1 Dutch GP sprint qualifying",
+      "body": "Having chosen the Dutch Grand Prix as the venue to announce his renewed commitment to Red Bull until at least 2030, Max Verstappen endured mixed fortunes on the opening day of Form...",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-red-bull-still-lacking-grip-and-balance-after-f1-dutch-gp-sprint-qualifying/10848024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "This is the starting grid for the 2026 F1 Dutch Grand Prix sprint",
-      "body": "1 George Russell(Mercedes) 2 Lando Norris(McLaren)3 Charles Leclerc(Ferrari) 4 Oscar ...Keep reading",
-      "url": "https://www.motorsport.com/f1/news/2026-f1-dutch-grand-prix-sprint-starting-grid/10847969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"Difficult to stop the car\" - Honda's new engine comes with fresh but expected driveability issues",
+      "body": "Aston Martin Formula 1 driver Fernando Alonso says more work is needed to optimise Honda's more powerful engine after struggling to keep his car on the track in sprint qualifying a...",
+      "url": "https://www.motorsport.com/f1/news/difficult-to-stop-the-car-hondas-new-engine-comes-with-fresh-but-expected-driveability-issues/10848007/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-21T16:46:47Z",
+    "lastUpdatedUtc": "2026-08-21T17:35:03Z",
     "source": "jolpica"
   },
   "nextRace": {
