@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Norris beats Russell to pole position at Zandvoort",
+      "body": "Lando Norris beats George Russell to pole position at the Dutch Grand Prix in a frantic scramble to complete laps before a late shower of rain.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Russell wins Dutch GP sprint from pole position",
       "body": "Mercedes' George Russell leads from start to finish to win the sprint race at the Dutch Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Russell takes pole position for Dutch GP sprint race",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c8xn09wkw79o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Closer to retiring than changing teams - why Verstappen stayed at Red Bull",
-      "body": "After signing a contract extension with Red Bull to 2030, Max Verstappen says he was \"closer to retiring\" from F1 \"than changing teams\".",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c0qvkj40zk4o?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 Dutch GP: Norris pips Russell to grab pole",
+      "body": "Lando Norris has pipped George Russell to pole position for the Dutch Grand Prix with Formula 1 championship leader Kimi Antonelli rounding out the top three.The reigning world cha...",
+      "url": "https://www.autosport.com/f1/news/f1-dutch-gp-qualifying-report/10848295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Dutch GP: Russell controls sprint race as Leclerc overhauls Norris for second",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/f1-dutch-gp-sprint-report/10848165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Honda's new F1 engine comes with fresh but expected driveability issues",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/difficult-to-stop-the-car-hondas-new-engine-comes-with-fresh-but-expected-driveability-issues/10848015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "The advice Marquez gave Hadjar over his wrist injury",
-      "body": "Isack Hadjar misses this weekend's Dutch Grand Prix after sustaining a wrist injury during a gym session last week. According to Racing Bulls CEO Peter Bayer, Red Bull\u2019s sister tea...",
-      "url": "https://www.autosport.com/f1/news/the-advice-motogp-champion-marc-marquez-gave-isack-hadjar-over-his-wrist-injury/10847971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen's Red Bull deal leaves F1 rivals \"breathing a sigh of relief\", says David Coulthard",
-      "body": "The Formula 1 paddock can collectively \"breathe a sigh of relief\" following Max Verstappen's decision to sign a contract extension with Red Bull, according to former driver David C...",
-      "url": "https://www.motorsport.com/f1/news/max-verstappens-red-bull-deal-leaves-f1-rivals-breathing-a-sigh-of-relief-says-david-coulthard/10848285/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "This is the starting grid for the 2026 F1 Dutch Grand Prix",
+      "body": "1 Lando Norris(McLaren) 2 George Russell(Mercedes)3 Kimi Antonelli(Mercedes) 4 Oscar ...Keep reading",
+      "url": "https://www.motorsport.com/f1/news/starting-grid-for-the-2026-F1-Dutch-GP/10848309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\"Either very right or very wrong\" \u2013 Charles Leclerc explains Ferrari's bold choice for Dutch GP sprint",
-      "body": "Although the Formula 1 sprint race at Zandvoort produced very little action, Charles Leclerc was responsible for one of the few overtakes. The Monegasque managed to pass Lando Norr...",
-      "url": "https://www.motorsport.com/f1/news/either-very-right-or-very-wrong-charles-leclerc-explains-ferraris-bold-choice-for-dutch-gp-sprint/10848242/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 Dutch GP: Lando Norris pips George Russell to dominant pole as rain threat looms",
+      "body": "Lando Norris pipped George Russell to pole position for the Dutch Grand Prix with Formula 1 championship leader Kimi Antonelli rounding out the top three.The reigning world champio...",
+      "url": "https://www.motorsport.com/f1/news/f1-dutch-gp-qualifying-report/10848291/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-22T14:52:15Z",
+    "lastUpdatedUtc": "2026-08-22T15:27:20Z",
     "source": "jolpica"
   },
   "nextRace": {
