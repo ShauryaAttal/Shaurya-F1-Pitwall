@@ -4,9 +4,9 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Russell takes pole position for Dutch GP sprint race",
-      "body": "Mercedes' George Russell secures pole position for the Dutch Grand Prix sprint race, ahead of Lando Norris and Charles Leclerc.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8xn09wkw79o?at_medium=RSS&at_campaign=rss"
+      "headline": "Russell wins Dutch GP sprint from pole position",
+      "body": "Mercedes' George Russell leads from start to finish to win the sprint race at the Dutch Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "02",
@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "F1 Dutch GP: Russell controls sprint race as Leclerc overhauls Norris for second",
+      "body": "George Russell dominated the Dutch Grand Prix sprint race from pole for his third Saturday victory of the 2026 Formula 1 campaign.The Mercedes driver led all the way from lights ou...",
+      "url": "https://www.autosport.com/f1/news/f1-dutch-gp-sprint-report/10848165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Why Honda's new F1 engine comes with fresh but expected driveability issues",
       "body": "Aston Martin Formula 1 driver Fernando Alonso says more work is needed to optimise Honda's more powerful engine after struggling to keep his car on the track in sprint qualifying a...",
       "url": "https://www.autosport.com/f1/news/difficult-to-stop-the-car-hondas-new-engine-comes-with-fresh-but-expected-driveability-issues/10848015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The advice Marquez gave Hadjar over his wrist injury",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/the-advice-motogp-champion-marc-marquez-gave-isack-hadjar-over-his-wrist-injury/10847971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Dutch GP: Russell takes pole in tight sprint qualifying with Antonelli fifth",
-      "body": "George Russell has taken pole position for the Dutch Grand Prix sprint race with Formula 1 championship leader Kimi Antonelli down in fifth.The Mercedes driver pipped reigning worl...",
-      "url": "https://www.autosport.com/f1/news/f1-dutch-gp-russell-takes-pole-in-tight-sprint-qualifying-with-antonelli-fifth/10847948/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen's Red Bull commitment hailed as \"important vindication\" of Laurent Mekies",
-      "body": "F1 TV analyst Alex Brundle has hailed Max Verstappen's long-term commitment to Red Bull as a strong endorsement of Laurent Mekies' leadership.Following months of speculation regard...",
-      "url": "https://www.motorsport.com/f1/news/max-verstappens-red-bull-commitment-hailed-as-important-vindication-of-laurent-mekies/10848168/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 Dutch GP: George Russell dominates sprint race as Kimi Antonelli misses the podium",
+      "body": "George Russell dominated the Dutch Grand Prix sprint race from pole for his third Saturday victory of the 2026 Formula 1 campaign.The Mercedes driver led all the way from lights ou...",
+      "url": "https://www.motorsport.com/f1/news/f1-dutch-gp-sprint-report/10848161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Guenther Steiner urges Cadillac to abandon 2026 F1 car development",
-      "body": "Former Haas team principal Guenther Steiner believes Cadillac should immediately abandon development on its maiden 2026 Formula 1 machinery and shift its resources towards the 2027...",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-urges-cadillac-to-abandon-2026-f1-car-development/10848158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen's Red Bull commitment hailed as \"important vindication\" of Laurent Mekies",
+      "body": "F1 TV analyst Alex Brundle has hailed Max Verstappen's long-term commitment to Red Bull as a strong endorsement of Laurent Mekies' leadership.Following months of speculation regard...",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-red-bull-commitment-hailed-as-important-vindication-of-laurent-mekies/10848168/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-22T10:30:05Z",
+    "lastUpdatedUtc": "2026-08-22T10:54:39Z",
     "source": "jolpica"
   },
   "nextRace": {
