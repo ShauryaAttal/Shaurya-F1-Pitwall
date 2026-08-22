@@ -52,23 +52,23 @@
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Jolyon Palmer warns George Russell over F1 title: 'Might be his best-ever shot'",
-      "body": "George Russell must capitalise on his 2026 championship fight, according to former Formula 1 driver Jolyon Palmer, who warns the Mercedes driver may never get a better title opport...",
-      "url": "https://www.motorsport.com/f1/news/jolyon-palmer-warns-george-russell-over-f1-title-might-be-his-best-ever-shot/10848182/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "The key to Charles Leclerc overtaking \u201cquite slow\u201d Lando Norris",
+      "body": "Charles Leclerc explained he was able to overtake Lando Norris for second place in Formula 1\u2019s Dutch Grand Prix sprint race courtesy of different deployment strategies.Teams had li...",
+      "url": "https://www.motorsport.com/f1/news/the-key-to-charles-leclerc-overtaking-a-quite-slow-lando-norris/10848245/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 Dutch GP: George Russell dominates sprint race as Kimi Antonelli misses the podium",
-      "body": "George Russell dominated the Dutch Grand Prix sprint race from pole for his third Saturday victory of the 2026 Formula 1 campaign.The Mercedes driver led all the way from lights ou...",
-      "url": "https://www.motorsport.com/f1/news/f1-dutch-gp-sprint-report/10848161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"Nowhere near good enough\" - McLaren puzzled by Dutch GP sprint struggles",
+      "body": "Reigning world champion Lando Norris says McLaren's low-speed weaknesses meant it was \"nowhere near good enough\" to challenge for victory in Zandvoort's sprint race.McLaren arrived...",
+      "url": "https://www.motorsport.com/f1/news/nowhere-near-good-enough-mclaren-puzzled-by-dutch-gp-sprint-struggles/10848225/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
     {
       "label": "Championship Lead",
-      "valuePrefix": "+50",
+      "valuePrefix": "+53",
       "valueEm": "",
       "valueSuffix": " pts",
       "sub": "Andrea Kimi Antonelli over Lewis Hamilton"
@@ -78,14 +78,14 @@
       "valuePrefix": "Andrea Kimi Antonelli",
       "valueEm": "",
       "valueSuffix": "",
-      "sub": "219 points after Hungarian Grand Prix"
+      "sub": "224 points after Hungarian Grand Prix"
     },
     {
       "label": "Constructors Lead",
       "valuePrefix": "Mercedes",
       "valueEm": "",
       "valueSuffix": "",
-      "sub": "379 points"
+      "sub": "392 points"
     },
     {
       "label": "Next Race",
@@ -99,17 +99,17 @@
     {
       "sym": "LEADER",
       "val": "ANDREA KIMI ANTONELLI",
-      "pts": "219 PTS"
+      "pts": "224 PTS"
     },
     {
       "sym": "P2",
       "val": "LEWIS HAMILTON",
-      "pts": "169 PTS"
+      "pts": "171 PTS"
     },
     {
       "sym": "CON",
       "val": "MERCEDES",
-      "pts": "379 PTS"
+      "pts": "392 PTS"
     },
     {
       "sym": "LAST WIN",
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-22T11:49:15Z",
+    "lastUpdatedUtc": "2026-08-22T12:51:11Z",
     "source": "jolpica"
   },
   "nextRace": {
@@ -141,7 +141,7 @@
       "code": "ANT",
       "constructor": "Mercedes",
       "nationality": "ITA",
-      "points": 219,
+      "points": 224,
       "gapToLeader": 0
     },
     {
@@ -150,8 +150,8 @@
       "code": "HAM",
       "constructor": "Ferrari",
       "nationality": "BRI",
-      "points": 169,
-      "gapToLeader": 50
+      "points": 171,
+      "gapToLeader": 53
     },
     {
       "position": "3",
@@ -159,8 +159,8 @@
       "code": "RUS",
       "constructor": "Mercedes",
       "nationality": "BRI",
-      "points": 160,
-      "gapToLeader": 59
+      "points": 168,
+      "gapToLeader": 56
     },
     {
       "position": "4",
@@ -168,8 +168,8 @@
       "code": "LEC",
       "constructor": "Ferrari",
       "nationality": "MON",
-      "points": 138,
-      "gapToLeader": 81
+      "points": 145,
+      "gapToLeader": 79
     },
     {
       "position": "5",
@@ -177,8 +177,8 @@
       "code": "NOR",
       "constructor": "McLaren",
       "nationality": "BRI",
-      "points": 128,
-      "gapToLeader": 91
+      "points": 134,
+      "gapToLeader": 90
     },
     {
       "position": "6",
@@ -186,8 +186,8 @@
       "code": "VER",
       "constructor": "Red Bull",
       "nationality": "DUT",
-      "points": 109,
-      "gapToLeader": 110
+      "points": 112,
+      "gapToLeader": 112
     },
     {
       "position": "7",
@@ -195,8 +195,8 @@
       "code": "PIA",
       "constructor": "McLaren",
       "nationality": "AUS",
-      "points": 92,
-      "gapToLeader": 127
+      "points": 96,
+      "gapToLeader": 128
     },
     {
       "position": "8",
@@ -205,25 +205,25 @@
       "constructor": "Red Bull",
       "nationality": "FRE",
       "points": 68,
-      "gapToLeader": 151
+      "gapToLeader": 156
     },
     {
       "position": "9",
+      "name": "Pierre Gasly",
+      "code": "GAS",
+      "constructor": "Alpine F1 Team",
+      "nationality": "FRE",
+      "points": 43,
+      "gapToLeader": 181
+    },
+    {
+      "position": "10",
       "name": "Liam Lawson",
       "code": "LAW",
       "constructor": "RB F1 Team",
       "nationality": "NEW",
       "points": 43,
-      "gapToLeader": 176
-    },
-    {
-      "position": "10",
-      "name": "Pierre Gasly",
-      "code": "GAS",
-      "constructor": "Alpine F1 Team",
-      "nationality": "FRE",
-      "points": 42,
-      "gapToLeader": 177
+      "gapToLeader": 181
     }
   ],
   "constructors": [
@@ -231,29 +231,29 @@
       "position": "1",
       "name": "Mercedes",
       "nationality": "GER",
-      "points": 379,
+      "points": 392,
       "barPercent": 100
     },
     {
       "position": "2",
       "name": "Ferrari",
       "nationality": "ITA",
-      "points": 307,
+      "points": 316,
       "barPercent": 81
     },
     {
       "position": "3",
       "name": "McLaren",
       "nationality": "BRI",
-      "points": 220,
-      "barPercent": 58
+      "points": 230,
+      "barPercent": 59
     },
     {
       "position": "4",
       "name": "Red Bull",
       "nationality": "AUS",
-      "points": 177,
-      "barPercent": 47
+      "points": 180,
+      "barPercent": 46
     },
     {
       "position": "5",
@@ -266,7 +266,7 @@
       "position": "6",
       "name": "Alpine F1 Team",
       "nationality": "FRE",
-      "points": 61,
+      "points": 62,
       "barPercent": 16
     },
     {
@@ -274,7 +274,7 @@
       "name": "Haas F1 Team",
       "nationality": "AME",
       "points": 21,
-      "barPercent": 6
+      "barPercent": 5
     },
     {
       "position": "8",
