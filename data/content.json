@@ -12,17 +12,17 @@
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Norris beats Russell to pole position at Zandvoort",
-      "body": "Lando Norris beats George Russell to pole position at the Dutch Grand Prix in a frantic scramble to complete laps before a late shower of rain.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss"
+      "headline": "Five in Five: Formula 1 quiz No 1",
+      "body": "Will you beat the clock by getting all five of today's answers in five minutes?",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cn4nkkpgp31o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Mercedes' Russell secures Zandvoort sprint victory",
-      "body": "Mercedes' George Russell leads from start to finish to win the sprint race at the Dutch Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss"
+      "headline": "Norris beats Russell to pole position at Zandvoort",
+      "body": "Lando Norris beats George Russell to pole position at the Dutch Grand Prix in a frantic scramble to complete laps before a late shower of rain.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-23T05:56:36Z",
+    "lastUpdatedUtc": "2026-08-23T06:54:14Z",
     "source": "jolpica"
   },
   "nextRace": {
