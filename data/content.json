@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Norris beats Antonelli to claim final Dutch GP win",
+      "body": "Lando Norris and McLaren beat Mercedes' Kimi Antonelli to take a masterful strategic victory in a compelling Dutch Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ce8l8jek1k1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Norris expects challenge after back-to-back poles",
       "body": "World champion Lando Norris says he expects other teams to challenge for victory after securing pole position for Sunday's final Dutch Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cy4548x20y5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Five in Five: Formula 1 quiz No 1",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cn4nkkpgp31o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Norris beats Russell to pole position at Zandvoort",
-      "body": "Lando Norris beats George Russell to pole position at the Dutch Grand Prix in a frantic scramble to complete laps before a late shower of rain.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 Dutch GP: Norris overhauls Antonelli for victory, Verstappen suffers heavy crash",
+      "body": "Formula 1 world champion Lando Norris produced a mega drive to win the Dutch Grand Prix from pole while home hero Max Verstappen caused a red flag by crashing out.The McLaren drive...",
+      "url": "https://www.autosport.com/f1/news/f1-dutch-gp-norris-overhauls-antonelli-for-victory-verstappen-suffers-heavy-crash/10848612/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Dutch GP red-flagged after Verstappen crash",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/dutch-f1-grand-prix-red-flagged-after-huge-max-verstappen-crash/10848603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Wolff jokes that Mercedes already has Verstappen for the \"real hero races\"",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/toto-wolff-jokes-about-max-verstappens-red-bull-deal-mercedes-has-him-for-the-real-hero-races/10848497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Verstappen suffering from \"flu-like\" illness as Zandvoort exposes Red Bull's fundamental problems",
-      "body": "With three victories since the Dutch Grand Prix returned to the calendar in 2021, Max Verstappen can already look back on a very successful period. The final edition in 2026 has pr...",
-      "url": "https://www.autosport.com/f1/news/verstappen-suffering-from-flu-like-illness-as-zandvoort-exposes-red-bulls-fundamental-problems/10848397/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Nico Rosberg says George Russell is \"back at his best\" after difficult F1 start",
-      "body": "2016 Formula 1 champion Nico Rosberg believes George Russell is finally back to his best form.Russell has endured a tricky start to the 2026 season. The Briton arrived at the seaso...",
-      "url": "https://www.motorsport.com/f1/news/nico-rosberg-says-george-russell-is-back-at-his-best-after-difficult-f1-start/10848608/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 Dutch GP: Lando Norris beats Kimi Antonelli from pole as Max Verstappen crashes out",
+      "body": "Formula 1 world champion Lando Norris produced a mega drive to win the Dutch Grand Prix from pole while home hero Max Verstappen caused a red flag and crashed out on the first lap....",
+      "url": "https://www.motorsport.com/f1/news/f1-dutch-gp-race-report/10848610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Dutch F1 grand prix red flagged after huge Max Verstappen crash",
-      "body": "Formula 1's Dutch Grand Prix was red-flagged after one lap following an enormous accident for home hero Max Verstappen.At the end of lap 1 on a damp circuit, Verstappen lost contro...",
-      "url": "https://www.motorsport.com/f1/news/dutch-f1-grand-prix-red-flagged-after-huge-max-verstappen-crash/10848600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Five quick takeaways from the F1 Dutch GP",
+      "body": "Norris and McLaren are still alive and wellLando Norris is the last person who needs a reminder of what can happen in the second half of the championship. On the scene of his worst...",
+      "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-dutch-gp/10848589/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-23T14:54:50Z",
+    "lastUpdatedUtc": "2026-08-23T15:28:24Z",
     "source": "jolpica"
   },
   "nextRace": {
