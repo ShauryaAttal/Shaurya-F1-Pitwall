@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "F1 Dutch GP red-flagged after Verstappen crash",
+      "body": "Formula 1's Dutch Grand Prix has been red-flagged after one lap following an enormous accident for home hero Max Verstappen.At the end of lap 1 on a damp circuit, Verstappen lost c...",
+      "url": "https://www.autosport.com/f1/news/dutch-f1-grand-prix-red-flagged-after-huge-max-verstappen-crash/10848603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Wolff jokes that Mercedes already has Verstappen for the \"real hero races\"",
       "body": "As is tradition, Mercedes organises a special media session with Wolff and representatives of the Dutch press at Zandvoort. In recent years, those roundtables have often produced s...",
       "url": "https://www.autosport.com/f1/news/toto-wolff-jokes-about-max-verstappens-red-bull-deal-mercedes-has-him-for-the-real-hero-races/10848497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Verstappen suffering from \"flu-like\" illness as Zandvoort exposes Red Bull's fundamental problems",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/verstappen-suffering-from-flu-like-illness-as-zandvoort-exposes-red-bulls-fundamental-problems/10848397/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why Verstappen's 2026 Mercedes contact was very different from last year's",
-      "body": "Will Max Verstappen ever race for Mercedes in Formula 1? This is what team principal Toto Wolff is quizzed about in his yearly media session with Dutch journalists at Zandvoort \u2013 a...",
-      "url": "https://www.autosport.com/f1/news/no-max-verstappen-talks-for-mercedes-this-time-around-but-toto-wolff-still-has-hope/10848315/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Nico Rosberg warns Kimi Antonelli of F1 title \"demons\"",
-      "body": "2016 Formula 1 champion Nico Rosberg believes Mercedes driver and current championship leader Kimi Antonelli will face a psychological battle as he fights for his maiden title.Spea...",
-      "url": "https://www.motorsport.com/f1/news/nico-rosberg-warns-kimi-antonelli-of-f1-title-demons/10848584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Dutch F1 grand prix red flagged after huge Max Verstappen crash",
+      "body": "Formula 1's Dutch Grand Prix was red-flagged after one lap following an enormous accident for home hero Max Verstappen.At the end of lap 1 on a damp circuit, Verstappen lost contro...",
+      "url": "https://www.motorsport.com/f1/news/dutch-f1-grand-prix-red-flagged-after-huge-max-verstappen-crash/10848600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Stefano Domenicali \"cannot see\" F1 without Max Verstappen",
-      "body": "Formula 1 chief Stefano Domenicali has responded buoyantly to Max Verstappen extending his Red Bull contract.The four-time world champion announced on Thursday that he\u2019d signed a n...",
-      "url": "https://www.motorsport.com/f1/news/stefano-domenicali-cannot-see-f1-without-max-verstappen/10848574/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Nico Rosberg warns Kimi Antonelli of F1 title \"demons\"",
+      "body": "2016 Formula 1 champion Nico Rosberg believes Mercedes driver and current championship leader Kimi Antonelli will face a psychological battle as he fights for his maiden title.Spea...",
+      "url": "https://www.motorsport.com/f1/news/nico-rosberg-warns-kimi-antonelli-of-f1-title-demons/10848584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-23T12:52:36Z",
+    "lastUpdatedUtc": "2026-08-23T13:37:07Z",
     "source": "jolpica"
   },
   "nextRace": {
