@@ -4,7 +4,7 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Is Mercedes' 2026 dominance over? F1 Q&A",
+      "headline": "Mercedes' upgrades & Ferrari team orders - F1 Q&A",
       "body": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Dutch Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c3v0v4951k6o?at_medium=RSS&at_campaign=rss"
     },
@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "FIA condemns online abuse at F1 stewards following Colapinto's Dutch GP penalty",
+      "body": "Formula 1's governing body the FIA condemned the online harassment directed at its race stewards following their decision to apply the rulebook and penalise Alpine driver Franco Co...",
+      "url": "https://www.autosport.com/f1/news/fia-condemns-online-abuse-at-f1-stewards-following-colapintos-dutch-gp-penalty/10849237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Mercedes \"hasn't got the money\" to keep up with rival teams' F1 upgrades",
       "body": "Mercedes Formula 1 team principal Toto Wolff says his squad \"hasn't got the money\" to develop its 2026 car as much as McLaren and Ferrari are doing.Both McLaren and Ferrari have ma...",
       "url": "https://www.autosport.com/f1/news/mercedes-hasnt-got-the-money-to-keep-up-with-rival-teams-f1-upgrades/10848986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "What Ferrari actually meant to do when Hamilton felt like a \"guinea pig\" in Dutch GP",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/what-ferrari-actually-meant-to-do-when-hamilton-felt-like-a-guinea-pig-in-dutch-gp/10848943/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Antonelli set for Italian GP grid penalty",
-      "body": "Mercedes has officially decided its Formula 1 world championship leader Kimi Antonelli will start from the back of the grid at the upcoming Italian Grand Prix after it decided to g...",
-      "url": "https://www.autosport.com/f1/news/antonelli-set-for-italian-gp-grid-penalty/10848914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell: \u201cSpecialist\u201d Lando Norris always strong at tracks like Zandvoort",
-      "body": "George Russell says Lando Norris has \u201calways been a bit of a specialist\u201d at circuits with long corners and high tyre degradation, so he wasn\u2019t surprised to see the McLaren Formula ...",
-      "url": "https://www.motorsport.com/f1/news/george-russell-specialist-lando-norris-always-strong-at-tracks-like-zandvoort/10849088/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "FIA exploring legal options over abuse against F1 stewards following Franco Colapinto's Dutch GP penalty",
+      "body": "Formula 1's governing body the FIA condemned the online harassment directed at its F1 race stewards following their decision to apply the rulebook and penalise Alpine driver Franco...",
+      "url": "https://www.motorsport.com/f1/news/fia-condemns-online-abuse-f1-stewards-following-franco-colapinto-dutch-gp-penalty/10849233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen was \"lucky\" to avoid Dutch GP pile-up, says Nico Rosberg",
-      "body": "2016 Formula 1 champion Nico Rosberg argued that Red Bull driver Max Verstappen was lucky to avoid triggering a multi-car pile-up during his opening-lap crash at the Dutch Grand Pr...",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-was-lucky-to-avoid-dutch-gp-pile-up-says-nico-rosberg/10849151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "George Russell: \u201cSpecialist\u201d Lando Norris always strong at tracks like Zandvoort",
+      "body": "George Russell says Lando Norris has \u201calways been a bit of a specialist\u201d at circuits with long corners and high tyre degradation, so he wasn\u2019t surprised to see the McLaren Formula ...",
+      "url": "https://www.motorsport.com/f1/news/george-russell-specialist-lando-norris-always-strong-at-tracks-like-zandvoort/10849088/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-25T11:01:20Z",
+    "lastUpdatedUtc": "2026-08-25T11:56:06Z",
     "source": "jolpica"
   },
   "nextRace": {
