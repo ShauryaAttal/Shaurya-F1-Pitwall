@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "McLaren appealing Monaco GP result \"with a double intent\"",
+      "body": "McLaren Formula 1 team principal Andrea Stella says its appeal against the Monaco Grand Prix result, which is being held on Tuesday, stems from its concern for \"the integrity of th...",
+      "url": "https://www.autosport.com/f1/news/mclaren-appealing-monaco-gp-result-with-double-intent/10849310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "FIA condemns online abuse at F1 stewards following Colapinto's Dutch GP penalty",
       "body": "Formula 1's governing body the FIA condemned the online harassment directed at its race stewards following their decision to apply the rulebook and penalise Alpine driver Franco Co...",
       "url": "https://www.autosport.com/f1/news/fia-condemns-online-abuse-at-f1-stewards-following-colapintos-dutch-gp-penalty/10849237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Mercedes \"hasn't got the money\" to keep up with rival teams' F1 upgrades",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/mercedes-hasnt-got-the-money-to-keep-up-with-rival-teams-f1-upgrades/10848986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "What Ferrari actually meant to do when Hamilton felt like a \"guinea pig\" in Dutch GP",
-      "body": "Ferrari boss Fred Vasseur has clarified what led to Lewis Hamilton\u2019s radio outbursts during a tough Dutch Grand Prix weekend for the Formula 1 outfit.The Scuderia finished off the ...",
-      "url": "https://www.autosport.com/f1/news/what-ferrari-actually-meant-to-do-when-hamilton-felt-like-a-guinea-pig-in-dutch-gp/10848943/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "FIA exploring legal options over abuse against F1 stewards following Franco Colapinto's Dutch GP penalty",
-      "body": "Formula 1's governing body the FIA condemned the online harassment directed at its F1 race stewards following their decision to apply the rulebook and penalise Alpine driver Franco...",
-      "url": "https://www.motorsport.com/f1/news/fia-condemns-online-abuse-f1-stewards-following-franco-colapinto-dutch-gp-penalty/10849233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "McLaren's Monaco appeal \"about fairness and integrity\" of F1",
+      "body": "McLaren Formula 1 team principal Andrea Stella says its appeal against the Monaco Grand Prix result, which is being held on Tuesday, stems from its concern for \"the integrity of th...",
+      "url": "https://www.motorsport.com/f1/news/mclarens-monaco-appeal-about-fairness-and-integrity-of-f1/10849300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell: \u201cSpecialist\u201d Lando Norris always strong at tracks like Zandvoort",
-      "body": "George Russell says Lando Norris has \u201calways been a bit of a specialist\u201d at circuits with long corners and high tyre degradation, so he wasn\u2019t surprised to see the McLaren Formula ...",
-      "url": "https://www.motorsport.com/f1/news/george-russell-specialist-lando-norris-always-strong-at-tracks-like-zandvoort/10849088/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen to face 100 drivers in \u2018world\u2019s biggest kart race\u2019",
+      "body": "Formula 1 star Max Verstappen will take on a new challenge next month when he goes up against 100 drivers in what has been touted as the world\u2019s biggest kart race.The Red Bull driv...",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-to-face-off-against-100-drivers-in-worlds-biggest-kart-race/10849295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-25T13:02:32Z",
+    "lastUpdatedUtc": "2026-08-25T14:21:27Z",
     "source": "jolpica"
   },
   "nextRace": {
