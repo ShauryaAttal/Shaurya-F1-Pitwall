@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Hamilton claims Dutch GP radio outbursts weren't \"the best version of me\"",
+      "body": "Lewis Hamilton says his Dutch Grand Prix frustration \"wasn\u2019t the best version of me\" as he apologised to his Ferrari Formula 1 team for it boiling over on team radio.During the sec...",
+      "url": "https://www.autosport.com/f1/news/hamilton-apologises-for-dutch-gp-radio-outbursts/10849333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "McLaren appealing Monaco GP result \"with a double intent\"",
       "body": "McLaren Formula 1 team principal Andrea Stella says its appeal against the Monaco Grand Prix result, which is being held on Tuesday, stems from its concern for \"the integrity of th...",
       "url": "https://www.autosport.com/f1/news/mclaren-appealing-monaco-gp-result-with-double-intent/10849310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "FIA condemns online abuse at F1 stewards following Colapinto's Dutch GP penalty",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/fia-condemns-online-abuse-at-f1-stewards-following-colapintos-dutch-gp-penalty/10849237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Mercedes \"hasn't got the money\" to keep up with rival teams' F1 upgrades",
-      "body": "Mercedes Formula 1 team principal Toto Wolff says his squad \"hasn't got the money\" to develop its 2026 car as much as McLaren and Ferrari are doing.Both McLaren and Ferrari have ma...",
-      "url": "https://www.autosport.com/f1/news/mercedes-hasnt-got-the-money-to-keep-up-with-rival-teams-f1-upgrades/10848986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "McLaren's Monaco appeal \"about fairness and integrity\" of F1",
-      "body": "McLaren Formula 1 team principal Andrea Stella says its appeal against the Monaco Grand Prix result, which is being held on Tuesday, stems from its concern for \"the integrity of th...",
-      "url": "https://www.motorsport.com/f1/news/mclarens-monaco-appeal-about-fairness-and-integrity-of-f1/10849300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lewis Hamilton apologises for Ferrari radio fury: \"That wasn\u2019t the best version of me\"",
+      "body": "Lewis Hamilton says his Dutch Grand Prix frustration \"wasn\u2019t the best version of me\" as he apologised to his Ferrari Formula 1 team for his frustration boiling over on team radio.D...",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-apologises-ferrari-radio-fury-wasnt-the-best-version-of-me/10849324/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen to face 100 drivers in \u2018world\u2019s biggest kart race\u2019",
-      "body": "Formula 1 star Max Verstappen will take on a new challenge next month when he goes up against 100 drivers in what has been touted as the world\u2019s biggest kart race.The Red Bull driv...",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-to-face-off-against-100-drivers-in-worlds-biggest-kart-race/10849295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "McLaren's Monaco appeal \"about fairness and integrity\" of F1",
+      "body": "McLaren Formula 1 team principal Andrea Stella says its appeal against the Monaco Grand Prix result, which is being held on Tuesday, stems from its concern for \"the integrity of th...",
+      "url": "https://www.motorsport.com/f1/news/mclarens-monaco-appeal-about-fairness-and-integrity-of-f1/10849300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-25T14:21:27Z",
+    "lastUpdatedUtc": "2026-08-25T15:23:04Z",
     "source": "jolpica"
   },
   "nextRace": {
