@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Red Bull officially named F1's best engine as FIA makes ADUO results public",
+      "body": "The FIA has published the results of the latest Additional Development and Upgrade Opportunities (ADUO) evaluation for Formula 1 power units - with Red Bull-Ford still considered t...",
+      "url": "https://www.autosport.com/f1/news/fia-makes-aduo-results-public/10849601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "McLaren denies Mercedes claim it cannot afford aggressive upgrades in F1 2026",
       "body": "McLaren Formula 1 team principal Andrea Stella is sceptical about his Mercedes counterpart Toto Wolff's claims that Mercedes doesn't have the available budget to fast-track car upg...",
       "url": "https://www.autosport.com/f1/news/mclaren-denies-mercedes-f1-2026-upgrades-claim/10849559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Hamilton claims Dutch GP radio outbursts weren't \"the best version of me\"",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/hamilton-apologises-for-dutch-gp-radio-outbursts/10849333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "McLaren appealing Monaco GP result \"with a double intent\"",
-      "body": "McLaren Formula 1 team principal Andrea Stella says its appeal against the Monaco Grand Prix result, which is being held on Tuesday, stems from its concern for \"the integrity of th...",
-      "url": "https://www.autosport.com/f1/news/mclaren-appealing-monaco-gp-result-with-double-intent/10849310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Imola could make F1 calendar return in place of Qatar or Abu Dhabi GP",
-      "body": "Formula 1 will soon have to make a decision about the final races of the 2026 season as the conflict between Iran, Israel and the United States continues to shake the Middle East a...",
-      "url": "https://www.motorsport.com/f1/news/f1-imola-set-for-calendar-return-as-qatar-or-abu-dhabi-gp/10849566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "FIA reveals latest engine ranking for ADUO as Red Bull remains F1 benchmark",
+      "body": "The FIA has published the results of the latest Additional Upgrades and Opportunities (ADUO) evaluation for Formula 1 power units, with Red Bull-Ford still considered the benchmark...",
+      "url": "https://www.motorsport.com/f1/news/fia-announces-results-of-first-aduo-assessment-/10849599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Mercedes searching for answers after Kimi Antonelli\u2019s pace fell off in F1 Dutch GP",
-      "body": "Mercedes has launched a \u201cdeep dive\u201d into Kimi Antonelli\u2019s performance at the Formula 1 Dutch Grand Prix after the championship leader revealed he had a \u201cdifficult second half\u201d of t...",
-      "url": "https://www.motorsport.com/f1/news/mercedes-searching-for-answers-after-kimi-antonellis-pace-fell-off-in-f1-dutch-gp/10849529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Imola could make F1 calendar return in place of Qatar or Abu Dhabi GP",
+      "body": "Formula 1 will soon have to make a decision about the final races of the 2026 season as the conflict between Iran, Israel and the United States continues to shake the Middle East a...",
+      "url": "https://www.motorsport.com/f1/news/f1-imola-set-for-calendar-return-as-qatar-or-abu-dhabi-gp/10849566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-26T14:19:59Z",
+    "lastUpdatedUtc": "2026-08-26T16:01:36Z",
     "source": "jolpica"
   },
   "nextRace": {
