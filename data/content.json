@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "McLaren denies Mercedes claim it cannot afford aggressive upgrades in F1 2026",
+      "body": "McLaren Formula 1 team principal Andrea Stella is sceptical about his Mercedes counterpart Toto Wolff's claims that Mercedes doesn't have the available budget to fast-track car upg...",
+      "url": "https://www.autosport.com/f1/news/mclaren-denies-mercedes-f1-2026-upgrades-claim/10849559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Hamilton claims Dutch GP radio outbursts weren't \"the best version of me\"",
       "body": "Lewis Hamilton says his Dutch Grand Prix frustration \"wasn\u2019t the best version of me\" as he apologised to his Ferrari Formula 1 team for it boiling over on team radio.During the sec...",
       "url": "https://www.autosport.com/f1/news/hamilton-apologises-for-dutch-gp-radio-outbursts/10849333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "McLaren appealing Monaco GP result \"with a double intent\"",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/mclaren-appealing-monaco-gp-result-with-double-intent/10849310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "FIA condemns online abuse at F1 stewards following Colapinto's Dutch GP penalty",
-      "body": "Formula 1's governing body the FIA condemned the online harassment directed at its race stewards following their decision to apply the rulebook and penalise Alpine driver Franco Co...",
-      "url": "https://www.autosport.com/f1/news/fia-condemns-online-abuse-at-f1-stewards-following-colapintos-dutch-gp-penalty/10849237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Andrea Stella casts doubt on Mercedes\u2019 claim it can\u2019t afford F1 upgrades: \u201cI actually don't believe you\u201d",
-      "body": "McLaren Formula 1 team principal Andrea Stella is sceptical about his Mercedes counterpart Toto Wolff's claims that Mercedes doesn't have the available budget to fast-track car upg...",
-      "url": "https://www.motorsport.com/f1/news/mclarens-andrea-stella-sceptical-about-mercedes-car-budget-claims-i-would-like-to-believe-you-but-i/10849485/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Mercedes searching for answers after Kimi Antonelli\u2019s pace fell off in F1 Dutch GP",
+      "body": "Mercedes has launched a \u201cdeep dive\u201d into Kimi Antonelli\u2019s performance at the Formula 1 Dutch Grand Prix after the championship leader revealed he had a \u201cdifficult second half\u201d of t...",
+      "url": "https://www.motorsport.com/f1/news/mercedes-searching-for-answers-after-kimi-antonellis-pace-fell-off-in-f1-dutch-gp/10849529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Fernando Alonso: Dutch GP strategy shows \"I'm a very good driver\"",
-      "body": "Fernando Alonso was full of self-praise at the Formula 1 Dutch Grand Prix, claiming that being \u201ca very good driver\u201d allowed him to convert a one-stop strategy into a shock points f...",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-dutch-gp-shows-im-a-very-good-driver/10849497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Esteban Ocon defends controversial move on Alex Albon, bemoans F1 rule",
+      "body": "Esteban Ocon has defended his controversial overtake on Alexander Albon in the Dutch Grand Prix and criticised the Formula 1 rule that meant he was pegged back for the second start...",
+      "url": "https://www.motorsport.com/f1/news/esteban-ocon-defends-controversial-move-on-alex-albon-bemoans-f1-rule/10849525/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-26T11:57:44Z",
+    "lastUpdatedUtc": "2026-08-26T13:09:10Z",
     "source": "jolpica"
   },
   "nextRace": {
