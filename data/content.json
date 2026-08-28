@@ -20,12 +20,28 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Red Bull still have F1's most powerful engine",
-      "body": "In the FIA's latest rankings, Red Bull have again been found to have the most powerful engine in F1.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c046p1pz55po?at_medium=RSS&at_campaign=rss"
+      "headline": "The Chequered Flag Podcast",
+      "body": "Harry Benjamin and Nicola Hume investigate why the Antonelli has cause for concern.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m00319qc?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Ferrari to deliver upgraded F1 engine at Italian GP",
+      "body": "Ferrari will use its ADUO-permitted upgrade on its engine for the Formula 1 Italian Grand Prix, while also bringing aerodynamic updates and track-specific parts for its home round....",
+      "url": "https://www.autosport.com/f1/news/ferrari-to-deliver-upgraded-f1-engine-at-italian-gp/10850147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Ukraine files complaint to FIA ethics committee after Russian ban lift",
+      "body": "Ukraine has lodged a formal complaint to the FIA ethics committee following the lift to the ban on Russian competitors in international motorsport.The Ukrainian Automobile Federati...",
+      "url": "https://www.autosport.com/general/news/ukraine-files-complaint-to-fia-ethics-committee-after-russian-ban-lift/10850119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Marquez explains why he told injured Hadjar to miss Dutch GP",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/motogp/news/marc-marquez-explains-why-he-told-injured-isack-hadjar-to-miss-dutch-gp/10849872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why McLaren thinks Norris is even better now than his F1 title-winning year",
-      "body": "Just over a month ago, it seemed pretty clear that McLaren was going to be unable to successfully defend the Formula 1 drivers\u2019 title in 2026.Coming into the Hungarian Grand Prix, ...",
-      "url": "https://www.autosport.com/f1/news/why-mclaren-thinks-norris-is-even-better-now-than-his-f1-title-winning-year/10849744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Alpine completes F1 2027 line-up with Colapinto renewal",
-      "body": "Alpine has retained Franco Colapinto for the 2027 Formula 1 season, signing a new deal with the Argentinian for a second full-time campaign.The 23-year-old will remain alongside Al...",
-      "url": "https://www.autosport.com/f1/news/alpine-completes-f1-2027-lineup-with-colapinto-renewal/10849524/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen's Red Bull Dutch GP race suit up for charity auction",
-      "body": "Red Bull is auctioning a special-edition Max Verstappen race suit worn during the Dutch Grand Prix weekend, with 100% of the proceeds benefiting the Wings for Life charity.The auct...",
-      "url": "https://www.motorsport.com/f1/news/max-verstappens-red-bull-dutch-gp-race-suit-up-for-charity-auction/10849979/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "James Vowles reveals Williams' \"huge number of projects\" to fix 2026 problems",
+      "body": "Williams team principal James Vowles says the Grove outfit is running a \"huge number of projects\" to rectify development mistakes made last winter that are still compromising its 2...",
+      "url": "https://www.motorsport.com/f1/news/james-vowles-reveals-williams-huge-number-of-projects-to-fix-2026-problems/10850083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Alex Albon opens up about burnout amid growing F1 demands",
-      "body": "Alex Albon has opened up about his struggles with burnout during the 2025 Formula 1 season, admitting that the championship's increasing demands and relentless commercial schedule ...",
-      "url": "https://www.motorsport.com/f1/news/alex-albon-opens-up-about-burnout-amid-growing-f1-demands/10849812/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Naomi Schiff points to Red Bull advantage after Dutch GP driver change",
+      "body": "Red Bull's driver swap at the Dutch Grand Prix has renewed paddock discussions about two Formula 1 teams sharing the same ownership.Following a wrist fracture sustained by Red Bull...",
+      "url": "https://www.motorsport.com/f1/news/naomi-schiff-points-to-red-bull-advantage-after-dutch-gp-driver-change/10850177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-28T05:34:33Z",
+    "lastUpdatedUtc": "2026-08-28T18:29:13Z",
     "source": "jolpica"
   },
   "nextRace": {
