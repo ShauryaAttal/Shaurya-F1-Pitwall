@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Mercedes still searching for answers on why it was \u201crubbish\u201d through high-speed corners in Dutch GP",
+      "body": "Mercedes trackside engineering director Andrew Shovlin rated the team\u2019s pace through Zandvoort\u2019s high-speed corners as \u201crubbish\u201d and is looking for answers on its inconsistency bet...",
+      "url": "https://www.autosport.com/f1/news/mercedes-bemused-why-it-was-rubbish-through-high-speed-corners-in-dutch-gp/10850339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Ferrari to deliver upgraded F1 engine at Italian GP",
       "body": "Ferrari will use its ADUO-permitted upgrade on its engine for the Formula 1 Italian Grand Prix, while also bringing aerodynamic updates and track-specific parts for its home round....",
       "url": "https://www.autosport.com/f1/news/ferrari-to-deliver-upgraded-f1-engine-at-italian-gp/10850147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Ukraine files complaint to FIA ethics committee after Russian ban lift",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/general/news/ukraine-files-complaint-to-fia-ethics-committee-after-russian-ban-lift/10850119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Marquez explains why he told injured Hadjar to miss Dutch GP",
-      "body": "Marc Marquez has explained why he advised Isack Hadjar against competing in Formula 1\u2019s Dutch Grand Prix while recovering from a wrist injury.The Red Bull driver was keen to race a...",
-      "url": "https://www.autosport.com/motogp/news/marc-marquez-explains-why-he-told-injured-isack-hadjar-to-miss-dutch-gp/10849872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "James Vowles reveals Williams' \"huge number of projects\" to fix 2026 problems",
-      "body": "Williams team principal James Vowles says the Grove outfit is running a \"huge number of projects\" to rectify development mistakes made last winter that are still compromising its 2...",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-reveals-williams-huge-number-of-projects-to-fix-2026-problems/10850083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Mercedes bemused why it was \u201crubbish\u201d through high-speed corners in Dutch GP",
+      "body": "Mercedes trackside engineering director Andrew Shovlin rated the team\u2019s pace through Zandvoort\u2019s high-speed corners as \u201crubbish\u201d and is looking for answers on its inconsistency bet...",
+      "url": "https://www.motorsport.com/f1/news/mercedes-bemused-why-it-was-rubbish-through-high-speed-corners-in-dutch-gp/10850162/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Naomi Schiff points to Red Bull advantage after Dutch GP driver change",
-      "body": "Red Bull's driver swap at the Dutch Grand Prix has renewed paddock discussions about two Formula 1 teams sharing the same ownership.Following a wrist fracture sustained by Red Bull...",
-      "url": "https://www.motorsport.com/f1/news/naomi-schiff-points-to-red-bull-advantage-after-dutch-gp-driver-change/10850177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Zak Brown explains why he chose to attend Washington D.C. IndyCar race over Dutch GP",
+      "body": "Zak Brown had his eyes on Zandvoort while in Washington D.C., but of course, the McLaren Racing CEO can't be in two places at once.Brown joined Will Buxton for a interview with SPE...",
+      "url": "https://www.motorsport.com/indycar/news/zak-brown-explains-why-he-chose-to-attend-washington-dc-indycar-race-over-dutch-gp/10850310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-29T01:53:20Z",
+    "lastUpdatedUtc": "2026-08-29T08:53:45Z",
     "source": "jolpica"
   },
   "nextRace": {
