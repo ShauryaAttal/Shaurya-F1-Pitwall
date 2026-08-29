@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Slow start makes me want to stay - Norris extends McLaren deal to 2030",
+      "body": "In an exclusive BBC Sport interview, Lando Norris explains why he has signed a new contract that will keep him at McLaren until at least the end of 2030.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cj06j11ej4lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Ukraine file complaint over FIA lifting Russia ban",
       "body": "The Ukrainian Automobile Federation requests an urgent investigation into its Russian counterpart, the RAF.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/ckgv00jrm7ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Colapinto to stay with Alpine for 2027 season",
@@ -17,15 +25,23 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c8jdyl78022o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "The Chequered Flag Podcast",
-      "body": "Harry Benjamin and Nicola Hume investigate why the Antonelli has cause for concern.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m00319qc?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "What Norris' contract extension means for McLaren and Piastri",
+      "body": "With what is undoubtedly coming with a salary befitting a world champion, Lando Norris has put pen to paper to a deal tying him to the Woking-based team until 2030, with options fo...",
+      "url": "https://www.autosport.com/f1/news/what-norris-contract-extension-means-for-mclaren-and-piastri/10850424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Norris extends McLaren deal until F1 2030",
+      "body": "Lando Norris and McLaren have agreed to a long-term contract extension, keeping the world champion at the Formula 1 team until at least 2030.On Saturday morning McLaren announced i...",
+      "url": "https://www.autosport.com/f1/news/norris-extends-mclaren-deal-until-f1-2030/10850350/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Mercedes still searching for answers on why it was \u201crubbish\u201d through high-speed corners in Dutch GP",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/mercedes-bemused-why-it-was-rubbish-through-high-speed-corners-in-dutch-gp/10850339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Ferrari to deliver upgraded F1 engine at Italian GP",
-      "body": "Ferrari will use its ADUO-permitted upgrade on its engine for the Formula 1 Italian Grand Prix, while also bringing aerodynamic updates and track-specific parts for its home round....",
-      "url": "https://www.autosport.com/f1/news/ferrari-to-deliver-upgraded-f1-engine-at-italian-gp/10850147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Ukraine files complaint to FIA ethics committee after Russian ban lift",
-      "body": "Ukraine has lodged a formal complaint to the FIA ethics committee following the lift to the ban on Russian competitors in international motorsport.The Ukrainian Automobile Federati...",
-      "url": "https://www.autosport.com/general/news/ukraine-files-complaint-to-fia-ethics-committee-after-russian-ban-lift/10850119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Mercedes bemused why it was \u201crubbish\u201d through high-speed corners in Dutch GP",
-      "body": "Mercedes trackside engineering director Andrew Shovlin rated the team\u2019s pace through Zandvoort\u2019s high-speed corners as \u201crubbish\u201d and is looking for answers on its inconsistency bet...",
-      "url": "https://www.motorsport.com/f1/news/mercedes-bemused-why-it-was-rubbish-through-high-speed-corners-in-dutch-gp/10850162/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "What Lando Norris' contract extension means for McLaren and Oscar Piastri",
+      "body": "With what is undoubtedly coming with a salary befitting a world champion, Lando Norris has put pen to paper to a deal tying him to the Woking-based team until 2030, with options fo...",
+      "url": "https://www.motorsport.com/f1/news/what-lando-norris-contract-extension-means-for-mclaren-and-oscar-piastri/10850419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Zak Brown explains why he chose to attend Washington D.C. IndyCar race over Dutch GP",
-      "body": "Zak Brown had his eyes on Zandvoort while in Washington D.C., but of course, the McLaren Racing CEO can't be in two places at once.Brown joined Will Buxton for a interview with SPE...",
-      "url": "https://www.motorsport.com/indycar/news/zak-brown-explains-why-he-chose-to-attend-washington-dc-indycar-race-over-dutch-gp/10850310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Ferrari urged to back Lewis Hamilton as Guenther Steiner issues team order warning",
+      "body": "Former Haas Formula 1 team principal Guenther Steiner believes Ferrari must establish clear rules of engagement and back Lewis Hamilton over Charles Leclerc if the Maranello outfit...",
+      "url": "https://www.motorsport.com/f1/news/ferrari-urged-to-back-lewis-hamilton-as-guenther-steiner-issues-team-order-warning/10850416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-29T08:53:45Z",
+    "lastUpdatedUtc": "2026-08-29T14:20:40Z",
     "source": "jolpica"
   },
   "nextRace": {
