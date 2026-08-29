@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Haas completes latest TPC test as focus on 2027 F1 driver line-up decision grows",
+      "body": "Haas has completed its latest Testing of Previous Cars (TPC) run with Ryo Hirakawa, Leonardo Fornaroli and Rafael Camara in action, as focus on its 2027 Formula 1 driver line-up in...",
+      "url": "https://www.autosport.com/f1/news/haas-completes-latest-tpc-test-as-focus-on-2027-f1-driver-line-up-decision-grows/10850464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "What Norris' contract extension means for McLaren and Piastri",
       "body": "With what is undoubtedly coming with a salary befitting a world champion, Lando Norris has put pen to paper to a deal tying him to the Woking-based team until 2030, with options fo...",
       "url": "https://www.autosport.com/f1/news/what-norris-contract-extension-means-for-mclaren-and-piastri/10850424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Norris extends McLaren deal until F1 2030",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/norris-extends-mclaren-deal-until-f1-2030/10850350/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Mercedes still searching for answers on why it was \u201crubbish\u201d through high-speed corners in Dutch GP",
-      "body": "Mercedes trackside engineering director Andrew Shovlin rated the team\u2019s pace through Zandvoort\u2019s high-speed corners as \u201crubbish\u201d and is looking for answers on its inconsistency bet...",
-      "url": "https://www.autosport.com/f1/news/mercedes-bemused-why-it-was-rubbish-through-high-speed-corners-in-dutch-gp/10850339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "What Lando Norris' contract extension means for McLaren and Oscar Piastri",
-      "body": "With what is undoubtedly coming with a salary befitting a world champion, Lando Norris has put pen to paper to a deal tying him to the Woking-based team until 2030, with options fo...",
-      "url": "https://www.motorsport.com/f1/news/what-lando-norris-contract-extension-means-for-mclaren-and-oscar-piastri/10850419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Guenther Steiner claims Mercedes has made George Russell's support role clear",
+      "body": "Former Haas Formula 1 team principal Guenther Steiner believes Mercedes will have informed George Russell that his role for the remainder of the 2026 season is to support Kimi Anto...",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-claims-mercedes-has-made-george-russells-support-role-clear/10850431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Ferrari urged to back Lewis Hamilton as Guenther Steiner issues team order warning",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner believes Ferrari must establish clear rules of engagement and back Lewis Hamilton over Charles Leclerc if the Maranello outfit...",
-      "url": "https://www.motorsport.com/f1/news/ferrari-urged-to-back-lewis-hamilton-as-guenther-steiner-issues-team-order-warning/10850416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Audi F1 power unit facility branded \"second to none\" by Rob Smedley",
+      "body": "Former Ferrari race engineer Rob Smedley has lauded Audi's Formula 1 power unit headquarters, declaring the German manufacturer's engine department as \"second to none\".Speaking on ...",
+      "url": "https://www.motorsport.com/f1/news/audi-f1-power-unit-facility-branded-second-to-none-by-rob-smedley/10850522/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-29T14:20:40Z",
+    "lastUpdatedUtc": "2026-08-29T17:50:29Z",
     "source": "jolpica"
   },
   "nextRace": {
