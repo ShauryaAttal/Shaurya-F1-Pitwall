@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "\"How can you allow this?\" \u2013 Wolff shares Lauda story behind Hamilton's iconic F1 pole",
+      "body": "When Toto Wolff held his annual media session with a select group of Dutch journalists at Zandvoort, one of the topics that came up was how a Formula 1 team can get the maximum out...",
+      "url": "https://www.autosport.com/f1/news/how-can-you-allow-this-toto-wolff-shares-niki-lauda-story-behind-lewis-hamiltons-iconic-f1-pole/10850693/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Haas completes latest TPC test as focus on 2027 F1 driver line-up decision grows",
       "body": "Haas has completed its latest Testing of Previous Cars (TPC) run with Ryo Hirakawa, Leonardo Fornaroli and Rafael Camara in action, as focus on its 2027 Formula 1 driver line-up in...",
       "url": "https://www.autosport.com/f1/news/haas-completes-latest-tpc-test-as-focus-on-2027-f1-driver-line-up-decision-grows/10850464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "What Norris' contract extension means for McLaren and Piastri",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/what-norris-contract-extension-means-for-mclaren-and-piastri/10850424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Norris extends McLaren deal until F1 2030",
-      "body": "Lando Norris and McLaren have agreed to a long-term contract extension, keeping the world champion at the Formula 1 team until at least 2030.On Saturday morning McLaren announced i...",
-      "url": "https://www.autosport.com/f1/news/norris-extends-mclaren-deal-until-f1-2030/10850350/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Guenther Steiner claims Mercedes has made George Russell's support role clear",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner believes Mercedes will have informed George Russell that his role for the remainder of the 2026 season is to support Kimi Anto...",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-claims-mercedes-has-made-george-russells-support-role-clear/10850431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Bernie Collins issues stark Williams warning after Alex Albon-Carlos Sainz Dutch GP crash",
+      "body": "Sky Sports Formula 1 analyst Bernie Collins has warned that Williams is in no position to absorb the financial and developmental damage caused by the collision between Carlos Sainz...",
+      "url": "https://www.motorsport.com/f1/news/bernie-collins-issues-stark-williams-warning-after-alex-albon-carlos-sainz-dutch-gp-crash/10850753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Audi F1 power unit facility branded \"second to none\" by Rob Smedley",
-      "body": "Former Ferrari race engineer Rob Smedley has lauded Audi's Formula 1 power unit headquarters, declaring the German manufacturer's engine department as \"second to none\".Speaking on ...",
-      "url": "https://www.motorsport.com/f1/news/audi-f1-power-unit-facility-branded-second-to-none-by-rob-smedley/10850522/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Kimi Antonelli credits 2025 struggles for stronger 2026 F1 campaign",
+      "body": "Mercedes driver Kimi Antonelli has credited his tricky rookie Formula 1 campaign in 2025 with making him mentally stronger in 2026.The Italian driver holds a 59-point lead over his...",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-credits-2025-struggles-for-stronger-2026-f1-campaign/10850735/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-08-30T08:11:26Z",
+    "lastUpdatedUtc": "2026-08-30T13:57:22Z",
     "source": "jolpica"
   },
   "nextRace": {
