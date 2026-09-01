@@ -12,20 +12,28 @@
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Monza memories - Italian GP in pictures through the years",
-      "body": "A selection of images from the Italian Grand Prix at Monza, which has hosted more Formula 1 races than any other circuit.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg8w8qj5z9o?at_medium=RSS&at_campaign=rss"
+      "headline": "Red Bull hire Aston Martin engineer McCullough as head of racing",
+      "body": "Red Bull have head-hunted former Aston Martin performance director Tom McCullough to become their head of racing from 2027.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c74k38vxl40o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Ukraine escalates protest over FIA lifting Russia ban",
-      "body": "Ukraine escalates its complaint against the FIA decision to lift the ban on Russian competitors taking part in international events.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckgv00jrm7ro?at_medium=RSS&at_campaign=rss"
+      "headline": "Monza memories - Italian GP in pictures through the years",
+      "body": "A selection of images from the Italian Grand Prix at Monza, which has hosted more Formula 1 races than any other circuit.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg8w8qj5z9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Red Bull signs key Aston Martin engineer as Lambiase replacement",
+      "body": "The Red Bull Formula 1 team has confirmed it has hired long-time Aston Martin engineer Tom McCullough to replace McLaren bound Gianpiero Lambiase as head of racing.Lambiase will jo...",
+      "url": "https://www.autosport.com/f1/news/red-bull-signs-key-aston-martin-engineer-as-lambiase-replacement/10851434/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "McLaren to deliver rotating rear wing at Italian GP but calls it H-wing",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/mclaren-to-deliver-rotating-rear-wing-at-italian-gp-but-calls-it-h-wing/10851401/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Haas rules out switch to 2027 development as VF-26 updates coming in Monza",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/haas-rules-out-switch-to-2027-development-as-vf-26-updates-coming-soon/10851344/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "How Ferrari can \"push until the end\" with F1 2026 upgrades, and why it will",
-      "body": "Ferrari will \"push until the end\" of the 2026 Formula 1 season with car upgrades, team principal Fred Vasseur confirmed, as he shrugged off suggestions the team will have to slow d...",
-      "url": "https://www.autosport.com/f1/news/how-ferrari-can-push-until-the-end-with-f1-2026-upgrades-and-why-it-will/10851266/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Pirelli unveils unique trophies for 2026 Italian Grand Prix",
-      "body": "Pirelli has revealed the trophies for this weekend's Italian Grand Prix, continuing a multi-year partnership with the Pirelli HangarBicocca Museum of Contemporary Art, which is ent...",
-      "url": "https://www.motorsport.com/f1/news/pirelli-unveils-unique-trophies-for-2026-italian-grand-prix/10851413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Red Bull confirms hire of key Aston Martin engineer as Gianpiero Lambiase replacement",
+      "body": "The Red Bull Formula 1 team has confirmed it has hired long-time Aston Martin engineer Tom McCullough to replace McLaren bound Gianpiero Lambiase as head of racing.Lambiase will jo...",
+      "url": "https://www.motorsport.com/f1/news/red-bull-confirms-hire-of-key-aston-martin-engineer-as-lambiase-replacement/10851422/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "McLaren to run rotating F1 rear wing in Italy, calls it H-wing",
-      "body": "The McLaren Formula 1 team will introduce the H-Wing, its own version of the rotating rear wing, at this weekend's Italian Grand Prix at Monza.McLaren had been working on its own i...",
-      "url": "https://www.motorsport.com/f1/news/mclaren-to-run-rotating-rear-wing-in-italy-f1-calls-it-h-wing/10851399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Pirelli unveils unique trophies for 2026 Italian Grand Prix",
+      "body": "Pirelli has revealed the trophies for this weekend's Italian Grand Prix, continuing a multi-year partnership with the Pirelli HangarBicocca Museum of Contemporary Art, which is ent...",
+      "url": "https://www.motorsport.com/f1/news/pirelli-unveils-unique-trophies-for-2026-italian-grand-prix/10851413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-01T17:24:29Z",
+    "lastUpdatedUtc": "2026-09-01T20:06:17Z",
     "source": "jolpica"
   },
   "nextRace": {
