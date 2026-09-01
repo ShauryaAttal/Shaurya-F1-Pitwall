@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Haas rules out switch to 2027 development as VF-26 updates \"coming soon\"",
+      "headline": "McLaren to deliver rotating rear wing at Italian GP but calls it H-wing",
+      "body": "McLaren will introduce the H-Wing, its own version of the rotating rear wing, at this weekend's Formula 1 Italian Grand Prix.McLaren had been working on its own interpretation of t...",
+      "url": "https://www.autosport.com/f1/news/mclaren-to-deliver-rotating-rear-wing-at-italian-gp-but-calls-it-h-wing/10851401/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Haas rules out switch to 2027 development as VF-26 updates coming in Monza",
       "body": "After starting the 2026 Formula 1 season strongly, Haas admits that it has been overtaken and out-developed by its rivals this year. However, team boss Ayao Komatsu and driver Oliv...",
       "url": "https://www.autosport.com/f1/news/haas-rules-out-switch-to-2027-development-as-vf-26-updates-coming-soon/10851344/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "How Ferrari can \"push until the end\" with F1 2026 upgrades, and why it will",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/how-ferrari-can-push-until-the-end-with-f1-2026-upgrades-and-why-it-will/10851266/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Mario Andretti and Jacky Ickx: A friendship that has endured for almost 60 years",
-      "body": "Mario Andretti and Jacky Ickx were remarkably versatile even by the standards of their generation, competing and succeeding across multiple disciplines. Having won some of the bigg...",
-      "url": "https://www.autosport.com/wec/news/mario-andretti-and-jacky-ickx-a-friendship-that-has-endured-for-almost-60-years/10851260/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Rivals copying Ferrari F1 aero designs \"a good reward\" for Maranello",
-      "body": "Ferrari team boss Fred Vasseur says rival teams copying its innovative Formula 1 designs is a \"good reward\" for Maranello.Ferrari came into the 2026 regulations cycle with a striki...",
-      "url": "https://www.motorsport.com/f1/news/rivals-copying-ferrari-f1-aero-designs-a-good-reward-for-maranello/10851332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Pirelli unveils unique trophies for 2026 Italian Grand Prix",
+      "body": "Pirelli has revealed the trophies for this weekend's Italian Grand Prix, continuing a multi-year partnership with the Pirelli HangarBicocca Museum of Contemporary Art, which is ent...",
+      "url": "https://www.motorsport.com/f1/news/pirelli-unveils-unique-trophies-for-2026-italian-grand-prix/10851413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Toto Wolff: Kimi Antonelli's 2026 F1 progress one of the biggest surprises of my career",
-      "body": "When Toto Wolff held his annual media session with the Dutch press at Zandvoort a year ago, Kimi Antonelli was in the middle of the struggles that characterised the European part o...",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-surprised-by-kimi-antonellis-2026-progress-hes-no-longer-a-deer-in-the-headlights/10851325/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "McLaren to run rotating F1 rear wing in Italy, calls it H-wing",
+      "body": "The McLaren Formula 1 team will introduce the H-Wing, its own version of the rotating rear wing, at this weekend's Italian Grand Prix at Monza.McLaren had been working on its own i...",
+      "url": "https://www.motorsport.com/f1/news/mclaren-to-run-rotating-rear-wing-in-italy-f1-calls-it-h-wing/10851399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-01T13:24:09Z",
+    "lastUpdatedUtc": "2026-09-01T17:24:29Z",
     "source": "jolpica"
   },
   "nextRace": {
