@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Heat hazard declared for Italian GP",
+      "body": "Formula 1's governing body the FIA has declared a heat hazard for this weekend's Italian Grand Prix, forcing drivers to either wear cooling vests or attach ballast to their cars.Te...",
+      "url": "https://www.autosport.com/f1/news/heat-hazard-declared-for-italian-gp/10851746/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Red Bull to keep Dutch GP driver line-up for Monza with Hadjar still injured",
       "body": "Isack Hadjar will sit out this weekend's Italian Grand Prix at Monza as he recovers from a wrist injury he sustained during Formula 1's summer break. As a result, Liam Lawson will ...",
       "url": "https://www.autosport.com/f1/news/red-bull-to-keep-dutch-gp-driver-line-up-for-monza/10851595/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Ferrari to bring upgraded engine to Italian GP under ADUO",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/ferraris-italian-gp-aduo-update/10851568/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Red Bull signs key Aston Martin engineer as Lambiase replacement",
-      "body": "The Red Bull Formula 1 team has confirmed it has hired long-time Aston Martin engineer Tom McCullough to replace McLaren bound Gianpiero Lambiase as head of racing.Lambiase will jo...",
-      "url": "https://www.autosport.com/f1/news/red-bull-signs-key-aston-martin-engineer-as-lambiase-replacement/10851434/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lando Norris launches race team, young driver programme",
-      "body": "Reigning F1 world champion Lando Norris has launched his own race team and young driver programme that will compete across Europe's single-seater ladder from 2027.McLaren driver No...",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-launches-race-team-young-driver-programme/10851664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "FIA declares heat hazard for F1's Italian GP in Monza",
+      "body": "Formula 1's governing body the FIA has declared a heat hazard for this weekend's Austrian GP, forcing drivers to either wear cooling vests or attach ballast to their F1 cars.Temper...",
+      "url": "https://www.motorsport.com/f1/news/fia-declares-heat-hazard-for-f1s-italian-gp-in-monza/10851743/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\u2018They think we're against the British\u2019 - FIA president wades into F1 stewards debate",
-      "body": "The Formula 1 stewards once again found themselves under the spotlight at the Dutch Grand Prix after handing drive-through penalties to Franco Colapinto and Arvid Lindblad.Both dri...",
-      "url": "https://www.motorsport.com/f1/news/ben-sulayem-on-colapintos-f1-penalty-they-also-think-the-fia-is-against-the-british/10851615/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lando Norris launches race team, young driver programme",
+      "body": "Reigning F1 world champion Lando Norris has launched his own race team and young driver programme that will compete across Europe's single-seater ladder from 2027.McLaren driver No...",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-launches-race-team-young-driver-programme/10851664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-03T04:12:42Z",
+    "lastUpdatedUtc": "2026-09-03T09:07:12Z",
     "source": "jolpica"
   },
   "nextRace": {
