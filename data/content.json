@@ -4,8 +4,8 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Russell leads Leclerc in Friday practice at Monza",
-      "body": "Mercedes' George Russell tops Friday practice at the Italian Grand Prix from Ferrari's Charles Leclerc.",
+      "headline": "Ferrari still behind Mercedes on straights - Hamilton",
+      "body": "Lewis Hamilton says Ferrari's new engine is \"an improvement\" but that his team are still lagging behind Mercedes on the straights at the Italian Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cgk5g0z26yxo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -20,9 +20,9 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Ferrari upgrade a step but not all we need - Hamilton",
-      "body": "Lewis Hamilton says an upgraded Ferrari engine for this weekend's Italian Grand Prix is a \"step forward but not the whole amount we need\".",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgyqlne25do?at_medium=RSS&at_campaign=rss"
+      "headline": "How to follow Italian Grand Prix on the BBC",
+      "body": "All the key BBC coverage details for the Italian Grand Prix, which takes place from 4-6 September.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c05q5qdrmz3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
@@ -52,17 +52,17 @@
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 Italian GP: George Russell outpaces Charles Leclerc in FP2",
-      "body": "George Russell has topped second practice at Formula 1's Italian Grand Prix, nudging Ferrari's Charles Leclerc off the top of the timesheets.Russell set a 1m22.559s lap in the seco...",
-      "url": "https://www.motorsport.com/f1/news/f1-italian-gp-fp2-report/10852238/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"We clearly have an issue\" \u2013 Red Bull responds to Max Verstappen's radio complaints",
+      "body": "Friday ahead of the Formula 1 Italian Grand Prix was far from trouble-free for Red Bull. There had been hope beforehand that Monza\u2019s layout would suit the team better than Zandvoor...",
+      "url": "https://www.motorsport.com/f1/news/we-clearly-have-an-issue-red-bull-responds-to-max-verstappens-radio-complaints/10852336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Flavio Briatore questions Monaco GP appeal integrity in explosive Monza press conference",
-      "body": "Alpine Formula 1 boss Flavio Briatore has questioned the fairness of the appeal procedure against the Monaco Grand Prix results, claiming one judge has a close relationship with Mc...",
-      "url": "https://www.motorsport.com/f1/news/flavio-briatore-questions-monaco-gp-appeal-integrity-in-extraordinary-monza-press-conference/10852228/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 Italian GP: Saturday schedule, weather forecast and how to watch",
+      "body": "Formula 1 heads into Saturday at Monza with George Russell fastest after second practice for the Italian Grand Prix.The Mercedes driver beat Ferrari\u2019s Charles Leclerc by 0.120s in ...",
+      "url": "https://www.motorsport.com/f1/news/f1-italian-gp-saturday-schedule-weather-forecast-and-how-to-watch/10852320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-04T16:10:25Z",
+    "lastUpdatedUtc": "2026-09-04T19:04:29Z",
     "source": "jolpica"
   },
   "nextRace": {
