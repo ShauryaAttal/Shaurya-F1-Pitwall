@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Russell leads Leclerc in Friday practice at Monza",
+      "body": "Mercedes' George Russell tops Friday practice at the Italian Grand Prix from Ferrari's Charles Leclerc.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cgk5g0z26yxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Gasly loses Monaco podium after McLaren and Red Bull win appeals",
       "body": "McLaren and Red Bull win their appeals against the result of the Monaco Grand Prix after a controversy over multiple incorrect pit-lane speeding penalties.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c4gq26zglpzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Ferrari upgrade a step but not all we need - Hamilton",
@@ -17,52 +25,44 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgyqlne25do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
-      "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Italian Grand Prix declared heat-hazard race",
-      "body": "The Italian Grand Prix is declared a heat-hazard race as high temperatures continue in the country following the summer heatwave.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c99dp0zeymjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Gasly loses Monaco GP podium as penalties reinstated following McLaren and Red Bull appeal",
-      "body": "Alpine Formula 1 driver Pierre Gasly has lost his Monaco Grand Prix podium finish after all, as his penalties for pitlane speeding stand, the FIA\u2019s International Court of Appeal (I...",
-      "url": "https://www.autosport.com/f1/news/pierre-gasly-loses-monaco-gp-podium-fias-court-of-appeal-rules/10852139/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "F1 Italian GP: Russell beats Leclerc to top second practice",
+      "body": "George Russell has topped second practice at Formula 1's Italian Grand Prix, nudging Ferrari's Charles Leclerc off the top of the timesheets.Russell set a 1m22.559s lap in the seco...",
+      "url": "https://www.autosport.com/f1/news/f1-italian-gp-fp2-report-10852240/10852240/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Domenicali on shortening races, sprints and F1\u2019s future",
-      "body": "Formula 1 does not want to stop and contemplate the numbers of a particularly positive historical phase. This is the message Stefano Domenicali wanted to reiterate at Monza, rangin...",
-      "url": "https://www.autosport.com/f1/news/stefano-domenicali-on-shortening-races-sprints-and-f1s-future/10852105/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Briatore questions Monaco GP appeal integrity in explosive Italian GP press conference",
+      "body": "Alpine Formula 1 boss Flavio Briatore has questioned the fairness of the appeal procedure against the Monaco Grand Prix results, claiming one judge has a close relationship with Mc...",
+      "url": "https://www.autosport.com/f1/news/flavio-briatore-questions-monaco-gp-appeal-integrity-in-explosive-monza-press-conference/10852231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "F1 races set to be shortened to 290km in 2027",
-      "body": "Formula 1 grands prix are set to become shorter in 2027 as the series changes the balance between electrical and internal-combustion power.This has been a possibility since changes...",
-      "url": "https://www.autosport.com/f1/news/f1-races-set-to-be-shortened-to-290km-in-2027/10852102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Why Norris wanted to set up his own single-seater race team",
+      "body": "Lando Norris says he hopes establishing his own junior team and driver programme can help guide underfunded talent all the way to the Formula 1.On Wednesday Norris announced two se...",
+      "url": "https://www.autosport.com/f1/news/why-norris-wanted-to-set-up-his-own-single-seater-race-team/10852117/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Pierre Gasly loses Monaco GP podium, FIA\u2019s Court of Appeal rules",
-      "body": "Alpine Formula 1 driver Pierre Gasly has lost his Monaco Grand Prix podium finish after all, as his penalties for pitlane speeding stand, the FIA\u2019s International Court of Appeal (I...",
-      "url": "https://www.motorsport.com/f1/news/pierre-gasly-loses-monaco-gp-podium-as-penalties-reinstated-following-mclaren-and-red-bull-appeal/10852133/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 Italian GP: George Russell outpaces Charles Leclerc in FP2",
+      "body": "George Russell has topped second practice at Formula 1's Italian Grand Prix, nudging Ferrari's Charles Leclerc off the top of the timesheets.Russell set a 1m22.559s lap in the seco...",
+      "url": "https://www.motorsport.com/f1/news/f1-italian-gp-fp2-report/10852238/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "The key area Honda still needs to improve with its new F1 engine",
-      "body": "After Adrian Newey\u2019s first major upgrade package in Hungary for Aston Martin, Honda introduced its first power unit update of the Formula 1 season in Zandvoort.Chief engineer Shint...",
-      "url": "https://www.motorsport.com/f1/news/the-key-area-honda-still-needs-to-improve-with-its-new-f1-engine/10852110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Flavio Briatore questions Monaco GP appeal integrity in explosive Monza press conference",
+      "body": "Alpine Formula 1 boss Flavio Briatore has questioned the fairness of the appeal procedure against the Monaco Grand Prix results, claiming one judge has a close relationship with Mc...",
+      "url": "https://www.motorsport.com/f1/news/flavio-briatore-questions-monaco-gp-appeal-integrity-in-extraordinary-monza-press-conference/10852228/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-04T11:39:42Z",
+    "lastUpdatedUtc": "2026-09-04T16:10:25Z",
     "source": "jolpica"
   },
   "nextRace": {
