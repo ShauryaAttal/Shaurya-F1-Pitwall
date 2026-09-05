@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Alpine's Gasly beats Russell to stunning Monza pole",
+      "body": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
       "body": "BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "FIA appeal court refutes Briatore impartiality claim",
@@ -17,15 +25,23 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g56x1xxn3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Ferrari still behind Mercedes on straights - Hamilton",
-      "body": "Lewis Hamilton says Ferrari's new engine is \"an improvement\" but that his team are still lagging behind Mercedes on the straights at the Italian Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cgk5g0z26yxo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Piastri at risk of losing third in Italian GP qualifying for impeding Lawson",
+      "body": "Oscar Piastri risks losing his third place on the Italian Grand Prix grid after being summoned to the Formula 1 stewards for allegedly impeding Liam Lawson during qualifying at Mon...",
+      "url": "https://www.autosport.com/f1/news/piastri-at-risk-of-losing-third-in-italian-gp-qualifying-for-impeding-lawson/10852599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "F1 Italian GP: Gasly takes stunning maiden pole for Alpine",
+      "body": "On the scene of his maiden grand prix win, Alpine driver Pierre Gasly has written another chapter in his Formula 1 career by claiming his first-ever pole position for the Italian G...",
+      "url": "https://www.autosport.com/f1/news/f1-italian-gp-qualifying-report/10852579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Italian GP: Russell fastest from Hamilton and Verstappen in final practice",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-italian-gp-russell-fastest-from-hamilton-and-verstappen-in-final-practice/10852510/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why Leclerc is likely to tow Hamilton in Italian GP qualifying",
-      "body": "Charles Leclerc is expecting to give Ferrari team-mate Lewis Hamilton a tow in Italian Grand Prix qualifying, with Kimi Antonelli ready to help Formula 1 title rival George Russell...",
-      "url": "https://www.autosport.com/f1/news/why-charles-leclerc-is-likely-to-tow-lewis-hamilton-in-italian-gp-qualifying/10852255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Italian GP: Russell beats Leclerc to top second practice",
-      "body": "George Russell has topped second practice at Formula 1's Italian Grand Prix, nudging Ferrari's Charles Leclerc off the top of the timesheets.Russell set a 1m22.559s lap in the seco...",
-      "url": "https://www.autosport.com/f1/news/f1-italian-gp-fp2-report-10852240/10852240/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 Italian GP: George Russell leads Lewis Hamilton in FP3",
-      "body": "Mercedes driver George Russell beat Ferrari's Lewis Hamilton to top spot in Formula 1's third and final practice session at the Italian Grand Prix.Russell comfortably held off the ...",
-      "url": "https://www.motorsport.com/f1/news/f1-italin-gp-fp3-report/10852508/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"Something special here\" - Pierre Gasly ecstatic to take maiden F1 pole in Monza",
+      "body": "\"I like this track,\" Gasly quipped as he steered his Alpine into parc ferme. Not into the usual enclosure for the rest of the pack, but towards the bollard indicating the number 1 ...",
+      "url": "https://www.motorsport.com/f1/news/pierre-gasly-ecstatic-with-maiden-f1-pole-in-monza-he-chased-for-nine-years/10852602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Haas F1 boss Ayao Komatsu gets behind wheel of historic F1 car ahead of Italian GP",
-      "body": "Haas Formula 1 team principal Ayao Komatsu has completed a track outing, driving a 1990 Footwork Arrows A11B ahead of the Italian Grand Prix.The Japanese team chief took the wheel ...",
-      "url": "https://www.motorsport.com/f1/news/haas-f1-boss-ayao-komatsu-gets-behind-wheel-of-historic-f1-car-ahead-of-italian-gp/10852518/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Oscar Piastri risks losing third in Monza qualifying",
+      "body": "Oscar Piastri risks losing his third place on the Italian Grand Prix grid after being summoned to the Formula 1 stewards for allegedly impeding Liam Lawson during qualifying at Mon...",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-risks-losing-third-in-monza-qualifying/10852593/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-05T12:32:23Z",
+    "lastUpdatedUtc": "2026-09-05T15:53:29Z",
     "source": "jolpica"
   },
   "nextRace": {
