@@ -4,9 +4,9 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Alpine's Gasly beats Russell to stunning Monza pole",
-      "body": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss"
+      "headline": "From chess to battle for pole, Gasly has Russell covered at Monza",
+      "body": "Pierre Gasly delivered the biggest surprise pole position in F1 for years in Italy as the leading contenders had scrappy qualifying sessions.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c3wjdn80g2jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "02",
@@ -20,12 +20,20 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "FIA appeal court refutes Briatore impartiality claim",
-      "body": "The FIA court of appeal refutes a claim by Alpine boss Flavio Briatore which it says \"question the independence and impartiality of the judges\".",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g56x1xxn3o?at_medium=RSS&at_campaign=rss"
+      "headline": "Alpine's Gasly beats Russell to stunning Monza pole",
+      "body": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "How Piastri's Q3 mistake denied Norris \"half a second\" in Italian GP qualifying",
+      "body": "Lando Norris believes he could have set a quicker lap in Monza qualifying had his team-mate Oscar Piastri not made a mistake in the closing moments of Italian Grand Prix qualifying...",
+      "url": "https://www.autosport.com/f1/news/how-oscar-piastris-q3-mistake-denied-lando-norris-half-a-second-in-italian-gp-qualifying/10852750/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Verstappen's \"Red Bull car made out of paper\" comment explained",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/verstappens-red-bull-car-made-out-of-paper-comment-explained/10852703/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Piastri hit with three-place Italian GP grid penalty for impeding Lawson",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/piastri-at-risk-of-losing-third-in-italian-gp-qualifying-for-impeding-lawson/10852599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Italian GP: Gasly takes stunning maiden pole for Alpine",
-      "body": "On the scene of his maiden grand prix win, Alpine driver Pierre Gasly has written another chapter in his Formula 1 career by claiming his first-ever pole position for the Italian G...",
-      "url": "https://www.autosport.com/f1/news/f1-italian-gp-qualifying-report/10852579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Jeremy Clarkson makes Alpine F1 promise after Pierre Gasly Italian GP pole",
-      "body": "Former Top Gear and The Grand Tour host Jeremy Clarkson has promised the whole Alpine Formula 1 team a Hawkstone beer if Pierre Gasly wins the Italian Grand Prix.Gasly topped Satur...",
-      "url": "https://www.motorsport.com/f1/news/jeremy-clarkson-makes-alpine-f1-promise-after-pierre-gasly-italian-gp-pole/10852731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"I did what the team asked\": Kimi Antonelli expects George Russell to return favour later in season",
+      "body": "After helping George Russell with a tow in Monza qualifying, Kimi Antonelli says he expects his team-mate and championship rival to act in the same way later in the season.The Ital...",
+      "url": "https://www.motorsport.com/f1/news/i-did-what-the-team-asked-kimi-antonelli-expects-george-russell-to-return-favour-later-in-season/10852769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell frustrated with Max Verstappen qualifying antics: \"He just slammed on the brakes\"",
-      "body": "George Russell was frustrated with Max Verstappen \"slamming on the brakes\" at the start of their final Q3 laps in Formula 1 Italian Grand Prix qualifying as the Mercedes driver nar...",
-      "url": "https://www.motorsport.com/f1/news/george-russell-frustrated-with-max-verstappen-qualifying-antics-he-just-slammed-on-the-brakes/10852698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "How Oscar Piastri's Q3 mistake denied Lando Norris \"half a second\" in Italian GP qualifying",
+      "body": "Lando Norris believes he could have set a quicker lap in Monza qualifying had his team-mate Oscar Piastri not made a mistake in the closing moments of Italian Grand Prix qualifying...",
+      "url": "https://www.motorsport.com/f1/news/how-oscar-piastris-q3-mistake-denied-lando-norris-half-a-second-in-monza-qualifying/10852723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-05T18:03:59Z",
+    "lastUpdatedUtc": "2026-09-05T20:38:22Z",
     "source": "jolpica"
   },
   "nextRace": {
