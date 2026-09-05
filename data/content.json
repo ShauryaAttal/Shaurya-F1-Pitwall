@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Does Italy want Antonelli to win F1 title or is it all about Ferrari?",
+      "body": "BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Ferrari still behind Mercedes on straights - Hamilton",
       "body": "Lewis Hamilton says Ferrari's new engine is \"an improvement\" but that his team are still lagging behind Mercedes on the straights at the Italian Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cgk5g0z26yxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Gasly loses Monaco podium after McLaren and Red Bull win appeals",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c4gq26zglpzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "How to follow Italian Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the Italian Grand Prix, which takes place from 4-6 September.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c05q5qdrmz3o?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Why Leclerc is likely to tow Hamilton in Italian GP qualifying",
+      "body": "Charles Leclerc is expecting to give Ferrari team-mate Lewis Hamilton a tow in Italian Grand Prix qualifying, with Kimi Antonelli ready to help Formula 1 title rival George Russell...",
+      "url": "https://www.autosport.com/f1/news/why-charles-leclerc-is-likely-to-tow-lewis-hamilton-in-italian-gp-qualifying/10852255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Italian GP: Russell beats Leclerc to top second practice",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/f1-italian-gp-fp2-report-10852240/10852240/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Briatore questions Monaco GP appeal integrity in explosive Italian GP press conference",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/flavio-briatore-questions-monaco-gp-appeal-integrity-in-explosive-monza-press-conference/10852231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why Norris wanted to set up his own single-seater race team",
-      "body": "Lando Norris says he hopes establishing his own junior team and driver programme can help guide underfunded talent all the way to the Formula 1.On Wednesday Norris announced two se...",
-      "url": "https://www.autosport.com/f1/news/why-norris-wanted-to-set-up-his-own-single-seater-race-team/10852117/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\"We clearly have an issue\" \u2013 Red Bull responds to Max Verstappen's radio complaints",
-      "body": "Friday ahead of the Formula 1 Italian Grand Prix was far from trouble-free for Red Bull. There had been hope beforehand that Monza\u2019s layout would suit the team better than Zandvoor...",
-      "url": "https://www.motorsport.com/f1/news/we-clearly-have-an-issue-red-bull-responds-to-max-verstappens-radio-complaints/10852336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why Kimi Antonelli\u2019s Italian GP recovery may be tougher than expected",
+      "body": "When Mercedes put sentiment to one side and made the rational decision to let Kimi Antonelli take a fifth Formula 1 power unit in his home race, landing him a back-of-the-grid star...",
+      "url": "https://www.motorsport.com/f1/news/why-kimi-antonellis-italian-gp-recovery-may-be-tougher-than-expected/10852359/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 Italian GP: Saturday schedule, weather forecast and how to watch",
-      "body": "Formula 1 heads into Saturday at Monza with George Russell fastest after second practice for the Italian Grand Prix.The Mercedes driver beat Ferrari\u2019s Charles Leclerc by 0.120s in ...",
-      "url": "https://www.motorsport.com/f1/news/f1-italian-gp-saturday-schedule-weather-forecast-and-how-to-watch/10852320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Red Bull urged to keep Liam Lawson for Spanish GP as Isack Hadjar recovers from injury",
+      "body": "Former Formula 1 driver Juan Pablo Montoya believes Red Bull should retain Liam Lawson for next week's inaugural Spanish Grand Prix in Madrid, warning the team against prematurely ...",
+      "url": "https://www.motorsport.com/f1/news/red-bull-urged-to-keep-liam-lawson-for-spanish-gp-as-isack-hadjar-recovers-from-injury/10852301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-05T04:02:46Z",
+    "lastUpdatedUtc": "2026-09-05T08:31:11Z",
     "source": "jolpica"
   },
   "nextRace": {
