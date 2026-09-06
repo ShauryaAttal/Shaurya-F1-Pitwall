@@ -12,20 +12,28 @@
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
-      "body": "BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss"
+      "headline": "Far too late for title fight priority - Hamilton",
+      "body": "Lewis Hamilton says it is \"far too late\" for Ferrari to give him priority over team-mate Charles Leclerc in the championship fight.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5y4k1v7gryo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "From chess to battle for pole, Gasly has Russell covered at Monza",
-      "body": "Pierre Gasly delivered the biggest surprise pole position in F1 for years in Italy as the leading contenders had scrappy qualifying sessions.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c3wjdn80g2jo?at_medium=RSS&at_campaign=rss"
+      "headline": "Antonelli extraordinary as Gasly has superb weekend - driver ratings",
+      "body": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Italian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8xkgx74xyxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Why Mercedes didn't pit Russell under virtual safety car in Italian GP",
+      "body": "Kimi Antonelli's sensational win from the back of the grid in the Italian Grand Prix was thanks to a great drive, but perhaps also a little help from strategy and a timely virtual ...",
+      "url": "https://www.autosport.com/f1/news/why-mercedes-didnt-pit-george-russell-under-virtual-safety-car-in-italian-gp-we-didnt-know-which-st/10853147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "After Antonelli\u2019s Italian GP win, is the F1 title fight over? Our writers have their say",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/after-kimi-antonellis-italian-gp-win-is-the-f1-world-title-fight-over-our-writers-have-their-say/10853110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Italian GP: Antonelli stuns from 19th on the grid to win home race",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-italian-gp-antonelli-stuns-from-19th-on-the-grid-to-win-home-race/10853010/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Leclerc needs further health checks after heavy Italian GP crash",
-      "body": "Charles Leclerc says he needs \u201ca few additional checks\u201d following his Italian Grand Prix crash, in order to make sure he\u2019ll be fit next weekend for Formula 1\u2019s Madrid round.Leclerc...",
-      "url": "https://www.autosport.com/f1/news/leclerc-needs-further-health-checks-after-heavy-italian-gp-crash/10853016/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Franco Colapinto in tears after a \u201cbig mistake\u201d cost him a shot at the front in Italian GP",
-      "body": "Franco Colapinto was running at the sharp end of the field in the Italian Grand Prix before a mistake ended his hopes of fighting for a podium, although he recovered to finish nint...",
-      "url": "https://www.motorsport.com/f1/news/franco-colapinto-in-tears-after-a-big-mistake-cost-him-a-shot-at-the-front-in-italian-gp/10853121/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Winners and losers from F1's memorable Italian Grand Prix",
+      "body": "Whether you are an adopted fan of Formula 1 2026's divisive yo-yo racing or not, you can't argue the Italian Grand Prix was short of things to pay attention to. Champion-elect - th...",
+      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-memorable-italian-grand-prix/10853199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Kimi Antonelli labelled \"generational talent\" after Italian GP home win",
-      "body": "Sky Sports Formula 1 pundit Naomi Schiff believes Kimi Antonelli's spectacular victory at the Italian Grand Prix cements his status as a \"generational talent\", warning that the you...",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-labelled-generational-talent-after-italian-gp-home-win/10853124/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Fred Vasseur admits Ferrari drivers' clash in Italian GP \u201cnot good for the team\u201d",
+      "body": "Fred Vasseur has admitted the incident between the Ferrari drivers on the opening lap of the Formula 1 Italian Grand Prix was \u201cnot good for the team\u201d after a disappointing weekend ...",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-admits-ferrari-drivers-clash-not-good-for-the-team/10853193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-06T17:17:28Z",
+    "lastUpdatedUtc": "2026-09-06T19:26:19Z",
     "source": "jolpica"
   },
   "nextRace": {
