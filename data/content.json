@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Why Wolff compared Antonelli to an \u201cAI agent\" after Italian GP win",
+      "body": "Mercedes boss Toto Wolff admits that even he has been surprised by the rapid growth shown by Kimi Antonelli over the course of the 2026 Formula 1 season, likening him to an \"AI age...",
+      "url": "https://www.autosport.com/f1/news/why-wolff-compared-antonelli-to-an-ai-agent-after-italian-gp-win/10853713/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Hadjar to miss third F1 race due to injury",
       "body": "Isack Hadjar requires more time to recover from his wrist injury, which will see the Frenchman sit out his third consecutive grand prix at this weekend's Formula 1 Spanish Grand Pr...",
       "url": "https://www.autosport.com/f1/news/isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns/10853540/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "How Monza introduced oval-like slipstream racing to F1",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/how-monza-introduced-oval-like-slipstream-racing-to-f1/10853410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "What doesn't make sense about Hamilton and Leclerc's Italian GP clash",
-      "body": "There is nothing particularly new in the way Charles Leclerc and Lewis Hamilton conducted themselves on and off the track on Sunday, either in the history of Formula 1 or motorspor...",
-      "url": "https://www.autosport.com/f1/news/what-doesnt-make-sense-about-hamilton-and-leclercs-italian-gp-clash/10853389/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Ferrari\u2019s ADUO 2 upgrade is no \u201cgame changer\u201d for Haas either",
-      "body": "Oliver Bearman says Ferrari\u2019s ADUO 2 engine upgrade represents \u201ca much smaller step\u201d than Haas\u2019 updated Formula 1 chassis.The Prancing Horse introduced its second and final power u...",
-      "url": "https://www.motorsport.com/f1/news/ferraris-aduo-2-upgrade-is-no-game-changer-for-haas-either/10853480/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Kimi Antonelli like \u201cAI agent\" that's always getting better, according to Toto Wolff",
+      "body": "Mercedes boss Toto Wolff admits that even he has been surprised by the rapid growth shown by Kimi Antonelli over the course of the 2026 Formula 1 season, likening him to an \"AI age...",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-like-an-ai-agent-that-continuously-improves-says-toto-wolff/10853636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Juan Pablo Montoya: Mercedes should have double-stacked George Russell and Kimi Antonelli at Monza",
-      "body": "Former Formula 1 driver Juan Pablo Montoya believes Mercedes compromised George Russell's Italian Grand Prix by not double-stacking its drivers under the virtual safety car.Mercede...",
-      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-mercedes-should-have-double-stacked-george-russell-and-kimi-antonelli-at-monza/10853452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "McLaren to \"review\" racing between Lando Norris and Oscar Piastri following Italian GP",
+      "body": "After Lando Norris was heard accusing team-mate Oscar Piastri of forcing him off-track in the Formula 1 Italian Grand Prix, McLaren admits it will \u201creview\u201d its terms of engagement ...",
+      "url": "https://www.motorsport.com/f1/news/mclaren-to-review-racing-between-lando-norris-and-oscar-piastri-following-italian-gp/10853620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-08T11:40:25Z",
+    "lastUpdatedUtc": "2026-09-08T16:27:37Z",
     "source": "jolpica"
   },
   "nextRace": {
