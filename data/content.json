@@ -12,20 +12,28 @@
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Russell hindered or just Antonelli brilliance? - F1 Q&A",
-      "body": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss"
+      "headline": "Ukraine federation calls for Russian sanctions by FIA",
+      "body": "Ukraine's national motorsport authority calls on FIA president Mohammed Ben Sulayem to impose sanctions on its Russian counterpart for opening offices in occupied parts of Ukraine.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5y7k2grx1lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Ecclestone stopped by police for taking shotgun into Portugal",
-      "body": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting compet...",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss"
+      "headline": "Russell hindered or just Antonelli brilliance? - F1 Q&A",
+      "body": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "What to expect with Madrid set to make F1 return",
+      "body": "Madrid's 10-year tenure of the Spanish Grand Prix, taking over the moniker from the now biennial Barcelona race, is Formula 1's latest effort to bring its series to urban populatio...",
+      "url": "https://www.autosport.com/f1/news/what-to-expect-with-madrid-set-to-make-f1-return/10853800/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Wolff compared Antonelli to an \u201cAI agent\" after Italian GP win",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/why-wolff-compared-antonelli-to-an-ai-agent-after-italian-gp-win/10853713/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Hadjar to miss third F1 race due to injury",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns/10853540/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "How Monza introduced oval-like slipstream racing to F1",
-      "body": "There have been several examples of Formula 1 2026's regulations radically changing the style of racing at some of the 24 circuits on the calendar, but Monza's slipstream festival ...",
-      "url": "https://www.autosport.com/f1/news/how-monza-introduced-oval-like-slipstream-racing-to-f1/10853410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Kimi Antonelli like \u201cAI agent\" that's always getting better, according to Toto Wolff",
-      "body": "Mercedes boss Toto Wolff admits that even he has been surprised by the rapid growth shown by Kimi Antonelli over the course of the 2026 Formula 1 season, likening him to an \"AI age...",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-like-an-ai-agent-that-continuously-improves-says-toto-wolff/10853636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Red Bull signs Kimi Raikkonen\u2019s son as junior driver",
+      "body": "Robin Raikkonen, the son of 2007 Formula 1 world champion Kimi, has been signed to the Red Bull Junior Team.Raikkonen was born on 27 January 2015 and has been active in karting sin...",
+      "url": "https://www.motorsport.com/f1/news/red-bull-signs-kimi-raikkonens-son-as-junior-driver/10853835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "McLaren to \"review\" racing between Lando Norris and Oscar Piastri following Italian GP",
-      "body": "After Lando Norris was heard accusing team-mate Oscar Piastri of forcing him off-track in the Formula 1 Italian Grand Prix, McLaren admits it will \u201creview\u201d its terms of engagement ...",
-      "url": "https://www.motorsport.com/f1/news/mclaren-to-review-racing-between-lando-norris-and-oscar-piastri-following-italian-gp/10853620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Charles Leclerc to avoid F1 Spanish GP engine penalty despite Monza crash",
+      "body": "Charles Leclerc managed to avoid engine damage in his high-speed crash at Monza so will not receive a grid penalty for this weekend\u2019s Formula 1 Spanish Grand Prix.The Ferrari drive...",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-avoiding-spanish-gp-penalty/10853820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-09T06:32:49Z",
+    "lastUpdatedUtc": "2026-09-09T12:15:18Z",
     "source": "jolpica"
   },
   "nextRace": {
