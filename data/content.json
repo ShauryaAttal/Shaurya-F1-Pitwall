@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Hamilton and Leclerc 'squash' Monza controversy",
+      "body": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" any controversy between them from the Italian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "'It started as a joke, a fantasy' - F1 heads to football-obsessed Madrid",
       "body": "After F1\u2019s explosion in popularity away from its European heartland the sport is coming home. Why Madrid? Because it is beautiful\u2026 and has a very big expo centre on the outskirts.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cjw5n195nx8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "McLaren talks, 'numb' cars and being 'captain of the ship' - Verstappen Q&A",
@@ -17,52 +25,44 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cy4ze023nvro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
-      "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "How to follow Spanish Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 11-13 September at the new Madring circuit.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g72gw7pkdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "McLaren drops H-wing concept for F1 Spanish GP",
-      "body": "McLaren is parking its H-wing concept for this weekend's Spanish Grand Prix in Madrid, with its version of the rotating Formula 1 rear wing set to return in Baku.The Woking-based t...",
-      "url": "https://www.autosport.com/f1/news/mclaren-drops-upside-down-h-wing-concept-for-f1-spanish-gp/10854141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Hamilton: I don\u2019t want preferential treatment from Ferrari",
+      "body": "Lewis Hamilton says preferential treatment over team-mate Charles Leclerc is not what he\u2019s been asking Ferrari for, despite his position as a potential Formula 1 title contender in...",
+      "url": "https://www.autosport.com/f1/news/lewis-hamilton-i-dont-want-preferential-treatment-from-ferrari/10854275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Audi commits to appeal against Tsunoda's Italian GP result",
-      "body": "The Audi Formula 1 team will follow through with its intention to appeal Yuki Tsunoda's lack of penalty for causing an extra formation lap in the Italian Grand Prix, Autosport unde...",
-      "url": "https://www.autosport.com/f1/news/audi-commits-to-appeal-against-tsunodas-italian-gp-result/10854082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "What the drivers think of the \"crazy\" Madrid F1 circuit",
+      "body": "\"I'll put my money on a red flag, that's for sure,\" said Pierre Gasly when asked what he thought of Formula 1's new Madring street circuit.Risk and difficulty level have been the c...",
+      "url": "https://www.autosport.com/f1/news/what-the-drivers-think-of-the-crazy-madrid-f1-circuit/10854239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Verstappen points to Lawson and Tsunoda as proof F1 2026 is too easy",
-      "body": "Max Verstappen believes Formula 1\u2019s new power units have taken so much away from the driving challenge that performing to a high level has become somewhat effortless.Verstappen has...",
-      "url": "https://www.autosport.com/f1/news/verstappen-points-to-lawson-and-tsunoda-as-proof-f1-2026-is-too-easy/10854029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Leclerc accepts blame for Italian GP clash with Hamilton: \"I went too far\"",
+      "body": "Charles Leclerc admitted that he went \"too far\" when battling against Lewis Hamilton in the opening chicane of Formula 1's Italian Grand Prix, and said he and Hamilton have since b...",
+      "url": "https://www.autosport.com/f1/news/i-went-too-far-charles-leclerc-accepts-blame-for-second-corner-monza-clash-with-lewis-hamilton/10854230/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Yuki Tsunoda responds to Max Verstappen's F1 2026 claim",
-      "body": "Yuki Tsunoda shrugged off Max Verstappen\u2019s comments that his recent results are evidence of driver input being less important with the new 2026 Formula 1 cars.Both drivers were tea...",
-      "url": "https://www.motorsport.com/f1/news/yuki-tsunoda-responds-to-max-verstappens-f1-2026-claim/10854169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why Max Verstappen isn\u2019t buying the hype over a Red Bull surprise in Madrid",
+      "body": "When Max Verstappen was asked during the Dutch media session in Monza whether he now thinks he might not win a single race this Formula 1 season \u2013 which would be the first time sin...",
+      "url": "https://www.motorsport.com/f1/news/why-max-verstappen-isnt-buying-the-hype-over-a-red-bull-surprise-in-madrid/10854300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "McLaren drops upside down H-wing concept for F1 Spanish GP",
-      "body": "McLaren is parking its H-wing concept for this weekend's Spanish Grand Prix in Madrid, with its version of the rotating Formula 1 rear wing set to return in Baku.The Woking-based t...",
-      "url": "https://www.motorsport.com/f1/news/mclaren-drops-upside-down-h-wing-concept-for-f1-spanish-gp/10854102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 Spanish GP at Madring: Friday schedule, weather forecast and how to watch",
+      "body": "Formula 1 heads to Madrid this weekend as the new Madring circuit makes its debut as the host of the Spanish Grand Prix.It marks the first time Madrid has appeared on the Formula 1...",
+      "url": "https://www.motorsport.com/f1/news/f1-spanish-gp-at-madring-friday-schedule-weather-forecast-and-how-to-watch/10854273/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-10T14:18:43Z",
+    "lastUpdatedUtc": "2026-09-10T17:48:20Z",
     "source": "jolpica"
   },
   "nextRace": {
