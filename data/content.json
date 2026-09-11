@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Lindblad crashes as Antonelli fastest in Madrid",
-      "body": "Arvid Lindblad crashes his Racing Bulls in Friday practice at the Spanish Grand Prix, where Kimi Antonelli sets the fastest time.",
+      "headline": "New Madrid circuit very high risk, says Russell",
+      "body": "George Russell says the new Madrid circuit is \"very high risk\" after Arvid Lindblad crashes in Friday practice at the Spanish Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cew9nr2kx20o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
+      "headline": "Alonso cannot leave F1 while uncompetitive - FIA boss",
+      "body": "FIA president Mohammed Ben Sulayem says it would be \"not acceptable\" for Fernando Alonso to leave F1 while he is in an uncompetitive position.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9w4dz14787o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Hamilton and Leclerc 'squash' Monza controversy",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "'It started as a joke, a fantasy' - F1 heads to football-obsessed Madrid",
-      "body": "After F1\u2019s explosion in popularity away from its European heartland the sport is coming home. Why Madrid? Because it is beautiful\u2026 and has a very big expo centre on the outskirts.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cjw5n195nx8o?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "From \"very high risk\" to the \"best race in Europe\" - F1 drivers share first Madring impressions",
+      "body": "The Spanish Grand Prix's Madring circuit has received a thumbs-up from several leading Formula 1 drivers as they praised its high-commitment layout, although not everyone is as imp...",
+      "url": "https://www.autosport.com/f1/news/high-risk-and-a-chance-of-chaos-drivers-open-up-on-f1s-new-madring-circuit/10854707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Leclerc isn't using latest Ferrari ADUO2 engine in the Spanish GP",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-charles-leclerc-isnt-using-latest-aduo2-engine-in-the-spanish-gp/10854566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Spanish GP: Mercedes tops FP1 with Russell fastest at Madring",
-      "body": "Mercedes\u2019 George Russell was fastest in the first-ever Formula 1 session at the brand-new Madring track \u2013 first practice for the Spanish Grand Prix.Twenty out of 22 cars took to th...",
-      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp1-report/10854512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 Spanish GP: Kimi Antonelli leads tricky second practice as Arvid Lindblad crashes",
-      "body": "Mercedes driver Kimi Antonelli topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at a hot and challenging Madring circ...",
-      "url": "https://www.motorsport.com/f1/news/f1-spanish-gp-fp2-report/10854600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Mercedes clearly ahead: How long-run pace compared in F1 Spanish GP practice",
+      "body": "George Russell was the fastest long-run driver with a lot of fuel on board. His closest challenger was Red Bull\u2019s Max Verstappen over Friday\u2019s practice sessions ahead of the Formul...",
+      "url": "https://www.motorsport.com/f1/news/mercedes-clearly-ahead-how-long-run-pace-compared-in-f1-spanish-gp-practice-/10854723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Juan Pablo Montoya says Madring is first 2026 F1 track he wants to drive",
-      "body": "Former Formula 1 driver Juan Pablo Montoya has praised the brand-new Madring circuit, revealing that it is the first track of the 2026 season that has made him want to get back beh...",
-      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-says-madring-is-first-2026-f1-track-he-wants-to-drive/10854613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\u201cHigh risk\u201d and a chance of \u201cchaos\u201d - drivers open up on F1\u2019s new Madring circuit",
+      "body": "The Spanish Grand Prix's Madring circuit has received a thumbs-up from several leading Formula 1 drivers as they praised its high-commitment layout, although not everyone is as imp...",
+      "url": "https://www.motorsport.com/f1/news/very-high-risk-and-the-best-race-in-europe-f1-drivers-share-first-madring-impressions/10854690/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-11T16:41:58Z",
+    "lastUpdatedUtc": "2026-09-11T19:30:25Z",
     "source": "jolpica"
   },
   "nextRace": {
