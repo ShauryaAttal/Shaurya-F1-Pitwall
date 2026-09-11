@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Lindblad crashes as Antonelli fastest in Madrid",
+      "body": "Arvid Lindblad crashes his Racing Bulls in Friday practice at the Spanish Grand Prix, where Kimi Antonelli sets the fastest time.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cew9nr2kx20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Hamilton and Leclerc 'squash' Monza controversy",
       "body": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" any controversy between them from the Italian Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "'It started as a joke, a fantasy' - F1 heads to football-obsessed Madrid",
@@ -17,52 +25,44 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cjw5n195nx8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
-      "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "F1: Chequered Flag",
-      "body": "Jennie, Andrew and Jolyon look ahead to the new Spanish GP in Madrid.",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p91c9t?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "What's behind Alonso's cryptic comments about his F1 future?",
-      "body": "Every Thursday, the media day in the paddock begins with a roundtable session with Mike Krack and Honda's chief engineer Shintaro Orihara. Besides the usual questions about power u...",
-      "url": "https://www.autosport.com/f1/news/whats-behind-fernando-alonsos-cryptic-comments-about-his-f1-future/10854444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
+      "body": "Kimi Antonelli has topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at the new Madring circuit, while Arvid Lindblad ...",
+      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Russell set to take F1 engine penalty after Mercedes introduces power unit upgrade",
-      "body": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.Both Mercedes drivers have exceeded or are expected to exceed their po...",
-      "url": "https://www.autosport.com/f1/news/george-russell-reveals-when-hell-take-his-own-f1-engine-penalty/10854419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Why Leclerc isn't using latest Ferrari ADUO2 engine in the Spanish GP",
+      "body": "Charles Leclerc is still feeling the pain of smiting the wall at the exit of the Parabolica in last weekend's Italian Grand Prix, and the result of the crash is that he will not be...",
+      "url": "https://www.autosport.com/f1/news/why-charles-leclerc-isnt-using-latest-aduo2-engine-in-the-spanish-gp/10854566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Hamilton: I don\u2019t want preferential treatment from Ferrari",
-      "body": "Lewis Hamilton says preferential treatment over team-mate Charles Leclerc is not what he\u2019s been asking Ferrari for, despite his position as a potential Formula 1 title contender in...",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-i-dont-want-preferential-treatment-from-ferrari/10854275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "F1 Spanish GP: Mercedes tops FP1 with Russell fastest at Madring",
+      "body": "Mercedes\u2019 George Russell was fastest in the first-ever Formula 1 session at the brand-new Madring track \u2013 first practice for the Spanish Grand Prix.Twenty out of 22 cars took to th...",
+      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp1-report/10854512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell 'overanalysing everything' as Kimi Antonelli extends F1 lead, says former driver",
-      "body": "Former Formula 1 driver Juan Pablo Montoya has claimed that while George Russell is \"trying to overanalyse everything\" behind the wheel, his team-mate and current championship lead...",
-      "url": "https://www.motorsport.com/f1/news/george-russell-overanalysing-everything-as-kimi-antonelli-extends-f1-lead-says-former-driver/10854500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 Spanish GP: Kimi Antonelli leads tricky second practice as Arvid Lindblad crashes",
+      "body": "Mercedes driver Kimi Antonelli topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at a hot and challenging Madring circ...",
+      "url": "https://www.motorsport.com/f1/news/f1-spanish-gp-fp2-report/10854600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\u201cI f***ed up quite a lot\u201d: How Yuki Tsunoda discovered the complexity of F1 2026 at Monza",
-      "body": "Yuki Tsunoda has another roll of the Formula 1 dice this weekend in Madrid, standing in at Racing Bulls for Liam Lawson, who is getting another outing at Red Bull racing in place o...",
-      "url": "https://www.motorsport.com/f1/news/i-fucked-up-quite-a-lot-how-yuki-tsunoda-discovered-the-complexity-of-f1-2026-at-monza/10854486/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Juan Pablo Montoya says Madring is first 2026 F1 track he wants to drive",
+      "body": "Former Formula 1 driver Juan Pablo Montoya has praised the brand-new Madring circuit, revealing that it is the first track of the 2026 season that has made him want to get back beh...",
+      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-says-madring-is-first-2026-f1-track-he-wants-to-drive/10854613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-11T12:07:49Z",
+    "lastUpdatedUtc": "2026-09-11T16:41:58Z",
     "source": "jolpica"
   },
   "nextRace": {
