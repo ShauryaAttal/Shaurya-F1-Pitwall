@@ -20,12 +20,28 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "McLaren talks, 'numb' cars and being 'captain of the ship' - Verstappen Q&A",
-      "body": "In an exclusive interview with BBC Sport, Max Verstappen talks about his new contract at Red Bull and much more.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy4ze023nvro?at_medium=RSS&at_campaign=rss"
+      "headline": "F1: Chequered Flag",
+      "body": "Jennie, Andrew and Jolyon look ahead to the new Spanish GP in Madrid.",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p91c9t?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "What's behind Alonso's cryptic comments about his F1 future?",
+      "body": "Every Thursday, the media day in the paddock begins with a roundtable session with Mike Krack and Honda's chief engineer Shintaro Orihara. Besides the usual questions about power u...",
+      "url": "https://www.autosport.com/f1/news/whats-behind-fernando-alonsos-cryptic-comments-about-his-f1-future/10854444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Russell set to take F1 engine penalty after Mercedes introduces power unit upgrade",
+      "body": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.Both Mercedes drivers have exceeded or are expected to exceed their po...",
+      "url": "https://www.autosport.com/f1/news/george-russell-reveals-when-hell-take-his-own-f1-engine-penalty/10854419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Hamilton: I don\u2019t want preferential treatment from Ferrari",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/lewis-hamilton-i-dont-want-preferential-treatment-from-ferrari/10854275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "What the drivers think of the \"crazy\" Madrid F1 circuit",
-      "body": "\"I'll put my money on a red flag, that's for sure,\" said Pierre Gasly when asked what he thought of Formula 1's new Madring street circuit.Risk and difficulty level have been the c...",
-      "url": "https://www.autosport.com/f1/news/what-the-drivers-think-of-the-crazy-madrid-f1-circuit/10854239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Leclerc accepts blame for Italian GP clash with Hamilton: \"I went too far\"",
-      "body": "Charles Leclerc admitted that he went \"too far\" when battling against Lewis Hamilton in the opening chicane of Formula 1's Italian Grand Prix, and said he and Hamilton have since b...",
-      "url": "https://www.autosport.com/f1/news/i-went-too-far-charles-leclerc-accepts-blame-for-second-corner-monza-clash-with-lewis-hamilton/10854230/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Oscar Piastri shoots down Lando Norris sabotage theory",
-      "body": "In the fraught final moments of qualifying for the Italian Grand Prix last weekend, McLaren's plan was for Oscar Piastri to run ahead of team-mate Lando Norris on-track, giving him...",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-shoots-down-lando-norris-sabotage-theory/10854309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "George Russell 'overanalysing everything' as Kimi Antonelli extends F1 lead, says former driver",
+      "body": "Former Formula 1 driver Juan Pablo Montoya has claimed that while George Russell is \"trying to overanalyse everything\" behind the wheel, his team-mate and current championship lead...",
+      "url": "https://www.motorsport.com/f1/news/george-russell-overanalysing-everything-as-kimi-antonelli-extends-f1-lead-says-former-driver/10854500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 drivers unveil striking one-off helmet designs for first Madrid Spanish GP",
-      "body": "Formula 1's arrival in Madrid for the Spanish Grand Prix has prompted several drivers to introduce special helmet designs for the inaugural event.Set around the IFEMA exhibition ce...",
-      "url": "https://www.motorsport.com/f1/news/f1-drivers-unveil-striking-one-off-helmets-for-first-madrid-spanish-gp/10854347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\u201cI f***ed up quite a lot\u201d: How Yuki Tsunoda discovered the complexity of F1 2026 at Monza",
+      "body": "Yuki Tsunoda has another roll of the Formula 1 dice this weekend in Madrid, standing in at Racing Bulls for Liam Lawson, who is getting another outing at Red Bull racing in place o...",
+      "url": "https://www.motorsport.com/f1/news/i-fucked-up-quite-a-lot-how-yuki-tsunoda-discovered-the-complexity-of-f1-2026-at-monza/10854486/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-11T06:33:19Z",
+    "lastUpdatedUtc": "2026-09-11T12:07:49Z",
     "source": "jolpica"
   },
   "nextRace": {
