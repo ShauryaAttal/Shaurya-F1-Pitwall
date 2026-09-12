@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Norris takes Madrid pole with 'gorgeous' lap",
+      "body": "Lando Norris takes a superb pole position for McLaren at the Spanish Grand Prix, beating Mercedes' Kimi Antonelli and Red Bull's Max Verstappen.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "New Madrid circuit very high risk, says Russell",
       "body": "George Russell says the new Madrid circuit is \"very high risk\" after Arvid Lindblad crashes in Friday practice at the Spanish Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cew9nr2kx20o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Alonso cannot leave F1 while uncompetitive - FIA boss",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c9w4dz14787o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "How to follow Spanish Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 11-13 September at the new Madring circuit.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g72gw7pkdo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 Spanish GP: Norris snatches last-gasp pole from Antonelli",
+      "body": "Formula 1\u2019s reigning world champion Lando Norris has claimed his third pole position of the 2026 season at the Spanish Grand Prix, beating series leader Kimi Antonelli at the debut...",
+      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-norris-on-pole/10855001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Spanish GP: Antonelli tops FP3 after Hamilton and Bearman cause red flags",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/f1-spanish-gp-antonelli-tops-fp3-as-hamilton-and-bearman-crash/10854923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "From \"very high risk\" to the \"best race in Europe\" - F1 drivers share first Madring impressions",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/high-risk-and-a-chance-of-chaos-drivers-open-up-on-f1s-new-madring-circuit/10854707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
-      "body": "Kimi Antonelli has topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at the new Madring circuit, while Arvid Lindblad ...",
-      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Kimi Antonelli \"should be in a Ferrari\" after Monza win, says Guenther Steiner",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner believes Mercedes driver and current championship leader Kimi Antonelli \"should be in a Ferrari\" following his impressive win ...",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-should-be-in-a-ferrari-after-monza-win-says-guenther-steiner/10854948/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "George Russell explains what went wrong in Q3 at Madring",
+      "body": "George Russell has explained his poor qualifying performance in Formula 1\u2019s Spanish Grand Prix, having ended up a lowly sixth while Mercedes team-mate and title rival Kimi Antonell...",
+      "url": "https://www.motorsport.com/f1/news/george-russell-explains-what-went-wrong-in-q3-at-madring/10855083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Anthony Davidson warns young drivers not to follow Lewis Hamilton's Madrid FP3 example",
-      "body": "Former Formula 1 driver and Sky Sports analyst Anthony Davidson has argued that Lewis Hamilton set a bad example for junior drivers during the third practice session in Madrid.Hami...",
-      "url": "https://www.motorsport.com/f1/news/anthony-davidson-warns-lewis-hamilton-set-poor-example-for-young-drivers-in-madrid-fp3-incident/10854936/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lando Norris \"shocked\" to snatch F1 Spanish GP pole from Kimi Antonelli",
+      "body": "Reigning Formula 1 world champion Lando Norris said he was shocked to take pole for the first-ever race on the new Madring circuit, putting in \"one of the best laps of my career\" t...",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-shocked-to-snatch-f1-spanish-gp-pole-from-kimi-antonelli/10855033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-12T13:57:38Z",
+    "lastUpdatedUtc": "2026-09-12T16:58:03Z",
     "source": "jolpica"
   },
   "nextRace": {
