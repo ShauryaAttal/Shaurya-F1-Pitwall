@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "F1 Spanish GP: Antonelli tops FP3 after Hamilton and Bearman cause red flags",
+      "body": "Formula 1 championship leader Kimi Antonelli will head into qualifying at the Spanish Grand Prix\u2019s challenging Madring circuit with the fastest time - following a final practice se...",
+      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-antonelli-tops-fp3-as-hamilton-and-bearman-crash/10854923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "From \"very high risk\" to the \"best race in Europe\" - F1 drivers share first Madring impressions",
       "body": "The Spanish Grand Prix's Madring circuit has received a thumbs-up from several leading Formula 1 drivers as they praised its high-commitment layout, although not everyone is as imp...",
       "url": "https://www.autosport.com/f1/news/high-risk-and-a-chance-of-chaos-drivers-open-up-on-f1s-new-madring-circuit/10854707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why Leclerc isn't using latest Ferrari ADUO2 engine in the Spanish GP",
-      "body": "Charles Leclerc is still feeling the pain of smiting the wall at the exit of the Parabolica in last weekend's Italian Grand Prix, and the result of the crash is that he will not be...",
-      "url": "https://www.autosport.com/f1/news/why-charles-leclerc-isnt-using-latest-aduo2-engine-in-the-spanish-gp/10854566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Charles Leclerc: Madrid qualifying to be \"one of the most challenging\" in F1 2026",
-      "body": "Charles Leclerc reckons qualifying at this weekend\u2019s Spanish Grand Prix will be \u201cone of the most challenging\u201d of the 2026 Formula 1 season as drivers adapt to the new Madrid circui...",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-madrid-qualifying-to-be-one-of-the-most-challenging-in-f1-2026/10854841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Kimi Antonelli \"should be in a Ferrari\" after Monza win, says Guenther Steiner",
+      "body": "Former Haas Formula 1 team principal Guenther Steiner believes Mercedes driver and current championship leader Kimi Antonelli \"should be in a Ferrari\" following his impressive win ...",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-should-be-in-a-ferrari-after-monza-win-says-guenther-steiner/10854948/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Full throttle or not? Why Pirelli calls Madrid's La Monumental F1\u2019s toughest corner",
-      "body": "The latest addition to the Formula 1 calendar had already sparked plenty of discussion in the paddock before the weekend. Most of the conversations centred on safety and whether th...",
-      "url": "https://www.motorsport.com/f1/news/full-throttle-or-not-why-pirelli-calls-madrids-la-monumental-f1s-toughest-corner/10854838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Anthony Davidson warns young drivers not to follow Lewis Hamilton's Madrid FP3 example",
+      "body": "Former Formula 1 driver and Sky Sports analyst Anthony Davidson has argued that Lewis Hamilton set a bad example for junior drivers during the third practice session in Madrid.Hami...",
+      "url": "https://www.motorsport.com/f1/news/anthony-davidson-warns-lewis-hamilton-set-poor-example-for-young-drivers-in-madrid-fp3-incident/10854936/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-12T10:30:38Z",
+    "lastUpdatedUtc": "2026-09-12T13:57:38Z",
     "source": "jolpica"
   },
   "nextRace": {
