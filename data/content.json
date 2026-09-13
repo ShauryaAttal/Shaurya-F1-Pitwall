@@ -20,12 +20,20 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "How to follow Spanish Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 11-13 September at the new Madring circuit.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g72gw7pkdo?at_medium=RSS&at_campaign=rss"
+      "headline": "F1: Chequered Flag",
+      "body": "Harry Benjamin & Alice Powell review qualifying ahead of the Spanish GP.",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p9bvck?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Verstappen: Victory at Spanish GP to be \"tough\" with lack of overtaking opportunities",
+      "body": "Max Verstappen says he still needs to figure out where to overtake if he is to beat Lando Norris to victory in Formula 1\u2019s Spanish Grand Prix.Verstappen qualified third at Madrid\u2019s...",
+      "url": "https://www.autosport.com/f1/news/verstappen-pessimistic-for-spanish-gp-win/10855330/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The impact Madrid's \"six kilometres long\" pitlane will have on Spanish GP strategy",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/spanish-gp-strategy-options-in-madrid/10855301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Ugochukwu beats Slater to win F3 title",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/fia-f3/news/ugochukwu-beats-slater-to-win-f3-title/10855297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 drivers criticise Madrid circuit, Verstappen laughs: \"I'll sort it out\"",
-      "body": "While the Formula 2 and Formula 3 races around the IFEMA complex in Madrid have produced several crashes, the chaos in Formula 1 has so far remained limited.Nevertheless, criticism...",
-      "url": "https://www.autosport.com/f1/news/as-drivers-criticise-madring-max-verstappen-calls-for-input-on-new-f1-circuits-ill-sort-it-out/10855154/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "What to expect from Madrid GP? From Mercedes' six-stop joke to a \"six-kilometre-long\" pitlane",
-      "body": "The circuit in Madrid has offered Formula 1 drivers a surprisingly high level of grip during their first visit, something that is certainly not a given at a new circuit. The grip l...",
-      "url": "https://www.motorsport.com/f1/news/what-to-expect-from-madrid-gp-from-mercedes-six-stop-joke-to-a-six-kilometre-long-pitlane/10855295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Mercedes thought it had pole position until Lando Norris came along",
+      "body": "Mercedes Formula 1 team principal Toto Wolff briefly believed Kimi Antonelli had taken pole position for the Spanish Grand Prix \u2013 until Lando Norris snatched it away.Antonelli mark...",
+      "url": "https://www.motorsport.com/f1/news/mercedes-thought-it-had-pole-position-until-lando-norris-came-along/10855334/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Former McLaren F1 junior Ugo Ugochukwu wins Formula 3 title",
-      "body": "Ugo Ugochukwu became the 2026 Formula 3 champion on Sunday, despite coming into the Madring weekend as a dark horse.Campos Racing\u2019s Ugochukwu and Trident\u2019s Freddie Slater emerged a...",
-      "url": "https://www.motorsport.com/fia-f3/news/former-mclaren-f1-junior-ugo-ugochukwu-wins-formula-3-title/10855292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen: \u2018I need to figure out where to overtake\u2019 to win F1 Spanish GP",
+      "body": "Max Verstappen says he still needs to figure out where to overtake if he is to beat Lando Norris to victory in Formula 1\u2019s Spanish Grand Prix.Verstappen qualified third at Madrid\u2019s...",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-i-need-to-figure-out-where-to-overtake-to-win-f1-spanish-gp/10855326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-13T09:40:48Z",
+    "lastUpdatedUtc": "2026-09-13T14:12:48Z",
     "source": "jolpica"
   },
   "nextRace": {
