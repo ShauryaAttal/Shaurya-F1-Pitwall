@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Madrid F1 circuit set for changes after criticism",
+      "body": "Spanish Grand Prix organisers are set to make changes to the new Madrid circuit after criticism of its inaugural race at the weekend.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckwyzllzdq43o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "How virtual safety car cost Norris win - and should F1 change rules?",
       "body": "Lando Norris says he was \"insanely unlucky\" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Honda changes F1 design boss after slow start to return",
@@ -17,15 +25,23 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cpved014n83o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Antonelli impressive and one of Colapinto's best weekends - driver ratings",
-      "body": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Spanish Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/clyjx57nqj9o?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 champion Norris completes first full test in McLaren\u2019s Le Mans Hypercar",
+      "body": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.Following last weekend\u2019s Sp...",
+      "url": "https://www.autosport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "F2 adds extra Baku feature race and insists Qatar, Abu Dhabi still on \u2013 what does this mean for F1?",
+      "body": "The Formula 2 championship has announced a \"supersized\" meeting for its next round in Baku. The move will see it host an additional feature race in Azerbaijan and comes just 10 day...",
+      "url": "https://www.autosport.com/formula2/news/f2-bulks-up-baku-schedule-with-extra-feature-race-is-this-a-clue-for-f1s-future/10855898/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Spanish GP organisers promise Madring track changes following F1 criticism",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/spanish-gp-organisers-promise-madring-track-changes-following-f1-criticism/10855769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Honda replaces F1 power unit boss in organisation shuffle",
-      "body": "Aston Martin's engine partner Honda has replaced the project leader of its Formula 1 power unit programme as it aims to claw its way back into contention.On Monday the Japanese man...",
-      "url": "https://www.autosport.com/f1/news/aston-martin-partner-honda-replaces-f1-power-unit-boss/10855755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 drivers push for Madring changes after \"very poor\" Spanish GP: \"I almost fell asleep\"",
-      "body": "The Formula 1 Spanish Grand Prix played out exactly as most drivers had feared. Max Verstappen said on Saturday that he could not see a single overtaking opportunity and added when...",
-      "url": "https://www.autosport.com/f1/news/i-almost-fell-asleep-f1-drivers-push-for-madrid-track-changes-after-very-poor-spanish-gp/10855598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Williams tipped for \"huge step\" forward at Azerbaijan GP with major upgrade",
-      "body": "Former Formula 1 driver Juan Pablo Montoya expects Williams to take a \"huge step\" forward at the upcoming Azerbaijan Grand Prix as the Grove outfit prepares to introduce a much-nee...",
-      "url": "https://www.motorsport.com/f1/news/williams-tipped-for-huge-step-forward-at-azerbaijan-gp-with-major-upgrade/10855873/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lando Norris completes first full test in McLaren\u2019s Le Mans Hypercar",
+      "body": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.Following last weekend\u2019s Sp...",
+      "url": "https://www.motorsport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell told to turn focus to 2027 as title bid branded \"a write-off\" after Spanish GP",
-      "body": "Former IndyCar Series driver and F1 TV analyst James Hinchcliffe has argued that George Russell must treat the remainder of the 2026 season as early preparation for 2027, declaring...",
-      "url": "https://www.motorsport.com/f1/news/george-russell-told-to-turn-focus-to-2027-as-title-bid-branded-a-write-off-after-spanish-gp/10855654/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Who is racing Max Verstappen in \"Max vs 100\"? Entry list revealed",
+      "body": "The majority of the 100 karters preparing to challenge four-time Formula 1 champion Max Verstappen in the Max vs 100 event on Wednesday 16 September have been revealed.Streaming li...",
+      "url": "https://www.motorsport.com/f1/news/who-is-racing-max-verstappen-in-max-vs-100-entry-list-revealed/10855944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-14T13:54:10Z",
+    "lastUpdatedUtc": "2026-09-14T19:11:37Z",
     "source": "jolpica"
   },
   "nextRace": {
