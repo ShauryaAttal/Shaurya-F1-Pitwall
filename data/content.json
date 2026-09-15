@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Ferrari not yet switching focus to 2027 F1 car",
+      "body": "Ferrari team principal Fred Vasseur says the Scuderia will keep developing its SF-26 Formula 1 car, despite its diminishing title chances.After Lewis Hamilton retired from the Span...",
+      "url": "https://www.autosport.com/f1/news/ferrari-not-switching-focus-to-f1-2027-car/10856173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Russell and Hamilton concede F1 2026 title chances as Antonelli dominates",
       "body": "Strange things can happen in Formula 1. Just ask Max Verstappen, who couldn't believe his luck when McLaren handed him a way into the 2025 title fight on a silver platter. Although...",
       "url": "https://www.autosport.com/f1/news/russell-and-hamilton-concede-f1-2026-title-chances-as-antonelli-dominates/10856072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Slater to graduate from F3 to F2 for 2027",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/formula2/news/slater-to-graduate-from-f3-to-f2-for-2027/10856041/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Norris completes first full test in McLaren\u2019s Le Mans Hypercar",
-      "body": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.Following last weekend\u2019s Sp...",
-      "url": "https://www.autosport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Mercedes explains why George Russell pitted under VSC at Madring",
-      "body": "Mercedes deputy team principal Bradley Lord has explained why George Russell pitted under the virtual safety car despite starting on hard tyres in Formula 1\u2019s Spanish Grand Prix.Ru...",
-      "url": "https://www.motorsport.com/f1/news/mercedes-explains-george-russells-two-stop-strategy-in-f1-spanish-gp/10856094/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why Ferrari won't switch focus to 2027 F1 car yet",
+      "body": "Ferrari team principal Fred Vasseur says the Scuderia will keep developing its SF-26 Formula 1 car, despite its diminishing title chances.After Lewis Hamilton retired from the Span...",
+      "url": "https://www.motorsport.com/f1/news/why-ferrari-wont-switch-focus-to-2027-f1-car-yet/10856168/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 world champion among drivers for Race Of Champions\u2019 first New Zealand event",
-      "body": "The Race Of Champions has announced the first four drivers for its inaugural New Zealand event, taking place at Wellington\u2019s Hnry Stadium on 9-10 January 2027.The lineup will be sp...",
-      "url": "https://www.motorsport.com/f1/news/f1-world-champion-among-drivers-for-race-of-champions-first-new-zealand-event/10856057/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lando Norris lost Madring F1 win because of impossible overtaking \u2013 McLaren",
+      "body": "McLaren Formula 1 team principal Andrea Stella says overtaking was too difficult at the Madring for Lando Norris to win the Spanish Grand Prix.Norris took pole position at Madrid\u2019s...",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-lost-madring-f1-win-because-of-impossible-overtaking-mclaren/10856133/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-15T12:35:11Z",
+    "lastUpdatedUtc": "2026-09-15T17:36:35Z",
     "source": "jolpica"
   },
   "nextRace": {
