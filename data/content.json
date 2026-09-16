@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
+      "body": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "F1 to have 10 sprint races in 2027, including Monaco",
       "body": "Formula 1 increases the number of sprint races from six to 10 for the 2027 World Championship.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "How did they get the Madring track so wrong? - F1 Q&A",
@@ -17,18 +25,10 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
-      "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Madrid F1 circuit set for changes after criticism",
-      "body": "Spanish Grand Prix organisers are set to make changes to the new Madrid circuit after criticism of its inaugural race at the weekend.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckwyzllzdq43o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Bruising F1 2026 will not be the end for George Russell - Toto Wolff",
+      "headline": "Bruising F1 2026 will not be the end for Russell - Wolff",
       "body": "Toto Wolff is confident that George Russell can overcome a bruising 2026 Formula 1 campaign and still become world champion in the future.The Mercedes driver is second and 81 point...",
       "url": "https://www.autosport.com/f1/news/bruising-f1-2026-will-not-be-the-end-for-george-russell-toto-wolff/10856371/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
@@ -52,17 +52,17 @@
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Was Cadillac \u201cfaster\u201d than Williams in Madring F1 race?",
-      "body": "Cadillac has been a backmarker in Formula 1 so far in the team\u2019s maiden season, battling Aston Martin early on before the latter\u2019s progress.However, the team\u2019s race pace was encour...",
-      "url": "https://www.motorsport.com/f1/news/was-cadillac-faster-than-williams-in-madring-f1-race/10856327/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\u201cI\u2019m not enjoying life\u201d \u2013 How Yuki Tsunoda\u2019s Red Bull F1 stint \u201cexhausted\u201d him",
+      "body": "In the pre-2026 Formula 1 eras, Red Bull\u2019s second seat made quite a few casualties.Pierre Gasly, Alexander Albon, Sergio Perez, Liam Lawson. All of them struggled \u2013 and eventually ...",
+      "url": "https://www.motorsport.com/f1/news/im-not-enjoying-life-how-yuki-tunodas-red-bull-f1-stint-exhausted-him/10856377/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "How to watch Max vs 100",
-      "body": "Formula 1 world champion Max Verstappen is attempting a new challenge today (Wednesday 16 September) as he competes against 100 go-karters at Silverstone.The event, run by Red Bull...",
-      "url": "https://www.motorsport.com/general/news/how-to-watch-max-vs-100-/10856352/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Was Cadillac \u201cfaster\u201d than Williams in Madring F1 race?",
+      "body": "Cadillac has been a backmarker in Formula 1 so far in the team\u2019s maiden season, battling Aston Martin early on before the latter\u2019s progress.However, the team\u2019s race pace was encour...",
+      "url": "https://www.motorsport.com/f1/news/was-cadillac-faster-than-williams-in-madring-f1-race/10856327/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-16T14:19:54Z",
+    "lastUpdatedUtc": "2026-09-16T18:21:39Z",
     "source": "jolpica"
   },
   "nextRace": {
