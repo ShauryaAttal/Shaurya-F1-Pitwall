@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Former Mercedes design boss Elliott joins Alpine",
+      "body": "Former Mercedes F1 design boss Mike Elliott joins Alpine as chief technical officer.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckeq8vj28149o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
       "body": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "F1 to have 10 sprint races in 2027, including Monaco",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "How did they get the Madring track so wrong? - F1 Q&A",
-      "body": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Spanish Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Former Mercedes F1 tech chief Elliott joins Alpine as CTO",
+      "body": "Alpine has appointed Mike Elliott as chief technical officer of its Formula 1 team, further bolstering the Enstone-based team's technical structure.Alpine announced on Thursday tha...",
+      "url": "https://www.autosport.com/f1/news/mike-elliott-joins-alpine-f1/10856497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Tsunoda's in-depth look at why he failed to master Red Bull\u2019s F1 car in 2025",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/tsunoda-on-poor-f1-2025/10856471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Autosport magazine: Antonelli and a Can-Am celebration",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/general/news/autosport-magazine-antonelli-and-a-can-am-celebration/10856457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Bruising F1 2026 will not be the end for Russell - Wolff",
-      "body": "Toto Wolff is confident that George Russell can overcome a bruising 2026 Formula 1 campaign and still become world champion in the future.The Mercedes driver is second and 81 point...",
-      "url": "https://www.autosport.com/f1/news/bruising-f1-2026-will-not-be-the-end-for-george-russell-toto-wolff/10856371/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Yuki Tsunoda reveals why he failed to master Red Bull\u2019s F1 car in 2025",
-      "body": "It seems almost unfathomable for a title contender's team-mate to end up 17th in the Formula 1 drivers\u2019 standings, yet that\u2019s what happened to Yuki Tsunoda alongside Max Verstappen...",
-      "url": "https://www.motorsport.com/f1/news/yuki-tsunoda-reveals-why-he-failed-to-master-red-bulls-f1-car-in-2025/10856416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lewis Hamilton denies claims he is pushing Ferrari to replace key staff",
+      "body": "Lewis Hamilton has shut down claims from Italian media that he had been pushing Ferrari to replace a number of key on-track personnel.Corriere della Sera did not identify which spe...",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-denies-claims-of-him-pushing-for-ferrari-to-replace-key-staff/10856614/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\u201cI\u2019m not enjoying life\u201d \u2013 How Yuki Tsunoda\u2019s Red Bull F1 stint \u201cexhausted\u201d him",
-      "body": "In the pre-2026 Formula 1 eras, Red Bull\u2019s second seat made quite a few casualties.Pierre Gasly, Alexander Albon, Sergio Perez, Liam Lawson. All of them struggled \u2013 and eventually ...",
-      "url": "https://www.motorsport.com/f1/news/im-not-enjoying-life-how-yuki-tunodas-red-bull-f1-stint-exhausted-him/10856377/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen even surprised himself with karting challenge performance",
+      "body": "Max Verstappen surpassed his own expectations when he completed his Silverstone karting challenge in blistering time against 100 competitors.On Wednesday Red Bull ran the \u2018Max vs 1...",
+      "url": "https://www.motorsport.com/general/news/max-verstappen-even-surprised-himself-with-karting-challenge-performance/10856564/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-17T10:19:57Z",
+    "lastUpdatedUtc": "2026-09-17T15:15:19Z",
     "source": "jolpica"
   },
   "nextRace": {
