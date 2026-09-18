@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "How Antonelli's luxury problem is causing Wolff and Mercedes grey hairs",
+      "body": "For better or for worse, there seems to be no slowing down Kimi Antonelli.Just ask Pete Bonnington, who channelled his inner schoolteacher in Madrid as he relentlessly had to remin...",
+      "url": "https://www.autosport.com/f1/news/hes-causing-us-grey-hair-why-kimi-antonellis-speed-is-a-luxury-problem-for-mercedes/10856785/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Former Mercedes F1 tech chief Elliott joins Alpine as CTO",
       "body": "Alpine has appointed Mike Elliott as chief technical officer of its Formula 1 team, further bolstering the Enstone-based team's technical structure.Alpine announced on Thursday tha...",
       "url": "https://www.autosport.com/f1/news/mike-elliott-joins-alpine-f1/10856497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Tsunoda's in-depth look at why he failed to master Red Bull\u2019s F1 car in 2025",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/tsunoda-on-poor-f1-2025/10856471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Autosport magazine: Antonelli and a Can-Am celebration",
-      "body": "Kimi Antonelli\u2019s rise to become Formula 1 world championship favourite and a celebration marking 60 years of Can-Am feature in the October issue of Autosport, out today (17 Septemb...",
-      "url": "https://www.autosport.com/general/news/autosport-magazine-antonelli-and-a-can-am-celebration/10856457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "James Vowles backs Madrid to become 'one to watch' despite calls for changes",
-      "body": "Williams team principal James Vowles has backed Madrid to become one of Formula 1's standout events, despite a challenging inaugural Spanish Grand Prix at the track.F1 visited the ...",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-backs-madrid-to-become-one-to-watch-despite-calls-for-changes/10856719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
+      "body": "Cadillac Formula 1 shareholder Mark Walter has officially become the subject of a class-action lawsuit, while a concurrent investigation into potential fraud between his insurance ...",
+      "url": "https://www.motorsport.com/f1/news/cadillac-f1-under-scrutiny-after-lawsuit-against-mark-walter-and-twg-global/10856796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Mercedes: 2027 development \u201cstarted a while ago\u201d as F1 2026 domination continues",
-      "body": "Mercedes now sits 145 points clear of its nearest rivals in the 2026 Formula 1 constructors\u2019 standings, which team boss Toto Wolff describes as a \u201cnice buffer\u201d that means it can pi...",
-      "url": "https://www.motorsport.com/f1/news/mercedes-2027-development-started-a-while-ago-as-f1-2026-domination-continues/10856574/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "How Kimi Antonelli's luxury problem is causing Toto Wolff and Mercedes grey hairs",
+      "body": "For better or for worse, there seems to be no slowing down Kimi Antonelli.Just ask Pete Bonnington, who channelled his inner schoolteacher in Madrid as he relentlessly had to remin...",
+      "url": "https://www.motorsport.com/f1/news/how-kimi-antonellis-luxury-problem-is-causing-toto-wolff-and-mercedes-grey-hairs/10856780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-18T05:44:23Z",
+    "lastUpdatedUtc": "2026-09-18T10:59:28Z",
     "source": "jolpica"
   },
   "nextRace": {
