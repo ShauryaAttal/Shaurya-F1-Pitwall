@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "How to follow Azerbaijan Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 24-26 September.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cdx0elx8pz8o?at_medium=RSS&at_campaign=rss"
+      "headline": "F1 reduces maximum distance of races by 15km",
+      "body": "F1 announces the maximum race distance for grands prix will be reduced by 15km from 305km to 290km for the 2027 season.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
+      "headline": "How to follow Azerbaijan Grand Prix on the BBC",
+      "body": "All the key BBC coverage details for the Azerbaijan Grand Prix, which takes place from 24-26 September.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cdx0elx8pz8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Former Mercedes design boss Elliott joins Alpine",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/ckeq8vj28149o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
-      "body": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 approves shorter races for 2027 to fit revised power unit plan",
+      "body": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.During...",
+      "url": "https://www.autosport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Leclerc didn\u2019t copy Hamilton\u2019s driving style amid F1 2026 struggle",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Red Bull admits Verstappen's mysterious car issue cannot be fully fixed until 2027",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/red-bull-admits-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857621/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
-      "body": "Mercedes has confirmed its next big Formula 1 car upgrade will arrive at the forthcoming grand prix in Malaysia, where it hopes to get back into contention for pole.The Silver Arro...",
-      "url": "https://www.autosport.com/f1/news/mercedes-aims-to-end-pole-drought-with-upcoming-malaysia-f1-upgrades/10857058/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner believes four-time champion Max Verstappen will fail to win a single grand prix during the 2026 F1 season, arguing that Red Bu...",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 approves shorter races for 2027 to fit revised power unit plan",
+      "body": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.During...",
+      "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "2025 F1 Academy champion Doriane Pin sets timeline for Formula 1 race seat",
-      "body": "Mercedes Formula 1 development driver Doriane Pin has set a five-year target to secure a race seat on the F1 grid.Speaking in a recent Mercedes In Convo With Kids interview, the Fr...",
-      "url": "https://www.motorsport.com/f1/news/2025-f1-academy-champion-doriane-pin-sets-timeline-for-formula-1-race-seat/10857711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Jamie Chadwick opens up on pressure of representing women in motorsport",
+      "body": "Three-time W Series champion Jamie Chadwick has admitted that being a prominent female driver on the single-seater ladder meant her off days were often heavily scrutinised as a ref...",
+      "url": "https://www.motorsport.com/wec/news/jamie-chadwick-opens-up-on-pressure-of-representing-women-in-motorsport/10857794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-21T14:28:31Z",
+    "lastUpdatedUtc": "2026-09-21T19:41:45Z",
     "source": "jolpica"
   },
   "nextRace": {
