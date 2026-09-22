@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Red Bull's Hadjar to return at Azerbaijan Grand Prix",
+      "body": "Red Bull driver Isack Hadjar will return at this week's Azerbaijan Grand Prix after missing the past three races with a wrist injury.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cwkgx8vkd572o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Why is Monaco staging a sprint race? F1 Q&A",
       "body": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Azerbaijan Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "F1 reduces maximum distance of races by 15km",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "How to follow Azerbaijan Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the Azerbaijan Grand Prix, which takes place from 24-26 September.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cdx0elx8pz8o?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Hadjar set to make Red Bull return at Azerbaijan GP after injury recovery",
+      "body": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a wrist injury, as Liam Lawson moves back to the Racing Bulls Formula 1 ...",
+      "url": "https://www.autosport.com/f1/news/hadjar-to-make-red-bull-return-in-baku/10857880/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 approves shorter races for 2027 to fit revised power unit plan",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Leclerc didn\u2019t copy Hamilton\u2019s driving style amid F1 2026 struggle",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Red Bull admits Verstappen's mysterious car issue cannot be fully fixed until 2027",
-      "body": "During several weekends this season, Verstappen has complained that the Red Bull Formula 1 car gets worse over the course of a session or race. It usually happens at the rear axle,...",
-      "url": "https://www.autosport.com/f1/news/red-bull-admits-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857621/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release",
-      "body": "Formula 1 has announced that all 22 official team cars from the 2026 season will be added to the Hot Wheels Infinite Rush video game via a new F1 Car Collection Pack, launching in ...",
-      "url": "https://www.motorsport.com/f1/news/f1-confirms-new-hot-wheels-infinite-rush-car-collection-for-2027-release/10857826/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Isack Hadjar to make Red Bull return at F1 Azerbaijan GP",
+      "body": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a wrist injury, as Liam Lawson moves back to Racing Bulls.Hadjar had inj...",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-make-red-bull-return-at-f1-azerbaijan-gp/10857869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 approves shorter races for 2027 to fit revised power unit plan",
-      "body": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.During...",
-      "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Doriane Pin shares powerful advice to young girls hoping to reach motorsport",
+      "body": "Mercedes Formula 1 development driver and 2025 F1 Academy champion Doriane Pin has urged young girls aiming for a career in motorsport to \"dare to believe\" in their ambitions.Pin b...",
+      "url": "https://www.motorsport.com/f1/news/doriane-pin-shares-powerful-advice-to-young-girls-hoping-to-reach-motorsport/10857714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-22T07:35:47Z",
+    "lastUpdatedUtc": "2026-09-22T13:18:19Z",
     "source": "jolpica"
   },
   "nextRace": {
