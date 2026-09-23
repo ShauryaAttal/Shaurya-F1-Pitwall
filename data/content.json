@@ -4,9 +4,9 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Red Bull's Hadjar to return at Azerbaijan Grand Prix",
-      "body": "Red Bull driver Isack Hadjar will return at this week's Azerbaijan Grand Prix after missing the past three races with a wrist injury.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cwkgx8vkd572o?at_medium=RSS&at_campaign=rss"
+      "headline": "Red Bull retain Hadjar for 2027 season",
+      "body": "Frenchman Isack Hadjar is to stay at Red Bull as Max Verstappen's team-mate for the 2027 season.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde0j53zz90o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "02",
@@ -20,12 +20,20 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "F1 reduces maximum distance of races by 15km",
-      "body": "F1 announces the maximum race distance for grands prix will be reduced by 15km from 305km to 290km for the 2027 season.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss"
+      "headline": "Red Bull's Hadjar to return at Azerbaijan Grand Prix",
+      "body": "Red Bull driver Isack Hadjar will return at this week's Azerbaijan Grand Prix after missing the past three races with a wrist injury.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cwkgx8vkd572o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Hadjar to partner Verstappen at Red Bull for F1 2027",
+      "body": "Red Bull has confirmed it will field an unchanged Formula 1 driver line-up in 2027, with Isack Hadjar staying put alongside Max Verstappen.Hadjar stepped up in 2026 after a rookie ...",
+      "url": "https://www.autosport.com/f1/news/hadjar-to-partner-verstappen-for-f1-2027/10858093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "What were Leclerc's \"other opportunities\" before signing new Ferrari deal?",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/what-were-leclercs-f1-options-before-ferrari-deal/10857989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Hadjar set to make Red Bull return at Azerbaijan GP after injury recovery",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/hadjar-to-make-red-bull-return-in-baku/10857880/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 approves shorter races for 2027 to fit revised power unit plan",
-      "body": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.During...",
-      "url": "https://www.autosport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Why is a Formula 1 race 305 kilometres long? Race distances from 1950 to 2027",
-      "body": "A Formula 1 Grand Prix is more than 305 kilometres long. More precisely, a race consists of the minimum number of laps required to exceed 305 kilometres. The only exception is Mona...",
-      "url": "https://www.motorsport.com/f1/news/why-is-a-formula-1-race-305-kilometres-long-race-distances-from-1950-to-2027/10858004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Red Bull retains Isack Hadjar alongside Max Verstappen for F1 2027",
+      "body": "Red Bull has confirmed it will field an unchanged Formula 1 driver line-up in 2027, with Isack Hadjar staying put alongside Max Verstappen.Hadjar stepped up in 2026 after a rookie ...",
+      "url": "https://www.motorsport.com/f1/news/red-bull-retains-isack-hadjar-alongside-max-verstappen-for-f1-2027/10858090/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "What were Charles Leclerc's \"other opportunities\" before signing new Ferrari deal?",
-      "body": "Every time Ferrari and Charles Leclerc agree to extend their relationship, the news comes against a background of allusions to other suitors Charles has spurned to remain with his ...",
-      "url": "https://www.motorsport.com/f1/news/what-were-leclercs-other-opportunities-before-signing-new-ferrari-deal/10857955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why is a Formula 1 race 305 kilometres long? Race distances from 1950 to 2027",
+      "body": "A Formula 1 Grand Prix is more than 305 kilometres long. More precisely, a race consists of the minimum number of laps required to exceed 305 kilometres. The only exception is Mona...",
+      "url": "https://www.motorsport.com/f1/news/why-is-a-formula-1-race-305-kilometres-long-race-distances-from-1950-to-2027/10858004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-23T04:24:45Z",
+    "lastUpdatedUtc": "2026-09-23T09:28:30Z",
     "source": "jolpica"
   },
   "nextRace": {
