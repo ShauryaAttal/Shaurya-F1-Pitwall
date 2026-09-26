@@ -20,12 +20,20 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "How to follow Azerbaijan Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the Azerbaijan Grand Prix, which takes place from 24-26 September.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cdx0elx8pz8o?at_medium=RSS&at_campaign=rss"
+      "headline": "F1: Chequered Flag",
+      "body": "The team review a mixed day for the two Mercedes drivers.",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pcjgv0?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Why Verstappen feels Baku was Red Bull's best chance to win in F1 2026",
+      "body": "A problem with the internal combustion engine cost Max Verstappen a good starting position for the Formula 1 Azerbaijan Grand Prix. The four-time world champion readily acknowledge...",
+      "url": "https://www.autosport.com/f1/news/why-verstappen-feels-baku-was-red-bulls-best-chance-to-win-in-f1-2026/10859128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "What\u2019s behind Norris\u2019 top-speed issue in Baku \u2013 and why McLaren itself is down on Mercedes",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/whats-behind-lando-norris-top-speed-problem-in-baku-and-why-mclaren-itself-is-down-on-mercedes/10859014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Verstappen reveals why Red Bull's engine problem in Baku was different than it seemed",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/max-verstappen-reveals-why-red-bulls-engine-problem-in-baku-was-different-than-it-seemed/10858986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Hamilton frustrated after late Ferrari qualifying strategy change: \u2018I towed Charles the whole time\u2019",
-      "body": "Lewis Hamilton has rued Ferrari\u2019s qualifying strategy at Formula 1\u2019s Azerbaijan Grand Prix, explaining it left him without a slipstream.Hamilton\u2019s performance worsened throughout q...",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-i-towed-charles-the-whole-time-and-ended-up-05s-slower/10858944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Oscar Piastri: I need a tow bar to hook onto Mercedes to fight for Baku win",
-      "body": "Having qualified third in Baku after enduring a difficult build-up to the main sessions, Oscar Piastri was happy with the grid position he earned for Formula 1's Azerbaijan Grand P...",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-i-need-a-tow-bar-to-hook-onto-mercedes-to-fight-for-baku-win/10859038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "How McLaren\u2019s major F1 upgrade has been working in Baku",
+      "body": "After three pole positions in the last four rounds, qualifying for the Azerbaijan Grand Prix was underwhelming for the McLaren Formula 1 team, which has struggled all weekend.The M...",
+      "url": "https://www.motorsport.com/f1/news/how-mclarens-major-f1-upgrade-has-been-working-in-baku/10859110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Guenther Steiner calls out Williams over F1 infrastructure complaints: \"Crocodile tears\"",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner has labelled Williams's complaints regarding capital expenditure limits \"crocodile tears\", questioning team boss James Vowles ...",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-calls-out-williams-over-f1-infrastructure-complaints-crocodile-tears/10859062/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen backs Kimi Antonelli after Baku F1 qualifying crash: \u201cPeople forget how young he is\u201d",
+      "body": "After a very strong European leg of the Formula 1 season \u2013 which was actually an Achilles\u2019 heel last year \u2013 Kimi Antonelli made a rare mistake during qualifying in Baku.The champio...",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-backs-kimi-antonelli-after-baku-f1-qualifying-crash-people-forget-how-young-he-is/10859160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-26T05:23:09Z",
+    "lastUpdatedUtc": "2026-09-26T10:08:20Z",
     "source": "jolpica"
   },
   "nextRace": {
