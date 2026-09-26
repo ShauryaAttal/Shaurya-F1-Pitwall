@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Russell wins despite late Verstappen challenge",
-      "body": "Mercedes' George Russell holds off a late challenge from Red Bull's Max Verstappen to win an Azerbaijan Grand Prix enlivened by two late safety car periods.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss"
+      "headline": "'Mr Saturday' Russell 'comes through other side after real tough period'",
+      "body": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
+      "headline": "Russell faultless and Hadjar excellent on return - driver ratings",
+      "body": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Azerbaijan Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cq3d77zkrme8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Norris says Colapinto should be banned after accident",
@@ -17,52 +25,44 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyyd5n4yjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
-      "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Antonelli 'comes back to earth' with qualifying crash",
-      "body": "Kimi Antonelli says he is \"very mad\" about his crash in qualifying at the Azerbaijan Grand Prix, which means he will start from 16th on the grid.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqd0885k3d28o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Norris demands ban for Colapinto after Azerbaijan GP crash",
-      "body": "Reigning world champion Lando Norris thinks Franco Colapinto deserves \"at least a one-race ban\" for causing a pile-up at Formula 1's Azerbaijan Grand Prix.On a lap 36 restart in th...",
-      "url": "https://www.autosport.com/f1/news/norris-demands-ban-for-colapinto-after-azerbaijan-gp-crash/10859259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Colapinto handed Sepang penalty for causing Baku F1 pile-up",
+      "body": "Franco Colapinto has been given a five-place grid penalty for the Malaysian Grand Prix, following the pile-up he caused in today\u2019s Formula 1 race at Baku.The Azerbaijan GP was neut...",
+      "url": "https://www.autosport.com/f1/news/franco-colapinto-penalty-revealed-for-causing-baku-f1-pile-up/10859374/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "F1 Azerbaijan GP: Russell fends off Verstappen for victory; Colapinto takes out Gasly and Norris",
-      "body": "Mercedes driver George Russell has taken a dominant pole-to-flag victory at Formula 1's Azerbaijan Grand Prix, overcoming two safety cars to beat Max Verstappen and clinch his thir...",
-      "url": "https://www.autosport.com/f1/news/f1-azerbaijan-gp-russell-fends-off-verstappen-for-victory-colapinto-takes-out-gasly-and-norris/10859225/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Why Verstappen says 0.196s Baku finish-line gap to Russell is slightly misleading",
+      "body": "At the Baku City Circuit, the words Russell spoke after qualifying became reality: the Mercedes driver had already predicted on Friday that, despite starting eighth, Verstappen wou...",
+      "url": "https://www.autosport.com/f1/news/why-max-verstappen-says-0196s-baku-finish-line-gap-to-george-russell-is-slightly-misleading/10859367/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Why Verstappen feels Baku was Red Bull's best chance to win in F1 2026",
-      "body": "A problem with the internal combustion engine cost Max Verstappen a good starting position for the Formula 1 Azerbaijan Grand Prix. The four-time world champion readily acknowledge...",
-      "url": "https://www.autosport.com/f1/news/why-verstappen-feels-baku-was-red-bulls-best-chance-to-win-in-f1-2026/10859128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Briatore to reflect on necessary action after Colapinto's \"poor\" Baku blunder",
+      "body": "Alpine F1 executive Flavio Briatore has been left \"extremely disappointed\" with his team's double DNF in F1's Azerbaijan GP, criticising Franco Colapinto for \"a very poor move\" to ...",
+      "url": "https://www.autosport.com/f1/news/alpines-flavio-briatore-rips-into-franco-colapintos-baku-blunder-a-very-poor-move/10859341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Jacques Villeneuve defends Red Bull team orders call at F1 Azerbaijan GP",
-      "body": "1997 Formula 1 champion Jacques Villeneuve has backed Red Bull's Azerbaijan Grand Prix strategy.During the closing stages of the race on the demanding Baku City Circuit, Max Versta...",
-      "url": "https://www.motorsport.com/f1/news/jacques-villeneuve-defends-red-bull-team-orders-call-at-f1-azerbaijan-gp/10859283/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Liam Lawson: \u201cI don\u2019t understand\u201d why Arvid Lindblad escaped penalty after wrecking my floor",
+      "body": "Liam Lawson says he \u2018doesn\u2019t understand\u2019 Azerbaijan Grand Prix stewards took no further action against Racing Bulls team-mate Arvid Lindblad, who spun him around in today\u2019s Formula...",
+      "url": "https://www.motorsport.com/f1/news/liam-lawson-i-dont-understand-why-arvid-lindblad-escaped-penalty-after-wrecking-my-floor/10859401/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\"A big mistake\" - Devastated Franco Colapinto apologises to Pierre Gasly and Lando Norris for Baku F1 crash",
-      "body": "Alpine driver Franco Colapinto has apologised for the \"big mistake\" that saw him knock team-mate Pierre Gasly and McLaren driver Lando Norris out of F1's Azerbaijan GP.On a lap 36 ...",
-      "url": "https://www.motorsport.com/f1/news/a-big-mistake-devastated-franco-colapinto-apologises-to-pierre-gasly-and-lando-norris-for-baku-f1-c/10859264/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"Mr Horner is looking for a job\" \u2013 Frederic Vasseur claps back at Ferrari rumours",
+      "body": "Ferrari is practically Italy\u2019s second religion \u2013 so whenever it falls short of its lofty ambitions, speculation follows that its leaders are under threat.After showing considerable...",
+      "url": "https://www.motorsport.com/f1/news/mr-horner-is-looking-for-a-job-frederic-vasseur-claps-back-at-ferrari-rumours/10859397/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-26T14:41:10Z",
+    "lastUpdatedUtc": "2026-09-26T18:28:14Z",
     "source": "jolpica"
   },
   "nextRace": {
