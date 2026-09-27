@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "The detail that impressed Red Bull the most about Hadjar's F1 return",
+      "body": "After his wrist injury, Isack Hadjar certainly did not return behind the wheel of the Red Bull Racing RB22 at the easiest track on the Formula 1 calendar. The Baku City Circuit not...",
+      "url": "https://www.autosport.com/f1/news/the-one-detail-that-impresses-red-bull-most-about-isack-hadjars-outstanding-f1-return/10859537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Colapinto handed Sepang penalty for causing Baku F1 pile-up",
       "body": "Franco Colapinto has been given a five-place grid penalty for the Malaysian Grand Prix, following the pile-up he caused in today\u2019s Formula 1 race at Baku.The Azerbaijan GP was neut...",
       "url": "https://www.autosport.com/f1/news/franco-colapinto-penalty-revealed-for-causing-baku-f1-pile-up/10859374/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Verstappen says 0.196s Baku finish-line gap to Russell is slightly misleading",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-max-verstappen-says-0196s-baku-finish-line-gap-to-george-russell-is-slightly-misleading/10859367/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Briatore to reflect on necessary action after Colapinto's \"poor\" Baku blunder",
-      "body": "Alpine F1 executive Flavio Briatore has been left \"extremely disappointed\" with his team's double DNF in F1's Azerbaijan GP, criticising Franco Colapinto for \"a very poor move\" to ...",
-      "url": "https://www.autosport.com/f1/news/alpines-flavio-briatore-rips-into-franco-colapintos-baku-blunder-a-very-poor-move/10859341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Isack Hadjar earns \"team-mate points\" after \"exceptional comeback\" in Baku, says Alex Brundle",
-      "body": "Red Bull's Isack Hadjar earned crucial \"team-mate points\" following an \"exceptional comeback\" drive to third at the Azerbaijan Grand Prix, according to F1 TV pundit Alex Brundle.Re...",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-earns-team-mate-points-after-exceptional-comeback-in-baku-says-alex-brundle/10859432/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "The one detail that impresses Red Bull most about Isack Hadjar's \"outstanding\" F1 return",
+      "body": "After his wrist injury, Isack Hadjar certainly did not return behind the wheel of the Red Bull RB22 at the easiest track on the Formula 1 calendar. The Baku City Circuit not only c...",
+      "url": "https://www.motorsport.com/f1/news/the-one-detail-that-impresses-red-bull-most-about-isack-hadjars-outstanding-f1-return/10859532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Liam Lawson: \u201cI don\u2019t understand\u201d why Arvid Lindblad escaped penalty after wrecking my floor",
-      "body": "Liam Lawson says he \u2018doesn\u2019t understand\u2019 Azerbaijan Grand Prix stewards took no further action against Racing Bulls team-mate Arvid Lindblad, who spun him around in today\u2019s Formula...",
-      "url": "https://www.motorsport.com/f1/news/liam-lawson-i-dont-understand-why-arvid-lindblad-escaped-penalty-after-wrecking-my-floor/10859401/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why is the 2026 Bahrain Grand Prix taking place in Malaysia?",
+      "body": "The 2026 Bahrain Grand Prix will not take place in Bahrain, but in Malaysia. The event will be held from 2-4 October at the Sepang International Circuit near Kuala Lumpur, with the...",
+      "url": "https://www.motorsport.com/f1/news/why-is-the-2026-bahrain-grand-prix-taking-place-in-malaysia/10859526/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-27T04:57:26Z",
+    "lastUpdatedUtc": "2026-09-27T10:29:29Z",
     "source": "jolpica"
   },
   "nextRace": {
