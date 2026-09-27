@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Horner a distraction for Ferrari says Vasseur",
+      "body": "Christian Horner is proving a distraction for Ferrari by \"looking for a job\", team principal Frederic Vasseur says.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "'Mr Saturday' Russell 'comes through other side after real tough period'",
       "body": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Russell faultless and Hadjar excellent on return - driver ratings",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cq3d77zkrme8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Norris says Colapinto should be banned after accident",
-      "body": "World champion Lando Norris calls for Alpine's Franco Colapinto to be banned for causing an accident at a restart at the Azerbaijan Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyyd5n4yjo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Alpine condemns abuse again following Colapinto's Azerbaijan GP crash",
+      "body": "The Alpine Formula 1 team has again spoken out against social media abuse following Franco Colapinto\u2019s shunt in the Azerbaijan Grand Prix.Argentinian fans\u2019 behaviour has been scrut...",
+      "url": "https://www.autosport.com/f1/news/alpine-condemns-abuse-again-following-colapintos-azerbaijan-gp-crash/10859570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The detail that impressed Red Bull the most about Hadjar's F1 return",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/the-one-detail-that-impresses-red-bull-most-about-isack-hadjars-outstanding-f1-return/10859537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Colapinto handed Sepang penalty for causing Baku F1 pile-up",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/franco-colapinto-penalty-revealed-for-causing-baku-f1-pile-up/10859374/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why Verstappen says 0.196s Baku finish-line gap to Russell is slightly misleading",
-      "body": "At the Baku City Circuit, the words Russell spoke after qualifying became reality: the Mercedes driver had already predicted on Friday that, despite starting eighth, Verstappen wou...",
-      "url": "https://www.autosport.com/f1/news/why-max-verstappen-says-0196s-baku-finish-line-gap-to-george-russell-is-slightly-misleading/10859367/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "The one detail that impresses Red Bull most about Isack Hadjar's \"outstanding\" F1 return",
-      "body": "After his wrist injury, Isack Hadjar certainly did not return behind the wheel of the Red Bull RB22 at the easiest track on the Formula 1 calendar. The Baku City Circuit not only c...",
-      "url": "https://www.motorsport.com/f1/news/the-one-detail-that-impresses-red-bull-most-about-isack-hadjars-outstanding-f1-return/10859532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Alpine makes statement as Franco Colapinto-related abuse accelerates",
+      "body": "The Alpine Formula 1 team has again spoken out against social media abuse following Franco Colapinto\u2019s shunt in the Azerbaijan Grand Prix.Argentinian fans\u2019 behaviour has been scrut...",
+      "url": "https://www.motorsport.com/f1/news/alpine-makes-statement-as-franco-colapinto-related-abuse-accelerates/10859568/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Why is the 2026 Bahrain Grand Prix taking place in Malaysia?",
-      "body": "The 2026 Bahrain Grand Prix will not take place in Bahrain, but in Malaysia. The event will be held from 2-4 October at the Sepang International Circuit near Kuala Lumpur, with the...",
-      "url": "https://www.motorsport.com/f1/news/why-is-the-2026-bahrain-grand-prix-taking-place-in-malaysia/10859526/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Charles Leclerc: \u201cMcLaren and Red Bull did a step forward that we didn\u2019t do\u201d",
+      "body": "Red Bull now has a clear advantage over Ferrari in terms of chassis performance, with McLaren having also markedly improved, Charles Leclerc believes following the Formula 1 Azerba...",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-mclaren-and-red-bull-did-a-step-forward-that-we-didnt-do/10859495/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-09-27T10:29:29Z",
+    "lastUpdatedUtc": "2026-09-27T15:16:12Z",
     "source": "jolpica"
   },
   "nextRace": {
