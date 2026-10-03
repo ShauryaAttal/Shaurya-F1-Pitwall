@@ -20,12 +20,20 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Russell says Red Bull strongest after Bahrain practice",
-      "body": "Red Bull are tipped by George Russell and Charles Leclerc as the team to beat after the first day at the Bahrain Grand Prix in Malaysia.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckm2q2346zz9o?at_medium=RSS&at_campaign=rss"
+      "headline": "F1: Chequered Flag",
+      "body": "Will we get a repeat of Verstappen & Hamilton\u2019s epic 2021 battle into turn one at Sepang?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pdtkv9?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Why Malaysia would be the perfect place for F1\u2019s first wet-weather race in 2026",
+      "body": "While Formula 1 has already reached the 16th round of the 2026 season, fans have still not been treated to a wet-weather race under the new regulations \u2013 or even a wet session. Rai...",
+      "url": "https://www.autosport.com/f1/news/why-malaysia-would-be-the-best-place-for-f1s-first-wet-weather-race-in-2026/10861397/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "\"The FIA needs to step in\" - Russell's cooling vest comments explained",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/whats-actually-going-on-with-george-russells-fia-cooling-vest-complaints/10861569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "McLaren explains recurring Norris straightline speed issue after Bahrain GP qualifying",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/mclaren-explains-recurring-norris-straightline-speed-issue-after-bahrain-gp-qualifying/10861561/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "From \"paper car\" to pole \u2013 What changed for Verstappen and Red Bull?",
-      "body": "It is less than a month since Max Verstappen qualified sixth at Monza and afterwards spoke about a Red Bull car \"made of paper\". Admittedly, that comment specifically concerned the...",
-      "url": "https://www.autosport.com/f1/news/from-paper-car-to-pole-what-changed-for-verstappen-and-red-bull/10861532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "What's actually going on with George Russell's FIA cooling vest complaints",
-      "body": "Mercedes Formula 1 driver George Russell caused a stir in some quarters by appearing to suggest the FIA should protect teams against themselves by ensuring cooling vests are common...",
-      "url": "https://www.motorsport.com/f1/news/whats-actually-going-on-with-george-russells-fia-cooling-vest-complaints/10861562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why Malaysia would be the best place for F1\u2019s first wet-weather race in 2026",
+      "body": "While Formula 1 has already reached the 16th round of the 2026 season, fans have still not been treated to a wet-weather race under the new regulations \u2013 or even a wet session. Rai...",
+      "url": "https://www.motorsport.com/f1/news/why-malaysia-would-be-the-best-place-for-f1s-first-wet-weather-race-in-2026/10861394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Kimi Antonelli\u2019s priceless reaction after learning he will start Bahrain GP P3",
-      "body": "Qualifying wasn't easy for Kimi Antonelli as he struggled to extract the level of performance he's got used to from his Mercedes machinery. Finishing five-tenths off polesitter Max...",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonellis-priceless-reaction-after-learning-he-will-start-bahrain-gp-p3/10861564/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen reveals Valentino Rossi wish ahead of Portimao GT3 season finale",
+      "body": "Four-time Formula 1 champion Max Verstappen says he hopes to avoid an on-track battle with Valentino Rossi when the pair share the GT3 starting grid for the first time at Portimao....",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-valentino-rossi-wish-ahead-of-portimao-gt3-season-finale/10861597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-03T13:40:15Z",
+    "lastUpdatedUtc": "2026-10-03T17:53:38Z",
     "source": "jolpica"
   },
   "nextRace": {
