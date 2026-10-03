@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "F1 Bahrain GP in Malaysia: Antonelli recovers from tough Friday to top FP3",
+      "body": "Kimi Antonelli topped final practice at the Bahrain Grand Prix in Malaysia to recover from a disappointing Friday for the championship-leading Mercedes outfit.The Silver Arrows bro...",
+      "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-antonelli-recovers-from-tough-friday-to-top-fp3/10861282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Why Verstappen\u2019s unusual run plan highlights F1 teams\u2019 biggest challenge in Malaysia",
       "body": "Friday practice for the Formula 1 Bahrain Grand Prix in Malaysia was atypical in several respects. Lap times turned out to be four and a half seconds slower than expected due to th...",
       "url": "https://www.autosport.com/f1/news/max-verstappens-unusual-run-plan-and-f1-teams-biggest-challenge-in-malaysia-explained/10861106/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Verstappen and Hadjar urge Red Bull to \"make all the mistakes now\" for 2027",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-verstappen-and-hadjar-urge-red-bull-to-make-all-the-mistakes-now-for-2027/10860977/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Bahrain GP in Malaysia: Leclerc tops FP2 with Mercedes seventh and eighth",
-      "body": "Charles Leclerc went fastest in second practice for the Bahrain Grand Prix in Malaysia as the high threat of rain didn\u2019t come to fruition during the Formula 1 outing. The Ferrari d...",
-      "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-leclerc-tops-fp2-with-mercedes-seventh-and-eighth/10860924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton's custom Monza outfit revealed after iconic Ferrari F40 photoshoot",
-      "body": "Details about the outfit Lewis Hamilton wore during his iconic arrival at the Italian Grand Prix in September have been revealed.The seven-time champion immediately turned heads at...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-custom-monza-outfit-revealed-after-iconic-ferrari-f40-photoshoot/10861185/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lewis Hamilton's $2.2million watch leads incredible F1 grid collection in Malaysia",
+      "body": "As Formula 1 descends on Malaysia for the Bahrain Grand Prix this Saturday, the grid's watch game was on full display. Richard Mille, TAG Heuer, IWC, Tudor, Audemars Piguet, Breitl...",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-22million-watch-leads-incredible-f1-grid-collection-in-malaysia/10861333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton goes viral with Fernando Alonso verdict as fans hail \"legend\"",
-      "body": "Seven-time Formula 1 champion Lewis Hamilton has drawn widespread praise across social media for his comments about Fernando Alonso's contract extension with Aston Martin.Ahead of ...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-with-fernando-alonso-verdict-as-fans-hail-legend/10861182/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lewis Hamilton reflects on treasured Roscoe and Coco memory",
+      "body": "Seven-time Formula 1 champion Lewis Hamilton says a secluded trip to the mountains with his dogs Roscoe and Coco during the COVID-19 pandemic is the single day of his life he would...",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-reflects-on-treasured-roscoe-and-coco-memory/10861346/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-03T02:15:55Z",
+    "lastUpdatedUtc": "2026-10-03T08:29:46Z",
     "source": "jolpica"
   },
   "nextRace": {
