@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Verstappen wins in Malaysia after long delays as Russell retires",
+      "body": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "'Incredible' Red Bull upgrade enlivens F1 in 'roasting hot' Malaysia",
       "body": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Verstappen takes first 2026 pole ahead of Hamilton",
@@ -17,52 +25,44 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cm1j3l9867jwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
-      "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "F1: Chequered Flag",
-      "body": "Will we get a repeat of Verstappen & Hamilton\u2019s epic 2021 battle into turn one at Sepang?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pdtkv9?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Why Malaysia would be the perfect place for F1\u2019s first wet-weather race in 2026",
-      "body": "While Formula 1 has already reached the 16th round of the 2026 season, fans have still not been treated to a wet-weather race under the new regulations \u2013 or even a wet session. Rai...",
-      "url": "https://www.autosport.com/f1/news/why-malaysia-would-be-the-best-place-for-f1s-first-wet-weather-race-in-2026/10861397/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "F1 Bahrain GP in Malaysia: Verstappen wins chaotic race from Antonelli as Russell retires late on",
+      "body": "Red Bull\u2019s Max Verstappen won a disorderly Formula 1 Bahrain Grand Prix in Malaysia, clinching his first victory of the season, as George Russell\u2019s title hopes dwindled further wit...",
+      "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-report/10861849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "\"The FIA needs to step in\" - Russell's cooling vest comments explained",
-      "body": "Mercedes Formula 1 driver George Russell caused a stir in some quarters by appearing to suggest the FIA should protect teams against themselves by ensuring cooling vests are common...",
-      "url": "https://www.autosport.com/f1/news/whats-actually-going-on-with-george-russells-fia-cooling-vest-complaints/10861569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "F1 Bahrain GP in Malaysia descends into chaos as car trouble prompts red flag",
+      "body": "The Formula 1 Bahrain Grand Prix in Malaysia has been red-flagged after several cars suffered power unit gremlins during a wet set of formation laps.After a heavy tropical thunders...",
+      "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-descends-into-chaos-as-car-trouble-prompts-red-flag/10861807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "McLaren explains recurring Norris straightline speed issue after Bahrain GP qualifying",
-      "body": "McLaren team principal Andrea Stella has clarified the issues with Lando Norris' current Mercedes power unit, as the reigning champion rued the lack of straightline speed in Formul...",
-      "url": "https://www.autosport.com/f1/news/mclaren-explains-recurring-norris-straightline-speed-issue-after-bahrain-gp-qualifying/10861561/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "F1 Bahrain GP in Malaysia start delayed as thunderstorms hit Sepang",
+      "body": "The start of Formula 1's Bahrain Grand Prix in Malaysia has been delayed due to heaving thunderstorms hitting the Sepang circuit.As teams formed on the starting grid for the pre-ra...",
+      "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-start-delayed-as-thunderstorms-hit-sepang/10861780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Why Malaysia would be the best place for F1\u2019s first wet-weather race in 2026",
-      "body": "While Formula 1 has already reached the 16th round of the 2026 season, fans have still not been treated to a wet-weather race under the new regulations \u2013 or even a wet session. Rai...",
-      "url": "https://www.motorsport.com/f1/news/why-malaysia-would-be-the-best-place-for-f1s-first-wet-weather-race-in-2026/10861394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen explains \"hectic\" Bahrain GP start after first Red Bull win of 2026",
+      "body": "Four-time Formula 1 champion Max Verstappen has opened up about the \"very hectic\" start to the Bahrain Grand Prix in Malaysia, revealing that a temporary loss of power derailed his...",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-explains-hectic-bahrain-gp-start-after-first-red-bull-win-of-2026/10861881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen reveals Valentino Rossi wish ahead of Portimao GT3 season finale",
-      "body": "Four-time Formula 1 champion Max Verstappen says he hopes to avoid an on-track battle with Valentino Rossi when the pair share the GT3 starting grid for the first time at Portimao....",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-valentino-rossi-wish-ahead-of-portimao-gt3-season-finale/10861597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 Bahrain GP in Malaysia: Max Verstappen wins in chaos as George Russell retires",
+      "body": "Red Bull\u2019s Max Verstappen won a disorderly Formula 1 Bahrain Grand Prix in Malaysia, clinching his first victory of the season, as George Russell\u2019s title hopes dwindled further.Aft...",
+      "url": "https://www.motorsport.com/f1/news/f1-bahrain-gp-in-malaysia-report/10861843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-04T05:29:21Z",
+    "lastUpdatedUtc": "2026-10-04T11:15:22Z",
     "source": "jolpica"
   },
   "nextRace": {
