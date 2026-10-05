@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Honda HRC to get new boss with Watanabe set to retire",
+      "body": "Koji Watanabe, the long-time boss of Honda's racing activities under HRC, will retire on 1 January 2027, with Keiichi Yasuda appointed as his successor.A long-time Honda employee a...",
+      "url": "https://www.autosport.com/f1/news/honda-hrc-to-get-new-boss-with-koji-watanabe-set-for-retirement/10862195/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "How FIA software bug caused chaos in Bahrain GP in Malaysia \u2013 and the emergency fix that saved the race",
       "body": "The start of the first wet-weather race of the 2026 Formula 1 season descended into chaos. Leader Max Verstappen was the first to suffer from a lack of power while driving slowly d...",
       "url": "https://www.autosport.com/f1/news/how-fia-software-bug-caused-chaos-in-bahrain-gp-in-malaysia-and-the-emergency-fix-that-saved-the-ra/10861989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The slick tyre gamble that hurt McLaren and Ferrari's chances in Bahrain GP in Malaysia",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/the-slick-tyre-gamble-that-hurt-mclaren-and-ferraris-bahrain-f1-chances/10861972/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "FIA explains software glitch that caused Bahrain GP in Malaysia race delay",
-      "body": "The FIA has given insight into why Formula 1 cars experienced technical issues ahead of Sunday\u2019s Bahrain Grand Prix in Malaysia.The start of the Sepang race was delayed by 40 minut...",
-      "url": "https://www.autosport.com/f1/news/fia-explains-software-glitch-that-caused-bahrain-gp-in-malaysia-race-delay/10861956/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Why Toto Wolff\u2019s $102,000 IWC watch can survive almost anything",
-      "body": "Toto Wolff has built up quite the reputation. He's a commanding character who oozes respect, class and swagger, and has a proven history in finance and the business of motorsport. ...",
-      "url": "https://www.motorsport.com/f1/news/why-toto-wolffs-102000-iwc-watch-can-survive-almost-anything/10861857/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Honda HRC to get new boss with Koji Watanabe set for retirement",
+      "body": "Koji Watanabe, the long-time boss of Honda's racing activities under HRC, will retire on 1 January 2027, with Keiichi Yasuda appointed as his successor.A long-time Honda employee a...",
+      "url": "https://www.motorsport.com/f1/news/honda-hrc-to-get-new-boss-with-koji-watanabe-set-for-retirement/10862191/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Emerson Fittipaldi on Jochen Rindt\u2019s death and how he became Team Lotus\u2019 F1 leader",
-      "body": "Back in 1970, Brazil had never had a successful Formula 1 driver, but a 23-year-old named Emerson Fittipaldi was starting to make waves.After winning the Formula Vee title in his c...",
-      "url": "https://www.motorsport.com/f1/news/emerson-fittipaldi-jochen-rindt-death-team-lotus-leader/10861073/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Who slept best last night: Christian Horner",
+      "body": "Max Verstappen's victory at Sepang was an historic one. Twenty years from now, when a new generation of Formula 1 fans flicks through the history books, they may well wonder what a...",
+      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-christian-horner/10862143/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-05T01:49:23Z",
+    "lastUpdatedUtc": "2026-10-05T08:47:18Z",
     "source": "jolpica"
   },
   "nextRace": {
