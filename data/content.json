@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Russell to take grid penalty in Singapore due to Sepang retirement",
+      "body": "George Russell is set to receive a grid penalty for this weekend\u2019s Formula 1 Singapore Grand Prix as a consequence of his retirement in Sepang last weekend.The Mercedes driver was ...",
+      "url": "https://www.autosport.com/f1/news/russell-to-take-grid-penalty-in-singapore-due-to-sepang-retirement/10862556/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "What caused Mercedes' pace deficit at Sepang despite upgraded W17?",
       "body": "Mercedes' performance at Formula 1's Bahrain Grand Prix in Malaysia will require further investigation as the conditions around the Sepang circuit made it difficult for the team to...",
       "url": "https://www.autosport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The dire consequence of Russell's Bahrain GP in Malaysia retirement",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/the-added-consequence-of-george-russells-retirement-in-malaysia/10862235/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Honda HRC to get new boss with Watanabe set to retire",
-      "body": "Koji Watanabe, the long-time boss of Honda's racing activities under HRC, will retire on 1 January 2027, with Keiichi Yasuda appointed as his successor.A long-time Honda employee a...",
-      "url": "https://www.autosport.com/f1/news/honda-hrc-to-get-new-boss-with-koji-watanabe-set-for-retirement/10862195/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton reveals full Ferrari F40 restoration in new video",
-      "body": "Lewis Hamilton has released the full video of his Ferrari F40 restoration on YouTube after the seven-time Formula 1 champion revealed the car ahead of the Italian Grand Prix earlie...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-full-ferrari-f40-restoration-in-new-video/10862512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 fashion goes local as Ferrari, McLaren and Mercedes celebrate Singapore",
+      "body": "Formula 1 merchandise has tended to evolve slowly as it keeps up with team colours, sponsors and other branding. But more recently, fashion has become a large part of the champions...",
+      "url": "https://www.motorsport.com/f1/news/f1-fashion-goes-local-as-ferrari-mclaren-and-mercedes-celebrate-singapore/10862577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Charles Leclerc: Ferrari must learn from Red Bull to improve F1 race strategy",
-      "body": "Charles Leclerc has challenged Ferrari to learn from Red Bull to improve its Formula 1 race strategies after an unsuccessful tyre gamble at the Bahrain Grand Prix in Malaysia.The F...",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-ferrari-must-learn-from-red-bull-to-improve-f1-race-strategy/10862266/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Fernando Alonso builds his dream F1 circuit but Sergio Perez spots one major problem",
+      "body": "If you were given the power to stitch together the greatest corners of global motorsport to create the ultimate Formula 1 track, what would you choose?During a recent stage appeara...",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-just-revealed-his-dream-f1-track-but-one-brutal-reality-would-ruin-it/10862446/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-06T14:04:50Z",
+    "lastUpdatedUtc": "2026-10-06T19:45:29Z",
     "source": "jolpica"
   },
   "nextRace": {
