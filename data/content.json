@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Russell to start from back of Singapore grid after penalty",
+      "body": "Britain's George Russell will start from the back of the grid in Sunday's Singapore Grand Prix because of a power-unit penalty from last weekend's race.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm0qkdk37gy0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Wet races and why future of F1 engines appears to be V8 turbos - Q&A",
       "body": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Bahrain Grand Prix in Malaysia.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "F1 needs to have hard look at itself - Sainz",
@@ -17,15 +25,23 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Bottas cycling from Malaysia to Singapore Grand Prix",
-      "body": "Cadillac driver Valtteri Bottas switches four wheels for two and opts to travel to the Singapore Grand Prix by bike.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cv2d6p9en7wdo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Inside Alonso's decision to contest the 2027 Dakar Rally with Aston Martin",
+      "body": "Great speculation has accompanied Fernando Alonso in recent months as he held back on confirming his future in Formula 1. Now it appears that not only has he been able to agree fav...",
+      "url": "https://www.autosport.com/dakar/news/inside-alonsos-decision-to-contest-dakar-rally-with-aston-martin/10862720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Mercedes confirms Russell's Singapore GP grid penalty following Sepang retirement",
+      "body": "Mercedes has now confirmed that George Russell will take a grid penalty at this weekend\u2019s Formula 1 Singapore Grand Prix following his retirement in Malaysia.The Mercedes driver wa...",
+      "url": "https://www.autosport.com/f1/news/russell-suffers-grid-penalty-for-singapore-gp/10862656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Russell to take grid penalty in Singapore due to Sepang retirement",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/russell-to-take-grid-penalty-in-singapore-due-to-sepang-retirement/10862556/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "What caused Mercedes' pace deficit at Sepang despite upgraded W17?",
-      "body": "Mercedes' performance at Formula 1's Bahrain Grand Prix in Malaysia will require further investigation as the conditions around the Sepang circuit made it difficult for the team to...",
-      "url": "https://www.autosport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "The dire consequence of Russell's Bahrain GP in Malaysia retirement",
-      "body": "George Russell\u2019s retirement from the Bahrain Grand Prix in Malaysia will have huge consequences on the rest of his 2026 Formula 1 campaign - especially in regards to ADUO.The Merce...",
-      "url": "https://www.autosport.com/f1/news/the-added-consequence-of-george-russells-retirement-in-malaysia/10862235/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Naomi Schiff raises Mercedes concern that 'could cost Kimi Antonelli more victories'",
-      "body": "Sky Sports Formula 1 pundit and former W Series driver Naomi Schiff has warned that ongoing power unit issues at Mercedes could cost Kimi Antonelli race wins and threaten his champ...",
-      "url": "https://www.motorsport.com/f1/news/naomi-schiff-raises-mercedes-concern-that-could-cost-kimi-antonelli-more-victories/10862602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Fernando Alonso set for Dakar Rally comeback with Aston Martin",
+      "body": "Great speculation has accompanied Fernando Alonso in recent months as he held back on confirming his future in Formula 1. Now it appears that not only has he been able to agree fav...",
+      "url": "https://www.motorsport.com/dakar/news/fernando-alonso-to-contest-dakar-rally-with-aston-martin/10862699/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "2026 Singapore Grand Prix: Guide to schedule, driver meet-ups, and race week parties",
-      "body": "Singapore in October means the floodlights are being illuminated at Marina Bay for Formula 1, and this year the city is pushing hard to give fans everything they need to have an un...",
-      "url": "https://www.motorsport.com/f1/news/2026-singapore-grand-prix-guide-to-schedule-driver-meet-ups-and-race-week-parties/10862599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Helmut Marko backs Ralf Schumacher\u2019s 'absolute lie' comment on Christian Horner",
+      "body": "Christian Horner's upcoming autobiography, Drive, is already causing massive shockwaves ahead of its 22 October release. The former Red Bull Racing team principal, who departed the...",
+      "url": "https://www.motorsport.com/f1/news/marko-backs-ralf-schumachers-absolute-lie-response-to-christian-horners-claim/10862687/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-07T05:31:57Z",
+    "lastUpdatedUtc": "2026-10-07T13:05:56Z",
     "source": "jolpica"
   },
   "nextRace": {
