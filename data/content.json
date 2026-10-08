@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Russell to take further grid penalty this season",
+      "body": "George Russell says he will be taking a further grid penalty this season in addition to the one he has been hit with for the Singapore Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6y8lyj1pemko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "F1 heat hazard declared for fourth time this season",
       "body": "The Singapore Grand Prix is declared a heat-hazard race, the second weekend in a row that the designation has been used in Formula 1.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cm5yng71qpngo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Snakes and jungle mind games as F1's Bottas cycles to Singapore GP",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cjr4yr3lv24lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "How to follow Singapore Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the Singapore Grand Prix, the sixth and final sprint event of the season, which takes place from 9-11 October.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2d6p4e3y93o?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "McLaren targets Norris\u2019 costly fuel system issue with Singapore F1 power unit fixes",
+      "body": "The McLaren F1 team has made a number of peripheral changes to Lando Norris' Mercedes power unit in a bid to eradicate a persistent fuel system problem.McLaren was left significant...",
+      "url": "https://www.autosport.com/f1/news/mclaren-targets-lando-norris-costly-fuel-system-issue-with-singapore-f1-power-unit-fixes/10863087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Audi F1 drivers reveal biggest engine limitation \u2013 and why they\u2019re not worried",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/they-built-the-best-engines-audi-f1-drivers-reveal-biggest-limitation-and-how-to-address-it/10863056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "FIA completes investigation into F1 chaos in Malaysia and announces measures",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/fia-completes-investigation-into-f1-chaos-in-malaysia-and-reveals-next-steps/10862890/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Inside Alonso's decision to contest the 2027 Dakar Rally with Aston Martin",
-      "body": "Great speculation has accompanied Fernando Alonso in recent months as he held back on confirming his future in Formula 1. Now it appears that not only has he been able to agree fav...",
-      "url": "https://www.autosport.com/dakar/news/inside-alonsos-decision-to-contest-dakar-rally-with-aston-martin/10862720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\u201cThey built the best engines\u201d \u2013 Audi F1 drivers reveal biggest limitation and how to address it",
-      "body": "In theory, the Marina Bay Street Circuit in Singapore should suit Audi well. The team led by Allan McNish would normally benefit from tracks on the Formula 1 calendar that are slig...",
-      "url": "https://www.motorsport.com/f1/news/they-built-the-best-engines-audi-f1-drivers-reveal-biggest-limitation-and-how-to-address-it/10863053/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Guenther Steiner calls out Ferrari for refusing to admit F1 strategy mistakes",
+      "body": "Former Haas Formula 1 team principal Guenther Steiner believes Ferrari's reluctance to acknowledge errors is actively damaging its on-track performance.Speaking on The Red Flags Po...",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-calls-out-ferrari-for-refusing-to-admit-f1-strategy-mistakes/10863139/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell: \"No-brainer\" to run previous car as Mercedes splits specifications for Singapore",
-      "body": "Mercedes will run its W17 Formula 1 car in split specifications for the Singapore Grand Prix, with Kimi Antonelli primed to run its Sepang updates once more as George Russell switc...",
-      "url": "https://www.motorsport.com/f1/news/russell-no-brainer-to-run-previous-car-as-mercedes-splits-specifications-for-singapore/10863042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\u201cAm I confident? Probably not\u201d \u2013 The unprecedented challenge Singapore is throwing at F1 drivers",
+      "body": "The 2026 Singapore Grand Prix is upon us, and it will be a little different to the previous 16 editions of that Formula 1 race.For the first time, the Marina Bay Street Circuit wil...",
+      "url": "https://www.motorsport.com/f1/news/am-i-confident-probably-not-the-unprecedented-challenge-singapore-is-throwing-at-f1-drivers/10863111/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-08T13:13:13Z",
+    "lastUpdatedUtc": "2026-10-08T19:22:55Z",
     "source": "jolpica"
   },
   "nextRace": {
