@@ -4,28 +4,44 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Russell to start from back of Singapore grid after penalty",
-      "body": "Britain's George Russell will start from the back of the grid in Sunday's Singapore Grand Prix because of a power-unit penalty from last weekend's race.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm0qkdk37gy0o?at_medium=RSS&at_campaign=rss"
+      "headline": "F1 heat hazard declared for fourth time this season",
+      "body": "The Singapore Grand Prix is declared a heat-hazard race, the second weekend in a row that the designation has been used in Formula 1.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm5yng71qpngo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Wet races and why future of F1 engines appears to be V8 turbos - Q&A",
-      "body": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Bahrain Grand Prix in Malaysia.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o?at_medium=RSS&at_campaign=rss"
+      "headline": "Snakes and jungle mind games as F1's Bottas cycles to Singapore GP",
+      "body": "Cadillac driver Valtteri Bottas says he was chased by dogs, saw snakes and leapt over a lizard as he cycled from Malaysia to Singapore for this weekend's Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cjr4yr3lv24lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "F1 needs to have hard look at itself - Sainz",
-      "body": "F1 \"needs to have a hard look at\" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss"
+      "headline": "How to follow Singapore Grand Prix on the BBC",
+      "body": "All the key BBC coverage details for the Singapore Grand Prix, the sixth and final sprint event of the season, which takes place from 9-11 October.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2d6p4e3y93o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Audi F1 drivers reveal biggest engine limitation \u2013 and why they\u2019re not worried",
+      "body": "In theory, the Marina Bay Street Circuit in Singapore should suit Audi well. The team led by Allan McNish would normally benefit from tracks on the Formula 1 calendar that are slig...",
+      "url": "https://www.autosport.com/f1/news/they-built-the-best-engines-audi-f1-drivers-reveal-biggest-limitation-and-how-to-address-it/10863056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "FIA completes investigation into F1 chaos in Malaysia and announces measures",
+      "body": "Ahead of the Singapore Grand Prix, the FIA has issued a statement following the events at Sepang. The opening phase of the Bahrain Grand Prix in Malaysia descended into chaos when ...",
+      "url": "https://www.autosport.com/f1/news/fia-completes-investigation-into-f1-chaos-in-malaysia-and-reveals-next-steps/10862890/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Inside Alonso's decision to contest the 2027 Dakar Rally with Aston Martin",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/dakar/news/inside-alonsos-decision-to-contest-dakar-rally-with-aston-martin/10862720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Mercedes confirms Russell's Singapore GP grid penalty following Sepang retirement",
-      "body": "Mercedes has now confirmed that George Russell will take a grid penalty at this weekend\u2019s Formula 1 Singapore Grand Prix following his retirement in Malaysia.The Mercedes driver wa...",
-      "url": "https://www.autosport.com/f1/news/russell-suffers-grid-penalty-for-singapore-gp/10862656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Russell to take grid penalty in Singapore due to Sepang retirement",
-      "body": "George Russell is set to receive a grid penalty for this weekend\u2019s Formula 1 Singapore Grand Prix as a consequence of his retirement in Sepang last weekend.The Mercedes driver was ...",
-      "url": "https://www.autosport.com/f1/news/russell-to-take-grid-penalty-in-singapore-due-to-sepang-retirement/10862556/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Apple TV announces major F1 broadcast upgrade for United States Grand Prix",
-      "body": "Formula 1 is about to become a little bit louder in the best way. Dolby Laboratories and Apple have announced that, from the United States Grand Prix race weekend that stars on the...",
-      "url": "https://www.motorsport.com/f1/news/apple-tv-announces-major-f1-broadcast-upgrade-for-united-states-grand-prix/10862810/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\u201cThey built the best engines\u201d \u2013 Audi F1 drivers reveal biggest limitation and how to address it",
+      "body": "In theory, the Marina Bay Street Circuit in Singapore should suit Audi well. The team led by Allan McNish would normally benefit from tracks on the Formula 1 calendar that are slig...",
+      "url": "https://www.motorsport.com/f1/news/they-built-the-best-engines-audi-f1-drivers-reveal-biggest-limitation-and-how-to-address-it/10863053/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "McLaren CEO drops major update on Gianpiero Lambiase's Red Bull exit",
-      "body": "If McLaren Racing CEO Zak Brown is to be believed, Red Bull's Gianpiero Lambiase may be leaving the papaya team for Milton Keynes as soon as 2027. The American told Sky Sports that...",
-      "url": "https://www.motorsport.com/f1/news/mclaren-ceo-drops-major-update-on-gianpiero-lambiases-red-bull-exit/10862808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "George Russell: \"No-brainer\" to run previous car as Mercedes splits specifications for Singapore",
+      "body": "Mercedes will run its W17 Formula 1 car in split specifications for the Singapore Grand Prix, with Kimi Antonelli primed to run its Sepang updates once more as George Russell switc...",
+      "url": "https://www.motorsport.com/f1/news/russell-no-brainer-to-run-previous-car-as-mercedes-splits-specifications-for-singapore/10863042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-08T05:40:08Z",
+    "lastUpdatedUtc": "2026-10-08T13:13:13Z",
     "source": "jolpica"
   },
   "nextRace": {
