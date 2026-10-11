@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Verstappen dominates for first Singapore Grand Prix win",
+      "body": "Red Bull's Max Verstappen secures his first win in the Singapore Grand Prix, ahead of Charles Leclerc and Kimi Antonelli.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Verstappen building major momentum as 'no-one very happy' at McLaren",
       "body": "Max Verstappen's revival might not be a serious issue for Kimi Antonelli but it is for McLaren, who had a bad Saturday in Singapore, writes Andrew Benson.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cmn4ezn5ep3jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Verstappen beats Ferraris to Singapore pole",
@@ -17,52 +25,44 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
-      "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Verstappen wins sprint after Russell crashes out",
-      "body": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "FIA admits fairness was compromised in Singapore GP sprint qualifying \u201cmess\u201d",
-      "body": "The FIA has again owned up to its human error at Formula 1\u2019s Singapore Grand Prix, with its single-seater director Nikolas Tombazis describing it as \u201cthe worst thing\u201d for the feder...",
-      "url": "https://www.autosport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "How can Antonelli become F1 world champion at US GP?",
+      "body": "It has been very clear from early on that Kimi Antonelli will become Formula 1 world champion in 2026 after an impressively dominant year for the Mercedes driver.The 20-year-old ha...",
+      "url": "https://www.autosport.com/f1/news/how-can-antonelli-become-f1-world-champion-at-us-gp/10864377/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Why McLaren considers Norris-Piastri Singapore clash so \u201cserious\u201d",
-      "body": "If you thought you'd never have to hear the term \"Papaya Rules\" again now that McLaren is no longer F1's dominant team, a new flashpoint over the 2026 Singapore Grand Prix weekend ...",
-      "url": "https://www.autosport.com/f1/news/whats-so-serious-for-mclaren-about-the-norris-piastri-singapore-collision/10864087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Hamilton takes blame for poor Singapore GP strategy call",
+      "body": "Lewis Hamilton has taken responsibility for his strategy in Formula 1\u2019s Singapore Grand Prix, after a decision not to pit under a virtual safety car cost him dear.The VSC was calle...",
+      "url": "https://www.autosport.com/f1/news/lewis-hamilton-takes-blame-for-poor-singapore-gp-strategy/10864343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "What Verstappen will change after Red Bull\u2019s poor F1 starts in Malaysia and Singapore",
-      "body": "The Singapore weekend is one of milestones for Verstappen. The Dutchman is contesting his 250th Formula 1 Grand Prix this weekend and has claimed his 50th pole position in the proc...",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-hints-at-change-after-red-bulls-poor-f1-starts-in-malaysia-and-singapore/10864060/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "F1 Singapore GP: Verstappen takes comfortable victory from Leclerc and Antonelli",
+      "body": "Max Verstappen won Formula 1\u2019s Singapore Grand Prix for the very first time on Sunday, leading Charles Leclerc and Kimi Antonelli under the chequered flag.Verstappen\u2019s withstood an...",
+      "url": "https://www.autosport.com/f1/news/f1-singapore-gp-report/10864312/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Isack Hadjar \"pissed off\" after mechanical problems strike at Singapore GP",
-      "body": "Isack Hadjar was left \u201cpissed off\u201d after various mechanical problems disrupted his Saturday at the Singapore Grand Prix - leaving him with a back row start for Sunday\u2019s Formula 1 r...",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-pissed-off-after-mechanical-problems-strike-at-singapore-gp/10864184/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lewis Hamilton sent to FIA medical team after grueling Singapore Grand Prix",
+      "body": "Following a punishing 62-lap battle under the extreme heat and humidity of the Marina Bay Street Circuit, Scuderia Ferrari driver Lewis Hamilton was completely absent from the mand...",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-rushed-to-fia-medical-team-after-grueling-singapore-grand-prix/10864385/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "FIA admits fairness was compromised in Singapore F1 sprint qualifying \u201cmess\u201d",
-      "body": "The FIA has again owned up to its human error at Formula 1\u2019s Singapore Grand Prix, with its single-seater director Nikolas Tombazis describing it as \u201cthe worst thing\u201d for the feder...",
-      "url": "https://www.motorsport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "How can Kimi Antonelli become world champion at F1 US GP?",
+      "body": "It has been very clear from early on that Kimi Antonelli will become Formula 1 world champion in 2026 after an impressively dominant year for the Mercedes driver.The 20-year-old ha...",
+      "url": "https://www.motorsport.com/f1/news/how-can-kimi-antonelli-become-world-champion-at-f1-us-gp/10864359/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-11T09:13:30Z",
+    "lastUpdatedUtc": "2026-10-11T15:54:19Z",
     "source": "jolpica"
   },
   "nextRace": {
