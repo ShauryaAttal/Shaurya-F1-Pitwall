@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "The not-so-obvious chance Leclerc missed to usurp Verstappen",
+      "body": "When Charles Leclerc had a better start than Max Verstappen and claimed the inside line for Turn 1, many in the media centre thought the Monegasque should have held his ground to t...",
+      "url": "https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "The hidden factor that gives Verstappen and Red Bull extra hope for 2027",
       "body": "With two victories in the last three Grands Prix and a deficit of just 0.196 seconds in Baku, Verstappen and Red Bull are firmly back at the front in Formula 1. The resurgence has ...",
       "url": "https://www.autosport.com/f1/news/the-hidden-factor-that-gives-max-verstappen-and-red-bull-extra-hope-for-2027/10864679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Antonelli avoided a penalty despite four track limits incidents in Singapore GP",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-antonelli-avoided-a-penalty-despite-four-track-limits-incidents-in-singapore-gp/10864591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Verstappen jokes about coded messages as Red Bull phases in Lambiase\u2019s successor",
-      "body": "There were still two races on the current Formula 1 calendar missing from Max Verstappen's list of victories: the Madring and the Marina Bay Street Circuit. Given that F1 only visi...",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-jokes-about-coded-messages-as-red-bull-plans-first-races-for-gianpiero-lambiases-suc/10864455/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\u2018I\u2019ll put a pillow under his butt\u2019 \u2013 How Toto Wolff wants to solve Kimi Antonelli\u2019s track limits problem",
-      "body": "Mercedes Formula 1 team principal Toto Wolff has joked Kimi Antonelli needs \u201ca pillow under his butt\u201d to better see the white lines on track, following the Singapore Grand Prix.In ...",
-      "url": "https://www.motorsport.com/f1/news/ill-put-a-pillow-under-his-butt-how-toto-wolff-wants-to-solve-kimi-antonellis-track-limits-problem/10864563/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lewis Hamilton sends message to fans after Singapore GP mistake",
+      "body": "Lewis Hamilton spent his time following the difficult Singapore Grand Prix pointing his finger not at his team, but at himself. The Ferrari driver finished sixth at the Marina Bay ...",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-sends-message-to-fans-after-singapore-gp-mistake/10864782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "How Kimi Antonelli escaped a Singapore GP track limits penalty despite four violations",
-      "body": "Following the chequered flag at the 2026 Singapore Grand Prix, Formula 1 fans and paddock observers were left deeply divided when official timing graphics confirmed that championsh...",
-      "url": "https://www.motorsport.com/f1/news/why-kimi-antonelli-escaped-a-singapore-gp-track-limits-penalty-despite-four-violations/10864634/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Oscar Piastri on his Singapore puncture: \u201cIronically, it probably helped\u201d",
+      "body": "Oscar Piastri believes his Singapore Grand Prix puncture actually helped him overtake Lewis Hamilton for fifth place in Sunday\u2019s Formula 1 race.Piastri lay a lonely sixth \u2013 20 seco...",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-on-his-singapore-puncture-ironically-it-probably-helped/10864632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-12T15:05:42Z",
+    "lastUpdatedUtc": "2026-10-12T22:33:35Z",
     "source": "jolpica"
   },
   "nextRace": {
