@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
+      "body": "How Rwanda has succeeded where Morocco and South Africa, among others, have failed by agreeing a deal to stage the African Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Rwanda to host F1's first race in Africa since 1993",
       "body": "Rwanda signs a 10-year deal with Formula 1 to host races in the African country, starting \"in the early 2030s\".",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Does Norris-Piastri crash show 'papaya rules' failing? - F1 Q&A",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/ck3wv14n070eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
-      "body": "Lewis Hamilton's incorrect strategy call during the Singapore Grand Prix means Kimi Antonelli can win the world title at the next race in Austin.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Why McLaren cannot fix its F1 car handling until 2027",
+      "body": "McLaren team principal Andrea Stella has conceded it cannot improve its Formula 1 car handling characteristics \u2018without fundamental changes\u2019 that will not be possible until 2027.Wh...",
+      "url": "https://www.autosport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-until-2027/10864932/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 signs historic 10-year Rwanda deal to host African Grand Prix",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The not-so-obvious chance Leclerc missed to usurp Verstappen",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "The hidden factor that gives Verstappen and Red Bull extra hope for 2027",
-      "body": "With two victories in the last three Grands Prix and a deficit of just 0.196 seconds in Baku, Verstappen and Red Bull are firmly back at the front in Formula 1. The resurgence has ...",
-      "url": "https://www.autosport.com/f1/news/the-hidden-factor-that-gives-max-verstappen-and-red-bull-extra-hope-for-2027/10864679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Christian Horner blames Dietrich Mateschitz\u2019s death for the \u201cpainful\u201d end of his F1 reign",
-      "body": "More than a year after his abrupt and highly controversial exit from the Red Bull Racing pitwall in July 2025, former team principal Christian Horner is finally shedding light on t...",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-blames-dietrich-mateschitzs-death-for-the-painful-end-of-his-f1-reign/10864830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "GT World Challenge Portimao: All you need to know about season finale featuring Max Verstappen",
+      "body": "Max Verstappen is set to make his long-awaited debut in GT World Challenge Europe [GTWCE] this weekend. With two of the regular drivers for his Verstappen Racing team, Daniel Junca...",
+      "url": "https://www.motorsport.com/gtwce-endurance/news/gtwce-europe-max-verstappen-info-debut-portimao/10864990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 signs historic 10-year Rwanda deal to host African Grand Prix",
-      "body": "The government of Rwanda and Formula 1 have announced a 10-year deal for a new African Grand Prix in the capital Kigali, which will first be held in 2030 at the earliest.F1 will he...",
-      "url": "https://www.motorsport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Cadillac\u2019s F1 brakes are still a problem: \u2018I had to lift and coast on lap two\u2019",
+      "body": "Valtteri Bottas was again hindered by Cadillac\u2019s well-documented brake issues in Formula 1\u2019s Singapore Grand Prix, although the veteran has described the problem as \u201calmost solved\u201d...",
+      "url": "https://www.motorsport.com/f1/news/cadillacs-f1-brakes-are-still-a-problem-i-had-to-lift-and-coast-on-lap-two/10864720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-13T10:59:02Z",
+    "lastUpdatedUtc": "2026-10-13T18:09:21Z",
     "source": "jolpica"
   },
   "nextRace": {
