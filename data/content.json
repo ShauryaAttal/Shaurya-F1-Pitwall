@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Five key takeaways from F1's big African Grand Prix reveal in Rwanda",
+      "body": "Tuesday's launch of the new African Grand Prix at Kigali's BK Arena in Rwanda was attended by Rwandan president Paul Kagame and both F1 boss Stefano Domenicali and FIA president Mo...",
+      "url": "https://www.autosport.com/f1/news/five-key-takeaways-from-f1s-big-african-grand-prix-reveal-in-rwanda/10865014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Why McLaren cannot fix its F1 car handling until 2027",
       "body": "McLaren team principal Andrea Stella has conceded it cannot improve its Formula 1 car handling characteristics \u2018without fundamental changes\u2019 that will not be possible until 2027.Wh...",
       "url": "https://www.autosport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-until-2027/10864932/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 signs historic 10-year Rwanda deal to host African Grand Prix",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "The not-so-obvious chance Leclerc missed to usurp Verstappen",
-      "body": "When Charles Leclerc had a better start than Max Verstappen and claimed the inside line for Turn 1, many in the media centre thought the Monegasque should have held his ground to t...",
-      "url": "https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "GT World Challenge Portimao: All you need to know about season finale featuring Max Verstappen",
-      "body": "Max Verstappen is set to make his long-awaited debut in GT World Challenge Europe [GTWCE] this weekend. With two of the regular drivers for his Verstappen Racing team, Daniel Junca...",
-      "url": "https://www.motorsport.com/gtwce-endurance/news/gtwce-europe-max-verstappen-info-debut-portimao/10864990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "The watches worn at the Singapore GP: From $400 to $430,000",
+      "body": "Formula 1's watch game at Marina Bay in 2026 stretched from a $400 Swatch to a Richard Mille that, by rough estimate, costs about $430,000 and can't be bought at just any shop. Tha...",
+      "url": "https://www.motorsport.com/f1/news/the-watches-worn-at-the-singapore-gp-from-400-to-430000/10865040/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Cadillac\u2019s F1 brakes are still a problem: \u2018I had to lift and coast on lap two\u2019",
-      "body": "Valtteri Bottas was again hindered by Cadillac\u2019s well-documented brake issues in Formula 1\u2019s Singapore Grand Prix, although the veteran has described the problem as \u201calmost solved\u201d...",
-      "url": "https://www.motorsport.com/f1/news/cadillacs-f1-brakes-are-still-a-problem-i-had-to-lift-and-coast-on-lap-two/10864720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "FIA could outlaw Red Bull\u2019s clever sidepod loophole ahead of 2027 season",
+      "body": "If there's one thing Formula 1 engineers love more than coffee, it's finding a tiny gray area in the rulebook and driving a championship-contending race car straight through it. Bu...",
+      "url": "https://www.motorsport.com/f1/news/fia-outlaws-red-bulls-clever-sidepod-aerodynamic-loophole-ahead-of-2027-season/10864930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-13T18:09:21Z",
+    "lastUpdatedUtc": "2026-10-13T23:02:17Z",
     "source": "jolpica"
   },
   "nextRace": {
