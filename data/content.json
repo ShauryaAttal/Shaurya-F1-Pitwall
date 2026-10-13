@@ -4,28 +4,36 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
-      "body": "Lewis Hamilton's incorrect strategy call during the Singapore Grand Prix means Kimi Antonelli can win the world title at the next race in Austin.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&at_campaign=rss"
+      "headline": "Rwanda to host F1's first race in Africa since 1993",
+      "body": "Rwanda signs a 10-year deal with Formula 1 to host races in the African country, starting \"in the early 2030s\".",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Verstappen perfect and Antonelli hugely mature - driver ratings",
-      "body": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Singapore Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c64g10qd44gjo?at_medium=RSS&at_campaign=rss"
+      "headline": "Does Norris-Piastri crash show 'papaya rules' failing? - F1 Q&A",
+      "body": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Singapore Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ck3wv14n070eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Verstappen dominates for first Singapore Grand Prix win",
-      "body": "Red Bull's Max Verstappen secures his first win in the Singapore Grand Prix, ahead of Charles Leclerc and Kimi Antonelli.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o?at_medium=RSS&at_campaign=rss"
+      "headline": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
+      "body": "Lewis Hamilton's incorrect strategy call during the Singapore Grand Prix means Kimi Antonelli can win the world title at the next race in Austin.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "F1 signs historic 10-year Rwanda deal to host African Grand Prix",
+      "body": "The government of Rwanda and Formula 1 have announced a 10-year deal for a new African Grand Prix in capital Kigali, which will first be held in 2030 at the earliest.F1 will head t...",
+      "url": "https://www.autosport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The not-so-obvious chance Leclerc missed to usurp Verstappen",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The hidden factor that gives Verstappen and Red Bull extra hope for 2027",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/the-hidden-factor-that-gives-max-verstappen-and-red-bull-extra-hope-for-2027/10864679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why Antonelli avoided a penalty despite four track limits incidents in Singapore GP",
-      "body": "Kimi Antonelli committed what appeared to be four track limits violations during the Formula 1 Singapore Grand Prix but avoided a penalty.This left many onlookers puzzled post-race...",
-      "url": "https://www.autosport.com/f1/news/why-antonelli-avoided-a-penalty-despite-four-track-limits-incidents-in-singapore-gp/10864591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Toto Wolff reveals problem behind George Russell's Singapore GP recovery",
-      "body": "Climbing from 19th to ninth on a street circuit sounds like a decent Sunday's work, and for George Russell it was. It also fell short of what Mercedes had pencilled in, and Toto Wo...",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-the-problem-behind-george-russells-singapore-gp-recovery/10864793/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Christian Horner blames Dietrich Mateschitz\u2019s death for the \u201cpainful\u201d end of his F1 reign",
+      "body": "More than a year after his abrupt and highly controversial exit from the Red Bull Racing pitwall in July 2025, former team principal Christian Horner is finally shedding light on t...",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-blames-dietrich-mateschitzs-death-for-the-painful-end-of-his-f1-reign/10864830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "McLaren to phase upgrades for 2026 fight and next year's F1 development",
-      "body": "McLaren is hoping its upgrade plan can do two things at once: close the gap to the front of the grid while also forming an understanding of which aerodynamic concept it should be t...",
-      "url": "https://www.motorsport.com/f1/news/mclaren-to-phase-upgrades-for-2026-fight-and-next-years-f1-development/10864787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 signs historic 10-year Rwanda deal to host African Grand Prix",
+      "body": "The government of Rwanda and Formula 1 have announced a 10-year deal for a new African Grand Prix in the capital Kigali, which will first be held in 2030 at the earliest.F1 will he...",
+      "url": "https://www.motorsport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-13T03:27:10Z",
+    "lastUpdatedUtc": "2026-10-13T10:59:02Z",
     "source": "jolpica"
   },
   "nextRace": {
