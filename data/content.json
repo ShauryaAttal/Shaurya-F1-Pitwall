@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Brazilian Camara to join Haas for F1 debut in 2027",
+      "body": "Brazilian Rafael Camara will join the US-based Haas team for his debut Formula 1 season in 2027.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15jn74l0pdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "The F1 pit stop that helped save lives",
       "body": "How an F1 pit stop inspired changes to hospital care that have helped save lives ever since.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c6ly0q00gj5do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Red Bull F1 boss Mekies gets new deal to 2031",
@@ -17,15 +25,23 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c84g1rxr0dpno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
-      "body": "How Rwanda has succeeded where Morocco and South Africa, among others, have failed by agreeing a deal to stage the African Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Camara over Ocon - did Haas make the correct call for F1 2027?",
+      "body": "Rafael Camara has been announced as a Formula 1 driver for the 2027 season and he will serve as Esteban Ocon\u2019s replacement at Haas.It will see the 21-year-old Brazilian make his F1...",
+      "url": "https://www.autosport.com/f1/news/camara-over-ocon-did-haas-make-the-correct-call-for-f1-2027/10865424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Camara to make F1 debut as Ocon's replacement at Haas in 2027",
+      "body": "Formula 2 championship leader Rafael Camara will make his Formula 1 debut for Haas in 2027 and is expected to line up alongside Oliver Bearman.The 21-year-old Brazilian is replacin...",
+      "url": "https://www.autosport.com/f1/news/camara-to-make-f1-debut-at-haas-replacing-ocon/10865325/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Mekies extends contract as Red Bull's F1 team boss",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/laurent-mekies-extends-contract-as-red-bulls-f1-team-boss/10865235/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Five key takeaways from F1's big African Grand Prix reveal in Rwanda",
-      "body": "Tuesday's launch of the new African Grand Prix at Kigali's BK Arena in Rwanda was attended by Rwandan president Paul Kagame and both F1 boss Stefano Domenicali and FIA president Mo...",
-      "url": "https://www.autosport.com/f1/news/five-key-takeaways-from-f1s-big-african-grand-prix-reveal-in-rwanda/10865014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why McLaren cannot fix its F1 car handling until 2027",
-      "body": "McLaren team principal Andrea Stella has conceded it cannot improve its Formula 1 car handling characteristics \u2018without fundamental changes\u2019 that will not be possible until 2027.Wh...",
-      "url": "https://www.autosport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-until-2027/10864932/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell forced to race with used Mercedes parts after Singapore GP crash",
-      "body": "George Russell\u2019s 2026 Singapore Grand Prix was already a certified nightmare on paper. We already knew he had to swallow a massive 60-place engine penalty, fought a brake pedal tha...",
-      "url": "https://www.motorsport.com/f1/news/george-russells-singapore-sprint-crash-forced-mercedes-to-use-second-hand-parts/10865313/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Bernie Collins on what Max Verstappen's Singapore radio failure revealed about him",
+      "body": "Former Formula 1 chief strategist and Sky Sports pundit Bernie Collins has praised Max Verstappen's ability to dominate the Singapore Grand Prix despite a one-way radio failure.Aft...",
+      "url": "https://www.motorsport.com/f1/news/bernie-collins-on-what-max-verstappens-singapore-radio-failure-revealed-about-him/10865430/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Red Bull reveals striking white F1 race suits for US GP as fans call for matching livery",
-      "body": "Red Bull has unveiled all-white race suits for the upcoming Formula 1 United States Grand Prix in Austin, hinting that a matching one-off livery could also be introduced for the ra...",
-      "url": "https://www.motorsport.com/f1/news/red-bull-reveals-striking-white-f1-race-suits-for-us-gp-as-fans-call-for-matching-livery/10865331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"Avengers: Doomsday\" is coming to the United States Grand Prix",
+      "body": "Williams is bringing its Marvel livery to the 2026 United States Grand Prix, but Alex Albon and Carlos Sainz won't be racing in it.The Williams F1 team will be putting a painted sh...",
+      "url": "https://www.motorsport.com/f1/news/avengers-doomsday-is-coming-to-the-united-states-grand-prix/10865428/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-15T10:13:47Z",
+    "lastUpdatedUtc": "2026-10-15T15:17:00Z",
     "source": "jolpica"
   },
   "nextRace": {
