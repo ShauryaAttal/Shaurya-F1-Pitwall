@@ -20,12 +20,20 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Red Bull F1 boss Mekies gets new deal to 2031",
-      "body": "Red Bull team principal Laurent Mekies, who replaced Christian Horner at the F1 team, has his contract extended until the end of 2031.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c84g1rxr0dpno?at_medium=RSS&at_campaign=rss"
+      "headline": "The Chequered Flag Podcast",
+      "body": "Harry Benjamin speaks to F1 Academy championship leader Alisha Palmowski about her season.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032vkn?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Who will win this year\u2019s ultimate F1 dream ticket? You decide\u2026",
+      "body": "After hundreds of applications for the ultimate prize in grand prix racing, the Heineken x F1 Season Ticket is down to six finalists \u2013 and F1 fans can now vote to decide who wins.T...",
+      "url": "https://www.autosport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Camara over Ocon - did Haas make the correct call for F1 2027?",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/camara-over-ocon-did-haas-make-the-correct-call-for-f1-2027/10865424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Camara to make F1 debut as Ocon's replacement at Haas in 2027",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/camara-to-make-f1-debut-at-haas-replacing-ocon/10865325/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Mekies extends contract as Red Bull's F1 team boss",
-      "body": "Laurent Mekies has extended his contract as team principal of the Red Bull Formula 1 outfit with a new deal that takes him through until the end of 2031.That will see the Frenchman...",
-      "url": "https://www.autosport.com/f1/news/laurent-mekies-extends-contract-as-red-bulls-f1-team-boss/10865235/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Valtteri Bottas makes surprising Mercedes comparison as Cadillac builds F1 future",
-      "body": "Cadillac hasn't scored a single point in its first Formula 1 season, yet its driver Valtteri Bottas believes it has better facilities than the most successful outfit of the hybrid ...",
-      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-makes-surprising-mercedes-comparison-as-cadillac-builds-f1-future/10865491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why Toto Wolff wore two watches at the Singapore Grand Prix",
+      "body": "Toto Wolff arrived at the Singapore Grand Prix last weekend with not one, but two watches strapped to his left wrist. This isn't the first time he's worn two watches, and, thanks t...",
+      "url": "https://www.motorsport.com/f1/news/why-toto-wolff-wore-two-watches-at-the-singapore-grand-prix/10865603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Ayao Komatsu: Rafael Camara chosen for F1 2027 seat on speed, not Ferrari links",
-      "body": "Haas boss Ayao Komatsu says that new Formula 1 recruit Rafael Camara was chosen over the likes of Leonardo Fornaroli and Ryo Hirakawa due to the speed and adaptability he showed du...",
-      "url": "https://www.motorsport.com/f1/news/komatsu-camara-chosen-for-f1-2027-seat-on-speed-not-ferrari-links/10865447/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Who will win this year\u2019s ultimate F1 dream ticket? You decide\u2026",
+      "body": "After hundreds of applications for the ultimate prize in grand prix racing, the Heineken x F1 Season Ticket is down to six finalists \u2013 and F1 fans can now vote to decide who wins.T...",
+      "url": "https://www.motorsport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865593/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-16T06:15:57Z",
+    "lastUpdatedUtc": "2026-10-16T11:48:34Z",
     "source": "jolpica"
   },
   "nextRace": {
