@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "What Verstappen knew about Red Bull\u2019s big upgrade when he signed his new F1 deal",
+      "body": "While Max Verstappen was still seriously considering the possibility of ending this Formula 1 season without winning a single race at Monza, things now look considerably different....",
+      "url": "https://www.autosport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Colapinto urges fans to stop online abuse: \u201cYou\u2019re not helping me or my future\u201d",
       "body": "Franco Colapinto has vocally asked Argentinian fans to stop online abuse after several incidents in the last couple of months.Following the Zandvoort, Madrid and Baku races, hatefu...",
       "url": "https://www.autosport.com/f1/news/colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Who will win this year\u2019s ultimate F1 dream ticket? You decide\u2026",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Camara over Ocon - did Haas make the correct call for F1 2027?",
-      "body": "Rafael Camara has been announced as a Formula 1 driver for the 2027 season and he will serve as Esteban Ocon\u2019s replacement at Haas.It will see the 21-year-old Brazilian make his F1...",
-      "url": "https://www.autosport.com/f1/news/camara-over-ocon-did-haas-make-the-correct-call-for-f1-2027/10865424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Bernie Collins warns of growing trust issues between Lewis Hamilton and Ferrari",
-      "body": "Former Formula 1 strategist and Sky Sports pundit Bernie Collins believes Lewis Hamilton is suffering from a \"lack of trust\" in Ferrari's pitwall following the Singapore Grand Prix...",
-      "url": "https://www.motorsport.com/f1/news/bernie-collins-warns-of-growing-trust-issues-between-lewis-hamilton-and-ferrari/10865751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Zak Brown gives stern warning to Lando Norris and Oscar Piastri after Singapore collision",
+      "body": "McLaren team principal Andrea Stella says the team is still talking to Lando Norris and Oscar Piastri after their collision towards the end of the Singapore Grand Prix sprint. Zak ...",
+      "url": "https://www.motorsport.com/f1/news/zak-brown-orders-mclaren-drivers-not-to-repeat-singapore-sprint-collision/10865830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Ferrari releases chaotic footage of Lewis Hamilton and Charles Leclerc's social media takeover",
-      "body": "Ferrari has released behind-the-scenes footage of Lewis Hamilton and Charles Leclerc hijacking the team's social media channels.The two drivers took over the Maranello outfit's acc...",
-      "url": "https://www.motorsport.com/f1/news/ferrari-releases-chaotic-footage-of-lewis-hamilton-and-charles-leclercs-social-media-takeover/10865748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Christian Horner calls for F1 budget cap rethink: \"Teams are spending $500 or $600m\"",
+      "body": "Christian Horner has called on Formula 1 to increase the $215million budget cap, claiming \u201cteams are spending $500 or $600million\u201d year on year.From 2021 the championship has opera...",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-calls-for-f1-budget-cap-rethink-teams-are-spending-500-or-600m/10865680/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-17T06:01:11Z",
+    "lastUpdatedUtc": "2026-10-17T11:05:15Z",
     "source": "jolpica"
   },
   "nextRace": {
