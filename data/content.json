@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "The maths behind when Mercedes could become F1 world champions in 2026",
+      "body": "The 2026 Formula 1 season has seen Mercedes return to its dominant past as it is on course to claim its first double championship victory since the COVID-struck 2020 campaign.Kimi ...",
+      "url": "https://www.autosport.com/f1/news/the-maths-behind-when-mercedes-could-become-f1-world-champions-in-2026/10866008/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "What drives Bortoleto as his junior rivals hit new heights in F1",
       "body": "Gabriel Bortoleto has watched Kimi Antonelli and Isack Hadjar celebrate their first Formula 1 podiums. Both are from his generation of drivers, having competed against him througho...",
       "url": "https://www.autosport.com/f1/news/what-drives-bortoleto-as-his-junior-rivals-hit-new-heights-in-f1/10865865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "What Verstappen knew about Red Bull\u2019s big upgrade when he signed his new F1 deal",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Colapinto urges fans to stop online abuse: \u201cYou\u2019re not helping me or my future\u201d",
-      "body": "Franco Colapinto has vocally asked Argentinian fans to stop online abuse after several incidents in the last couple of months.Following the Zandvoort, Madrid and Baku races, hatefu...",
-      "url": "https://www.autosport.com/f1/news/colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lando Norris faces anxious wait as F2 prepares to decide future of his racing team",
-      "body": "Lando Norris's new racing team, LN4 Fusion, will soon find out whether or not it's got a place on the Formula 2 grid next year. CEO of FIA Formula 2, Bruno Michel, has confirmed th...",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-faces-anxious-wait-as-f2-prepares-to-decide-future-of-his-racing-team/10865969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "When will Mercedes become F1 world champions in 2026?",
+      "body": "The 2026 Formula 1 season has seen Mercedes return to its dominant past as it is on course to claim its first double championship victory since the COVID-struck 2020 campaign.Kimi ...",
+      "url": "https://www.motorsport.com/f1/news/when-can-mercedes-become-f1-world-champions-in-2026/10865358/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Aston Martin's F1-inspired monster spotted testing as record-breaking claims emerge",
-      "body": "Aston Martin's mystery single-seater is back on track, and it still looks like nothing else on the grid or in a dealer.New footage shared on Reddit shows the car lapping Paul Ricar...",
-      "url": "https://www.motorsport.com/culture/news/aston-martins-f1-inspired-monster-spotted-testing-as-record-breaking-claims-emerge/10865964/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Lando Norris faces anxious wait as F2 prepares to decide future of his racing team",
+      "body": "Lando Norris's new racing team, LN4 Fusion, will soon find out whether or not it's got a place on the Formula 2 grid next year. CEO of FIA Formula 2, Bruno Michel, has confirmed th...",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-faces-anxious-wait-as-f2-prepares-to-decide-future-of-his-racing-team/10865969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-18T05:00:35Z",
+    "lastUpdatedUtc": "2026-10-18T09:48:52Z",
     "source": "jolpica"
   },
   "nextRace": {
