@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "FIA expects F1 races in Qatar and Abu Dhabi to run as planned",
+      "body": "FIA president Mohammed Ben Sulayem is confident that the Formula 1 races in Qatar and Abu Dhabi will go ahead, amid the current tensions in the Middle East.Due to the conflict betw...",
+      "url": "https://www.autosport.com/f1/news/fia-expects-f1-races-in-qatar-and-abu-dhabi-to-run-as-planned/10866553/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "McLaren retains Fornaroli as F1 reserve and hands him WEC programme for 2027",
       "body": "McLaren has reaffirmed its faith in Leonardo Fornaroli \u2013 and is taking its commitment to the Italian driver a step further. Fornaroli has been confirmed as the Formula 1 team's res...",
       "url": "https://www.autosport.com/f1/news/mclaren-retains-fornaroli-as-f1-reserve-and-hands-him-wec-programme-for-2027/10866226/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Inside the competition building F1\u2019s future engineering talent",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/inside-the-competition-building-f1s-future-engineering-talent/10866194/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Mercedes explains why its upgrade made its F1 car harder to drive",
-      "body": "If Mercedes left Sepang with more questions than answers, the Singapore Grand Prix weekend finally provided the engineering team with the first real clues to unlocking their new pa...",
-      "url": "https://www.autosport.com/f1/news/mercedes-explains-why-its-upgrade-made-its-f1-car-harder-to-drive/10866035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1\u2019s former fuel flow meter supplier sues its replacement ahead of US GP",
-      "body": "Formula 1\u2019s former fuel flow meter supplier, Sentronics Holdings Ltd, has taken its replacement to court in Texas. The company claims that the sensors now used by every car in the ...",
-      "url": "https://www.motorsport.com/f1/news/f1s-former-fuel-flow-meter-supplier-sues-its-replacement-in-texas/10866487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "FIA expects F1 races in Qatar and Abu Dhabi to continue as planned",
+      "body": "FIA president Mohammed Ben Sulayem is confident that the Formula 1 races in Qatar and Abu Dhabi will go ahead, amid the current tensions in the Middle East.Due to the conflict betw...",
+      "url": "https://www.motorsport.com/f1/news/fia-expects-f1-races-in-qatar-and-abu-dhabi-to-continue-as-planned/10866547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Christian Horner: Kimi Antonelli has 'earned' the right to be Mercedes' number one",
-      "body": "Christian Horner reckons the soon-to-be Formula 1 world champion Kimi Antonelli has \u2018earned\u2019 his right to become the outright number-one driver at Mercedes after a dominant 2026.Th...",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-kimi-antonelli-has-earned-the-right-to-be-mercedes-number-one/10865153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why Isack Hadjar doesn\u2019t like F1 sprints anymore",
+      "body": "Isack Hadjar has changed his mind about sprint weekends in Formula 1, after his Singapore Grand Prix turned into an ordeal.The Red Bull racer\u2019s weekend at the Marina Bay Street Cir...",
+      "url": "https://www.motorsport.com/f1/news/why-isack-hadjar-doesnt-like-f1-sprints-anymore/10866320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-20T12:00:48Z",
+    "lastUpdatedUtc": "2026-10-20T17:26:48Z",
     "source": "jolpica"
   },
   "nextRace": {
