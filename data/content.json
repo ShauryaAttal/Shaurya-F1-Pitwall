@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Leclerc sets Austin practice pace from Verstappen",
+      "body": "Ferrari's Charles Leclerc is fastest from Red Bull's Max Verstappen in first practice at the United States Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Austin track bumps out of control - Verstappen",
       "body": "Max Verstappen says the bumps on the track that hosts this weekend's United States Grand Prix are \"unacceptable\" and \"out of control\".",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Approach African GP with humility, says Hamilton",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c6vgxd2xyv7do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Antonelli to 'just have fun' as he aims for title",
-      "body": "Kimi Antonelli says he intends to \"just have fun\" at the United States Grand Prix as he stands on the brink of the Formula 1 World Championship.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cjr4y3y9zy2zo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 United States GP: Leclerc beats Verstappen to top FP1 in upgraded Ferrari",
+      "body": "Ferrari driver Charles Leclerc pipped Red Bull's Max Verstappen to top first practice at Formula 1's United States Grand Prix in Austin.Leclerc was just under a tenth faster than V...",
+      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-beats-verstappen-to-top-fp1/10867509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Renault to sell former F1 engine facility in Viry",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/renault-to-sell-former-f1-engine-facility-in-viry/10867332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "\"It's pretty bad\" \u2013 Why Norris needs headache tablets for bumpy Austin circuit",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/its-pretty-bad-why-norris-needs-headache-tablets-for-bumpy-austin-circuit/10867192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Why it's now Bearman versus Camara for the next Ferrari vacancy",
-      "body": "Succession planning is one of the more subtle arts of the Formula 1 team boss. All the top teams maintain junior-driver programmes with the explicit intention of developing talent ...",
-      "url": "https://www.autosport.com/f1/news/why-its-now-bearman-versus-camara-for-the-next-ferrari-vacancy/10867288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton: Kimi Antonelli \u201cdeserves to be the champion\u201d",
-      "body": "Lewis Hamilton says Kimi Antonelli has been \u201cmassively impressive\u201d and \u201cdeserves to be the champion\u201d, with the Formula 1 world title within reach of the Mercedes driver in Austin.G...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-kimi-antonelli-deserves-to-be-the-champion/10867431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Ferrari drivers deliver disappointing verdict on much-hyped United States GP upgrade",
+      "body": "Both Lewis Hamilton and Charles Leclerc have played down the expectations surrounding the upgrade the Ferrari team is bringing for this race weekend in Austin.The Scuderia has arri...",
+      "url": "https://www.motorsport.com/f1/news/ferrari-drivers-deliver-disappointing-verdict-on-much-hyped-united-states-gp-upgrade/10867525/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Fernando Alonso backs IndyCar Barcelona race but warns against wider global expansion",
-      "body": "Two-time Formula 1 world champion Fernando Alonso has welcomed IndyCar\u2019s decision to race in Barcelona in 2027, though he warns the American series against overextending itself int...",
-      "url": "https://www.motorsport.com/indycar/news/fernando-alonso-backs-indycar-barcelona-race-but-warns-against-wider-global-expansion/10867420/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Charles Leclerc addresses potential F1 race absence ahead of first child's birth",
+      "body": "Charles Leclerc says he does not expect to miss any of the remaining six Formula 1 races this season, despite the birth of his first child being only weeks away.The Ferrari driver ...",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-addresses-potential-f1-race-absence-ahead-of-first-childs-birth/10867519/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-23T15:24:00Z",
+    "lastUpdatedUtc": "2026-10-23T19:29:42Z",
     "source": "jolpica"
   },
   "nextRace": {
