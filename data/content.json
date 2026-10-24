@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question",
+      "body": "The US GP weekend naturally means the spotlight gravitates towards Formula 1\u2019s two American-owned teams. That has led to some awkward questions for Cadillac amid ongoing speculatio...",
+      "url": "https://www.autosport.com/f1/news/why-cadillac-f1-boss-provoked-fresh-intrigue-by-dodging-driver-question/10867820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "The unexpected issue Honda faced with upgraded F1 power unit",
       "body": "Following a surprisingly successful Formula 1 weekend in Malaysia, expectations were also high at Aston Martin for Singapore, a venue that should have suited the AMR26 on paper.How...",
       "url": "https://www.autosport.com/f1/news/the-unexpected-issue-honda-faced-with-upgraded-f1-power-unit/10867646/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Red Bull identifies two \"key focus\" areas after Max Verstappen's promising start in Austin",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/red-bull-identifies-two-key-focus-areas-after-max-verstappens-promising-start-in-austin/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "McLaren's aims for its final F1 2026 upgrades amid decline in form",
-      "body": "\"To get the car to be quick, we just have to try so hard to be perfect, and you cannot be perfect,\" said Lando Norris after practice for the Formula 1 United States Grand Prix in A...",
-      "url": "https://www.autosport.com/f1/news/mclarens-aims-for-final-f1-2026-upgrades/10867609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "\"Just undriveable\" \u2013 Isack Hadjar looking for answers after \"massive\" struggles in Austin practice",
-      "body": "It was a day of contrasting fortunes for Red Bull during Formula 1 practice at the Circuit of the Americas. Max Verstappen was largely satisfied with the early signs of the RB22, a...",
-      "url": "https://www.motorsport.com/f1/news/just-undriveable-isack-hadjar-looking-for-answers-after-massive-struggles-in-austin-practice/10867672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question",
+      "body": "The US GP weekend naturally means the spotlight gravitates towards Formula 1\u2019s two American-owned teams. That has led to some awkward questions for Cadillac amid ongoing speculatio...",
+      "url": "https://www.motorsport.com/f1/news/why-cadillac-f1-boss-provoked-fresh-intrigue-by-dodging-driver-question/10867808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "The unexpected problem Honda encountered despite its second F1 power unit upgrade",
-      "body": "Following a surprisingly successful Formula 1 weekend in Malaysia, expectations were also high at Aston Martin for Singapore, a venue that should have suited the AMR26 on paper.How...",
-      "url": "https://www.motorsport.com/f1/news/the-unexpected-problem-honda-encountered-despite-its-second-f1-power-unit-upgrade/10867644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"Just undriveable\" \u2013 Isack Hadjar looking for answers after \"massive\" struggles in Austin practice",
+      "body": "It was a day of contrasting fortunes for Red Bull during Formula 1 practice at the Circuit of the Americas. Max Verstappen was largely satisfied with the early signs of the RB22, a...",
+      "url": "https://www.motorsport.com/f1/news/just-undriveable-isack-hadjar-looking-for-answers-after-massive-struggles-in-austin-practice/10867672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-24T11:27:58Z",
+    "lastUpdatedUtc": "2026-10-24T14:48:31Z",
     "source": "jolpica"
   },
   "nextRace": {
