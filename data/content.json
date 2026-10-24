@@ -12,20 +12,28 @@
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Austin track bumps out of control - Verstappen",
-      "body": "Max Verstappen says the bumps on the track that hosts this weekend's United States Grand Prix are \"unacceptable\" and \"out of control\".",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o?at_medium=RSS&at_campaign=rss"
+      "headline": "How to follow US Grand Prix on the BBC",
+      "body": "All the key BBC coverage details for the United States Grand Prix, which takes place from 23-25 October.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Approach African GP with humility, says Hamilton",
-      "body": "Lewis Hamilton addresses concerns on human rights grounds about holding an African Grand Prix in Rwanda by saying people should \"approach it with humility\".",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6vgxd2xyv7do?at_medium=RSS&at_campaign=rss"
+      "headline": "Austin track bumps out of control - Verstappen",
+      "body": "Max Verstappen says the bumps on the track that hosts this weekend's United States Grand Prix are \"unacceptable\" and \"out of control\".",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "McLaren's aims for its final F1 2026 upgrades amid decline in form",
+      "body": "\"To get the car to be quick, we just have to try so hard to be perfect, and you cannot be perfect,\" said Lando Norris after practice for the Formula 1 United States Grand Prix in A...",
+      "url": "https://www.autosport.com/f1/news/mclarens-aims-for-final-f1-2026-upgrades/10867609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 United States GP: Leclerc pips Antonelli to top FP2 while McLaren struggles",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-pips-antonelli/10867584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The reasons behind Ferrari's US GP upgrades",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/the-reasons-behind-ferraris-us-gp-upgrades/10867545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 United States GP: Leclerc beats Verstappen to top FP1 in upgraded Ferrari",
-      "body": "Ferrari driver Charles Leclerc pipped Red Bull's Max Verstappen to top first practice at Formula 1's United States Grand Prix in Austin.Leclerc was just under a tenth faster than V...",
-      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-beats-verstappen-to-top-fp1/10867509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Kimi Antonelli rookie card sells for staggering $878,400 ahead of F1 title opportunity",
-      "body": "A one-of-a-kind Kimi Antonelli rookie card has sold for $878,400 at auction, making it the second most expensive Formula 1 card ever sold, just days before the Mercedes driver coul...",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-rookie-card-sells-for-staggering-878400-ahead-of-f1-title-opportunity/10867588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Christian Horner admits he may never return to F1 after Red Bull exit",
+      "body": "Christian Horner has explained that he is in no hurry to return to Formula 1 and that he could live with never working in the paddock again.Horner was sacked as Red Bull Racing CEO...",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-admits-he-may-never-return-to-f1-after-red-bull-exit/10867605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "F1 United States GP: Charles Leclerc completes perfect Friday by topping FP2",
-      "body": "Ferrari's Charles Leclerc has led the way in Friday practice for Formula 1's United States Grand Prix, narrowly beating Kimi Antonelli to the top spot in Austin as McLaren struggle...",
-      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-charles-leclerc-tops-fp2/10867569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "\"We're just a step behind\" - what McLaren is trying to solve with its final 2026 upgrades",
+      "body": "\"To get the car to be quick, we just have to try so hard to be perfect, and you cannot be perfect,\" said Lando Norris after practice for the Formula 1 United States Grand Prix in A...",
+      "url": "https://www.motorsport.com/f1/news/were-just-a-step-behind-what-mclaren-is-trying-to-solve-with-its-final-2026-upgrades-10867601/10867601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-23T22:35:07Z",
+    "lastUpdatedUtc": "2026-10-24T01:27:38Z",
     "source": "jolpica"
   },
   "nextRace": {
