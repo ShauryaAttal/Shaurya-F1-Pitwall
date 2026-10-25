@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Antonelli wins in US but has to wait to secure title",
+      "body": "Kimi Antonelli needs only two more points to seal his first world title following a dominant victory in the United States Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Antonelli stands on brink of history in Austin",
       "body": "Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Antonelli takes US pole on weekend he can win title",
@@ -17,15 +25,23 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Briton Palmowski wins F1 Academy title",
-      "body": "Britain's Alisha Palmowski wins the F1 Academy title at the Circuit of the Americas in Austin.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6jwzp2y4go?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "The maths behind Antonelli becoming F1 world champion at Mexico GP",
+      "body": "Kimi Antonelli has taken another giant step towards becoming Formula 1 world champion by dominating the United States Grand Prix from pole on Sunday.The Mercedes driver consequentl...",
+      "url": "https://www.autosport.com/f1/news/the-maths-behind-antonelli-becoming-f1-world-champion-at-mexico-gp/10868378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "F1 United States GP: Antonelli dominates from pole - but forced to wait for title",
+      "body": "Kimi Antonelli has taken another step towards an inevitable Formula 1 title with a sovereign United States Grand Prix win, defeating Charles Leclerc at Austin's Circuit of the Amer...",
+      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-wins/10868343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Inside COTA's Turn 1 clubhouse and its plans to build a second track",
@@ -33,42 +49,26 @@
       "url": "https://www.autosport.com/f1/news/inside-cotas-turn-1-clubhouse-and-its-plans-to-build-a-second-track/10868244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Red Bull no longer falls away on difficult days: What Austin qualifying reveals about its progress",
-      "body": "In Austin, the battle for pole position looked for a long time as though it would be between Max Verstappen and Ferrari. By the end of qualifying, however, the Scuderia had failed ...",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-puzzled-by-q3-grip-loss-but-austin-shows-how-far-red-bull-has-progressed/10868230/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Verstappen responds to COTA boss and proposes drastic measures to tackle bumps",
-      "body": "It is one of the main talking points in the Formula 1 paddock this weekend: the extreme bumps at the Circuit of the Americas. Drivers raised their concerns during Friday evening's ...",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-responds-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868204/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Toto Wolff gets brutally honest about spotting F1 talent and why prodigies wash out",
-      "body": "When you run a billion-dollar Formula 1 team, your inbox is probably flooded with emails from karting dads swearing their kid is the next Ayrton Senna. Separating the generational ...",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-gets-brutally-honest-about-spotting-f1-talent-and-why-prodigies-wash-out/10868224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Isack Hadjar demands Red Bull clutch \u201credesign\u201d after costly US GP start",
+      "body": "Isack Hadjar has called on Red Bull to redesign the clutch on its car, after a poor getaway from third on the grid wrecked his United States Grand Prix.The Frenchman had recovered ...",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-demands-red-bull-clutch-redesign-after-costly-us-gp-start/10868394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Charles Leclerc reacts to Ferrari fear: 'We know what line not to cross'",
-      "body": "One of the common denominators of Ferrari\u2019s mid-season, besides not translating practice pace into qualifying, has been its drivers\u2019 tendency to trip over one another on track.More...",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reacts-to-ferrari-fear-we-know-what-the-line-is-not-to-cross/10868297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Toto Wolff reveals what Kimi Antonelli told him in his office before US GP win",
+      "body": "Talking to Sky Sports F1 after Kimi Antonelli won the United States Grand Prix, Mercedes team principal Toto Wolff revealed what his driver told him before the race.The Italian dri...",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-what-kimi-antonelli-told-him-in-his-office-before-us-gp-win/10868380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
     {
       "label": "Championship Lead",
-      "valuePrefix": "+102",
+      "valuePrefix": "+123",
       "valueEm": "",
       "valueSuffix": " pts",
       "sub": "Andrea Kimi Antonelli over George Russell"
@@ -78,61 +78,61 @@
       "valuePrefix": "Andrea Kimi Antonelli",
       "valueEm": "",
       "valueSuffix": "",
-      "sub": "340 points after Singapore Grand Prix"
+      "sub": "365 points after United States Grand Prix"
     },
     {
       "label": "Constructors Lead",
       "valuePrefix": "Mercedes",
       "valueEm": "",
       "valueSuffix": "",
-      "sub": "578 points"
+      "sub": "607 points"
     },
     {
       "label": "Next Race",
-      "valuePrefix": "United States Grand Prix",
+      "valuePrefix": "Mexico City Grand Prix",
       "valueEm": "",
       "valueSuffix": "",
-      "sub": "2026-10-25"
+      "sub": "2026-11-01"
     }
   ],
   "ticker": [
     {
       "sym": "LEADER",
       "val": "ANDREA KIMI ANTONELLI",
-      "pts": "340 PTS"
+      "pts": "365 PTS"
     },
     {
       "sym": "P2",
       "val": "GEORGE RUSSELL",
-      "pts": "238 PTS"
+      "pts": "242 PTS"
     },
     {
       "sym": "CON",
       "val": "MERCEDES",
-      "pts": "578 PTS"
+      "pts": "607 PTS"
     },
     {
       "sym": "LAST WIN",
-      "val": "MAX VERSTAPPEN",
-      "pts": "SINGAPORE GRAND PRIX"
+      "val": "ANDREA KIMI ANTONELLI",
+      "pts": "UNITED STATES GRAND PRIX"
     },
     {
       "sym": "NEXT",
-      "val": "UNITED STATES GRAND PRIX",
-      "pts": "2026-10-25"
+      "val": "MEXICO CITY GRAND PRIX",
+      "pts": "2026-11-01"
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-25T20:41:07Z",
+    "lastUpdatedUtc": "2026-10-25T23:07:26Z",
     "source": "jolpica"
   },
   "nextRace": {
-    "name": "United States Grand Prix",
-    "date": "2026-10-25",
+    "name": "Mexico City Grand Prix",
+    "date": "2026-11-01",
     "timeUtc": "20:00:00Z",
-    "circuit": "Circuit of the Americas",
-    "country": "USA",
-    "round": "18"
+    "circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+    "country": "Mexico",
+    "round": "19"
   },
   "drivers": [
     {
@@ -141,7 +141,7 @@
       "code": "ANT",
       "constructor": "Mercedes",
       "nationality": "ITA",
-      "points": 340,
+      "points": 365,
       "gapToLeader": 0
     },
     {
@@ -150,8 +150,8 @@
       "code": "RUS",
       "constructor": "Mercedes",
       "nationality": "BRI",
-      "points": 238,
-      "gapToLeader": 102
+      "points": 242,
+      "gapToLeader": 123
     },
     {
       "position": "3",
@@ -159,8 +159,8 @@
       "code": "HAM",
       "constructor": "Ferrari",
       "nationality": "BRI",
-      "points": 229,
-      "gapToLeader": 111
+      "points": 241,
+      "gapToLeader": 124
     },
     {
       "position": "4",
@@ -168,8 +168,8 @@
       "code": "VER",
       "constructor": "Red Bull",
       "nationality": "DUT",
-      "points": 221,
-      "gapToLeader": 119
+      "points": 236,
+      "gapToLeader": 129
     },
     {
       "position": "5",
@@ -177,8 +177,8 @@
       "code": "LEC",
       "constructor": "Ferrari",
       "nationality": "MON",
-      "points": 215,
-      "gapToLeader": 125
+      "points": 233,
+      "gapToLeader": 132
     },
     {
       "position": "6",
@@ -186,8 +186,8 @@
       "code": "NOR",
       "constructor": "McLaren",
       "nationality": "BRI",
-      "points": 201,
-      "gapToLeader": 139
+      "points": 211,
+      "gapToLeader": 154
     },
     {
       "position": "7",
@@ -195,8 +195,8 @@
       "code": "PIA",
       "constructor": "McLaren",
       "nationality": "AUS",
-      "points": 138,
-      "gapToLeader": 202
+      "points": 144,
+      "gapToLeader": 221
     },
     {
       "position": "8",
@@ -204,8 +204,8 @@
       "code": "HAD",
       "constructor": "Red Bull",
       "nationality": "FRE",
-      "points": 97,
-      "gapToLeader": 243
+      "points": 105,
+      "gapToLeader": 260
     },
     {
       "position": "9",
@@ -213,8 +213,8 @@
       "code": "LAW",
       "constructor": "RB F1 Team",
       "nationality": "NEW",
-      "points": 75,
-      "gapToLeader": 265
+      "points": 77,
+      "gapToLeader": 288
     },
     {
       "position": "10",
@@ -222,8 +222,8 @@
       "code": "GAS",
       "constructor": "Alpine F1 Team",
       "nationality": "FRE",
-      "points": 41,
-      "gapToLeader": 299
+      "points": 42,
+      "gapToLeader": 323
     }
   ],
   "constructors": [
@@ -231,43 +231,43 @@
       "position": "1",
       "name": "Mercedes",
       "nationality": "GER",
-      "points": 578,
+      "points": 607,
       "barPercent": 100
     },
     {
       "position": "2",
       "name": "Ferrari",
       "nationality": "ITA",
-      "points": 444,
-      "barPercent": 77
+      "points": 474,
+      "barPercent": 78
     },
     {
       "position": "3",
-      "name": "McLaren",
-      "nationality": "BRI",
-      "points": 339,
-      "barPercent": 59
+      "name": "Red Bull",
+      "nationality": "AUS",
+      "points": 355,
+      "barPercent": 58
     },
     {
       "position": "4",
-      "name": "Red Bull",
-      "nationality": "AUS",
-      "points": 332,
-      "barPercent": 57
+      "name": "McLaren",
+      "nationality": "BRI",
+      "points": 355,
+      "barPercent": 58
     },
     {
       "position": "5",
       "name": "RB F1 Team",
       "nationality": "ITA",
-      "points": 100,
+      "points": 102,
       "barPercent": 17
     },
     {
       "position": "6",
       "name": "Alpine F1 Team",
       "nationality": "FRE",
-      "points": 68,
-      "barPercent": 12
+      "points": 69,
+      "barPercent": 11
     },
     {
       "position": "7",
@@ -306,25 +306,25 @@
     }
   ],
   "podium": {
-    "headline": "Singapore Grand Prix \u00b7 Marina Bay Street Circuit",
+    "headline": "United States Grand Prix \u00b7 Circuit of the Americas",
     "rows": [
       {
         "position": "P1",
-        "name": "Max Verstappen",
-        "team": "Red Bull",
-        "time": "1:42:00.785"
+        "name": "Andrea Kimi Antonelli",
+        "team": "Mercedes",
+        "time": "1:35:16.650"
       },
       {
         "position": "P2",
         "name": "Charles Leclerc",
         "team": "Ferrari",
-        "time": "+7.335"
+        "time": "+13.078"
       },
       {
         "position": "P3",
-        "name": "Andrea Kimi Antonelli",
-        "team": "Mercedes",
-        "time": "+24.573"
+        "name": "Max Verstappen",
+        "team": "Red Bull",
+        "time": "+17.485"
       }
     ]
   }
