@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Antonelli stands on brink of history in Austin",
+      "body": "Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Antonelli takes US pole on weekend he can win title",
       "body": "Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "How to follow US Grand Prix on the BBC",
@@ -17,15 +25,23 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Leclerc fastest from Antonelli in US GP practice",
-      "body": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Antonelli pole shows Mercedes is 'finally seeing the results' of car upgrades",
+      "body": "Formula 1 championship leader Kimi Antonelli reckons his United States Grand Prix pole is the reward for Mercedes' efforts to finetune its comprehensive but troubled Malaysia upgra...",
+      "url": "https://www.autosport.com/f1/news/antonelli-pole-shows-mercedes-is-seeing-results-of-car-upgrades/10868072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Leclerc and Hamilton's differing theories behind Ferrari's Austin qualifying disappointment",
+      "body": "Ferrari had been pegged as the team to beat after practice at the United States Grand Prix, but ultimately found itself wanting when it came to qualifying and failed to find enough...",
+      "url": "https://www.autosport.com/f1/news/leclerc-and-hamilton-theories-on-ferrari-qualifying-performance/10868059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Norris frustrated after United States GP qualifying: \"I did a very bad job\"",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/norris-frustrated-after-united-states-gp-qualifying/10868036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 United States GP: Antonelli beats Verstappen to pole with Russell only sixth",
-      "body": "Championship leader Kimi Antonelli has claimed his seventh pole of 2026 at Formula 1's United States Grand Prix, defeating Max Verstappen in a thrillingly close qualifying session ...",
-      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-beats-verstappen-to-pole/10867984/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3",
-      "body": "Lewis Hamilton finished final practice on top at Formula 1's United States Grand Prix, leading Max Verstappen and Charles Leclerc into qualifying at Austin.Hamilton was the only dr...",
-      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-hamilton-tops-fp3/10867933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Oscar Piastri compares COTA bump to a \"motocross jump\" after US GP qualifying",
-      "body": "McLaren's Oscar Piastri has compared the bump on the approach to Turn 1 at the Circuit of the Americas to \"a motocross jump\" after qualifying seventh for the United States Grand Pr...",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-compares-cota-bump-to-a-motocross-jump-after-us-gp-qualifying/10868037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Charles Leclerc sets boundaries with Lewis Hamilton ahead of Turn 1 battle",
+      "body": "Charles Leclerc and Lewis Hamilton will start Sunday's United States Grand Prix fourth and fifth on the grid, but the Monegasque says both drivers know \"the line not to cross\" head...",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-sets-boundaries-with-lewis-hamilton-ahead-of-turn-1-battle/10868086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lando Norris laments \"very bad job\" in qualifying for F1 United States GP",
-      "body": "Lando Norris was incredibly frustrated by his \u201cvery bad job\u201d in qualifying for Formula 1\u2019s United States Grand Prix as he took eighth despite thinking a front row was possible.The ...",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-laments-very-bad-job-in-qualifying-for-f1-united-states-gp/10868026/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Alpine issues statement after Jeremy Clarkson's controversial Franco Colapinto comments",
+      "body": "Alpine has released a statement in support of its driver Franco Colapinto after former Top Gear host Jeremy Clarkson joked on Sky Sports F1 that the driver had been given a grid pe...",
+      "url": "https://www.motorsport.com/f1/news/alpine-issues-statement-after-jeremy-clarksons-controversial-franco-colapinto-comments/10868082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-24T23:34:09Z",
+    "lastUpdatedUtc": "2026-10-25T04:16:18Z",
     "source": "jolpica"
   },
   "nextRace": {
