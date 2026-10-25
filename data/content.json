@@ -20,16 +20,16 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "How to follow US Grand Prix on the BBC",
-      "body": "All the key BBC coverage details for the United States Grand Prix, which takes place from 23-25 October.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss"
+      "headline": "Briton Palmowski wins F1 Academy title",
+      "body": "Britain's Alisha Palmowski wins the F1 Academy title at the Circuit of the Americas in Austin.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6jwzp2y4go?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Inside COTA's Turn 1 clubhouse and its plans to build a second track",
-      "body": "For spectators and TV viewers tuning into coverage of F1's US Grand Prix, it's been hard to miss. Turn 1 of the Circuit of the Americas has a distinctly different look to it this y...",
+      "body": "For spectators and TV viewers tuning into coverage of Formula 1's United States Grand Prix, it's been hard to miss. Turn 1 of the Circuit of the Americas has a distinctly different...",
       "url": "https://www.autosport.com/f1/news/inside-cotas-turn-1-clubhouse-and-its-plans-to-build-a-second-track/10868244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
@@ -52,17 +52,17 @@
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Charles Leclerc reacts to Ferrari fear: 'We know what line not to cross'",
-      "body": "One of the common denominators of Ferrari\u2019s mid-season, besides not translating practice pace into qualifying, has been its drivers\u2019 tendency to trip over one another on track.More...",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reacts-to-ferrari-fear-we-know-what-the-line-is-not-to-cross/10868297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Toto Wolff gets brutally honest about spotting F1 talent and why prodigies wash out",
+      "body": "When you run a billion-dollar Formula 1 team, your inbox is probably flooded with emails from karting dads swearing their kid is the next Ayrton Senna. Separating the generational ...",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-gets-brutally-honest-about-spotting-f1-talent-and-why-prodigies-wash-out/10868224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Toto Wolff reveals he is actively vetting \u201ctwo or three people\u201d to replace him at Mercedes",
-      "body": "Toto Wolff has been the face, the political muscle, and the strategic anchor of Mercedes F1 since 2013, guiding the Brackley squad through an unprecedented era of dominance. Howeve...",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-he-is-actively-vetting-two-or-three-people-to-replace-him-at-mercedes/10868219/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Charles Leclerc reacts to Ferrari fear: 'We know what line not to cross'",
+      "body": "One of the common denominators of Ferrari\u2019s mid-season, besides not translating practice pace into qualifying, has been its drivers\u2019 tendency to trip over one another on track.More...",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reacts-to-ferrari-fear-we-know-what-the-line-is-not-to-cross/10868297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-25T17:32:24Z",
+    "lastUpdatedUtc": "2026-10-25T20:41:07Z",
     "source": "jolpica"
   },
   "nextRace": {
