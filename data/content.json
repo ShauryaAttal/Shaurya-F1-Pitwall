@@ -12,20 +12,36 @@
       "number": "02",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Antonelli wins in US but has to wait to secure title",
-      "body": "Kimi Antonelli needs only two more points to seal his first world title following a dominant victory in the United States Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss"
+      "headline": "Antonelli superb and Leclerc close to perfect - driver ratings",
+      "body": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the United States Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmpwgnekx1e0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Andrew Benson Q&A: Send us your questions",
-      "body": "Our F1 correspondent Andrew Benson is doing a weekly Q&A this season, so get your questions in now.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss"
+      "headline": "Antonelli wins in US but has to wait to secure title",
+      "body": "Kimi Antonelli needs only two more points to seal his first world title following a dominant victory in the United States Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "The two recurring issues that hampered Verstappen and Red Bull again at the US GP",
+      "body": "Max Verstappen secured his tenth podium finish of the 2026 Formula 1 season in Austin, his sixth in succession since his crash at Zandvoort. It is an impressive statistic, although...",
+      "url": "https://www.autosport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Alonso criticises quality of F1 backmarkers after Albon clash at United States GP",
+      "body": "Fernando Alonso let rip at Williams' Alex Albon after contact between their cars on the opening lap of the Formula 1 United States Grand Prix. It cost the Aston Martin driver four ...",
+      "url": "https://www.autosport.com/f1/news/alonso-criticises-f1-backmarkers-after-albon-clash/10868469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Russell scrambling for answers after \"not being quick enough\" at US GP",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/russell-scrambling-for-answers-after-not-being-quick-enough-at-us-gp/10868425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "The maths behind Antonelli becoming F1 world champion at Mexico GP",
-      "body": "Kimi Antonelli has taken another giant step towards becoming Formula 1 world champion by dominating the United States Grand Prix from pole on Sunday.The Mercedes driver consequentl...",
-      "url": "https://www.autosport.com/f1/news/the-maths-behind-antonelli-becoming-f1-world-champion-at-mexico-gp/10868378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 United States GP: Antonelli dominates from pole - but forced to wait for title",
-      "body": "Kimi Antonelli has taken another step towards an inevitable Formula 1 title with a sovereign United States Grand Prix win, defeating Charles Leclerc at Austin's Circuit of the Amer...",
-      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-wins/10868343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Red Bull admits frustrating F1 problem will not be fully fixed until 2027",
-      "body": "Red Bull team principal Laurent Mekies has admitted that the issue the team has faced at the start of races won't be fixed until next season. This comes after Isack Hadjar called f...",
-      "url": "https://www.motorsport.com/f1/news/red-bull-admits-frustrating-f1-problem-will-not-be-fully-solved-this-season/10868457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen pinpoints two recurring Red Bull problems: \"We should use sign language!\"",
+      "body": "Max Verstappen secured his tenth podium finish of the 2026 Formula 1 season in Austin, his sixth in succession since his crash at Zandvoort. It is an impressive statistic, although...",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Kimi Antonelli reveals biggest mistakes of 2026 as Max Verstappen takes playful dig",
-      "body": "Current Formula 1 championship leader Kimi Antonelli has listed the mistakes he wants to learn from this season as he closes in on the title, prompting a playful dig from Max Verst...",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-biggest-mistakes-of-2026-as-max-verstappen-takes-playful-dig/10868452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Fernando Alonso blasts driving standards of bottom half of F1 grid",
+      "body": "Fernando Alonso let rip at Williams' Alex Albon after contact between their cars on the opening lap of the Formula 1 United States Grand Prix. It cost the Aston Martin driver four ...",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-blasts-driving-standards-of-bottom-half-of-f1-grid/10868467/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-26T01:32:21Z",
+    "lastUpdatedUtc": "2026-10-26T07:39:46Z",
     "source": "jolpica"
   },
   "nextRace": {
