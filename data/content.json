@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Perez signs multi-year extension with Cadillac",
+      "body": "Sergio Perez will remain with Cadillac until 2029 after signing a multi-year contract extension.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde852ww04ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Simpler, cheaper hybrid V8s proposed for next F1 rules",
       "body": "Formula 1's next engine regulations are set to introduce V8 turbo hybrid engines that are simplified and less expensive compared to the existing rules.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "How much of Antonelli's success is down to his ability? - F1 Q&A",
@@ -17,15 +25,15 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde8xjl3xpwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Kimi Antonelli wins US GP but title must wait",
-      "body": "Teenager Kimi Antonelli dominated in Austin but must wait to clinch the world championship",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032vks?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "F1 publishes first Social Impact Report; key student scholarship renewed",
+      "body": "Formula 1 has published its first sport-wide Social Impact Report, with over half a million young people across the world having benefited from F1 programmes last year.In initiativ...",
+      "url": "https://www.autosport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/why-aston-martin-and-red-bull-were-asked-about-an-unlikely-f1-engine-partnership/10869017/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "FIA announces new partnership to help drive future F1 regulations",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/fia-announces-new-partnership-to-help-drive-future-f1-regulations/10868916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Mercedes has a Russell-sized problem and it is sharing responsibility",
-      "body": "George Russell's form hit a new low at the United States Grand Prix, despite glimmers of progress in the Formula 1 grands prix shortly before then. In Austin, the Mercedes driver q...",
-      "url": "https://www.autosport.com/f1/news/mercedes-has-a-russell-sized-problem-and-it-is-sharing-responsibility/10868909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Oliver Bearman explains why Haas\u2019 2026 F1 car is \u2018hitting its ceiling\u2019",
-      "body": "Oliver Bearman believes Haas cannot extract much more performance from its 2026 Formula 1 car, following the United States Grand Prix.Bearman displayed encouraging Friday pace at t...",
-      "url": "https://www.motorsport.com/f1/news/oliver-bearman-explains-why-haas-2026-f1-car-is-hitting-its-ceiling/10868899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Christian Horner reveals details of Red Bull exit in emotional interview",
+      "body": "Ever since Red Bull unceremoniously dropped Christian Horner on 9 July 2025, the Formula 1 paddock has been buzzing with endless speculation about what actually triggered the guill...",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-drops-a-124-win-reality-check-on-the-execs-who-fired-him/10869043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Yet another DNF for Cadillac\u2019s Valtteri Bottas: \u2018Sometimes we don\u2019t quite understand it\u2019",
-      "body": "Valtteri Bottas described the Cadillac Formula 1 team as struggling to understand its issues, after he retired from Sunday\u2019s United States Grand Prix.Bottas suffered his ninth reti...",
-      "url": "https://www.motorsport.com/f1/news/yet-another-dnf-for-cadillacs-valtteri-bottas-sometimes-we-dont-quite-understand-it/10868669/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Five things to look out for at the F1 Mexico GP",
+      "body": "Formula 1 is back again this weekend with the highly popular Mexico Grand Prix, which comes just seven days after Kimi Antonelli romped to victory in Austin.That was the Mercedes d...",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-mexico-gp/10868922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-28T13:26:11Z",
+    "lastUpdatedUtc": "2026-10-28T19:02:26Z",
     "source": "jolpica"
   },
   "nextRace": {
