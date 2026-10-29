@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Antonelli to miss Mexico media day with illness",
+      "body": "Kimi Antonelli is to miss Thursday's Mexico City Grand Prix media day with an illness as he stands on the brink of clinching his first world title.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cke8rlrrzpqyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "Perez signs multi-year extension with Cadillac",
       "body": "Sergio Perez will remain with Cadillac until 2029 after signing a multi-year contract extension.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde852ww04ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Simpler, cheaper hybrid V8s proposed for next F1 rules",
@@ -17,15 +25,23 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
+      "number": "04",
       "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "How much of Antonelli's success is down to his ability? - F1 Q&A",
-      "body": "BBC F1 correspondent Andrew Benson answers your latest questions after the United States Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde8xjl3xpwo?at_medium=RSS&at_campaign=rss"
+      "kicker": "Autosport",
+      "headline": "Alonso doubles down on poor F1 driving standards \u2013 and says those targeted know who they are",
+      "body": "After Fernando Alonso was hit by Alexander Albon on the opening lap of the US Grand Prix in Austin \u2013 which, according to Aston Martin's chief trackside officer Mike Krack, cost him...",
+      "url": "https://www.autosport.com/f1/news/fernando-alonso-doubles-down-on-poor-f1-driving-standards-we-all-know-who-were-talking-about/10869405/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "04",
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Antonelli skips F1 Mexico GP media day due to illness",
+      "body": "Kimi Antonelli won\u2019t attend Formula 1\u2019s Mexico Grand Prix on Thursday due to feeling unwell, the Mercedes team has revealed.A spokesperson for the Anglo-German outfit told media th...",
+      "url": "https://www.autosport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Ricciardo would consider a comeback at Le Mans",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869337/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Cadillac 'honoured' to have Perez as special 300th race celebration planned for Mexico GP",
-      "body": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on sid...",
-      "url": "https://www.autosport.com/f1/news/cadillac-honoured-to-have-perez-as-special-300th-race-celebration-planned-for-mexico-gp/10869139/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 publishes first Social Impact Report; key student scholarship renewed",
-      "body": "Formula 1 has published its first sport-wide Social Impact Report, with over half a million young people across the world having benefited from F1 programmes last year.In initiativ...",
-      "url": "https://www.autosport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Why Daniel Ricciardo would consider a comeback at Le Mans",
-      "body": "Last month marked two years since Daniel Ricciardo\u2019s last motor race to this day, as the eight-time grand prix winner regretfully, discreetly bowed out of Formula 1 \u2013 but is his ca...",
-      "url": "https://www.motorsport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Charles Leclerc reveals what he really wants from final five F1 races of 2026",
+      "body": "Ferrari's Charles Leclerc says he is \u201cnot obsessed\u201d with finishing second in the Formula 1 drivers\u2019 championship, despite being just nine points off the position with five races to...",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-what-he-really-wants-from-final-five-f1-races-of-2026/10869431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "The 10 key moments that defined Sergio Perez's F1 career",
-      "body": "This weekend, Sergio Perez joins the exclusive club of drivers with at least 300 Formula 1 race starts, a milestone achieved by legends such as Michael Schumacher, Jenson Button, a...",
-      "url": "https://www.motorsport.com/f1/news/the-10-key-moments-that-defined-sergio-perezs-f1-career/10869046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "George Russell makes defiant Mercedes statement as Kimi Antonelli nears world title",
+      "body": "Mercedes Formula 1 driver George Russell has insisted that, despite an inconsistent 2026 season, he still has \u201ca good 12 to 15 years\u201d left in the championship. The Briton arrives i...",
+      "url": "https://www.motorsport.com/f1/news/george-russell-defiant-difficult-f1-season-is-not-going-to-break-me/10869421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-29T16:48:53Z",
+    "lastUpdatedUtc": "2026-10-29T21:42:07Z",
     "source": "jolpica"
   },
   "nextRace": {
