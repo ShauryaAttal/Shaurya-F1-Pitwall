@@ -4,12 +4,20 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
+      "headline": "Leclerc fastest in Mexico City Grand Prix first practice",
+      "body": "Ferrari's Charles Leclerc goes fastest in the first practice session of the Mexico City Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "number": "02",
+      "variant": "neutral",
+      "kicker": "BBC F1",
       "headline": "F1 has never had anyone like me - Hamilton",
       "body": "Lewis Hamilton says he is unlike any driver Formula 1 has seen before and reaffirms a determination to keep racing into his mid-forties.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "02",
+      "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
       "headline": "Antonelli to miss Mexico media day with illness",
@@ -17,52 +25,44 @@
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cke8rlrrzpqyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "number": "03",
-      "variant": "neutral",
-      "kicker": "BBC F1",
-      "headline": "Perez signs multi-year extension with Cadillac",
-      "body": "Sergio Perez will remain with Cadillac until 2029 after signing a multi-year contract extension.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde852ww04ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Why \u201cignorance is a superpower\u201d for Antonelli in F1",
-      "body": "Daniel Ricciardo believes Kimi Antonelli\u2019s age and innocence is what has made him so successful in the 2026 Formula 1 season.Nine victories so far in his sophomore F1 campaign have...",
-      "url": "https://www.autosport.com/f1/news/why-ignorance-is-a-superpower-for-antonelli-in-f1/10869685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "F1 Mexico GP: Leclerc beats Antonelli to top FP1",
+      "body": "Charles Leclerc was comfortably fastest in opening practice for the Formula 1 Mexico Grand Prix, beating runner-up Kimi Antonelli in a session 10 rookies took part in.The Ferrari d...",
+      "url": "https://www.autosport.com/f1/news/f1-mexico-gp-leclerc-beats-antonelli-to-top-fp1/10869791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "Why F1 teams and manufacturers face more unknowns in Mexico than ever",
-      "body": "At 2,286 metres above sea level, the Autodromo Hermanos Rodriguez is by far the highest-altitude venue on the Formula 1 calendar. This naturally means thinner air, which presents a...",
-      "url": "https://www.autosport.com/f1/news/why-f1-teams-and-manufacturers-face-more-unknowns-in-mexico-than-ever/10869626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Hamilton on why he is \u201cbuilt differently\u201d to stay in F1 for the \u201cforeseeable future\u201d",
+      "body": "Lewis Hamilton intends to continue racing in Formula 1 \u201cfor the foreseeable future\u201d if he can remain competitive, having been asked if he can realistically expect to race in the ne...",
+      "url": "https://www.autosport.com/f1/news/hamilton-on-why-he-is-built-differently-to-stay-in-f1-for-the-foreseeable-future/10869741/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
-      "headline": "F1 stalwart Zehnder set for Audi exit",
-      "body": "Audi has announced that former team manager Beat Zehnder is leaving the organisation at the end of the 2026 Formula 1 season after a 34-year stint at Hinwil.Zehnder was hired by fo...",
-      "url": "https://www.autosport.com/f1/news/f1-stalwart-zehnder-set-for-audi-exit/10869600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+      "headline": "Why \u201cignorance is a superpower\u201d for Antonelli in F1",
+      "body": "Daniel Ricciardo believes Kimi Antonelli\u2019s age and innocence are what have made him so successful in the 2026 Formula 1 season.Nine victories so far in his sophomore F1 campaign ha...",
+      "url": "https://www.autosport.com/f1/news/why-ignorance-is-a-superpower-for-antonelli-in-f1/10869685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Sergio Perez praises Colton Herta impact - but has no say over 2027 Cadillac F1 team-mate choice",
-      "body": "Sergio Perez has insisted he will have no say on his Cadillac Formula 1 team-mate for 2027 after signing a new contract ahead of the Mexican Grand Prix.The Mexican's spot on the gr...",
-      "url": "https://www.motorsport.com/f1/news/sergio-perez-praises-colton-herta-impact-but-has-no-say-over-2027-cadillac-team-mate-choice/10869487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 Mexico GP: Charles Leclerc beats Kimi Antonelli to top FP1",
+      "body": "Charles Leclerc was comfortably fastest in opening practice for the Formula 1 Mexico Grand Prix, beating runner-up Kimi Antonelli in a session 10 rookies took part in.The Ferrari d...",
+      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp1-report-10869780/10869780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Why \u201cignorance is a superpower\u201d for Kimi Antonelli, according to Daniel Ricciardo",
-      "body": "Daniel Ricciardo believes Kimi Antonelli\u2019s age and innocence is what has made him so successful in the 2026 Formula 1 season.Nine victories so far in his sophomore F1 campaign have...",
-      "url": "https://www.motorsport.com/f1/news/why-ignorance-is-a-superpower-for-kimi-antonelli-according-to-daniel-ricciardo/10869339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "What Fernando Alonso is getting wrong about F1 driving standards",
+      "body": "When Fernando Alonso declared \"the quality of the drivers in the lower third of the grid is very low\" in the aftermath of last weekend's United States Grand Prix in Austin, he inad...",
+      "url": "https://www.motorsport.com/f1/news/what-alonso-is-getting-wrong-about-f1-driving-standards/10869771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-30T15:14:36Z",
+    "lastUpdatedUtc": "2026-10-30T20:02:43Z",
     "source": "jolpica"
   },
   "nextRace": {
