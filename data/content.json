@@ -4,8 +4,8 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Leclerc sets pace in Friday practice at Mexico City Grand Prix",
-      "body": "Ferrari's Charles Leclerc goes fastest in Friday practice at the Mexico City Grand Prix.",
+      "headline": "Verstappen and Lawson given grid penalties for Mexico practice collision",
+      "body": "Max Verstappen accuses Liam Lawson of \"not very smart behaviour\" after the two collided in Friday practice at the Mexico City Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Stewards penalize Verstappen, Lawson after \u201cunacceptable\u201d F1 Mexico GP practice clash",
+      "body": "One of the most remarkable moments of Friday's Formula 1 practice sessions took place in the Foro Sol, otherwise known as the stadium section of the Autodromo Hermanos Rodriguez. M...",
+      "url": "https://www.autosport.com/f1/news/max-verstappen-and-liam-lawson-handed-f1-mexico-gp-grid-penalties-after-practice-clash/10869942/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "The confusion surrounding Colton Herta's F1 superlicence explained",
       "body": "After completing more than 100 kilometres during the first free practice session at the Mexico Grand Prix, Colton Herta appeared to have 40 superlicence points to his name, which w...",
       "url": "https://www.autosport.com/f1/news/the-confusion-surrounding-colton-hertas-f1-superlicence-explained/10869858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "F1 Mexico GP: Leclerc pips McLaren and Mercedes to top FP2",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/f1-mexico-gp-leclerc-pips-mclaren-and-mercedes-to-top-fp2/10869852/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Mexico GP: Leclerc beats Antonelli to top FP1",
-      "body": "Charles Leclerc was comfortably fastest in opening practice for the Formula 1 Mexico Grand Prix, beating runner-up Kimi Antonelli in a session 10 rookies took part in.The Ferrari d...",
-      "url": "https://www.autosport.com/f1/news/f1-mexico-gp-leclerc-beats-antonelli-to-top-fp1/10869791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen sends blunt warning to Liam Lawson after Mexican GP FP2 clash",
-      "body": "Four-time Formula 1 champion Max Verstappen has criticised Racing Bulls driver Liam Lawson after the pair came together in second practice for the Mexican Grand Prix, warning that ...",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-sends-blunt-warning-to-liam-lawson-after-mexican-gp-fp2-clash/10869877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Max Verstappen, Liam Lawson handed F1 Mexico GP grid penalties after practice clash",
+      "body": "One of the most remarkable moments of Friday's Formula 1 practice sessions took place in the Foro Sol, otherwise known as the stadium section of the Autodromo Hermanos Rodriguez. M...",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-and-liam-lawson-both-handed-grid-penalties-after-clash-in-mexico-f1-practice/10869933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Max Verstappen slams Liam Lawson for FP2 clash at F1 Mexico GP",
-      "body": "Max Verstappen has criticised Liam Lawson following their clash in second practice for the Mexico Grand Prix, claiming it wasn\u2019t \u201cvery smart\u201d given the New Zealander is fighting fo...",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-slams-liam-lawson-for-f1-mexico-gp-fp2-clash/10869875/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Mexican GP includes Lewis Hamilton's beloved Roscoe in touching tribute to F1 legends",
+      "body": "The Mexican Grand Prix organisers have set up a Day of the Dead display in the paddock in memory of late Formula 1 figures, and they have even included Lewis Hamilton's bulldog, Ro...",
+      "url": "https://www.motorsport.com/f1/news/mexican-gp-includes-lewis-hamiltons-beloved-roscoe-in-touching-tribute-to-f1-legends/10869899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-10-30T23:58:57Z",
+    "lastUpdatedUtc": "2026-10-31T05:24:15Z",
     "source": "jolpica"
   },
   "nextRace": {
