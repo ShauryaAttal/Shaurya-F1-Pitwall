@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "The changes Hamilton thinks are behind his Mexico GP pole",
+      "body": "Lewis Hamilton has credited his maiden Formula 1 pole position for Ferrari to the changes he made in approaching the current Mexico Grand Prix weekend.The seven-time world champion...",
+      "url": "https://www.autosport.com/f1/news/the-changes-hamilton-thinks-are-behind-his-mexico-gp-pole/10870570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Lawson disqualified from F1 qualifying in Mexico \u2013 here's why",
       "body": "Liam Lawson has lost his ninth-place starting position for the Formula 1 Mexico City Grand Prix.Racing Bulls impressed at the Autodromo Hermanos Rodriguez on Saturday and managed t...",
       "url": "https://www.autosport.com/f1/news/lawson-disqualified-from-f1-qualifying-in-mexico-heres-why/10870411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Verstappen clears the air with Lawson, but keeps opinion on Racing Bulls F1 seat to himself",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/verstappen-clears-the-air-with-lawson-but-keeps-opinion-on-racing-bulls-f1-seat-to-himself/10870388/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Antonelli admits to driving \"tense\" and \"tired\" on cusp of F1 title",
-      "body": "Kimi Antonelli is hoping to overcome an off-colour Mexico City Grand Prix qualifying session with a good night's rest, but admits Formula 1 title nerves have led to him driving wit...",
-      "url": "https://www.autosport.com/f1/news/ill-bombard-myself-with-melatonin-kimi-antonelli-admits-to-driving-tense-and-tired-on-cusp-of-f1-ti/10870380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Liam Lawson disqualified from F1 qualifying in Mexico \u2013 here's why",
-      "body": "Liam Lawson has lost his ninth-place starting position for the Formula 1 Mexico City Grand Prix.Racing Bulls impressed at the Autodromo Hermanos Rodriguez on Saturday and managed t...",
-      "url": "https://www.motorsport.com/f1/news/liam-lawson-disqualified-after-f1-qualifying-in-mexico-heres-why/10870409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "F1 2026 qualifying head-to-head: Mexico GP",
+      "body": "After every Formula 1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles.This record is based exclusively on qualifying result...",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-mexico-gp/10870529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Ferrari reveals luxury $4,300 fountain pen inspired by its bespoke supercars",
-      "body": "You do not need to buy a Ferrari to spend serious money on the Prancing Horse. Montblanc\u2019s latest collaboration with Maranello has come in the shape of a fountain pen, and it costs...",
-      "url": "https://www.motorsport.com/f1/news/ferrari-reveals-luxury-4300-fountain-pen-inspired-by-its-bespoke-supercars/10870386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Red Bull drivers fear Mexico start, Max Verstappen jokes: \u201cA Le Mans start would be just as quick\u201d",
+      "body": "Although Max Verstappen said he had the pace to take pole position in Mexico City, his final run was ruined by a lock-up at Turn 13 \u2013 according to the Red Bull driver, mainly cause...",
+      "url": "https://www.motorsport.com/f1/news/red-bull-drivers-fear-mexico-start-max-verstappen-jokes-a-le-mans-start-would-be-just-as-quick/10870533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-11-01T05:38:31Z",
+    "lastUpdatedUtc": "2026-11-01T13:03:24Z",
     "source": "jolpica"
   },
   "nextRace": {
