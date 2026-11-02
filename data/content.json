@@ -4,9 +4,9 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Antonelli becomes world champion as Verstappen wins in Mexico",
-      "body": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss"
+      "headline": "How Antonelli 'blew everyone away' to make Formula 1 history",
+      "body": "Kimi Antonelli seems destined for Formula 1 greatness after winning his first world title, writes Andrew Benson.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "02",
@@ -20,12 +20,28 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Antonelli - the boy 'born in a garage' who became world champion",
-      "body": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss"
+      "headline": "Antonelli clinched the title - but who shone most in Mexico? Driver ratings",
+      "body": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Mexico City Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c95ynznzkm10o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash",
+      "body": "Oscar Piastri\u2019s tough Mexico Grand Prix weekend has ended in point-less fashion, after the McLaren Formula 1 driver copped a penalty for his collision with Arvid Lindblad.Piastri\u2019s...",
+      "url": "https://www.autosport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870864/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP",
+      "body": "Pierre Gasly and Franco Colapinto have both been given post-race penalties which have dropped them out of the points and resulted in Haas debutant Ryo Hirakawa scoring on his Formu...",
+      "url": "https://www.autosport.com/f1/news/gasly-and-colapinto-penalised-post-race-hirakawa-scores-on-f1-debut-at-mexico-gp/10870863/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Leclerc didn\u2019t give up Mexico GP lead after cutting Turn 5",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-leclerc-didnt-give-up-mexico-gp-lead-after-cutting-turn-5/10870807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Hamilton demands \u201cserious talks\u201d at Ferrari after Leclerc clash in Mexico GP \u201clost us the win\u201d",
-      "body": "Lewis Hamilton has called for \u201cserious talks\u201d at Ferrari following his clash with team-mate Charles Leclerc in Formula 1\u2019s Mexico Grand Prix.Polesitter Hamilton was challenged by L...",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-demands-serious-talks-at-ferrari-after-charles-leclerc-clash-that-lost-us-the-win-to/10870772/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Mexico GP: Antonelli becomes youngest world champion as Verstappen holds off Hamilton for victory",
-      "body": "Kimi Antonelli has written history by becoming Formula 1's youngest-ever world champion at the Mexico Grand Prix, as Red Bull's Max Verstappen beat Ferrari's Lewis Hamilton to win ...",
-      "url": "https://www.autosport.com/f1/news/f1-mexico-gp-kimi-antonelli-clinches-world-title-as-max-verstappen-holds-off-lewis-hamilton-for-vic/10870724/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Fred Vasseur reacts to Lewis Hamilton, Charles Leclerc clash: \u201cIt\u2019s a matter of respect\u201d",
-      "body": "\u201cWhen you are 1-2 at Turn 4, you don't imagine that you won't win the race.\u201dThis statement says a lot about Ferrari team principal Fred Vasseur\u2019s disappointment following Formula 1...",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-reacts-to-lewis-hamilton-charles-leclerc-clash-its-a-matter-of-respect/10870842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Kimi Antonelli wants special photo with Lewis Hamilton and Max Verstappen on his wall after F1 title",
+      "body": "The 2026 Mexico City Grand Prix is one for the history books: Kimi Antonelli has been crowned the youngest world champion of all time, and partly because of the superlicence rules,...",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-special-photo-with-lewis-hamilton-and-max-verstappen-on-his-wall-after-f1-title/10870868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "How F1 drivers reacted to Kimi Antonelli's world title: \"He's made everyone else look silly\"",
-      "body": "Kimi Antonelli's rivals have paid tribute to the Mercedes driver after he clinched the Formula 1 world championship at the Mexico City Grand Prix.The Italian finished third behind ...",
-      "url": "https://www.motorsport.com/f1/news/how-f1-drivers-reacted-to-kimi-antonellis-world-title-hes-made-everyone-else-look-silly/10870828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Who slept worst last night: Frederic Vasseur",
+      "body": "There was at least one moment during Frederic Vasseur's post-Mexican Grand Prix media briefing when the Ferrari team principal burst into laughter.Motorsport Network journalist Ron...",
+      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-frederic-vasseur-10870909/10870909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-11-02T01:43:53Z",
+    "lastUpdatedUtc": "2026-11-02T09:13:28Z",
     "source": "jolpica"
   },
   "nextRace": {
