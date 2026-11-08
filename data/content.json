@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Can Hamilton and Verstappen fight back for F1 Brazilian GP victory?",
+      "body": "With Lewis Hamilton and Max Verstappen 20th and 21st on the grid of the Brazilian Grand Prix, Sunday\u2019s Formula 1 race promises to be fascinating \u2013 regardless of weather conditions....",
+      "url": "https://www.autosport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "The wet-weather challenges thrown up by Brazilian GP qualifying",
       "body": "One hour, 23 minutes. You could've squeezed most of a football match into the rain delay during Formula 1 qualifying for the Sao Paulo Grand Prix, and it looked for all the world l...",
       "url": "https://www.autosport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872894/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Why Russell was so angry in Brazilian GP qualifying despite already having a grid penalty",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/why-russell-was-so-angry-in-brazilian-gp-qualifying-despite-already-having-a-grid-penalty/10872788/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Hamilton insists Ferrari tensions with Leclerc are over: \"We've squashed it\"",
-      "body": "Lewis Hamilton has revealed he and Charles Leclerc have cleared the air in Sao Paulo following their clash at the Formula 1 Mexico Grand Prix and the tensions have been \u201csquashed\u201d....",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-insists-ferrari-tensions-with-charles-leclerc-are-over-weve-squashed-it/10872775/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "McLaren\u2019s 2027-spec front wing is making its F1 car more predictable",
-      "body": "McLaren team principal Andrea Stella says the 2027-spec front wing concept introduced on the MCL40 at Formula 1\u2019s Brazilian Grand Prix has improved the car\u2019s driveability and predi...",
-      "url": "https://www.motorsport.com/f1/news/mclarens-2027-spec-front-wing-is-making-its-f1-car-more-predictable/10872891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Charles Leclerc turns heads with $125,000 watch at F1 Brazilian GP",
+      "body": "Ferrari Formula 1 driver Charles Leclerc arrived at Interlagos ahead of the Brazilian Grand Prix wearing a six-figure watch on his wrist.According to watch-spotting account Watches...",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-turns-heads-with-125000-watch-at-f1-brazilian-gp/10873032/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "The wet-weather challenges thrown up by Brazilian GP qualifying",
-      "body": "One hour, 23 minutes. You could've squeezed most of a football match into the rain delay during Formula 1 qualifying for the Sao Paulo Grand Prix, and it looked for all the world l...",
-      "url": "https://www.motorsport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872818/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Toto Wolff wants the FIA to lift the salary cap on junior staff: \u201cWe need to pay them better\u201d",
+      "body": "The Formula 1 cost cap did exactly what it was supposed to do: it brought the grid closer together and stopped the massive factory teams from simply outspending their problems. But...",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-wants-the-fia-to-lift-the-salary-cap-on-junior-staff-we-need-to-pay-them-better/10872625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-11-08T13:07:49Z",
+    "lastUpdatedUtc": "2026-11-08T18:26:47Z",
     "source": "jolpica"
   },
   "nextRace": {
