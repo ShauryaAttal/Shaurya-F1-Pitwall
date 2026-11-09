@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Piastri and Webber terminate management agreement",
+      "body": "Oscar Piastri and Mark Webber have mutually agreed to terminate their management agreement, the pair have announced.Webber and his wife Ann \u2013 who ran Mark\u2019s career herself back in ...",
+      "url": "https://www.autosport.com/f1/news/oscar-piastri-splits-from-mark-webber-management/10873258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
       "body": "Charles Leclerc was handed a five-second penalty after the Formula 1 Brazilian Grand Prix for his clash with Liam Lawson, dropping the Ferrari driver down to eighth place in the fi...",
       "url": "https://www.autosport.com/f1/news/leclerc-penalised-for-lawson-clash-antonelli-and-oliver-bearman-also-punished-after-f1-brazilian-gp/10873166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/antonelli-explains-weird-spin-and-car-instability-which-cost-f1-brazilian-gp-win/10873132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinch constructors\u2019 title",
-      "body": "Lando Norris has snared his third win of 2026 in a mixed weather Formula 1 Brazilian Grand Prix, defeating a resurgent Max Verstappen while Mercedes claimed the world constructors'...",
-      "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-wins-in-mixed-conditions-mercedes-clinches-constructors-title/10873048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Red Bull boss hails Max Verstappen's Brazil podium: \"He's beating the sim on a regular basis\"",
-      "body": "Red Bull team principal Laurent Mekies said no simulation could have predicted Max Verstappen's charge from 21st to second in the Brazilian Grand Prix at Interlagos.The Dutchman st...",
-      "url": "https://www.motorsport.com/f1/news/red-bull-boss-hails-max-verstappens-brazil-podium-hes-beating-the-sim-on-a-regular-basis/10873193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Oscar Piastri splits from Mark Webber management",
+      "body": "Oscar Piastri and Mark Webber have mutually agreed to terminate their management agreement, the pair have announced.Webber and his wife Ann \u2013 who ran Mark\u2019s career herself back in ...",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-wont-have-mark-webber-as-his-manager-anymore/10873253/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Winners and losers from F1's chaotic Brazilian Grand Prix",
-      "body": "Are you not entertained? While Lando Norris took a well-deserved third win of the campaign, Mercedes collectively slipped up and Max Verstappen produced yet another Brazilian Grand...",
-      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotic-brazilian-grand-prix/10873189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Red Bull boss hails Max Verstappen's Brazil podium: \"He's beating the sim on a regular basis\"",
+      "body": "Red Bull team principal Laurent Mekies said no simulation could have predicted Max Verstappen's charge from 21st to second in the Brazilian Grand Prix at Interlagos.The Dutchman st...",
+      "url": "https://www.motorsport.com/f1/news/red-bull-boss-hails-max-verstappens-brazil-podium-hes-beating-the-sim-on-a-regular-basis/10873193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-11-09T01:52:46Z",
+    "lastUpdatedUtc": "2026-11-09T09:32:51Z",
     "source": "jolpica"
   },
   "nextRace": {
