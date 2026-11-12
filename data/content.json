@@ -20,12 +20,28 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Formula 1 to finish season in Middle East",
-      "body": "The 2026 Formula 1 season will conclude with the Qatar and Abu Dhabi grands prix as planned, with Italy's Imola circuit stood down as back-up for the races.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c53989e97lxwo?at_medium=RSS&at_campaign=rss"
+      "headline": "Freddie Slater's 'surreal' first taste of Formula 1",
+      "body": "The rising star tells the BBC about his experience taking part in F1 practice in Mexico.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z0k771043xo?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Tsolov lands reserve driver role for F1 2027",
+      "body": "Nikola Tsolov has been named as reserve driver for both Red Bull and Racing Bulls for the 2027 Formula 1 season having missed out on a full-time drive.The 19-year-old Bulgarian had...",
+      "url": "https://www.autosport.com/f1/news/tsolov-lands-reserve-driver-role-for-f1-2027/10874151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "Russell partners with BRDC to launch karting academy",
+      "body": "Formula 1 star George Russell has launched a karting academy in partnership with Silverstone to make motorsport more accessible and discover the next young superstar. The eight-tim...",
+      "url": "https://www.autosport.com/f1/news/russell-and-brdc-launch-karting-academy/10874110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing",
@@ -33,36 +49,20 @@
       "url": "https://www.autosport.com/f1/news/lawson-to-stay-in-f1-as-racing-bulls-announces-2027-driver-pairing/10874063/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "What the Brazilian GP revealed about F1's ability to cope with rain",
-      "body": "The question of what might happen in a wet race has vexed Formula 1's stakeholders since before the beginning of the season. It's also prompted some unnecessarily hysterical commen...",
-      "url": "https://www.autosport.com/f1/news/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rain/10873789/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "F1 2026 calendar update: Imola off the table, no plan B if Iran war escalates",
-      "body": "The Qatar and Abu Dhabi grands prix which will conclude Formula 1\u2019s 2026 season are set to proceed as planned, provided there is no dramatic escalation of the Iran war.The Middle E...",
-      "url": "https://www.autosport.com/f1/news/f1-2026-calendar-update-imola-off-the-table-no-plan-b-if-iran-war-escalates/10873643/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "George Russell launches karting academy",
-      "body": "Formula 1 star George Russell has launched a karting academy in partnership with Silverstone to make motorsport more accessible and discover the next young superstar. The eight-tim...",
-      "url": "https://www.motorsport.com/f1/news/george-russell-launches-karting-academy/10874105/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Guether Steiner warns Oscar Piastri's McLaren future could be at risk after 2027",
+      "body": "Former Haas Formula 1 team principal Guenther Steiner has warned that Oscar Piastri could find his McLaren future under threat if he has another season like 2026.Piastri, who fough...",
+      "url": "https://www.motorsport.com/f1/news/guether-steiner-warns-oscar-piastris-mclaren-future-could-be-at-risk-after-2027/10874189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Ayrton Senna's 1994 Williams F1 car heads to auction with $6million estimate",
-      "body": "A Williams FW16 driven by three-time Formula 1 champion Ayrton Senna in his final season in the series is going under the hammer in New York.RM Sotheby's is offering chassis FW16B-...",
-      "url": "https://www.motorsport.com/f1/news/ayrton-sennas-1994-williams-f1-car-heads-to-auction-with-6million-estimate/10874089/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Toto Wolff reflects on Mercedes\u2019 non-title years: \u2018We weren\u2019t complete losers\u2019",
+      "body": "Mercedes team principal Toto Wolff says the squad wasn\u2019t \u201ccomplete losers\u201d in its four years without a Formula 1 world title.The Silver Arrows claimed their ninth constructors\u2019 cha...",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-reflects-on-mercedes-non-title-years-we-werent-complete-losers/10873281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-11-12T12:26:48Z",
+    "lastUpdatedUtc": "2026-11-12T20:20:32Z",
     "source": "jolpica"
   },
   "nextRace": {
