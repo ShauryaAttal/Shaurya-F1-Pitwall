@@ -20,12 +20,20 @@
       "number": "03",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "F1: Chequered Flag",
-      "body": "We look back on Kimi Antonelli\u2019s incredible rise to become F1\u2019s youngest ever champion.",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pmlb1r?at_medium=RSS&at_campaign=rss"
+      "headline": "Andrew Benson Q&A: Send us your questions",
+      "body": "Our F1 correspondent Andrew Benson is doing a weekly Q&A this season, so get your questions in now.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "number": "04",
+      "variant": "neutral",
+      "kicker": "Autosport",
+      "headline": "The Antonelli you don't know: Inside the Mercedes garage with F1's new world champion",
+      "body": "Mercedes mechanics have learned to watch their backs. Not because of the dangers of a pitstop, but because of Kimi Antonelli. Formula 1's newly crowned world champion has a rather ...",
+      "url": "https://www.autosport.com/f1/news/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion/10874265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Tsolov lands reserve driver role for F1 2027",
@@ -33,7 +41,7 @@
       "url": "https://www.autosport.com/f1/news/tsolov-lands-reserve-driver-role-for-f1-2027/10874151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Russell partners with BRDC to launch karting academy",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/russell-and-brdc-launch-karting-academy/10874110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing",
-      "body": "Racing Bulls has confirmed Liam Lawson will stay with the team for the 2027 Formula 1 campaign, partnering Arvid Lindblad for a second, straight season.They have formed a formidabl...",
-      "url": "https://www.autosport.com/f1/news/lawson-to-stay-in-f1-as-racing-bulls-announces-2027-driver-pairing/10874063/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Guenther Steiner suggests Max Verstappen could be better suited to lead Ferrari",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner has questioned whether Lewis Hamilton is the driver to turn Ferrari's fortunes around, suggesting Max Verstappen might be bett...",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-max-verstappen-could-be-better-suited-to-lead-ferrari/10874192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Damon Hill: Ferrari has a \u201cpolitical problem\u201d as Lewis Hamilton \u201crebuilt himself\u201d",
+      "body": "Ferrari team principal Fred Vasseur recently insisted that Lewis Hamilton and Charles Leclerc \"left my room joking together\" following a private meeting in Brazil to clear the air....",
+      "url": "https://www.motorsport.com/f1/news/damon-hill-ferrari-has-a-political-problem-as-lewis-hamilton-rebuilt-himself-after-abu-dhabi-202/10874278/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Guether Steiner warns Oscar Piastri's McLaren future could be at risk after 2027",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner has warned that Oscar Piastri could find his McLaren future under threat if he has another season like 2026.Piastri, who fough...",
-      "url": "https://www.motorsport.com/f1/news/guether-steiner-warns-oscar-piastris-mclaren-future-could-be-at-risk-after-2027/10874189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Las Vegas GP reveals neon sign-inspired trophy design",
+      "body": "The Las Vegas Grand Prix has unveiled a new trophy design for next weekend\u2019s Formula 1 round, inspired by the city and its neon lights.The 3.6kg, 56cm-tall winners\u2019 trophy took six...",
+      "url": "https://www.motorsport.com/f1/news/las-vegas-gp-reveals-neon-sign-inspired-trophy-design/10874361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-11-13T08:39:22Z",
+    "lastUpdatedUtc": "2026-11-13T17:04:58Z",
     "source": "jolpica"
   },
   "nextRace": {
