@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas",
+      "body": "McLaren will introduce upgrades to its MCL40 at Formula 1\u2019s Las Vegas Grand Prix, with the new parts labelled as \u201cthe foundation for next year\u2019s car\u201d.The team launched its 2027 fro...",
+      "url": "https://www.autosport.com/f1/news/mclaren-to-upgrade-mcl40-f1-car-at-its-bogey-track-las-vegas/10874450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "The surprising convergence behind F1's increasingly competitive 2026 season",
       "body": "As George Russell took pole for F1 2026's curtain raiser in Australia by a whopping eight tenths over Mercedes's nearest rivals, you could see the collective heads drop in the padd...",
       "url": "https://www.autosport.com/f1/news/the-surprising-convergence-behind-f1s-increasingly-competitive-2026-season/10874375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "The Antonelli you don't know: Inside the Mercedes garage with F1's new world champion",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion/10874265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Tsolov lands reserve driver role for F1 2027",
-      "body": "Nikola Tsolov has been named as reserve driver for both Red Bull and Racing Bulls for the 2027 Formula 1 season having missed out on a full-time drive.The 19-year-old Bulgarian had...",
-      "url": "https://www.autosport.com/f1/news/tsolov-lands-reserve-driver-role-for-f1-2027/10874151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "James Allison reveals the \"very adventurous\" trick behind Kimi Antonelli's F1 title",
-      "body": "Mercedes technical director James Allison has explained how Kimi Antonelli's bold use of the tools on his steering wheel helped him become Formula 1's youngest world champion.The I...",
-      "url": "https://www.motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "McLaren to upgrade MCL40 car at its bogey F1 track Las Vegas",
+      "body": "McLaren will introduce upgrades to its MCL40 at Formula 1\u2019s Las Vegas Grand Prix, with the new parts labelled as \u201cthe foundation for next year\u2019s car\u201d.The team launched its 2027 fro...",
+      "url": "https://www.motorsport.com/f1/news/mclaren-to-upgrade-mcl40-car-at-its-bogey-f1-track-las-vegas/10874307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Guenther Steiner suggests Mark Webber became too involved in Oscar Piastri\u2019s career",
-      "body": "Former Haas Formula 1 team principal Guenther Steiner believes Mark Webber may have become too involved in Oscar Piastri\u2019s career in the second half of 2025, before the McLaren dri...",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-mark-webber-became-too-involved-in-oscar-piastris-career/10874383/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "James Allison reveals the \"very adventurous\" trick behind Kimi Antonelli's F1 title",
+      "body": "Mercedes technical director James Allison has explained how Kimi Antonelli's bold use of the tools on his steering wheel helped him become Formula 1's youngest world champion.The I...",
+      "url": "https://www.motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-11-14T02:59:06Z",
+    "lastUpdatedUtc": "2026-11-14T10:08:56Z",
     "source": "jolpica"
   },
   "nextRace": {
