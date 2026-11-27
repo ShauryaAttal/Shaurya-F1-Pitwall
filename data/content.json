@@ -4,7 +4,7 @@
       "number": "01",
       "variant": "neutral",
       "kicker": "BBC F1",
-      "headline": "Russell says Verstappen's criticism 'quite amusing'",
+      "headline": "Russell finds Verstappen's criticism 'quite amusing'",
       "body": "George Russell says Max Verstappen can \"say what he wants\" and that he found the Red Bull driver's criticisms of him after the Las Vegas Grand Prix \"quite amusing\".",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss"
     },
@@ -28,12 +28,20 @@
       "number": "04",
       "variant": "neutral",
       "kicker": "Autosport",
+      "headline": "Verstappen to work with new race engineer Tom Hart again at Qatar GP",
+      "body": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for ...",
+      "url": "https://www.autosport.com/f1/news/verstappen-to-work-with-new-race-engineer-tom-hart-again-at-qatar-gp/10878044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
+    },
+    {
+      "number": "05",
+      "variant": "neutral",
+      "kicker": "Autosport",
       "headline": "Hamilton convinced Ferrari will \"figure it out\" following Leclerc skirmish",
       "body": "Ferrari driver Lewis Hamilton says he is confident that he and team-mate Charles Leclerc will \"figure it out\" following their latest on-track skirmish at last week's Las Vegas Gran...",
       "url": "https://www.autosport.com/f1/news/hamilton-convinced-ferrari-will-figure-it-out/10877979/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "05",
+      "number": "06",
       "variant": "neutral",
       "kicker": "Autosport",
       "headline": "Leclerc furious with integrity being questioned after Hamilton clashes",
@@ -41,28 +49,20 @@
       "url": "https://www.autosport.com/f1/news/leclerc-furious-with-integrity-being-questioned-after-hamilton-clashes/10877960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
     },
     {
-      "number": "06",
-      "variant": "neutral",
-      "kicker": "Autosport",
-      "headline": "Russell stands by Verstappen comments at Las Vegas GP - despite \"amusing\" reaction",
-      "body": "Two years after their last major spat around this time of the year, George Russell and Max Verstappen clashed again last week in Las Vegas after an impeding incident in free practi...",
-      "url": "https://www.autosport.com/f1/news/russell-defends-las-vegas-f1-comments/10877940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk"
-    },
-    {
       "number": "07",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Lewis Hamilton confirms \"positive\" talks with Charles Leclerc after Las Vegas clash",
-      "body": "Seven-time Formula 1 champion Lewis Hamilton says Ferrari's talks since the Las Vegas Grand Prix have been \"positive\", and believes he and his team-mate Charles Leclerc can move fo...",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-confirms-positive-talks-with-charles-leclerc-after-las-vegas-clash/10878021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Mercedes boss Toto Wolff reveals why rival F1 teams never try to hire him",
+      "body": "Toto Wolff has just added to his legendary resume by securing Mercedes' return to the top of Formula 1 in 2026, officially tying former McLaren boss Ron Dennis with a record 17 wor...",
+      "url": "https://www.motorsport.com/f1/news/mercedes-boss-toto-wolff-reveals-why-rival-f1-teams-never-try-to-hire-him/10874986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     },
     {
       "number": "08",
       "variant": "neutral",
       "kicker": "Motorsport.com",
-      "headline": "Christian Horner and Geri Halliwell reportedly snap up \"Pride and Prejudice\" mansion",
-      "body": "Former Red Bull Racing team principal and CEO Christian Horner and his wife, Spice Girl Geri Halliwell, are understood to have bought Edgcote House, the historic Northamptonshire e...",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-and-geri-halliwell-reportedly-snap-up-pride-and-prejudice-mansion/10878015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
+      "headline": "Toto Wolff responds to Kimi Antonelli salary questions after F1 title success",
+      "body": "When a Formula 1 team elevates a teenager from Formula 2 directly into a top-tier factory seat, the initial contract is rarely structured like a blockbuster superstar deal. But whe...",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-says-the-world-champion-should-be-rewarded-after-bild-puts-antonellis-pay-at-about-46-mi/10874830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www"
     }
   ],
   "stats": [
@@ -123,7 +123,7 @@
     }
   ],
   "meta": {
-    "lastUpdatedUtc": "2026-11-26T18:55:18Z",
+    "lastUpdatedUtc": "2026-11-27T02:05:40Z",
     "source": "jolpica"
   },
   "nextRace": {
